@@ -1,0 +1,14 @@
+<nav class="sidenav sn-contents" label="Page Structure" id="contents">
+<div class="sidenav--head"><div class="sidenav--head-icon"><svg aria-hidden="true" class="icon-book sidenav--head-icon--inner"><use xlink:href="{{ "/assets/images/icons.svg#icon-book" | prepend: site.baseurl }}"></use></svg></div><div class="sidenav--head-title"><div class="sidenav--head-section">Plan &amp; Manage</div><div class="sidenav--head-subsection">Business Case</div>
+  </div>
+</div>
+
+<ul class="sidenav--list">
+  {% assign my_pages = site.pages | sort: 'order' %}
+  {% for my_page in my_pages %}
+    {% if my_page.title %}
+    <li><a class="page-link" {% if my_page.url == page.url %} aria-current="page" {% endif %} href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+</nav>
