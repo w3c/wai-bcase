@@ -1,0 +1,3 @@
+[submodule "external/wai-website-components"]
+	path = external/wai-website-components
+	url = https://github.com/w3c/wai-website-components.git
