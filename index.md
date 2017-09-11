@@ -1,95 +1,59 @@
 ---
 layout: default
-resource: "Developing a Web Accessibility Business Case for Your Organization"
-title: "Overview"
+resource: "Accessibility Business Case"
+title: "Accessibility is Good Business"
 order: 1
 ---
 
-## Page Contents
+## Making the Business Case
 
--   [Introduction](#intro)
--   [Factors in a Business Case for Web Accessibility](#factors)
--   [Permission to Use](#permission)
--   [Developing a Customized Business Case](#custom)
--   [Additional Resources](#related)
+For decades, accessibility advocates have promoted the idea of a “Business Case” for accessibility. This article defines terms, summarizes evidence, helps readers apply general perspectives to specific situations, and points to more in-depth research. Results validate the fact that accessibility is simply good business. 
 
-This page is the first of five web pages covering the
-[**social**](social-factors.html), [**technical**](technical-factors.html),
-[**financial**](financial-factors.html), and [**legal and policy**](legal-policy-factors.html) factors
-in the business case for Web accessibility. Each page presents different
-aspects of Web accessibility along with guidance on developing a
-customized business case.
+Business Case is a term used to communicate the idea that there are sound business reasons for web accessibility beyond the humanitarian and compassionate cause of providing equal access to all people, regardless of abilities. The term is meant to persuade not only for-profit businesses but also government entities, non-profit organizations, schools and universities, and organizations of all types that there are solid business reasons to build and maintain web sites and applications that meet the needs of people with disabilities.  
 
-## Introduction
-{:#intro}
+While accessibility focuses on people with disabilities, numerous studies indicate that accessible design also improves the user experience for older users, mobile users, new users, people with low literacy, and several other groups. Broad benefits can therefore accrue for organizations that become adept at attracting and retaining larger market share by meeting a broad range of user needs.  
 
-The Web is increasingly an essential resource for many aspects of life:
-education, employment, government, commerce, health care, recreation,
-social interaction, and more. The Web is used not only for receiving
-information, but also for providing information and interacting with
-society. Therefore, it is **essential that the Web be accessible in
-order to provide equal access and equal opportunity to people with
-disabilities**. Indeed, the [UN Convention on the Rights of Persons with
-Disabilities](http://www.un.org/disabilities/default.asp?navid=12&pid=150)
-(2006) recognizes Web accessibility as a basic human right.
+## Benefits of Web Accessibility
+{:#benefits}
 
-While accessibility focuses on people with disabilities, it also
-benefits older users, mobile device users, and other individuals, as
-well as organizations. Older users with age-related accessibility needs
-are an increasingly important customer base for most organizations, as
-the percentage of older users is increasing significantly. Organizations
-with accessible websites benefit from search engine optimization (SEO),
-reduced legal risk, demonstration of corporate social responsibility
-(CSR), and increased customer loyalty.
+The many benefits of integrating accessible design and development in web sites and applications can be categorized into these four main topics:
 
-Organizations can realize substantial return on investment (ROI) that
-offset any costs of implementing Web accessibility. In order to be
-willing to make the initial investment, many organizations need to
-understand the social, technical, and financial benefits of Web
-accessibility, and the expected returns. The justification to commit
-resources to a project is often called a "business case". Business cases
-usually document an analysis of a project's value in meeting the
-organization's objectives, the cost-benefit analysis, and the expected
-outcomes.
+### Social Benefits
+The web is social. People all over the world are becoming more connected with each other. As more diverse people are connected, we all benefit. Numerous studies prove that companies prioritizing diversity and inclusion perform better financially.  While such studies generally focus on employee diversity, it is also true that companies openly embracing values of inclusion and that maintain a diverse workforce are more favorably viewed by wider groups of customers and vendors. Diversity means including people with disabilities and to do so companies must build and maintain web sites that are accessible to all. 
 
-## Factors in a Business Case for Web Accessibility
-{:#factors}
+As we strive to meet diversity and inclusion goals, companies find that accessibility is good business. 
 
-The different aspects of the business case for Web accessibility are
-presented in detail in the following pages:
+### Technical Benefits
+The adoption of web standards has long been established as the most effective way to:
+* achieve broad interoperability, 
+* improve site quality, 
+* reduce site development and maintenance time, 
+* reduce server load, 
+* enable content on varied platforms, and
+* future-proof web properties for advances in web technologies. 
 
--   [**Social Factors**](social-factors.html) addresses the role of Web
-    accessibility in providing equal opportunity for people with
-    disabilities; the overlap with digital divide issues; and benefits
-    to people *without* disabilities, including people using mobile
-    devices, older people, people with low literacy and people not
-    fluent in the language, people with low bandwidth connections to the
-    Internet, people using older technologies, and new and infrequent
-    web users.
--   [**Technical Factors**](technical-factors.md) addresses interoperability,
-    quality, reducing site development and maintenance time, reducing
-    server load, enabling content on different configurations, and being
-    prepared for advanced web technologies.
--   [**Financial Factors**](financial-factors.html) addresses the financial benefits
-    of increased website use, for example, from engine optimization
-    (SEO); direct cost savings; considerations for initial costs and
-    on-going costs; and ways to decrease costs, including [developing
-    for accessibility and mobile
-    together](http://www.w3.org/WAI/mobile/overlap).
--   [**Legal and Policy Factors**](legal-policy-factors.html) addresses requirements for
-    Web accessibility from governments and other organizations in the
-    form of laws, policies, regulations, standards, guidelines,
-    directives, communications, orders, or other types of documents.
+Accessibility standards are part of the network that makes such benefits possible.  Accessible Design anticipated the idea of Responsive Design – the notion of design practices that faithfully render content across varied platforms. 
 
-To help develop a customized business case, each of these pages starts
-with questions to help identify how the factors apply to a specific
-organization.
+Tech leaders know that for meeting broad technology demands, accessibility is good business.
+
+### Financial Benefits
+Industry leaders understand that baked-in accessibility is an innovation driver - enabling elegant solutions to unanticipated problems. Accessible design is by nature flexible, allowing content to be able to be faithfully rendered across a broad spectrum of devices, platforms, assistive technologies, and operating systems. A business with accessible web sites and applications increases market share by several million people with disabilities - a market that Fortune magazine estimates at $200 per year in the United States alone. Integration of accessibility into your company’s standard design, development, and QA processes minimizes development cost while maximizing market share. 
+
+Financially, accessibility is good business.  
+
+### Legal and policy benefits
+The [UN Convention on the Rights of Persons with
+Disabilities](http://www.un.org/disabilities/default.asp?navid=12&pid=150) explicitly references access to communications technology as a human right in the modern world. Since its adoption by the UN General Assembly in December of 2006 and subsequent ratification by more than 150 nations, the Convention has been a powerful influence on the global legal and policy landscape related to web accessibility. Companies around the globe are implementing the Convention through laws and government policies. In many countries, such laws extend beyond government sites and services to to inlcude mandates for businesses that offer goods and services on the web. 
+
+To avoid legal risk, accessibility is good business. 
+
+## It all adds up
+These brief summaries only scratch the surface of the many ways that accessible design and development support an organization’s ability to increase markets, minimize costs, avoid legal risk, and support innovation. Read the related articles for relevant research and case studies that provide more detailed information to help you make a the case within your own organziation that accessibility is simply good business.
 
 ## Permission to Use
 {:#permission}
 
-The "Developing a Web Accessibility Business Case for Your Organization"
-resource suite is
+"Accessibility is Good Business"is
 [copyright](http://www.w3.org/Consortium/Legal/ipr-notice#Copyright)©
 [W3C](http://www.w3.org/) and licensed under a [Creative Commons
 Attribution 3.0 Unported
@@ -100,139 +64,8 @@ as described in the ["Creative Commons License (CC)" section of Using
 WAI Material](http://www.w3.org/WAI/about/usingWAImaterial#cc). An
 example attribution is:
 
-> [Developing a Web Accessibility Business Case for Your
-> Organization](http://www.w3.org/WAI/bcase/). Shawn Lawton Henry and
-> Andrew Arch, eds. Copyright © 2012 [W3C](http://www.w3.org/)®
+> [Accessibility is Good Business](http://www.w3.org/WAI/bcase/). Sharron Rush and Brent Bakken, eds. Copyright © 2017 [W3C](http://www.w3.org/)®
 > ([MIT](http://www.csail.mit.edu/), [ERCIM](http://www.ercim.eu/),
 > [Keio](http://www.keio.ac.jp/)). Status: Updated 7 September 2012.
 > <http://www.w3.org/WAI/bcase/>
-
-## Developing a Customized Business Case
-{:#custom}
-
-An effective business case focuses on the organization's objectives and
-motivations. Certain aspects of the value and outcomes of Web
-accessibility are more important to one organization than another, based
-on its particular situation. For example, one organization's motivation
-might be to demonstrate social responsibility by being inclusive of
-people with disabilities, while another organization's primary
-motivation might be technical quality and meeting international
-standards.
-
-Just as organizations' objectives and motivations vary, so do their
-business cases for Web accessibility. A customized business case for a
-specific organization will have different content and style, and
-incorporate different aspects with different emphasis, focused on that
-particular organization.
-
-### Examples of How Factors Differ Across Environments
-{:#samples}
-
-Examples of different motivations that organizations have for adopting
-accessibility and how those can be integrated into a customized business
-case are provided below:
-
--   A **corporation** might emphasize:
-    -   financial gains and cost savings from increased web use due to
-        increased potential market share, search engine optimization
-        (SEO), and increased usability
-    -   reducing risk of legal action, high legal expenses, and negative
-        image
-    -   public relations benefits of demonstrating corporate social
-        responsibility (CSR)
-    -   benefits of an inclusive workplace that supports employees with
-        disabilities
-    -   increased productivity from supporting and retaining older
-        employees and their experience
--   A **government ministry or agency** might emphasize:
-    -   laws and policies that require public services are available to
-        all, such as anti-discrimination legislation or information and
-        communications technology (ICT) policy
-    -   demonstration of social responsibility and provision of
-        information and services that are accessible to all citizens
-    -   savings from improved server performance and decreased site
-        maintenance
-    -   benefits from enabling people with disabilities and older users
-        to interact with them online instead of more costly ways
--   An **educational institution** might emphasize:
-    -   number of students, faculty, or staff with disabilities in
-        educational settings as a social responsibility consideration
-    -   benefits of Web accessibility to students with different
-        learning styles, older computer equipment, or low bandwidth
-        Internet connections
-    -   benefits to older employees who may be experiencing age-related
-        impairments, an increasing percentage of employees as the
-        workforce ages
-    -   legal or policy requirements
--   A **non-governmental (non-profit) organization** (NGO) might
-    emphasize:
-    -   social responsibility factors, such as the organization's
-        commitment to human rights, including the right to information
-    -   organization's interest in ensuring that its materials are
-        available to all of its potential audiences
-    -   supporting older people with age-related impairments who may be
-        donors
--   A **web design business** might emphasize:
-    -   competitive advantage and financial benefits of being able to
-        meet increasing requests for accessible web design and
-        development
-    -   technical benefits and long term financial benefits to clients
-        of providing sites according to web standards
-    -   public relations benefits of being able to support clients'
-        interests in demonstrating social responsibility
--   A **small to medium-sized enterprise** (SME) relying on e-Commerce
-    might emphasize:
-    -   positive impact on search engine optimization (SEO) from
-        accessibility improvements
-    -   importance of an increasing market among people with
-        disabilities and older people who may significantly benefit from
-        accessible online shopping
-    -   increased general usability and trustworthiness of online
-        shopping interfaces from improved accessibility
-    -   reduced risk of legal action and negative publicity from not
-        complying with anti-discrimination legislation
-
-While your business case may emphasize a few aspects, it is also
-important that you include other aspects. For example:
-
--   An organization with a clear legal requirement for Web accessibility
-    might still need a solid cost/benefit analysis to get management to
-    commit sufficient resources for an effective Web accessibility
-    program.
--   Some commercial organizations might be more responsive to a social
-    responsibility argument than to a standard cost/benefit analysis
-    when committing to Web accessibility.
-
-## Additional Resources
-{:#related}
-
-The following resources provide additional details related to the
-business case for accessibility:
-
-[**Web Accessibility for Older Users**: A Literature Review](http://www.w3.org/WAI/intro/wai-age-literature.php)
-:   Illustrates the increasing importance of older users online and the
-    overlap between the Web accessibility requirements of older people
-    with age-related impairments and the provisions of the [Web Content
-    Accessibility Guidelines 2.0](http://www.w3.org/WAI/intro/wcag20).
-    Includes statistics about changing demographics and the prevalence
-    of impairment with age.
-
-[**Web Content Accessibility and Mobile Web**: Making a Web Site Accessible Both for People with Disabilities and for Mobile Devices](http://www.w3.org/WAI/mobile/overlap)
-:   Introduces how websites can more efficiently be designed to be
-    accessible from a mobile device and also accessible for people with
-    disabilities when developers understand the significant overlap
-    between the two design goals and guidelines. Links to more detailed
-    technical documents.
-
-**[WAI Resources](http://www.w3.org/WAI/Resources/)**
-:   Lists the primary resources from W3C Web Accessibility Imitative
-    (WAI), including several that provide additional information for
-    organizations developing a business case.
-
-Business cases are sometimes accompanied by an implementation plan
-describing the steps involved in making an organization's website
-accessible. A separate WAI resource suite, [Implementation Plan for Web
-Accessibility](http://www.w3.org/WAI/impl/), provides information on
-initial assessment, developing organizational policies, training,
-selecting authoring tools, and conformance evaluation.
 
