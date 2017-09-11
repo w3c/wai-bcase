@@ -37,7 +37,7 @@ Accessibility standards are part of the network that makes such benefits possibl
 Tech leaders know that for meeting broad technology demands, accessibility is good business.
 
 ### Financial Benefits
-Industry leaders understand that baked-in accessibility is an innovation driver – enabling elegant solutions to unanticipated problems. Accessible design is by nature flexible, allowing content to be able to be faithfully rendered across a broad spectrum of devices, platforms, assistive technologies, and operating systems. A business with accessible web sites and applications increases market share by several million people with disabilities – a market that Fortune magazine estimates at $200 per year in the United States alone. Integration of accessibility into your company’s standard design, development, and QA processes minimizes development cost while maximizing market share. 
+Industry leaders understand that baked-in accessibility is an innovation driver – enabling elegant solutions to unanticipated problems. Accessible design is by nature flexible, allowing content to be able to be faithfully rendered across a broad spectrum of devices, platforms, assistive technologies, and operating systems. A business with accessible web sites and applications increases market share by several million people with disabilities – a market that Fortune magazine estimates at $200&nbsp;billion per year in the United States alone. Integration of accessibility into your company’s standard design, development, and QA processes minimizes development cost while maximizing market share. 
 
 Financially, accessibility is good business.  
 
@@ -53,19 +53,12 @@ These brief summaries only scratch the surface of the many ways that accessible 
 ## Permission to Use
 {:#permission}
 
-"Accessibility is Good Business"is
-[copyright](http://www.w3.org/Consortium/Legal/ipr-notice#Copyright)©
-[W3C](http://www.w3.org/) and licensed under a [Creative Commons
-Attribution 3.0 Unported
-License](http://creativecommons.org/licenses/by/3.0/).
+“Accessibility is Good Business” is [copyright](http://www.w3.org/Consortium/Legal/ipr-notice#Copyright) ©[W3C](http://www.w3.org/) and licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 
-You may use this material as is or adapt it, as long as you attribute it
-as described in the ["Creative Commons License (CC)" section of Using
-WAI Material](http://www.w3.org/WAI/about/usingWAImaterial#cc). An
-example attribution is:
+You may use this material as is or adapt it, as long as you attribute it as described in the ["Creative Commons License (CC)" section of Using WAI Material](http://www.w3.org/WAI/about/usingWAImaterial#cc). An example attribution is:
 
 > [Accessibility is Good Business](http://www.w3.org/WAI/bcase/). Sharron Rush and Brent Bakken, eds. Copyright © 2017 [W3C](http://www.w3.org/)®
 > ([MIT](http://www.csail.mit.edu/), [ERCIM](http://www.ercim.eu/),
-> [Keio](http://www.keio.ac.jp/)). Status: Updated 7 September 2012.
+> [Keio](http://www.keio.ac.jp/)). Status: Updated 10 September 2017.
 > <http://www.w3.org/WAI/bcase/>
 
