@@ -1,5 +1,4 @@
 ---
-layout: default
 resource: "Developing a Web Accessibility Business Case for Your Organization"
 title: "Legal and Policy Factors"
 order: 5
