@@ -17,7 +17,7 @@ While accessibility focuses on people with disabilities, numerous studies indica
 
 For ease of discussion, the many business benefits of integrating accessibilty practice into the design and development of web sites and applications have been sorted here into a few broad categories. But this is just the start in helping you think about the topic in creative and expansive ways. Use these examples to build a customized approach for your own business, school, agency, or other type of organziation.  
 
-### Standards Alignment
+### Align with Web Standards
 The adoption of web standards has long been established as the most effective way to:
 * achieve broad interoperability,
 * improve site quality,
@@ -41,7 +41,7 @@ Countries around the globe are implementing the UN Convention through laws and g
 To avoid legal risk, accessibility is good business.
 
 
-### Diversity and Inclusion
+### Support Diversity and Inclusion
 The web is social. People all over the world are becoming more easily connected to one another. As more diverse people are connected, we all benefit. The Forbes Global Diversity and Inclusion Report documented as long ago as 2012 that diversity is good for business performance. Diversity initiatives at companies all over the world demonstrate that companies that prioritize diversity and inclusion:
 * perform better financially,
 * are more favorably viewed by wider groups of customers and vendors,
@@ -53,7 +53,7 @@ Diversity means including the perspective and experience of people with disabili
 
 As we strive to meet diversity and inclusion goals, companies find that accessibility is good business.
 
-### Innovation
+### Drive Innovation
 Industry leaders understand that baked-in accessibility is an innovation driver – enabling elegant solutions to unanticipated problems. Employees with disabilities drive innovation. Disability creates a constraint, and embracing constraints spurs inventive solutions. History is filled with numerous examples of people with disabilities leading advances in science, technology and other fields. Among the reasons to support integrating accessibility into design thinking are these:
 * Removing architectural, digital and social barriers increases growth and sparks innovation.
 * Accessible design thinking introduces flexibility in interaction design that is useful beyond the disabled community.
