@@ -18,7 +18,7 @@ While accessibility focuses on people with disabilities, numerous studies indica
 The many benefits of integrating accessible design and development in web sites and applications can be categorized into these four main topics:
 
 ### Social Benefits
-The web is social. People all over the world are becoming more connected with each other. As more diverse people are connected, we all benefit. Numerous studies prove that companies prioritizing diversity and inclusion perform better financially.  While such studies generally focus on employee diversity, it is also true that companies openly embracing values of inclusion and that maintain a diverse workforce are more favorably viewed by wider groups of customers and vendors. Diversity means including people with disabilities and to do so companies must build and maintain web sites that are accessible to all.
+The web is social. People all over the world are becoming more connected with each other. As more diverse people are connected, we all benefit. Numerous studies prove that companies prioritizing diversity and inclusion perform better financially.  While such studies generally focus on employee diversity, it is also true that companies openly embracing values of inclusion and that maintain a diverse workforce are more favorably viewed by wider groups of customers and vendors. Diversity means including people with disabilities. To be diverse, companies must build and maintain web sites that are accessible to all.
 
 As we strive to meet diversity and inclusion goals, companies find that accessibility is good business.
 
@@ -36,7 +36,7 @@ Accessibility standards are part of the network that makes such benefits possibl
 Tech leaders know that for meeting broad technology demands, accessibility is good business.
 
 ### Financial Benefits
-Industry leaders understand that baked-in accessibility is an innovation driver – enabling elegant solutions to unanticipated problems. Accessible design is by nature flexible, allowing content to be able to be faithfully rendered across a broad spectrum of devices, platforms, assistive technologies, and operating systems. A business with accessible web sites and applications increases market share by several million people with disabilities – a market that Fortune magazine estimates at $200&nbsp;billion per year in the United States alone. Integration of accessibility into your company’s standard design, development, and QA processes minimizes development cost while maximizing market share.
+Industry leaders understand that baked-in accessibility is an innovation driver – enabling elegant solutions to unanticipated problems. Accessible design is by nature flexible, allowing content to be able to be faithfully rendered across a broad spectrum of devices, platforms, assistive technologies, and operating systems. A business with accessible web sites and applications can increase its market share by several million people with disabilities – a market that Fortune magazine estimates at $200&nbsp;billion per year in the United States alone. Integration of accessibility into your company’s standard design, development, and QA processes minimizes development cost while maximizing market share.
 
 Financially, accessibility is good business.
 
@@ -47,7 +47,7 @@ Disabilities](http://www.un.org/disabilities/default.asp?navid=12&pid=150) expli
 To avoid legal risk, accessibility is good business.
 
 ## It all adds up
-These brief summaries only scratch the surface of the many ways that accessible design and development support an organization’s ability to increase markets, minimize costs, avoid legal risk, and support innovation. Read the related articles for relevant research and case studies that provide more detailed information to help you make a the case within your own organziation that accessibility is simply good business.
+These brief summaries only scratch the surface of the many ways that accessible design and development support an organization’s ability to increase markets, minimize costs, avoid legal risk, and support innovation. Read the related articles for relevant research and case studies that provide more detailed information to help you make a the case within your own organziation that accessibility is simply good business. 
 
 ## Permission to Use
 {:#permission}
