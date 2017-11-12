@@ -40,7 +40,7 @@ Industry leaders understand that baked-in accessibility is an innovation driver 
 
 Financially, accessibility is good business.
 
-### Legal and policy benefits
+### Legal and Policy benefits
 The [UN Convention on the Rights of Persons with
 Disabilities](http://www.un.org/disabilities/default.asp?navid=12&pid=150) explicitly references access to communications technology as a human right in the modern world. Since its adoption by the UN General Assembly in December of 2006 and subsequent ratification by more than 150 nations, the Convention has been a powerful influence on the global legal and policy landscape related to web accessibility. Countries around the globe are implementing the Convention through laws and government policies. In many countries, such laws extend beyond government sites and services to inlcude mandates for businesses that offer goods and services on the web.
 
