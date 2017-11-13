@@ -17,6 +17,8 @@ Diversity means including the perspective and experience of people with disabili
 
 Web accessibility focuses on people with all types of disabilities - visual, auditory, physical, speech, cognitive, and neurological disabilities - including older people with age-related impairments.
 
+@@@ with selected text from Social Aspects of previous version as well as research and articles listed in EO bix case wiki page
+
 
 
 
