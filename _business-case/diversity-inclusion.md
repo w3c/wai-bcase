@@ -4,10 +4,6 @@ title: "Support Diversity & Inclusion"
 order: 4
 ---
 
-## Page Contents
-
-## 
-{:#diversity-inclusion}
 
 The web is social. People all over the world are becoming more easily connected to one another. As more diverse people are connected, we all benefit. The Forbes Global Diversity and Inclusion Report documented as long ago as 2012 that diversity is good for business performance. Diversity initiatives at companies all over the world demonstrate that companies that prioritize diversity and inclusion:
 
