@@ -36,9 +36,9 @@ Legal risk is a strong driver for companies to commit to and manitain accessibil
 * In the United States, courts are interpreting the Americans with Disabilities Act to be applicable to the web.
 * Globally, accessibility is mandated by the European Accessibility Act and similar laws are in place or in progress in Canada, Japan, Australia and elsewhere. 
 
-Countries around the globe are implementing the UN Convention through laws and government policies. In many countries, such laws extend beyond government sites and services to inlcude mandates for businesses that offer goods and services on the web.
+Countries around the globe are implementing the UN Convention through laws and government policies. In many countries, such laws extend beyond government sites and services to inlcude mandates for businesses that offer goods and services on the web. Learn more details of the legal lansdcape for web accessibility in the related article, linked below.
 
-To avoid legal risk, accessibility is good business.
+[To avoid legal risk, accessibility is good business.]
 
 
 ### Support Diversity and Inclusion
@@ -49,9 +49,9 @@ The web is social. People all over the world are becoming more easily connected 
 * enjoy greater customer loyalty,
 * realize a positive impact on firm internationalization
 
-Diversity means including the perspective and experience of people with disabilities. Accessible web sites are a necessary component of successful diversity initiatives. Background and additional [research and examples of how accessibility helps meet diversity and inlcusion goals] (link to that page) . 
+Diversity means including the perspective and experience of people with disabilities. Accessible web sites are a necessary component of successful diversity initiatives. Background and additional research and examples of how accessibility helps meet diversity and inlcusion goals are found in the related article, linked below. 
 
-As we strive to meet diversity and inclusion goals, companies find that accessibility is good business.
+As we strive [to meet diversity and inclusion goals, companies find that accessibility is good business].
 
 ### Drive Innovation
 Industry leaders understand that baked-in accessibility is an innovation driver – enabling elegant solutions to unanticipated problems. Employees with disabilities drive innovation. Disability creates a constraint, and embracing constraints spurs inventive solutions. History is filled with numerous examples of people with disabilities leading advances in science, technology and other fields. Among the reasons to support integrating accessibility into design thinking are these:
@@ -60,9 +60,9 @@ Industry leaders understand that baked-in accessibility is an innovation driver 
 * Innovations like the typewriter, telephone, punch cards, text to speech, email, and voice controls originally meant as accomodations for disability, soon found wider application.
 * Problem solving for the constraints of disability anticipates temporarily disabling conditions such as noisy or too bright environments.
 
-Accessible design is by nature flexible, allowing content to be able to be faithfully rendered across a broad spectrum of devices, platforms, assistive technologies, and operating systems. A business with accessible web sites and applications can increase its market share by several million people with disabilities – a market that Fortune magazine estimates at $200&nbsp;billion per year in the United States alone. For more [examples and research about how accessibility drives innovation], read the companion article.
+Accessible design is by nature flexible, allowing content to be able to be faithfully rendered across a broad spectrum of devices, platforms, assistive technologies, and operating systems. A business with accessible web sites and applications can increase its market share by several million people with disabilities – a market that Fortune magazine estimates at $200&nbsp;billion per year in the United States alone. For more examples and research about how accessibility drives innovation, read the companion article linked below.
 
-For companies that value innovation, accessibility is good business.
+[For companies that value innovation, accessibility is good business].
 
 ## It all adds up
 These brief summaries only scratch the surface of the many ways that accessible design and development support an organization’s ability to increase markets, minimize costs, avoid legal risk, and support innovation. Read the related articles for relevant research and case studies that provide more detailed information to help you make a the case within your own organziation that accessibility is simply good business. 
