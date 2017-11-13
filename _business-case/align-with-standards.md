@@ -1,6 +1,6 @@
 ---
 resource: "Developing a Web Accessibility Business Case for Your Organization"
-title: "Technical Factors"
+title: "Align with Global Standards"
 order: 3
 ---
 
