@@ -6,21 +6,21 @@ permalink: /business-case/
 
 ## Accessibility is Good Business
 
-For decades, accessibility advocates have promoted the idea of a “Business Case” for accessibility. This article defines terms, summarizes evidence, helps readers apply general perspectives to specific situations, and points to more in-depth research and buesiness experince from those who have made the journey. Evidence supports the fact that accessibility is simply good business.
+For decades, accessibility advocates have promoted the idea of a “Business Case” for accessibility. This article defines terms, summarizes evidence, helps readers apply general perspectives to specific situations, and points to more in-depth research and business experience from those who have made the journey. Evidence supports the fact that accessibility is simply good business.
 
-Business Case is a term used to communicate the idea that there are sound business reasons for web accessibility beyond the humanitarian and compassionate cause of providing equal access to all people, regardless of abilities. The term is meant to persuade not only for-profit businesses but also schools and universities, government entities, non-profit organizations - in short, organizations of all types - that there are solid business reasons to build and maintain web sites and applications that meet the needs of people with disabilities.
+A "Business Case" indicates that there are sound business reasons for web accessibility beyond the humanitarian and compassionate cause of providing equal access to all people, regardless of abilities. The term is meant to persuade not only for-profit businesses but also schools and universities, government entities, non-profit organizations - in short, organizations of all types - that there are solid business reasons to build and maintain web sites and applications that meet the needs of people with disabilities.
 
-While accessibility focuses on people with disabilities, numerous studies indicate that accessible design also improves the user experience for older users, mobile users, new users, people with low literacy, and several other groups at risk of being marginalized. Significant benefits can therefore accrue for organizations that become adept at attracting, serving, and retaining larger market share by meeting a broader range of user needs.
+While discussions of accessibility focus on meeting the needs of people with disabilities, numerous studies indicate that accessible design also improves the user experience for older users, mobile users, new users, people with low literacy, and several other groups at risk of being marginalized. Significant benefits can therefore accrue for organizations that become adept at attracting, serving, and retaining larger market share by meeting a broader range of user needs.
 
 ## Web Accessibility as a Performance Driver 
 {:#benefits}
 
-For ease of discussion, the many business benefits of integrating accessibilty practice into the design and development of web sites and applications have been sorted here into a few broad categories. This article explores the ways that accessible design creates high quality content that is enabled to:
+For ease of discussion, the many business benefits of integrating accessibilty practice into the design and development of web sites and applications have been sorted here into a few broad categories. This article explores the ways that accessible design creates high quality content that will:
 * Align with Global Web Standards
 * Minimize Legal Risk
 * Support Diversity and Inclusion
 * Drive Innovation
-But this is just the start in helping you think about the topic in creative and expansive ways. Use these examples to build a customized approach for your own business, school, agency, or other type of organziation. Each introductory paragraph below links to a more detailed article on that aspect of the business benefits of web accessibility.  
+But this is just the start in helping you think about the topic in creative and expansive ways. Use these examples to build a customized approach for your own business, school, agency, or other type of organziation. Each introductory paragraph below links to a more detailed article on that specific aspect of the business benefits of web accessibility.  
 
 ### Align with Global Web Standards
 The adoption of web standards has long been established as the most effective way to:
