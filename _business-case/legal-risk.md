@@ -13,3 +13,7 @@ Legal risk is a strong driver for companies to commit to and maintain accessibil
 Countries around the globe are implementing the UN Convention through laws and government policies. In many countries, such laws extend beyond government sites and services to inlcude mandates for businesses that offer goods and services on the web. 
 
 @@@ will add slected text from previous "legal Aspects" section of previous version as well as references to research and artcles on EO Biz Case wiki page.
+
+[http://www.karlgroves.com/2011/12/08/reduction-of-legal-risk-as-accessibility-business-case/] Reduction of Legal Risk as Web Accessibility Business Case by Karl Groves
+
+[http://www.lflegal.com/2013/05/gaad-legal/] Last updated on August 22, 2017 by Lainey Feingold 
