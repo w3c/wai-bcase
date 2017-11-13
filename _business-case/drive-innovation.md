@@ -18,7 +18,7 @@ Accessible design is by nature flexible, allowing content to be able to be faith
 * [https://www.fastcodesign.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge How Designing for the Disabled is Giving Google an Edge]
 * Haben Girma on Linked In on how [https://www.linkedin.com/pulse/people-disabilities-drive-innovation-haben-girma/ People with Disabilities Drive Innovation]
 * Neil Lenane, Business Leader of Talent Management at Progressive Insurance “If you do not intentionally include, you unintentionally exclude."
-* [https://i.forbesimg.com/forbesinsights/StudyPDFs/Innovation_Through_Diversity.pdf Forbes Global Diversity and Inclusion Report] 
+* [https://i.forbesimg.com/forbesinsights/StudyPDFs/Innovation_Through_Diversity.pdf Forbes Innovation through Diversity] 
 * [https://www.researchgate.net/publication/221009860_Organizational_Motivations_for_Web_Accessibility_Implementation_-_A_Case_Study Organizational Motivations for Web Accessibility Implementation – A Case Study] November 2016, University of Vienna, by Marie-Luise Leitner and Christine Strauss.   
 * [https://www.researchgate.net/publication/259465171_Exploratory_Case_Study_Research_on_Web_Accessibility Exploratory Case Study Research on Web Accessibility] Authors proposed study design that the 2016 article is based upon. 
 * [http://interactioninstitute.org/design-for-the-margins/ Design for the margins]
