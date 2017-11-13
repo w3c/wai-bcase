@@ -11,3 +11,5 @@ Legal risk is a strong driver for companies to commit to and maintain accessibil
 * Globally, accessibility is mandated by the European Accessibility Act and similar laws are in place or in progress in Canada, Japan, Australia and elsewhere. 
 
 Countries around the globe are implementing the UN Convention through laws and government policies. In many countries, such laws extend beyond government sites and services to inlcude mandates for businesses that offer goods and services on the web. 
+
+@@@ will add slected text from previous "legal Aspects" section of previous version as well as references to research and artcles on EO Biz Case wiki page.
