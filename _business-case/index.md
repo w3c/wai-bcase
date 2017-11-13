@@ -24,18 +24,18 @@ But this is just the start in helping you think about the topic in creative and 
 
 ### Align with Global Web Standards
 The adoption of web standards has long been established as the most effective way to:
-* achieve broad interoperability,
-* improve site quality,
-* reduce site development and maintenance time,
-* enable content on varied platforms, and
-* future-proof web properties for advances in web technologies.
+* Achieve broad interoperability,
+* Improve site quality,
+* Reduce site development and maintenance time,
+* Enable content on varied platforms
+* Future-proof web properties for advances in web technologies.
 
 Businesses scramble to address growing markets, a broader audience, more browser diversity, and the expectation of increased speed while striving to also reduce the costs of maintaining or redesigning a web properties. Web standards are a strong ally in this challenge and web accessibility standards are part of the support network. For example, Accessible Design anticipated the now widely adopted practice of Responsive Design. Background and additional [research and examples of how accessibility helps meet challenges of technology evolution] (link to that page).  Integration of accessibility into your company’s standard design, development, and QA processes minimizes development cost while maximizing market share.
 
 Tech leaders know that for meeting broad technology demands, accessibility is good business.
 
 ### Minimize Legal Risk
-Legal risk is a strong driver for companies to commit to and manitain accessibility policies and standards. Among drivers for the legal aspect of a business case are these:
+Legal risk is a strong driver for companies to commit to and maintain accessibility policies and standards. Among drivers for the legal aspect of a business case are these:
 * The [UN Convention on the Rights of Persons with Disabilities](http://www.un.org/disabilities/default.asp?navid=12&pid=150), adopted by the UN in 2006, explicitly references access to communications technology as a human right in the modern world. 
 * Ratified by more than 150 nations, the Convention is a powerful influence on the global legal and policy landscape related to web accessibility. 
 * In the United States, courts are interpreting the Americans with Disabilities Act to be applicable to the web.
@@ -48,23 +48,23 @@ Countries around the globe are implementing the UN Convention through laws and g
 
 ### Support Diversity and Inclusion
 The web is social. People all over the world are becoming more easily connected to one another. As more diverse people are connected, we all benefit. The Forbes Global Diversity and Inclusion Report documented as long ago as 2012 that diversity is good for business performance. Diversity initiatives at companies all over the world demonstrate that companies that prioritize diversity and inclusion:
-* perform better financially,
-* are more favorably viewed by wider groups of customers and vendors,
-* have higher employee retention rates,
-* enjoy greater customer loyalty,
-* realize a positive impact on firm internationalization
+* Perform better financially,
+* Are more favorably viewed by wider groups of customers and vendors,
+* Have higher employee retention rates,
+* Enjoy greater customer loyalty,
+* Support firm internationalization
 
 Diversity means including the perspective and experience of people with disabilities. Accessible web sites are a necessary component of successful diversity initiatives. Background and additional research and examples of how accessibility helps meet diversity and inlcusion goals are found in the related article, linked below. 
 
 As we strive [to meet diversity and inclusion goals, companies find that accessibility is good business].
 
 ### Drive Innovation
-Industry leaders understand that baked-in accessibility is an innovation driver – enabling elegant solutions to unanticipated problems. Employees with disabilities drive innovation. Designing for disability introduces constraint, and embracing constraints spurs inventive solutions. History is filled with numerous examples of people with disabilities leading advances in science, technology and other fields. Among the reasons to support integrating accessibility into design thinking are these:
+Industry leaders understand that baked-in accessibility is an innovation driver – enabling elegant solutions to unanticipated problems. Historically, people with disabilities often drive innovation. Designing for disability introduces constraint, and embracing constraint spurs inventive solutions. Examples of people with disabilities leading advances in science, technology and other fields are numerous. Among the reasons to support integrating accessibility into design thinking are these:
 * Removing architectural, digital and social barriers increases growth and sparks innovation.
-* Designing "for the margins" creates better products that work better for larger audiences.
+* Designing "for the margins" creates products that work more effectively for larger audiences.
 * Accessible design thinking introduces flexibility in interaction design that is useful beyond the disabled community.
 * Innovations like the typewriter, telephone, punch cards, text to speech, email, and voice controls originally meant as accomodations for disability, soon found wider application.
-* Problem solving outside the box to meet disability needs anticipates temporarily disabling conditions such as noisy or too bright environments.
+* Problem solving "outside the box" to meet disability needs anticipates temporarily disabling conditions such as noisy or too bright environments.
 
 Accessible design is by nature flexible, allowing content to be able to be faithfully rendered across a broad spectrum of devices, platforms, assistive technologies, and operating systems. A business with accessible web sites and applications can increase its market share by several million people with disabilities – a market that Fortune magazine estimates at $200&nbsp;billion per year in the United States alone. For more examples and research about how accessibility drives innovation, read the companion article linked below.
 
