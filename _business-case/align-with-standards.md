@@ -20,6 +20,6 @@ Businesses scramble to address growing markets, a broader audience, more browser
 
 * Why we need standards http://www.etsi.org/standards/why-we-need-standards Overview of why standards are important driver of technology innovation and progress. Among the business benefits cited are related to how standardization provides a solid foundation upon which to develop new technologies and to enhance existing practices. Specifically, standards: 
 
-* [https://developer.mozilla.org/en-US/docs/The_Business_Benefits_of_Web_Standards The Business Benfits of Web Standards] Mozilla 2014
+* [https://developer.mozilla.org/en-US/docs/The_Business_Benefits_of_Web_Standards The Business Benefits of Web Standards] Mozilla 2014
 
 
