@@ -16,3 +16,5 @@ The adoption of web standards has long been established as the most effective wa
 
 Businesses scramble to address growing markets, a broader audience, more browser diversity, and the expectation of increased speed while striving to also reduce the costs of maintaining or redesigning a web properties. Web standards are a strong ally in this challenge and web accessibility standards are part of the support network. For example, Accessible Design anticipated the now widely adopted practice of Responsive Design. Integration of accessibility into your company’s standard design, development, and QA processes minimizes development cost while maximizing market share. Read the related article, linked below for detailed benefits of standards conformance.
 
+@@@ with selected info from previous version "Techical Aspects" and references to research and articles listed in EO wiki
+
