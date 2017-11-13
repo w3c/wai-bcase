@@ -1,7 +1,7 @@
 ---
 resource: "Developing a Web Accessibility Business Case for Your Organization"
-title: "Legal and Policy Factors"
-order: 5
+title: "Minimize Legal Risk"
+order: 3
 ---
 
 Page Contents
