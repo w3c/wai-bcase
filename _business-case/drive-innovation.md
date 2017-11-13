@@ -12,3 +12,5 @@ Industry leaders understand that baked-in accessibility is an innovation driver 
 * Problem solving "outside the box" to meet disability needs anticipates temporarily disabling conditions such as noisy or too bright environments.
 
 Accessible design is by nature flexible, allowing content to be able to be faithfully rendered across a broad spectrum of devices, platforms, assistive technologies, and operating systems. A business with accessible web sites and applications can increase its market share by several million people with disabilities – a market that Fortune magazine estimates at $200&nbsp;billion per year in the United States alone. 
+
+@@@ actual text will be selected from previous Financial Aspects section as well as info from research/articles listed on EO wiki page and case studies
