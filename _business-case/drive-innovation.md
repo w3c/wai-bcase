@@ -1,7 +1,7 @@
 ---
 resource: "Developing a Web Accessibility Business Case for Your Organization"
 title: "Drive innovation"
-order: 4
+order: 3
 ---
 
 Industry leaders understand that baked-in accessibility is an innovation driver – enabling elegant solutions to unanticipated problems. Historically, people with disabilities often drive innovation. Designing for disability introduces constraint, and embracing constraint spurs inventive solutions. Examples of people with disabilities leading advances in science, technology and other fields are numerous. Among the reasons to support integrating accessibility into design thinking are these:
