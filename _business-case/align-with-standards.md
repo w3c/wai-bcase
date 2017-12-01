@@ -6,20 +6,13 @@ order: 2
 
 Align with Global Web Standards
 
-The adoption of web standards has long been established as the most effective way to:
+A Business Case for accessibility must demonstrate a return on investment. If a business invests the time and effort to integrate accessibility into its development processes, what is the ROI?  There is a preponderance of evidence that when businesses commit to a policy of integrating accessibility, not only do they avoid legal risk but also align to global standards that contribute their bottom line in unanticipated ways. Accessibility standards are part of the ecosystem of global web standards that provide ROI in these ways:
 
-* Achieve broad interoperability,
-* Improve site quality,
-* Reduce site development and maintenance time,
-* Enable content on varied platforms
-* Future-proof web properties for advances in web technologies.
-
-Businesses scramble to address growing markets, a broader audience, more browser diversity, and the expectation of increased speed while striving to also reduce the costs of maintaining or redesigning a web properties. Web standards are a strong ally in this challenge and web accessibility standards are part of the support network. For example, Accessible Design anticipated the now widely adopted practice of Responsive Design. Integration of accessibility into your company’s standard design, development, and QA processes minimizes development cost while maximizing market share. Read the related article, linked below for detailed benefits of standards conformance.
+* Faciliate team collaboration -  @@@teams have  common understanding, consistent documentation, measurement against standards as insurance of  quality  of site quality requirements @@@ 
+* Maintain high quality -  Sites built using web standards, processes and practices perform far better for every single metric. They load faster, they are easy to find in search engines, and they package and deliver the content effectively. [citation]
+* Allow automated tool monitoring
+* Interoperability
 
 @@@ with selected info from previous version "Techical Aspects" and references to these research and popular articles:
-
-* Why we need standards http://www.etsi.org/standards/why-we-need-standards Overview of why standards are important driver of technology innovation and progress. Among the business benefits cited are related to how standardization provides a solid foundation upon which to develop new technologies and to enhance existing practices. Specifically, standards: 
-
-* [https://developer.mozilla.org/en-US/docs/The_Business_Benefits_of_Web_Standards The Business Benefits of Web Standards] Mozilla 2014
 
 
