@@ -1,7 +1,7 @@
 ---
 resource: "Developing a Web Accessibility Business Case for Your Organization"
 title: "Minimize Legal Risk"
-order: 3
+order: 2
 ---
 
 Legal risk is a strong driver for companies to commit to and maintain accessibility policies and standards. Among drivers for the legal aspect of a business case are these:
