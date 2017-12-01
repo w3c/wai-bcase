@@ -15,10 +15,10 @@ The term "accessibility' is focused on meeting the needs of people with disabili
 ## Web Accessibility as a Performance Driver 
 
 For ease of discussion, the many business benefits of integrating accessibilty practice into the design and development of web sites and applications have been sorted here into a few broad categories. This article explores the ways that accessible design creates high quality content that will:
-* Align with Global Web Standards
 * Minimize Legal Risk
 * Support Diversity and Inclusion
 * Drive Innovation
+* Align with Global Web Standards
 
 But this is just the start in helping you think about the topic in creative and expansive ways. Use these examples to build a customized approach for your own business, school, agency, or other type of organziation. Each introductory paragraph below links to a more detailed article on that specific aspect of the business benefits of web accessibility.  
 
