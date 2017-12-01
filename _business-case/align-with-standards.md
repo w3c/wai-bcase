@@ -1,7 +1,7 @@
 ---
 resource: "Developing a Web Accessibility Business Case for Your Organization"
 title: "Align with Global Standards"
-order: 5
+order: 4
 ---
 
 Align with Global Web Standards
