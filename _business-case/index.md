@@ -1,16 +1,16 @@
 ---
-title: "Defining a Business Case for Accessibility"
+title: "The Business Case for Accessibility"
 order: 1
 permalink: /business-case/
 ---
 
 ## Accessibility is Good Business
 
-For decades, accessibility advocates have promoted the idea of a “Business Case” for accessibility. This article defines terms, summarizes evidence, helps readers apply general perspectives to specific situations, and points to more in-depth research and business experience from those who have made the journey. Evidence supports the fact that accessibility is simply good business.
+For decades, accessibility advocates have promoted the idea of a “Business Case” for accessibility. A Business Case requires that there be a measurable return on the investment of time and effort that businesses make to implement accessibility. This article defines terms, summarizes evidence, and points to in-depth research and business experience from those who have made the journey. Evidence supports the fact that accessibility is simply good business.
 
-The Business Case recognizes sound business reasons for web accessibility beyond the humanitarian and compassionate cause of providing equal access to all people, regardless of abilities. The term is meant to persuade not only for-profit businesses but also schools and universities, government entities, non-profit organizations - in short, organizations of all types - that there are solid business reasons to build and maintain web sites and applications that meet the needs of people with disabilities.
+The Business Case demonstrates sound business reasons for web accessibility beyond the humanitarian and compassionate cause of providing equal access to all people, regardless of abilities. For-profit businesses as well as schools and universities, government entities, non-profit organizations - in short, organizations of all types - will find that there are practical business reasons to build and maintain web sites and applications that meet the needs of people with disabilities.
 
-While discussions of accessibility focus on meeting the needs of people with disabilities, numerous studies indicate that accessible design also improves the user experience for older users, mobile users, new users, people with low literacy, and several other groups at risk of being marginalized. Significant benefits can therefore accrue for organizations that become adept at attracting, serving, and retaining larger market share by meeting a broader range of user needs.
+The term "accessibility' is focused on meeting the needs of people with disabilities, and it should be noted that numerous studies indicate that accessible design also improves the user experience for older users, mobile users, new users, people with low literacy, and several other groups at risk of being marginalized. Significant benefits can therefore accrue for organizations that become adept at attracting, serving, and retaining larger market share by meeting a broader range of user needs.
 
 ## Web Accessibility as a Performance Driver 
 
@@ -21,18 +21,6 @@ For ease of discussion, the many business benefits of integrating accessibilty p
 * Drive Innovation
 
 But this is just the start in helping you think about the topic in creative and expansive ways. Use these examples to build a customized approach for your own business, school, agency, or other type of organziation. Each introductory paragraph below links to a more detailed article on that specific aspect of the business benefits of web accessibility.  
-
-### Align with Global Web Standards
-The adoption of web standards has long been established as the most effective way to:
-* Achieve broad interoperability,
-* Improve site quality,
-* Reduce site development and maintenance time,
-* Enable content on varied platforms
-* Future-proof web properties for advances in web technologies.
-
-Businesses scramble to address growing markets, a broader audience, more browser diversity, and the expectation of increased speed while striving to also reduce the costs of maintaining or redesigning a web properties. Web standards are a strong ally in this challenge and web accessibility standards are part of the support network. For example, Accessible Design anticipated the now widely adopted practice of Responsive Design. Integration of accessibility into your company’s standard design, development, and QA processes minimizes development cost while maximizing market share. Read the related article, linked below for detailed benefits of standards conformance. 
-
-Tech leaders know that [for meeting broad technology demands, accessibility is good business].
 
 ### Minimize Legal Risk
 Legal risk is a strong driver for companies to commit to and maintain accessibility policies and standards. Among drivers for the legal aspect of a business case are these:
@@ -69,6 +57,18 @@ Industry leaders understand that baked-in accessibility is an innovation driver 
 Accessible design is by nature flexible, allowing content to be able to be faithfully rendered across a broad spectrum of devices, platforms, assistive technologies, and operating systems. A business with accessible web sites and applications can increase its market share by several million people with disabilities – a market that Fortune magazine estimates at $200&nbsp;billion per year in the United States alone. For more examples and research about how accessibility drives innovation, read the companion article linked below.
 
 [For companies that value innovation, accessibility is good business].
+
+### Align with Global Web Standards
+The adoption of web standards has long been established as the most effective way to:
+* Achieve broad interoperability,
+* Improve site quality,
+* Reduce site development and maintenance time,
+* Enable content on varied platforms
+* Future-proof web properties for advances in web technologies.
+
+Businesses scramble to address growing markets, a broader audience, more browser diversity, and the expectation of increased speed while striving to also reduce the costs of maintaining or redesigning a web properties. Web standards are a strong ally in this challenge and web accessibility standards are part of the support network. For example, Accessible Design anticipated the now widely adopted practice of Responsive Design. Integration of accessibility into your company’s standard design, development, and QA processes minimizes development cost while maximizing market share. Read the related article, linked below for detailed benefits of standards conformance. 
+
+Tech leaders know that [for meeting broad technology demands, accessibility is good business].
 
 ## It all adds up
 These brief summaries only scratch the surface of the many ways that accessible design and development support an organization’s ability to increase markets, minimize costs, avoid legal risk, and support innovation. Read the related articles for relevant research and case studies that provide more detailed information to help you make a the case within your own organziation that accessibility is simply good business. 
