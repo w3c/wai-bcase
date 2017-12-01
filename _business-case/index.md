@@ -6,11 +6,11 @@ permalink: /business-case/
 
 ## Accessibility is Good Business
 
-For decades, accessibility advocates have promoted the idea of a “Business Case” for accessibility. A Business Case requires that there be a measurable return on the investment of time and effort that businesses make to implement accessibility. This article defines terms, summarizes evidence, and points to in-depth research and business experience from those who have made the journey. Evidence supports the fact that accessibility is simply good business.
+For decades, accessibility advocates have promoted the idea of a “Business Case” for accessibility. Lacking academic studies, how do we provide the proof that accessibility is a good business practice? A Business Case requires that there be a measurable return on the investment of time and effort that businesses make to implement accessibility. These related articles define terms, summarize exisiting evidence, and point to research and business outcomes from those who have made the journey. We invite the community to contribute their own experiences and welcome additional examples. 
 
-The Business Case demonstrates sound business reasons for web accessibility beyond the humanitarian and compassionate cause of providing equal access to all people, regardless of abilities. For-profit businesses as well as schools and universities, government entities, non-profit organizations - in short, organizations of all types - will find that there are practical business reasons to build and maintain web sites and applications that meet the needs of people with disabilities.
+The Business Case demonstrates sound business reasons for web accessibility beyond the humanitarian and compassionate cause of providing equal access to all people, regardless of abilities. For-profit businesses as well as schools and universities, government entities, non-profit organizations - in short, organizations of all types - will find that there are practical business reasons to build and maintain web sites and applications that meet the needs of the broadest range of users, regardless of ability.
 
-The term "accessibility' is focused on meeting the needs of people with disabilities, and it should be noted that numerous studies indicate that accessible design also improves the user experience for older users, mobile users, new users, people with low literacy, and several other groups at risk of being marginalized. Significant benefits can therefore accrue for organizations that become adept at attracting, serving, and retaining larger market share by meeting a broader range of user needs.
+While the term "accessibility" is focused on meeting the needs of people with disabilities, it should be noted that numerous studies indicate that accessible design also improves the user experience for older users, mobile users, new users, people with low literacy, and several other groups at risk of being marginalized. Significant benefits can therefore accrue for organizations that become adept at attracting, serving, and retaining larger market share by meeting a broader range of user needs.
 
 ## Web Accessibility as a Performance Driver 
 
@@ -24,7 +24,7 @@ But this is just the start in helping you think about the topic in creative and 
 
 ### Minimize Legal Risk
 Legal risk is a strong driver for companies to commit to and maintain accessibility policies and standards. Among drivers for the legal aspect of a business case are these:
-* The [UN Convention on the Rights of Persons with Disabilities](http://www.un.org/disabilities/default.asp?navid=12&pid=150), adopted by the UN in 2006, explicitly references access to communications technology as a human right in the modern world. 
+* The [UN Convention on the Rights of Persons with Disabilities http://www.un.org/disabilities/default.asp?navid=12&pid=150], adopted by the UN in 2006, explicitly references access to communications technology as a human right in the modern world. 
 * Ratified by more than 150 nations, the Convention is a powerful influence on the global legal and policy landscape related to web accessibility. 
 * In the United States, courts are interpreting the Americans with Disabilities Act to be applicable to the web.
 * Globally, accessibility is mandated by the European Accessibility Act and similar laws are in place or in progress in Canada, Japan, Australia and elsewhere. 
