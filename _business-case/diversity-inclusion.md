@@ -1,7 +1,7 @@
 ---
 resource: "Developing a Web Accessibility Business Case for Your Organization"
 title: "Support Diversity & Inclusion"
-order: 4
+order: 3
 ---
 
 
