@@ -14,8 +14,8 @@ Countries around the globe are implementing the UN Convention through laws and g
 
 @@@ will add slected text from previous "legal Aspects" section of previous version as well as references to research and artcles on EO Biz Case wiki page.
 
-[http://www.karlgroves.com/2011/12/08/reduction-of-legal-risk-as-accessibility-business-case/] Reduction of Legal Risk as Web Accessibility Business Case by Karl Groves
+[http://www.karlgroves.com/2011/12/08/reduction-of-legal-risk-as-accessibility-business-case/] (Reduction of Legal Risk as Web Accessibility Business Case)
 
-[http://www.lflegal.com/2013/05/gaad-legal/] Last updated on August 22, 2017 by Lainey Feingold 
+[http://www.lflegal.com/2013/05/gaad-legal/] (Global Legal Landscape) Last updated on August 22, 2017 by Lainey Feingold 
 
-[https://www.adatitleiii.com/2017/08/website-accessibility-lawsuit-filings-still-going-strong/] August 2016 Accessibility Lawsuit Filings Strong
+[https://www.adatitleiii.com/2017/08/website-accessibility-lawsuit-filings-still-going-strong/] (August 2016 Accessibility Lawsuit Filings Strong)
