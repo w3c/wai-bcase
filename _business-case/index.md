@@ -10,7 +10,7 @@ For decades, accessibility advocates have promoted the idea of a “Business Cas
 
 The Business Case relies on sound business benefits for web accessibility beyond the humanitarian and compassionate cause of providing equal access to all people, regardless of abilities. Organizations of all types will find that there are practical reasons to build and maintain web sites and applications that meet the needs of the broadest range of users, regardless of ability. Whether your organization is a for-profit corporation, a small retail or service provider, a school or university, a government entitiy, or a non-profit organization, it will realize significant benefits from implementing accessibility as a foundational business practice. 
 
-While the term "accessibility" is focused on meeting the needs of people with disabilities, it should be noted that numerous studies indicate that accessible design also improves the user experience for older users, mobile users, new users, people with low literacy, and several other groups at risk of being marginalized. Significant benefits can therefore accrue for organizations that become adept at attracting, serving, and retaining larger market share by meeting a broader range of user needs.
+While the term "accessibility" is focused on meeting the needs of people with disabilities, it is worth noting that accessible design also improves the user experience for older users, mobile users, new users, people with low literacy, and several other groups at risk of being marginalized. Usabilty studies show improved outcomes for organizations that become adept at attracting, serving, and retaining larger market share by meeting a broader range of user needs.
 
 ## Web Accessibility as a Performance Driver 
 
