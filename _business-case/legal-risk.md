@@ -4,7 +4,7 @@ title: "Minimize Legal Risk"
 order: 5
 ---
 
-Adherance to the law is a basic principle of good business. Business entities, and organizations of all types, monitor the legal environment in which they operate. Well managed businesses understand current legal statutes and relevance to their operation. It is common for successful enterprises to track legal trends, anticipate changes in the law that may impact their effectiveness, and safeguard their reputations by not violating legal norms. 
+Adherance to the law is a basic principle of good business. Business entities and organizations of all types monitor the legal environment in which they operate. Well managed businesses understand current legal statutes and relevance to their operation. It is common for successful enterprises to track legal trends, anticipate changes in the law that may impact their effectiveness, and safeguard their reputations by not violating legal norms. 
 
 @@@ will add slected text from previous "legal Aspects" section of previous version as well as references to research and artcles on EO Biz Case wiki page.
 
