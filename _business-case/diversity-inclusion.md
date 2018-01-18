@@ -4,18 +4,7 @@ title: "Support Diversity & Inclusion"
 order: 2
 ---
 
-
-The web is social. People all over the world are becoming more easily connected to one another. As more diverse people are connected, we all benefit. The Forbes Global Diversity and Inclusion Report documented as long ago as 2012 that diversity is good for business performance. Diversity initiatives at companies all over the world demonstrate that companies that prioritize diversity and inclusion:
-
-* Perform better financially,
-* Are more favorably viewed by wider groups of customers and vendors,
-* Have higher employee retention rates,
-* Enjoy greater customer loyalty,
-* Support firm internationalization
-
-Diversity means including the perspective and experience of people with disabilities. Accessible web sites are a necessary component of successful diversity initiatives.
-
-Web accessibility focuses on people with all types of disabilities - visual, auditory, physical, speech, cognitive, and neurological disabilities - including older people with age-related impairments.
+Many businesses have learned that they are stronger and more able to adapt to the rapidly changing modern world by fostering a culture of diversity — the appreciation and embrace of individual differences.  Most often used to refer to differences such as ethnicity, gender, age and religion, diversity should also encompass the range of individuals' unique attributes and abilities.  By embracing disability as a natural part of diversity, companies enhance and broaden their understanding of the world. 
 
 @@@ with selected text from Social Aspects of previous version as well as research and articles: 
 * [http://disability.law.uiowa.edu/lhpdc/publications/documents/BSL_JanFeb_2005/Disability_as_diversity.pdf Disability as Diversity in Fortune 100 Companies] Published online in Wiley InterScience (www.interscience.wiley.com). DOI: 10.1002/bsl.62  May, 2005
