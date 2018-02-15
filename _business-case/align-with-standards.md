@@ -4,7 +4,7 @@ title: "Align with Global Standards"
 order: 5
 ---
 
-## By Aligning Your Technology Properties with Global Web Standards, Accessibility is Good Business
+## Aligned with Global Web Standards, Accessibility is Good Business
 
 A Business Case for accessibility must demonstrate a return on investment. If a business invests the time and effort to integrate accessibility into its development processes, what is the ROI?  There is a preponderance of evidence that when businesses commit to a policy of integrating accessibility, not only do they avoid legal risk, increase market share, and drive innovation but also align to global standards that contribute their bottom line in unanticipated ways. Accessibility standards are part of the ecosystem of global web standards that provide ROI in these ways:
 
