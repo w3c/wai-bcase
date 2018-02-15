@@ -31,7 +31,8 @@ Legal risk is a strong driver for companies to commit to and maintain accessibil
 
 Countries around the globe are implementing the UN Convention through laws and government policies. In many countries, such laws extend beyond government sites and services to inlcude mandates for businesses that offer goods and services on the web. Learn more details of the legal lansdcape for web accessibility in the related article, linked below.
 
-[To avoid legal risk, accessibility is good business.]
+
+[To avoid legal risk, accessibility is good business.](https://github.com/w3c/wai-bcase/blob/master/_business-case/legal-risk.md)
 
 
 ### Support Diversity and Inclusion
