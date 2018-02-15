@@ -1,7 +1,7 @@
 ---
 resource: "Developing a Web Accessibility Business Case for Your Organization"
 title: "Support Diversity & Inclusion"
-order: 2
+order: 3
 ---
 
 Many businesses have learned that they are stronger and more able to adapt to the rapidly changing modern world by fostering a culture of diversity — the appreciation and embrace of individual differences.  Most often used to refer to differences such as ethnicity, gender, age and religion, diversity should also encompass the range of individuals' unique attributes and abilities.  By embracing disability as a natural part of diversity, companies enhance and broaden their understanding of the world. 
