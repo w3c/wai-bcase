@@ -1,5 +1,5 @@
 ---
-resource: "Developing a Web Accessibility Business Case for Your Organization"
+resource: "The Business Case for Accessibility"
 title: "Drive innovation"
 order: 3
 ---
