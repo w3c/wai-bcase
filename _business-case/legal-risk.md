@@ -16,7 +16,9 @@ Legal regulation began to increase however with the adoption in 2006 of the Unit
 With legal risks increasing, it is no wonder that smart businesses, particularly those with global activities, are creating accessiiblity policies and programs to mitigate risk in order to protect both their assets and their reputations. 
 
 ### Case Study
-A popular broadcast on US National Public Radio (NPR), This American Life is heard on more than 500 stations by about 2.1 million listeners each week. In 2011, in response to new FCC regulations around broadcast media, they committed to creating transcripts for their entire archive of recorded programs. A several month study conducted by their media partner concluded that the provision of transcipts not only met legal obligations but returned significant benefits inlcuding:
+
+A popular broadcast on US National Public Radio (NPR), This American Life is heard on more than 500 stations by about 2.1 million listeners each week. In 2011, in response to new FCC regulations around broadcast media, they committed to creating transcripts for their entire archive of recorded programs. A several month study conducted by their media partner concluded that the provision of transcipts not only met legal obligations but returned significant benefits including:
+
 # search traffic incread 6.86%,
 # better comprehension for visitors who know English as a second language,
 # visitors able to use transcripts in noisy or sound-sensitive environments,
