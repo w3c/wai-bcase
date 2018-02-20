@@ -19,16 +19,16 @@ With legal risks increasing, it is no wonder that smart businesses, particularly
 
 A popular broadcast on US National Public Radio (NPR), This American Life is heard on more than 500 stations by about 2.1 million listeners each week. In 2011, in response to new FCC regulations around broadcast media, they committed to creating transcripts for their entire archive of recorded programs. A several month study conducted by their media partner concluded that the provision of transcipts not only met legal obligations but returned significant benefits including:
 
-# search traffic incread 6.86%,
-# better comprehension for visitors who know English as a second language,
-# visitors able to use transcripts in noisy or sound-sensitive environments,
-# ability to more easily translate, and
-# ability to search text to reference a specific section of audio. 
+* search traffic increased 6.86%,
+* better comprehension for visitors who know English as a second language,
+* visitors able to use transcripts in noisy or sound-sensitive environments,
+* ability to more easily translate, and
+* ability to search text to reference a specific section of audio. 
 
 The study conducted over more than one year, used Google analytics to capture the following data:
-# visitor engagement increased 7.23%, 
-# unique visitors increased 4.18%, and
-# new inbound links to transcript accounted for increase of 3.89%
+* visitor engagement increased 7.23%, 
+* unique visitors increased 4.18%, and
+* new inbound links to transcript accounted for increase of 3.89%
 
 Read more detail and the full report of the [This American Life Case Study](https://www.3playmedia.com/customers/case-studies/this-american-life/) and how it was conducted. 
 
