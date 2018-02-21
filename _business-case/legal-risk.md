@@ -13,7 +13,7 @@ For much of the first decade of the 21st Century, the legal risk was seen to be 
 
 Legal regulation began to increase however with the adoption in 2006 of the United Nations Convention on the Rights of People with Disabilities (CRPD). By 2017, the CRPD had been ratified by more than 140 countries. The CRPD is a comprehensive human rights document that includes direct reference to the rights of all people to have equal access to communications technology. As a result, there is a global increase in legislation that further defines digital accessibility and creates enforcement mechanisms to ensure compliance with new laws. In addition, the many legal precedents in the United States continue to accumulate and the landscape is changing in favor of equal access. 
 
-With legal risks increasing, it is no wonder that smart businesses, particularly those with global activities, are creating accessiiblity policies and programs to mitigate risk in order to protect both their assets and their reputations. 
+With legal risks increasing, it is no wonder that smart businesses, particularly those with global activities, are creating accessiblity policies and programs to mitigate risk in order to protect both their assets and their reputations. 
 
 ### Case Study
 
