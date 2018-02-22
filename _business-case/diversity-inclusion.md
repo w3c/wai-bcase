@@ -16,5 +16,5 @@ Many businesses have learned that they are stronger and more able to adapt to th
 
 ### Further Reading
 * [Accessibility Self-Assessment Tool for Organizations](https://beyondcompliancetool.ca/) was created by the government of Ontario to help organziations develop a culture of accessibility that will deepen their commmitment to inclusion.
-* [I’m a coder. I’m also blind...](https://medium.freecodecamp.org/looking-back-to-what-started-it-all-731ef5424aec)
+* [I’m a coder. I’m also blind...](https://medium.freecodecamp.org/looking-back-to-what-started-it-all-731ef5424aec) A Vision of Coding, Without Opening your Eyes
 
