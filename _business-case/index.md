@@ -32,7 +32,7 @@ Legal risk is a strong driver for companies to commit to and maintain accessibil
 Countries around the globe are implementing the UN Convention through laws and government policies. In many countries, such laws extend beyond government sites and services to inlcude mandates for businesses that offer goods and services on the web. Learn more details of the legal lansdcape for web accessibility in the related article, linked below.
 
 
-[To avoid legal risk, accessibility is good business.](https://github.com/w3c/wai-bcase/blob/master/_business-case/legal-risk.md)
+[To avoid legal risk, accessibility is good business.](https://w3c.github.io/wai-bcase/business-case/legal-risk/)
 
 
 ### Support Diversity and Inclusion
@@ -45,7 +45,7 @@ The web is social. People all over the world are becoming more easily connected 
 
 Diversity means including the perspective and experience of people with disabilities. Accessible web sites are a necessary component of successful diversity initiatives. Background and additional research and examples of how accessibility helps meet diversity and inlcusion goals are found in the related article, linked below. 
 
-[To meet diversity and inclusion goals, accessibility is good business](https://github.com/w3c/wai-bcase/blob/master/_business-case/diversity-inclusion.md).
+[To meet diversity and inclusion goals, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/diversity-inclusion/).
 
 ### Drive Innovation
 Industry leaders understand that baked-in accessibility is an innovation driver – enabling elegant solutions to unanticipated problems. Historically, people with disabilities often drive innovation. Designing for disability introduces constraint, and embracing constraint spurs inventive solutions. Examples of people with disabilities leading advances in science, technology and other fields are numerous. Among the reasons to support integrating accessibility into design thinking are these:
@@ -57,7 +57,7 @@ Industry leaders understand that baked-in accessibility is an innovation driver 
 
 Accessible design is by nature flexible, allowing content to be able to be faithfully rendered across a broad spectrum of devices, platforms, assistive technologies, and operating systems. A business with accessible web sites and applications can increase its market share by several million people with disabilities – a market that Fortune magazine estimates at $200&nbsp;billion per year in the United States alone. For more examples and research about how accessibility drives innovation, read the companion article linked below.
 
-[To encourage and support innovation, accessibility is good business](https://github.com/w3c/wai-bcase/blob/master/_business-case/diversity-inclusion.md).
+[To encourage and support innovation, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/drive-innovation/).
 
 ### Align with Global Web Standards
 The adoption of web standards has long been established as the most effective way to:
@@ -69,7 +69,7 @@ The adoption of web standards has long been established as the most effective wa
 
 Businesses scramble to address growing markets, a broader audience, more browser diversity, and the expectation of increased speed while striving to also reduce the costs of maintaining or redesigning a web properties. Web standards are a strong ally in this challenge and web accessibility standards are part of the support network. For example, Accessible Design anticipated the now widely adopted practice of Responsive Design. Integration of accessibility into your company’s standard design, development, and QA processes minimizes development cost while maximizing market share. Read the related article, linked below for detailed benefits of standards conformance. 
 
-[To meet broad technology demands and align with global standards, accessibility is good business](https://github.com/w3c/wai-bcase/blob/master/_business-case/diversity-inclusion.md).
+[To meet broad technology demands and align with global standards, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/align-with-standards/).
 
 ## It all adds up
 These brief summaries only scratch the surface of the many ways that accessible design and development support an organization’s ability to increase markets, minimize costs, avoid legal risk, and support innovation. Read the related articles for relevant research and case studies that provide more detailed information to help you make a the case within your own organziation that accessibility is simply good business. 
