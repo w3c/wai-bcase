@@ -11,6 +11,9 @@ Many businesses have learned that they are stronger and more able to adapt to th
 ### Case Study
 
 ### WAI Resources
+* [Diversity of Web Users](https://www.w3.org/WAI/intro/people-use-web/diversity)
+* [Web Accessibilty Perspectives](https://www.w3.org/WAI/perspectives/)
 
 ### Further Reading
+* [Accessibility Self-Assessment Tool for Organizations](https://beyondcompliancetool.ca/) was created by the government of Ontario to help organziations develop a culture of accessibility that will deepen their commmitment to inclusion
 
