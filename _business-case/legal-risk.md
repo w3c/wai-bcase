@@ -6,6 +6,21 @@ order: 2
 
 ## To Avoid Legal Risk, Accessibility is Good Business
 
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="simple" %}
+{:/}
+
+For ease of discussion, the many business benefits of integrating accessibilty practice into the design and development of web sites and applications have been sorted here into a few broad categories. This article explores the ways that accessible design creates high quality content that will:
+* Minimize Legal Risk
+* Support Diversity and Inclusion
+* Drive Innovation
+* Align with Global Web Standards
+
+But this is just the start in helping you think about the topic in creative and expansive ways. Use these examples to build a customized approach for your own business, school, agency, or other type of organziation. Each introductory paragraph below links to a more detailed article on that specific aspect of the business benefits of web accessibility.  
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 Adherance to the law is a basic principle of good business. Business entities and organizations of all types monitor the legal environment in which they operate. Well managed businesses understand current legal statutes and relevance to their operation. It is common for successful enterprises to track legal trends, anticipate changes in the law that may impact their effectiveness, and safeguard their reputations by not violating legal norms. 
 
