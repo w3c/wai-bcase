@@ -28,5 +28,8 @@ The article ends as Anderson says “I’m passionate about accessibility, not j
 ### Related WAI Resources
 * [Diversity of Web Use](https://www.w3.org/WAI/intro/people-use-web/browsing) introduces techniques and tools that people with disabilities commonly use to interact with the Web. Faciliatating such use creates options for all users. 
 
-### Further Reading
+### Further Exploration
 * Dr. Cesar McDowell, President of Indiana University describes how designing for the margins results in stronger systems for everyone. [Design for the Margins at TEDx Indiana University](http://interactioninstitute.org/design-for-the-margins/)
+* Haben Girma on Linked In on how [People with Disabilities Drive Innovation](https://www.linkedin.com/pulse/people-disabilities-drive-innovation-haben-girma/)
+* [Forbes Innovation through Diversity report](https://i.forbesimg.com/forbesinsights/StudyPDFs/Innovation_Through_Diversity.pdf) study from 2011.
+
