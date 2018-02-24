@@ -22,6 +22,7 @@ A 2016 article from Co.Design, the newsletter of FastCompany magazine, is called
 * artificial intellegence advances based on research originally done to provide visual context to blind users
 * driverless cars, meant to support blind people, are projected to help solve traffic fatalities and congestion
 * machine learning, initally developed for auto-captioning for the deaf, is now being turned to broader applications
+
 The article ends as Anderson says “I’m passionate about accessibility, not just because I believe in a level playing field, but because (it) makes life more livable for everyone.” 
 
 ### Related WAI Resources
