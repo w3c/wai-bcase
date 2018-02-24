@@ -10,13 +10,13 @@ order: 2
 {% include box.html type="start" title="Summary" class="simple" %}
 {:/}
 
-For ease of discussion, the many business benefits of integrating accessibilty practice into the design and development of web sites and applications have been sorted here into a few broad categories. This article explores the ways that accessible design creates high quality content that will:
-* Minimize Legal Risk
-* Support Diversity and Inclusion
-* Drive Innovation
-* Align with Global Web Standards
+Legal risk is a strong driver for companies to commit to and maintain accessibility policies and standards. Among drivers for the legal aspect of a business case are these:
+* The [UN Convention on the Rights of Persons with Disabilities](http://www.un.org/disabilities/default.asp?navid=12&pid=150), adopted by the UN in 2006, explicitly references access to communications technology as a human right in the modern world. 
+* Ratified by more than 150 nations, the Convention is a powerful influence on the global legal and policy landscape related to web accessibility. 
+* In the United States, courts are interpreting the Americans with Disabilities Act to be applicable to the web.
+* Globally, accessibility is mandated by the European Accessibility Act and similar laws are in place or in progress in Canada, Japan, Australia and elsewhere. 
 
-But this is just the start in helping you think about the topic in creative and expansive ways. Use these examples to build a customized approach for your own business, school, agency, or other type of organziation. Each introductory paragraph below links to a more detailed article on that specific aspect of the business benefits of web accessibility.  
+Countries around the globe are implementing the UN Convention through laws and government policies. In many countries, such laws extend beyond government sites and services to inlcude mandates for businesses that offer goods and services on the web. 
 
 {::nomarkdown}
 {% include box.html type="end" %}
