@@ -43,7 +43,7 @@ The web is social. People all over the world are becoming more easily connected 
 * Enjoy greater customer loyalty,
 * Support firm internationalization
 
-Diversity means including the perspective and experience of people with disabilities. Accessible web sites are a necessary component of successful diversity initiatives. Background and additional research and examples of how accessibility helps meet diversity and inlcusion goals are found in the related article, linked below. 
+Diversity means including the perspective and experience of people with disabilities. Accessible web sites are a necessary component of successful diversity initiatives. Background and additional research and examples of how accessibility helps meet diversity and inclusion goals are found in the related article, linked below. 
 
 [To meet diversity and inclusion goals, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/diversity-inclusion/).
 
