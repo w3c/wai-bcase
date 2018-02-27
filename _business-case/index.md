@@ -20,7 +20,7 @@ For ease of discussion, the many business benefits of integrating accessibilty p
 * Drive Innovation
 * Align with Global Web Standards
 
-But this is just the start in helping you think about the topic in creative and expansive ways. Use these examples to build a customized approach for your own business, school, agency, or other type of organziation. Each introductory paragraph below links to a more detailed article on that specific aspect of the business benefits of web accessibility.  
+But this is just the start in helping you think about the topic in creative and comprehensive ways. Use these examples to build a customized approach for your own business, school, agency, or other type of organziation. Each introductory paragraph below links to a more detailed article on that specific aspect of the business benefits of web accessibility.  
 
 ### Minimize Legal Risk
 Legal risk is a strong driver for companies to commit to and maintain accessibility policies and standards. Among drivers for the legal aspect of a business case are these:
