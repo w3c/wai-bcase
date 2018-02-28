@@ -36,12 +36,12 @@ Countries around the globe are implementing the UN Convention through laws and g
 
 
 ### Support Diversity and Inclusion
-The web is social. More than ever, people are connected through technology. Increased connectivity promotes diversity, which is of tremendous benefit to society. In 2012, the Forbes Global Diversity and Inclusion Report documented that diversity is good for business performance. Diversity initiatives at companies all over the world demonstrate that companies that prioritize diversity and inclusion:
-* Perform better financially,
-* Are more favorably viewed by wider groups of customers and vendors,
-* Have higher employee retention rates,
-* Enjoy greater customer loyalty,
-* Support firm internationalization
+The web is social. More than ever, people are connected through technology and increased connectivity promotes diversity, which is of tremendous benefit to society. In 2012, the Forbes Global Diversity and Inclusion Report documented that diversity improves business performance. Diversity initiatives at companies all over the world are provide return on investment including the following demonstrated benefits. The Forbes study indicates that organizations with strong diversity initiatives:
+* perform better financially,
+* are more favorably viewed by wider groups of customers and vendors,
+* have higher employee retention rates,
+* enjoy greater customer loyalty, and
+* support firm internationalization.
 
 Diversity means including the perspective and experience of people with disabilities. Accessible web sites are a necessary component of successful diversity initiatives. Background and additional research and examples of how accessibility helps meet diversity and inclusion goals are found in the related article, linked below. 
 
