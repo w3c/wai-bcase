@@ -5,7 +5,7 @@ order: 4
 ---
 ### To Drive Innovation, Accessibility is Good Business
 
-Industry leaders understand that baked-in accessibility is an innovation driver – enabling elegant solutions to unanticipated problems. Historically, people with disabilities often drive innovation. Designing for disability introduces constraint, and embracing constraint spurs inventive solutions. Examples of people with disabilities leading advances in science, technology and other fields are numerous. Among the reasons to support integrating accessibility into design thinking are these:
+Industry leaders understand that accessibility is an innovation driver – enabling elegant solutions to unanticipated problems. Historically, people with disabilities often drive innovation. Designing for disability introduces constraint, and embracing constraint spurs inventive solutions. Examples of people with disabilities leading advances in science, technology and other fields are numerous. Among the reasons to support integrating accessibility into design thinking are these:
 * Removing architectural, digital and social barriers increases growth and sparks innovation.
 * Designing "for the margins" creates products that work more effectively for larger audiences.
 * Accessible design thinking introduces flexibility in interaction design that is useful beyond the disabled community.
