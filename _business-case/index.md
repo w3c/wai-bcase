@@ -36,7 +36,7 @@ Countries around the globe are implementing the UN Convention through laws and g
 
 
 ### Support Diversity and Inclusion
-The web is social. People all over the world are becoming more easily connected to one another. As more diverse people are connected, we all benefit. In 2012, the Forbes Global Diversity and Inclusion Report documented that diversity is good for business performance. Diversity initiatives at companies all over the world demonstrate that companies that prioritize diversity and inclusion:
+The web is social. More than ever, people are connected through technology. Increased connectivity promotes diversity, which is of tremendous benefit to society. In 2012, the Forbes Global Diversity and Inclusion Report documented that diversity is good for business performance. Diversity initiatives at companies all over the world demonstrate that companies that prioritize diversity and inclusion:
 * Perform better financially,
 * Are more favorably viewed by wider groups of customers and vendors,
 * Have higher employee retention rates,
