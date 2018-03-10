@@ -15,7 +15,7 @@ As companies implement accessibility and inclusion efforts, it is not unusual to
 
 ### WAI Resources
 * [Accessibility, Usability, and Inclusion](https://w3c.github.io/wai-website/fundamentals/accessibility-usability-inclusion/)
-* [Diversity of Web Users](https://www.w3.org/WAI/intro/people-use-web/diversity)
+* [Diversity of Web Users]({{ "/people-use-web/abilities-barriers/" | relative_url }})
 * [Web Accessibilty Perspectives](https://www.w3.org/WAI/perspectives/)
 
 ### Further Reading

@@ -26,7 +26,7 @@ A 2016 article from Co.Design, the newsletter of FastCompany magazine, is called
 The article ends as Anderson says “I’m passionate about accessibility, not just because I believe in a level playing field, but because (it) makes life more livable for everyone.” 
 
 ### Related WAI Resources
-* [Diversity of Web Use](https://www.w3.org/WAI/intro/people-use-web/browsing) introduces techniques and tools that people with disabilities commonly use to interact with the Web. Faciliatating such use creates options for all users. 
+* [Diversity of Web Use]({{ "/people-use-web/tools-techniques/" | relative_url }}) introduces techniques and tools that people with disabilities commonly use to interact with the Web. Faciliatating such use creates options for all users. 
 
 ### Further Exploration
 * Dr. Cesar McDowell, President of Indiana University describes how designing for the margins results in stronger systems for everyone. [Design for the Margins at TEDx Indiana University](http://interactioninstitute.org/design-for-the-margins/)
