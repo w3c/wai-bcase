@@ -27,7 +27,7 @@ Legal risk is a strong driver for companies to commit to and maintain accessibil
 
 
 ### Support Diversity and Inclusion
-The web is social. More than ever, people are connected through technology and studies show that increased connectivity promotes diversity, which is of tremendous benefit to business. Background, additional research and examples of how accessibility helps meet diversity and inclusion goals are found in the related article. [To meet diversity and inclusion goals, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/diversity-inclusion/).
+The web is social. More than ever, people are connected through technology and studies show that increased connectivity promotes diversity, which is of tremendous benefit to business and their Corporate Social Responsibility efforts. Background, additional research and examples of how accessibility helps meet diversity and inclusion goals are found in the related article. [To meet diversity and inclusion goals, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/diversity-inclusion/).
 
 ### Drive Innovation
 Industry leaders understand that accessibility can be an innovation driver – enabling elegant solutions to unanticipated problems. For examples and research about how accessibility drives innovation, read the companion article.  [To encourage and support innovation, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/drive-innovation/).
