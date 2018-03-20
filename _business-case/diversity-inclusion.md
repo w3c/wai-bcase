@@ -10,8 +10,16 @@ Many businesses have learned that they are stronger and more able to adapt to th
 
 As companies implement accessibility and inclusion efforts, it is not unusual to encounter resistance. People who have no direct experience with disability may not see the importance of dedicating valuable resources to implementing digital accessibility. They may have trouble understanding the relevance and may even feel threatened. Integrating accessibility into a larger narrative of diversity and inclusion can help diffuse some fears, but leaders should not lose sight of the distinct access needs that must be met to succeed in disability inclusion. One of the surest ways to demonstrate the value of the accessibility effort is to ensure that people with disabilities are fully integrated into the workplace as colleagues.  
 
-### Case Study
-@@@ Tim Horton's restaurant chain, 6 stores in Toronto. 210 employees, 33 with disabilities. Served in all capacities from line servers to managers. Average employee turnover for this chain was 75-80% each year, but these franchises had only 38%. Enormous cost savings annually. Surveys showed that the disabilty inclusion effort made all employees - including those who had no disability - feel part of something special, that they were working with employer who cared. Production teams that included people with disabilities excelled, stores had a broader cusomer base, increased customer loyalty, were more profitable.[Mark Wafer Testimonial](https://www.youtube.com/watch?v=E1ovIrGwgHM)@@@
+### Case Study - Canadian Restaurant Chain
+Wile this is not specific to digital inclusion, it is an illustration of how the integration of people with disabilities into a workforce has made a company stronger. Tim Horton's restaurant chain includes six stores in Toronto that are managed by Mark Wafer, a franchisee with a commitment to inclusion.  His store employee 210 people, 33 of whom have a disability. Disabled employees serve in all capacities - from line servers to managers. Compare his employment outcomes to the rest of the Tim Horton's chain:
+* Average employee turnover company wide is 75-80% each year yet these stores have only 38% turnover
+* Cost savings annually is enormous since he estimates $4000 per employee onboarding
+* Employees surveys demonstrated that that the disabilty inclusion effort made all employees - including those who had no disability - feel part of something special
+* Employee opinion of was that they were working with employer who cared - increased loyalty to the compnay.
+* Production teams that included people with disabilities excelled
+* Stores broadened customer base, increased customer loyalty, were more profitable.
+
+The [Mark Wafer Testimonial video](https://www.youtube.com/watch?v=E1ovIrGwgHM) is clear indication that this employer's understanding is that he has made a good business decision. 
 
 ### WAI Resources
 * [Accessibility, Usability, and Inclusion](https://w3c.github.io/wai-website/fundamentals/accessibility-usability-inclusion/)
