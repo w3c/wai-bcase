@@ -1,7 +1,7 @@
 ---
 resource: "The Business Case for Accessibility"
 title: "Align with Global Standards"
-order: 5
+order: 4
 ---
 
 ## Aligned with Global Web Standards, Accessibility is Good Business
