@@ -1,7 +1,7 @@
 ---
 resource: "The Business Case for Accessibility"
 title: "Minimize Legal Risk"
-order: 2
+order: 5
 ---
 
 ## To Avoid Legal Risk, Accessibility is Good Business
