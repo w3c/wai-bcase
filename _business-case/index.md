@@ -17,7 +17,7 @@ The term "accessibility" defines ways to meet the specific needs of people with 
 For ease of discussion, the many business benefits of integrating accessibilty practice into the design and development of web sites and applications have been sorted here into a few broad categories. This article explores the ways that accessible design creates high quality content that will:
 * Drive Innovation
 * Support Diversity and Inclusion
-* Align with Global Web Standards
+* Reduce Costs 
 * Minimize Legal Risk
 
 And this is just the start in helping you think about accessibility in creative and comprehensive ways. Use these introductory examples to build a customized approach for your own business, school, agency, or other type of organization. 
@@ -28,8 +28,8 @@ Industry leaders understand that accessibility can be an innovation driver – e
 ### Support Diversity and Inclusion
 The web is social. More than ever, people are connected through technology and studies show that increased connectivity promotes diversity, which is of tremendous benefit to business and their Corporate Social Responsibility efforts. Background, additional research and examples of how accessibility helps meet diversity and inclusion goals are found in the related article. [To meet diversity and inclusion goals, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/diversity-inclusion/).
 
-### Align with Global Web Standards
-The adoption of web standards has long been established as the most effective way to accomplish broad goals with a unified effort. For details of technical benefits realized by businesses that conform to standards, read the related article. [To meet broad technology demands and align with global standards, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/align-with-standards/).
+### Reduce Costs
+Adopting global web standards and integrating them into project planning and development processes is a cost effective way to accomplish accessiblity goals, improve satisfaction among all users, and attract and retain customers. For details of cost benefits realized by businesses that integrate accessibility, read the related article. [To meet broad technology demands and save money, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/align-with-standards/).
 
 ### Minimize Legal Risk
 Legal risk is a strong driver for companies to commit to and maintain accessibility policies and standards. Further discussion of the legal lansdcape for web accessibility is found in this realted article. [To avoid legal risk, accessibility is good business.](https://w3c.github.io/wai-bcase/business-case/legal-risk/)
