@@ -1,6 +1,6 @@
----
+e---
 resource: "The Business Case for Accessibility"
-title: "Reduce Costs"
+title: "Increase Market Share"
 order: 4
 ---
 
