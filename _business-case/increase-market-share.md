@@ -4,7 +4,7 @@ title: "Increase Market Share"
 order: 4
 ---
 
-## To Help Reduce Costs, Accessibility is Good Business
+## To Increase Market Share, Accessibility is Good Business
 
 A Business Case for accessibility must demonstrate a return on investment. If a business invests the time and effort to integrate accessibility into its development processes, what is the ROI?  There is a preponderance of evidence that when businesses commit to a policy of integrating accessibility, not only do they avoid legal risk, increase market share, and drive innovation but also reduce development and remediation costs. Businesses find that integrating accessibility standards into project development requirements will contribute to their bottom line in unanticipated ways. Integration of accessibility standards has been shown to provide ROI in these ways:
 
