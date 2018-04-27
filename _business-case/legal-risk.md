@@ -23,8 +23,6 @@ Countries around the globe are implementing the UN Convention through laws and g
 {:/}
 
 ### Legal Landscape
-Adherance to the law is a basic principle of good business. Business entities and organizations of all types monitor the legal environment in which they operate. Well managed businesses understand current legal statutes and relevance to their operation. It is common for successful enterprises to track legal trends, anticipate changes in the law that may impact their effectiveness, and safeguard their reputations by not violating legal norms. 
-
 For much of the first decade of the 21st Century, the legal risk was seen to be relatively small for maintaining an inaccessible web site. Change occured relatively slowly:
 * Early 2000s in the US, a few legal actions related to inaccessible websites based on the Americans with Disabilities Act (ADA) and Section 508 of the Rehabilitation Act for US government entities. 
 * Complaint put to the Human Rights and Equal Opportunities Commission (HREOC) in 2000 about inaccessibility of Sydney Olympics claimed violation of  Commonwealth Disability Discrimination Act 1992 (Cth DDA). 
