@@ -6,14 +6,16 @@ order: 4
 
 ## To Increase Market Share, Accessibility is Good Business
 
-A Business Case for accessibility must demonstrate a return on investment. If a business invests the time and effort to integrate accessibility into its development processes, what is the ROI?  There is a preponderance of evidence that when businesses commit to a policy of integrating accessibility, not only do they avoid legal risk, increase market share, and drive innovation but also reduce development and remediation costs. Businesses find that integrating accessibility standards into project development requirements will contribute to their bottom line in unanticipated ways. Integration of accessibility standards has been shown to provide ROI in these ways:
+Everyone has a disability at some time in their lives. A temporary injury, age related impairment, or specific disabling situation such as sun glare on a screen will impact how users interact with web sites and applications. Companies that integrate accessibility into project requirements and quality assurance testing will reach larger markets and provide more satisfying user experience for all of their customers and other stakeholders.
 
-* Faciliate team collaboration -  @@@teams have  common understanding, consistent documentation, measurement against standards as insurance of  quality  of site quality requirements @@@ 
-* Maintain high quality -  Sites built using web standards, processes and practices perform far better for every single metric. They load faster, they are easy to find in search engines, and they package and deliver content effectively. [citation]
-* Allow automated tool monitoring
-* Interoperability
+The market of people with disabilities is large and growing as the global population ages.
+* One billion people, 15% of the world's population have a recognized disability (source: [http://www.worldbank.org/en/topic/disability] The World Bank)
 
-### Case Study
+* In countries with life expectancies over 70 years of age, people spend on average about 8 years, or 11.5 per cent of their life span, living with disabilities.
+
+
+
+### Case Study - Barclay's Bank
 
 ### Related WAI Resources
 
