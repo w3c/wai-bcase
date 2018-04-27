@@ -1,4 +1,4 @@
-e---
+---
 resource: "The Business Case for Accessibility"
 title: "Increase Market Share"
 order: 4
