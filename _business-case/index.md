@@ -14,25 +14,25 @@ The term "accessibility" defines ways to meet the specific needs of people with 
 
 ## Web Accessibility is a Performance Driver 
 
-For ease of discussion, the many business benefits of integrating accessibilty practice into the design and development of web sites and applications have been sorted here into a few broad categories. This article explores the ways that accessible design creates high quality content that will:
+The many business benefits of integrating accessibilty practice into the design and development of web sites and applications have been sorted here into a few broad categories. We explore the ways that accessible design supports high quality delivery sysytems that will:
 * Drive Innovation
 * Support Diversity and Inclusion
 * Reduce Costs 
 * Minimize Legal Risk
 
-And this is just the start in helping you think about accessibility in creative and comprehensive ways. Use these introductory examples to build a customized approach for your own business, school, agency, or other type of organization. 
+We invite you to use these introductory examples to build a customized approach for your own business, school, agency, or other type of organization. 
 
 ### Drive Innovation
-Industry leaders understand that accessibility can be an innovation driver – enabling elegant solutions to unanticipated problems. For examples and research about how accessibility drives innovation, read the companion article.  [To encourage and support innovation, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/drive-innovation/).
+Industry leaders are finding accessibility to be an innovation driver – enabling elegant solutions to unanticipated problems. For examples and research about how accessibility drives innovation, read the companion article.  [To encourage and support innovation, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/drive-innovation/).
 
 ### Support Diversity and Inclusion
-The web is social. More than ever, people are connected through technology and studies show that increased connectivity promotes diversity, which is of tremendous benefit to business and their Corporate Social Responsibility efforts. Background, additional research and examples of how accessibility helps meet diversity and inclusion goals are found in the related article. [To meet diversity and inclusion goals, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/diversity-inclusion/).
+In a global marketplace, companies find that a commitment to diversity and inclusion strengthens thier brand and increases customer loyalty and employee retention. Examples of how accessibility helps meet diversity and inclusion goals are found in the related article. [To meet diversity and inclusion goals, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/diversity-inclusion/).
 
 ### Reduce Costs
-Adopting global web standards and integrating them into project planning and development processes is a cost effective way to accomplish accessiblity goals, improve satisfaction among all users, and attract and retain customers. For details of cost benefits realized by businesses that integrate accessibility, read the related article. [To meet broad technology demands and save money, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/align-with-standards/).
+Accessibility efforts may begin as companies try to reduce legal risks or simply because they feel it is the right thing to do. Often the cost reduction associated with accessibility integration provides an added bonus. [To meet broad technology demands and save money, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/align-with-standards/).
 
 ### Minimize Legal Risk
-Legal risk is a strong driver for companies to commit to and maintain accessibility policies and standards. Further discussion of the legal lansdcape for web accessibility is found in this realted article. [To avoid legal risk, accessibility is good business.](https://w3c.github.io/wai-bcase/business-case/legal-risk/)
+Legal risk is a strong driver for companies to commit to and maintain accessibility policies and standards. Further discussion of the legal lansdcape for web accessibility is found in this related article. [To avoid legal risk, accessibility is good business.](https://w3c.github.io/wai-bcase/business-case/legal-risk/)
 
 
 ## Share your experience
