@@ -41,7 +41,7 @@ collections:
     name: "Business Case"
     shortname: "Business Case"
     icon: "book" # TODO
-    repostitory: w3c/wai-bcase
+    repository: w3c/wai-bcase
     output: true
     acknowledgements: false
     permalink: /:collection/:path/
