@@ -1,11 +1,10 @@
 ---
-resource: "Developing a Web Accessibility Business Case for Your Organization"
+resource: "Accessibility is Good Business"
 title: "Resources"
 order: 6
 ---
 
-This page is an appendix to [Developing a Web Accessibility Business
-Case for Your Organization](../bcase/Overview).
+These are some of the artilces and sources we found in researching why [Accessibility is Good Business](../bcase/Overview).
 
 *Resources are for information purposes only, no endorsement is
 implied.*
@@ -23,6 +22,7 @@ implied.*
 ## Case Studies of Accessibility Improvements
 {:#cases}
 
+-   **Public Statements About Creating Accessibility Culture** - [Article from Lainey Feingold](http://www.lflegal.com/2018/05/accessibility-culture/#Public-Statements-about-Digital-Accessibility-Culture)
 -   **Legal & General Group** - doubled visitor numbers, cut maintenance
     costs by two thirds, increased natural search traffic by 50%. [Read
     the Legal & General case study](legal-and-general-case-study).
