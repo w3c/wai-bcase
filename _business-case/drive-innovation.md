@@ -3,9 +3,20 @@ resource: "The Business Case for Accessibility"
 title: "Drive innovation"
 order: 2
 ---
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="simple" %}
+{:/}
+
+Industry leaders understand that accessibility can be an innovation driver – enabling elegant solutions to unanticipated problems. Historically, people with disabilities often drive innovation due to the inherant need they have to innovate in order to participate in a society not designed to meet their needs. Examples of people with disabilities leading advances in science, technology and other fields are numerous. As well, designing for disability introduces constraint, and solving for constraint spurs inventive solutions.  
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+
 ### To Drive Innovation, Accessibility is Good Business
 
-Industry leaders understand that accessibility is an innovation driver – enabling elegant solutions to unanticipated problems. Historically, people with disabilities often drive innovation. Designing for disability introduces constraint, and embracing constraint spurs inventive solutions. Examples of people with disabilities leading advances in science, technology and other fields are numerous. Among the reasons to support integrating accessibility into design thinking are these:
+Studies demonstrate that integrating accessibility support innovation in these ways:
 * Removing architectural, digital and social barriers increases growth and sparks innovation.
 * Designing "for the margins" creates products that work more effectively for larger audiences.
 * Accessible design thinking introduces flexibility in interaction design that is useful beyond the disabled community.
