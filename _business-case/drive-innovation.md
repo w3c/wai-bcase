@@ -7,7 +7,7 @@ order: 2
 {% include box.html type="start" title="Summary" class="simple" %}
 {:/}
 
-Industry leaders understand that accessibility can be an innovation driver – enabling elegant solutions to unanticipated problems. Historically, people with disabilities often drive innovation due to the inherant need they have to improvise in order to participate in a society not designed to meet their needs. Examples of people with disabilities leading advances in science, technology and other fields are numerous. As well, designing for disability introduces constraint, and solving for constraint spurs inventive solutions.  
+Industry leaders understand that accessibility can be an innovation driver – enabling elegant solutions to unanticipated problems. Historically, people with disabilities often drive innovation due to the fact that many posess an elevated level of creativity and problem-solving that has been naturally developed to overcome daily challenges. Examples of people with disabilities leading advances in science, technology and other fields are numerous. As well, designing for disability introduces constraint, and solving for constraint spurs inventive solutions.  
 
 {::nomarkdown}
 {% include box.html type="end" %}
