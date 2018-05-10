@@ -4,6 +4,7 @@ title: "Increase Market Reach"
 order: 4
 ---
 {::nomarkdown} {% include box.html type="start" title="Summary" class="simple" %} {:/}
+
 Everyone has a disability at some time in their lives. A temporary injury, age related impairment, or specific disabling situation such as sun glare on a screen will impact how users interact with web sites and applications. Companies that integrate accessibility into project requirements and quality assurance testing will reach larger markets and provide more satisfying user experience for all of their customers and other stakeholders.
 
 {::nomarkdown} {% include box.html type="end" %} {:/}
