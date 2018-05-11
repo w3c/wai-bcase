@@ -59,6 +59,7 @@ Read more detail and the full report of the [This American Life Case Study](http
 ### Further Reading
 * [Digital Accessibility Laws Around the Globe](http://www.lflegal.com/2013/05/gaad-legal/#United-Nations-Treaties) 
 * [Website Accessibility Lawsuit Filings Still Going Strong](https://www.adatitleiii.com/2017/08/website-accessibility-lawsuit-filings-still-going-strong)
+* [2017 Website Accessibility Lawsuit Recap: A Tough Year for Businesses](https://www.adatitleiii.com/2018/01/2017-website-accessibility-lawsuit-recap-a-tough-year-for-businesses/)
 
 
 
