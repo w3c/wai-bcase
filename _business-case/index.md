@@ -14,13 +14,13 @@ The term "accessibility" defines ways to meet the specific needs of people with 
 
 ## Web Accessibility is a Performance Driver 
 
-The many business benefits of integrating accessibilty practice into the design and development of web sites and applications have been sorted here into a few broad categories. We explore the ways that accessible design supports high quality delivery sysytems that will:
-* Drive Innovation
-* Support Diversity and Inclusion
-* Reduce Costs 
-* Minimize Legal Risk
+The many business benefits of integrating accessibilty practice into the design and development of web sites and applications have been sorted here into a few broad categories. The following artciles explore the ways that accessible design supports high quality delivery sysytems that will:
+* Drive innovation
+* Support diversity and inclusion
+* Increase market reach
+* Minimize legal risk
 
-We invite you to use these introductory examples to build a customized approach for your own business, school, agency, or other type of organization. 
+Supplemental resources document additional benefits such as enhanced respect for your brand, alignment to global standards that facilitate internationalization, and increased customer retention. We invite you to use these introductory examples to build a customized approach for your own business, school, agency, or other type of organization. 
 
 ### Drive Innovation
 Industry leaders are finding accessibility to be an innovation driver – enabling elegant solutions to unanticipated problems. For examples and research about how accessibility drives innovation, read the companion article.  [To encourage and support innovation, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/drive-innovation/).
