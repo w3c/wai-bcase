@@ -28,8 +28,8 @@ Industry leaders are finding accessibility to be an innovation driver – enabli
 ### Support Diversity and Inclusion
 In a global marketplace, companies find that a commitment to diversity and inclusion strengthens thier brand and increases customer loyalty and employee retention. Examples of how accessibility helps meet diversity and inclusion goals are found in the related article. [To meet diversity and inclusion goals, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/diversity-inclusion/).
 
-### Increase Market Share
-Globally, the extended market of people with disabilities and their immediate community is estimated at 2.3 billion people who control an estimated $6.9 trillion in annual disposable income. [To meet the needs of a large and growing market, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/increase-market-share/).
+### Increase Market Reach
+Globally, the extended market of people with disabilities and their immediate community is estimated at 2.3 billion people who control an estimated $6.9 trillion in annual disposable income. [To meet the needs of a large and growing market, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/increase-market-reach/).
 
 ### Minimize Legal Risk
 Legal risk is a strong driver for companies to commit to and maintain accessibility policies and standards. Further discussion of the legal lansdcape for web accessibility is found in this related article. [To avoid legal risk, accessibility is good business.](https://w3c.github.io/wai-bcase/business-case/legal-risk/)
