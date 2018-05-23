@@ -1,6 +1,6 @@
 ---
 title: "[an idea for] The Business Case for Web Accessibility"
-permalink: /business-case/alt/
+permalink: /alt/
 layout: default
 github:
  repository: w3c/wai-bcase
