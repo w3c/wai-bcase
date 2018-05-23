@@ -16,7 +16,7 @@ The term "accessibility" defines ways to meet the specific needs of people with 
 
 The many business benefits of integrating accessibilty practice into the design and development of web sites and applications have been sorted here into a few broad categories. This series of articles explores and provides case studies for the ways that accessible design supports high quality delivery sysytems that will:
 * Drive innovation,
-* Support diversity and inclusion,
+* Enhance your brand,
 * Increase market reach, and
 * Minimize legal risk
 
