@@ -1,6 +1,6 @@
 ---
 resource: "The Business Case for Accessibility"
-title: "Support Diversity & Inclusion"
+title: "Enhance your brand"
 order: 3
 ---
 {::nomarkdown}
@@ -14,7 +14,7 @@ Many businesses have learned that they are stronger and more able to adapt to th
 {:/}
 
 
-## To Meet Diversity Goals, Accessibility is Good Business. 
+## To Enhance Your Brand, Accessibility is Good Business. 
 The web is social. More than ever, people are connected through technology and increased connectivity promotes diversity, which is of tremendous benefit to society. In 2012, the Forbes Global Diversity and Inclusion Report documented that diversity improves business performance. Diversity initiatives at companies all over the world provide return on investment including the following demonstrated benefits. Companies with strong diversity programs:
 * perform better financially,
 * are more favorably viewed by wider groups of customers and vendors,
