@@ -1,13 +1,14 @@
 ---
 title: "[an idea for] The Business Case for Web Accessibility"
-permalink: @@
+permalink: /business-case/alt/
+layout: default
 github:
- repository: @@
+ repository: w3c/wai-bcase
 footer: > # Text in footer in HTML
  <p><strong>Date: DRAFT $date$</strong> Updated 00 Month 2000. First published 00 Month 2000.</p>
  <p><strong>Editors:</strong> Sharron Rush. Previous editors: <a href="https://www.w3.org/People/Shawn" shape="rect">Shawn Lawton Henry</a>, Andrew Arch, and Judy Brewer. <a href="https://www.w3.org/WAI/bcase/ack.html" shape="rect">Acknowledgements</a> lists additional contributors.</p>
  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously updated as part of <a href="https://www.w3.org/WAI/WAI-AGE/Overview.html" shape="rect">WAI-AGE Project</a> funded by the European Commission under the FP6 IST Programme.</p>
- ---
+---
 
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
