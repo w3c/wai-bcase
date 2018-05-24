@@ -48,10 +48,10 @@ This page provides succinct points for the business case for web accessibility. 
 {% include toc.html type="end" %}
 {:/}
 
-Testing references.[^7]
+_Editors Note: This is a rough draft idea.[^7] The language is not complete or polished._[^test2]
+
 [^7]: This is a test reference!
 
-Testing references.[^test2]
 [^test2]: This is a yet another test reference…
 
 
