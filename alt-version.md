@@ -11,6 +11,8 @@ footer: > # Text in footer in HTML
  
 ---
 
+_Editors Note: This is a rough draft idea. The language is not quite complete and not yet polished._
+
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
@@ -40,7 +42,7 @@ This page provides succinct points for the business case for web accessibility. 
  <li><strong><a href="#lower-expenses">Decrease Expenses</a></strong></li>
  <li><strong><a href="#risk">Minimize Financial and Legal Risk</a></strong><a href="#risk"></a></li>
  <li><a href="#more">Case Studies and Resources</a></li>
-<li><a href="#ref"> References</a></li>
+<li><a href="#ref">References</a></li>
  </ul>
 
 {:toc}
@@ -49,20 +51,12 @@ This page provides succinct points for the business case for web accessibility. 
 {% include toc.html type="end" %}
 {:/}
 
-_Editors Note: This is a rough draft idea.[^7] The language is not complete or polished._[^test2]
-
-[^7]: This is a test reference!
-
-[^test2]: This is a yet another test reference…
-
-
 <h2 id="intro">Introduction</h2>
 <p>The justification to commit resources to a project is often called a "business case". Business cases usually document an analysis of a project's value in meeting the organization's objectives, the cost-benefit analysis, and the expected outcomes.</p>
 <p><strong>Note:</strong> &quot;Websites&quot; through this document includes web applications and is applicable to other digital technology.</p>
 
 <h3 id="allusers">Accessibility Benefits All Users</h3>
-Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. Web accessibility also benefits people <em>without</em> disabilities[^1]. For example:
-[^without]
+Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. Web accessibility also benefits people <em>without</em> disabilities[^without]. For example:
 <ul>
  <li>people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.</li>
  <li>older people with changing abilities due to ageing</li>
@@ -71,9 +65,7 @@ Web accessibility means that websites, tools, and technologies are designed and 
  <li>people using a slow Internet connection, or who have limited or expensive bandwidth, which is common in some rural areas and geographical regions</li>
  </ul>
 
-[^without]: without-Specific examples of how accessibility requirements benefit users without disabilities are in [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc.html#groups).
-
-[^1]: 1-Specific examples of how accessibility requirements benefit users without disabilities are in [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc.html#groups).
+[^without]: Specific examples of how accessibility requirements benefit users without disabilities are in [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc.html#groups).
 
 <p>This 7&#189;-minute video shows the impact of accessibility and the benefits for everyone in a variety of situations:</p>
 <iframe title="Video" width="560" height="315" src="https://www.youtube-nocookie.com/embed/3f31oufqFSM" allowfullscreen=""></iframe>
@@ -90,22 +82,32 @@ Web accessibility means that websites, tools, and technologies are designed and 
 {% include_cached excol.html type="end" %}
 
 <h2 id="brand">Impact Brand Reputation</h2>
-<p>Accessibility can significantly impact your organization's reputation.</p>
-<p>An accessible website can garner positive attention from people with disabilities and others. It can get accolades as being a high quality website that meets international web standards. [^wcag]< p>
+
+Accessibility can significantly impact your organization's reputation.
+
+An accessible website can garner positive attention from people with disabilities and others. It can get accolades as being a high quality website that meets international web standards. [^wcag]
+
 [^wcag]: The international web standard Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag.php">WCAG</a>) from the World Wide Web Consortium (W3C) is also <a href="https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/">ISO/IEC 40500</a>.
-<p>Some organizations actively promote their accessibility as a @@...key promotion of how good they are…. [ref:  Barclays and others]</p>
-<p>Conversely, if an organization's website has accessibility problems, it can get negative publicity from news publications and on social media.</p>
+
+Some organizations actively promote their accessibility as a business differentiator.  [ref:  Barclays and others]
+
+Conversely, if an organization's website has accessibility problems, it can get negative publicity from news publications and on social media.
 
 <h2 id="ux">Impact Customer Satisfaction</h2>
 <p>Accessibility can positively impact how satisfied users are with your website &mdash; including users with disabilities and without disabilities.</p>
 <p>Conversely, accessibility problems will likely negatively impact user satisfaction for people with disabilities and for people without disabilities in various situations such as using their phone in bright sunlight and others in <a href="#allusers"> Accessibility Benefits All Users above</a>.</p>
 
 <h2 id="market">Increase Market Reach</h2>
-<p>Globally, the extended market of people with disabilities and their immediate community is estimated at 2.3 billion people, who control an estimated $6.9 trillion in annual disposable income.[^stats]</p>
+
+Globally, the extended market of people with disabilities and their immediate community is estimated at 2.3 billion people, who control an estimated $6.9 trillion in annual disposable income.[^stats]
+
 [^stats]: Statistics from <a href="https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#3fe3d1d8788e">Forbes.com : Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too</a>
-<p>Older users are an important target audience for many websites. Accessible websites work better for &quot;seniors&quot; and elderly people. [^older] </p>
+
+Older users are an important target audience for many websites. Accessible websites work better for &quot;seniors&quot; and elderly people. [^older] 
+
 [^older]: Examples of how accessibility requirements improve the user experience of older users is in [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/).
-<p>Accessible websites also reach people <em>without</em> disabilities in various situations, such as those in <a href="#allusers">Accessibility Benefits All Users above</a>.</p>
+
+Accessible websites also reach people <em>without</em> disabilities in various situations, such as those in <a href="#allusers">Accessibility Benefits All Users above</a>.
 
 <h2 id="inclusion">Support Diversity and Inclusion</h2>
 <p>Many organizations realize the benefits of a diverse and inclusive workforce. To support employees with disabilities, the technology that employees use needs to be accessible, including websites and applications.</p>
@@ -114,12 +116,13 @@ Web accessibility means that websites, tools, and technologies are designed and 
 <p>Designing products to meet the needs of people with disabilities often leads to innovative solutions that work better for all users. [reference]</p>
 
 <h2 id="lower-expenses">Decrease Expenses</h2>
-<p>Accessible websites can decrease expenses.[^2] For example:</p>
+Accessible websites can decrease expenses.[^2] For example:
 <ul>
  <li>Decrease cost of alternative format materials</li>
  <li>Decrease cost of translating material</li>
  <li>Decrease personnel costs</li>
  </ul>
+
 [^2]: Specific examples of how accessibility can decrease expenses are in [Direct Cost Savings]( https://www.w3.org/WAI/bcase/fin#direct).
 
 <h2 id="risk">Minimize Financial and Legal Risk</h2>
@@ -130,7 +133,7 @@ Web accessibility means that websites, tools, and technologies are designed and 
 
 {% include_cached excol.html type="start" id="more" %}
 
-<h2>Case Studies, Resources, and References</h2>
+<h2>Case Studies and Resources</h2>
 
 {% include_cached excol.html type="middle" %}
 ... [categorized links]…
