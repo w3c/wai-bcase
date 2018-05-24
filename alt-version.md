@@ -56,7 +56,10 @@ This page provides succinct points for the business case for web accessibility. 
 <p><strong>Note:</strong> &quot;Websites&quot; through this document includes web applications and is applicable to other digital technology.</p>
 
 <h3 id="allusers">Accessibility Benefits All Users</h3>
-Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. Web accessibility also benefits people <em>without</em> disabilities[^without]. For example:
+
+Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them.
+
+Web accessibility also benefits people <em>without</em> disabilities[^without]. For example:
 <ul>
  <li>people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.</li>
  <li>older people with changing abilities due to ageing</li>
@@ -89,8 +92,10 @@ An accessible website can garner positive attention from people with disabilitie
 
 [^wcag]: The international web standard Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag.php">WCAG</a>) from the World Wide Web Consortium (W3C) is also <a href="https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/">ISO/IEC 40500</a>.
 
-Some organizations actively promote their accessibility as a business differentiator.  [ref:  Barclays and others]
+Some organizations actively promote accessibility as a business differentiator.[^promo]
 
+[^promo]: @@ Sharron's write up, Barclays case study, maybe Lainey's list…
+ 
 Conversely, if an organization's website has accessibility problems, it can get negative publicity from news publications and on social media.
 
 <h2 id="ux">Impact Customer Satisfaction</h2>
@@ -110,10 +115,16 @@ Older users are an important target audience for many websites. Accessible websi
 Accessible websites also reach people <em>without</em> disabilities in various situations, such as those in <a href="#allusers">Accessibility Benefits All Users above</a>.
 
 <h2 id="inclusion">Support Diversity and Inclusion</h2>
-<p>Many organizations realize the benefits of a diverse and inclusive workforce. To support employees with disabilities, the technology that employees use needs to be accessible, including websites and applications.</p>
+Many organizations realize the benefits of a diverse and inclusive workforce. [^dni] To support employees with disabilities, the technology that employees use needs to be accessible, including websites and applications.
+
+[^dni]: For information about the business benefits of diversity and inclusion, see [@@ Sharron's write up on diversity and inclusion](@@)
+
 
 <h2 id="innovation">Drive Innovation</h2>
-<p>Designing products to meet the needs of people with disabilities often leads to innovative solutions that work better for all users. [reference]</p>
+
+Designing products to meet the needs of people with disabilities often leads to innovative solutions that work better for all users. [^innovation]
+
+[^innovation]: For information about accessibility driving innovation, see [info such as https://w3c.github.io/wai-bcase/business-case/drive-innovation/]
 
 <h2 id="lower-expenses">Decrease Expenses</h2>
 Accessible websites can decrease expenses.[^2] For example:
