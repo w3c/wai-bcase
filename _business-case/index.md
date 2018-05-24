@@ -25,8 +25,8 @@ Supplemental resources document additional benefits such as enhanced respect for
 ### Drive Innovation
 Industry leaders are finding accessibility to be an innovation driver – enabling elegant solutions to unanticipated problems. For examples and research about how accessibility drives innovation, read the companion article.  [To encourage and support innovation, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/drive-innovation/).
 
-### Support Diversity and Inclusion
-In a global marketplace, companies find that a commitment to diversity and inclusion strengthens thier brand and increases customer loyalty and employee retention. Examples of how accessibility helps meet diversity and inclusion goals are found in the related article. [To meet diversity and inclusion goals, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/diversity-inclusion/).
+### Enhance Your Brand
+In a global marketplace, companies find that enhancing and protecting their brand has become an important differentiator in a crowded marketplace. Brand enhancement techniques include demonstrating Corporate Social Responsibility, including a commitment to diversity and inclusion. These are proven ways to strengthens a brand and increase customer loyalty and employee retention. Examples of how accessibility helps enhance and protect a brand are found in the related article. [To enhance your brand, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/enhance-brand/).
 
 ### Increase Market Reach
 Globally, the extended market of people with disabilities and their immediate community is estimated at 2.3 billion people who control an estimated $6.9 trillion in annual disposable income. [To meet the needs of a large and growing market, accessibility is good business](https://w3c.github.io/wai-bcase/business-case/increase-market-reach/).
