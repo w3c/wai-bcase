@@ -49,11 +49,16 @@ This page provides succinct points for the business case for web accessibility. 
 {:/}
 
 Testing references.[^7]
+[^7]: This is a test reference!
 
-[^7] This is a test reference!
+Testing references.[^test2]
+[^test2]: This is a yet another test reference…
+
 
 <h2 id="intro">Introduction</h2>
 <p>The justification to commit resources to a project is often called a "business case". Business cases usually document an analysis of a project's value in meeting the organization's objectives, the cost-benefit analysis, and the expected outcomes.</p>
+<p><strong>Note:</strong> &quot;Websites&quot; through this document includes web applications and is applicable to other digital technology.</p>
+
 <h3 id="allusers">Accessibility Benefits All Users</h3>
 <p>Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. Web accessibility also benefits people <em>without</em> disabilities[^1]. For example:</p>
 <ul>
@@ -65,10 +70,8 @@ Testing references.[^7]
  </ul>
 [^1]: Specific examples of how accessibility requirements benefit users without disabilities are in [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc.html#groups).
 
-<p>This 7-minute video shows the impact of accessibility and the benefits for everyone in a variety of situations:</p>
+<p>This 7&#189;-minute video shows the impact of accessibility and the benefits for everyone in a variety of situations:</p>
 <iframe title="Video" width="560" height="315" src="https://www.youtube-nocookie.com/embed/3f31oufqFSM" allowfullscreen=""></iframe>
-
-<p><strong>Note:</strong> &quot;Websites&quot; through this document includes web applications and is applicable to other digital technology.</p>
 
 {% include_cached excol.html type="start" id="customize" %}
 
@@ -83,18 +86,21 @@ Testing references.[^7]
 
 <h2 id="brand">Impact Brand Reputation</h2>
 <p>Accessibility can significantly impact your organization's reputation.</p>
-<p>An accessible website can garner positive attention from people with disabilities and others. It can get accolades as being a high quality website that meets international web standards. [World Wide Web Consortium (W3C)'s Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag.php">WCAG</a>), which is also <a href="https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/">ISO/IEC 40500</a>]</p>
-<p>Some organizations actively promote their accessibility as a @@[key promotion of how good they are]. [ref Barclays, and lots more]</p>
+<p>An accessible website can garner positive attention from people with disabilities and others. It can get accolades as being a high quality website that meets international web standards. [^wcag]< p>
+[^wcag]: The international web standard Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag.php">WCAG</a>) from the World Wide Web Consortium (W3C) is also <a href="https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/">ISO/IEC 40500</a>.
+<p>Some organizations actively promote their accessibility as a @@...key promotion of how good they are…. [ref:  Barclays and others]</p>
 <p>Conversely, if an organization's website has accessibility problems, it can get negative publicity from news publications and on social media.</p>
 
 <h2 id="ux">Impact Customer Satisfaction</h2>
 <p>Accessibility can positively impact how satisfied users are with your website &mdash; including users with disabilities and without disabilities.</p>
-<p>Conversely, accessibility problems will likely negatively impact user satisfaction for people with disabilities and for people without disabilities in various situations such as using their phone in bright sunlight and others <a href="#allusers">listed above</a>.</p>
+<p>Conversely, accessibility problems will likely negatively impact user satisfaction for people with disabilities and for people without disabilities in various situations such as using their phone in bright sunlight and others in <a href="#allusers"> Accessibility Benefits All Users above</a>.</p>
 
 <h2 id="market">Increase Market Reach</h2>
-<p>Globally, the extended market of people with disabilities and their immediate community is estimated at 2.3 billion people, who control an estimated $6.9 trillion in annual disposable income. [<a href="https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#3fe3d1d8788e">Forbes.com</a>]</p>
-<p>Older users are an important target audience for many websites. Accessible websites work better for &quot;seniors&quot; and elderly people. [ref- WAI's older users page]</p>
-<p>Accessible websites also reach people <em>without</em> disabilities in various situations, such as those <a href="#allusers">listed above</a>.</p>
+<p>Globally, the extended market of people with disabilities and their immediate community is estimated at 2.3 billion people, who control an estimated $6.9 trillion in annual disposable income.[^stats]</p>
+[^stats]: Statistics from <a href="https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#3fe3d1d8788e">Forbes.com : Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too</a>
+<p>Older users are an important target audience for many websites. Accessible websites work better for &quot;seniors&quot; and elderly people. [^older] </p>
+[^older]: Examples of how accessibility requirements improve the user experience of older users is in [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/).
+<p>Accessible websites also reach people <em>without</em> disabilities in various situations, such as those in <a href="#allusers">Accessibility Benefits All Users above</a>.</p>
 
 <h2 id="inclusion">Support Diversity and Inclusion</h2>
 <p>Many organizations realize the benefits of a diverse and inclusive workforce. To support employees with disabilities, the technology that employees use needs to be accessible, including websites and applications.</p>
