@@ -10,6 +10,7 @@ order: 3
 Your brand is the perception that people have when they hear or think of your company or institution name, service, or product. There are many aspects to the reputation of a brand and successful ones come from companies that understand their stakeholders - what they want, what they need, and how to connect emotionally. A commitment to accessibility serves to enhance an institutional brand in two important ways:
 * Demonstrate an investment in diverstiy and inclusion
 * Exemplify corporate social responsibility (CSR)
+
 This article explores the ways accessibility enhances and protects the brand of institutions of all sizes and purposes. 
 
 {::nomarkdown}
