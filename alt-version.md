@@ -88,11 +88,9 @@ Web accessibility also benefits people <em>without</em> disabilities[^without]. 
 
 Accessibility can significantly impact your organization's reputation.
 
-An accessible website can garner positive attention from people with disabilities and others. It can get accolades as being a high quality website that meets international web standards. [^wcag]
+An accessible website can garner positive attention from people with disabilities and others. It can get accolades as being a high quality website that meets international web standards. [^wcag] Some organizations actively promote accessibility as a business differentiator.[^promo]
 
 [^wcag]: The international web standard Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag.php">WCAG</a>) from the World Wide Web Consortium (W3C) is also <a href="https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/">ISO/IEC 40500</a>.
-
-Some organizations actively promote accessibility as a business differentiator.[^promo]
 
 [^promo]: @@ Sharron's write up, Barclays case study, maybe Lainey's list…
  
@@ -100,7 +98,7 @@ Conversely, if an organization's website has accessibility problems, it can get 
 
 <h2 id="ux">Impact Customer Satisfaction</h2>
 <p>Accessibility can positively impact how satisfied users are with your website &mdash; including users with disabilities and without disabilities.</p>
-<p>Conversely, accessibility problems will likely negatively impact user satisfaction for people with disabilities and for people without disabilities in various situations such as using their phone in bright sunlight and others in <a href="#allusers"> Accessibility Benefits All Users above</a>.</p>
+<p>Conversely, accessibility problems will likely negatively impact user satisfaction for people with disabilities. And also for people without disabilities in various situations such as using their phone in bright sunlight and others in <a href="#allusers"> Accessibility Benefits All Users above</a>.</p>
 
 <h2 id="market">Increase Market Reach</h2>
 
