@@ -39,7 +39,8 @@ This page provides succinct points for the business case for web accessibility. 
  <li><strong><a href="#innovation">Drive Innovation</a></strong></li>
  <li><strong><a href="#lower-expenses">Decrease Expenses</a></strong></li>
  <li><strong><a href="#risk">Minimize Financial and Legal Risk</a></strong><a href="#risk"></a></li>
- <li><a href="#more">Case Studies, Resources, and References</a></li>
+ <li><a href="#more">Case Studies and Resources</a></li>
+<li><a href="#ref"> References</a></li>
  </ul>
 
 {:toc}
@@ -60,7 +61,7 @@ _Editors Note: This is a rough draft idea.[^7] The language is not complete or p
 <p><strong>Note:</strong> &quot;Websites&quot; through this document includes web applications and is applicable to other digital technology.</p>
 
 <h3 id="allusers">Accessibility Benefits All Users</h3>
-<p>Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. Web accessibility also benefits people <em>without</em> disabilities[^1]. For example:</p>
+Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. Web accessibility also benefits people <em>without</em> disabilities[^1]. For example:
 [^without]
 <ul>
  <li>people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.</li>
@@ -135,3 +136,5 @@ _Editors Note: This is a rough draft idea.[^7] The language is not complete or p
 ... [categorized links]…
 
 {% include_cached excol.html type="end" %}
+
+<h2 id="refs">References</h2>
