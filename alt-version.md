@@ -61,6 +61,7 @@ _Editors Note: This is a rough draft idea.[^7] The language is not complete or p
 
 <h3 id="allusers">Accessibility Benefits All Users</h3>
 <p>Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. Web accessibility also benefits people <em>without</em> disabilities[^1]. For example:</p>
+[^without]
 <ul>
  <li>people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.</li>
  <li>older people with changing abilities due to ageing</li>
@@ -68,7 +69,10 @@ _Editors Note: This is a rough draft idea.[^7] The language is not complete or p
  <li>people with &ldquo;situational limitations&rdquo; such as in bright sunlight or in an environment where they cannot listen to audio</li>
  <li>people using a slow Internet connection, or who have limited or expensive bandwidth, which is common in some rural areas and geographical regions</li>
  </ul>
-[^1]: Specific examples of how accessibility requirements benefit users without disabilities are in [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc.html#groups).
+
+[^without]: without-Specific examples of how accessibility requirements benefit users without disabilities are in [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc.html#groups).
+
+[^1]: 1-Specific examples of how accessibility requirements benefit users without disabilities are in [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc.html#groups).
 
 <p>This 7&#189;-minute video shows the impact of accessibility and the benefits for everyone in a variety of situations:</p>
 <iframe title="Video" width="560" height="315" src="https://www.youtube-nocookie.com/embed/3f31oufqFSM" allowfullscreen=""></iframe>
