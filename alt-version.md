@@ -48,6 +48,10 @@ This page provides succinct points for the business case for web accessibility. 
 {% include toc.html type="end" %}
 {:/}
 
+Testing references.[^7]
+
+[^7] This is a test reference!
+
 <h2 id="intro">Introduction</h2>
 <p>The justification to commit resources to a project is often called a "business case". Business cases usually document an analysis of a project's value in meeting the organization's objectives, the cost-benefit analysis, and the expected outcomes.</p>
 <h3 id="allusers">Accessibility Benefits All Users</h3>
@@ -61,9 +65,8 @@ This page provides succinct points for the business case for web accessibility. 
  </ul>
 [^1]: Specific examples of how accessibility requirements benefit users without disabilities are in [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc.html#groups).
 
-<p>[box:<br>
- link to perspectives video compilation<br>
- &lt;/end box]</p>
+<p>This 7-minute video shows the impact of accessibility and the benefits for everyone in a variety of situations:</p>
+<iframe title="Video" width="560" height="315" src="https://www.youtube-nocookie.com/embed/3f31oufqFSM" allowfullscreen=""></iframe>
 
 <p><strong>Note:</strong> &quot;Websites&quot; through this document includes web applications and is applicable to other digital technology.</p>
 
