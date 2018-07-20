@@ -34,7 +34,7 @@ This page provides succinct points for the business case for web accessibility. 
  </ul></li>
  <li><a href="#allusers">Accessibility Benefits All Users</a></li>
  <li>Accessibility can:
- </ul>
+ <ul>
  <li><a href="#brand">Impact Brand Reputation</a></li>
  <li><a href="#ux">Impact Customer Satisfaction</a></li>
  <li><a href="#market">Increase Market Reach</a></li>
@@ -155,8 +155,6 @@ The market of people with disabilities is large and growing as the global popula
 
 Globally, the extended market of people with disabilities and their immediate community is estimated at 2.3 billion people, who control an estimated $6.9 trillion in annual disposable income.[^stat23] In the UK, disabled people and their families spend at least £249 billion every year.[^statUK] In the US, Fortune Magazine estimates the annual disability market to be more than a trillion dollars with $200 billion of that discretionary spending.[^statUS]
 
-@@ In countries with life expectancies over 70 years of age, people spend 11.5 per cent of their life span living with disability.  [ from Sharron Disabled World. (2017). World Population Chart for Countries and Continents. [online] Available at: https://www.disabled-world.com/calculators-charts/wpc.php ... slh still needs to figure out where it is in there]
-
 [^stat23]: Statistics from <a href="https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#3fe3d1d8788e">Forbes.com : Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too</a>
 [^statUS]: get from Sharron :-)
 [^statUK]: get from Sharron :-)
@@ -179,8 +177,10 @@ Accessible websites also reach people <em>without</em> disabilities in various s
 
 * [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/) describes how the needs of people who are older overlaps with the needs of people with disabilities.<br/>[Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](https://www.w3.org/WAI/older-users/developing/) lists specific accessibility requirements that especially benefit older users.
 
+* @@ In countries with life expectancies over 70 years of age, people spend 11.5 per cent of their life span living with disability.  [ from Sharron Disabled World. (2017). World Population Chart for Countries and Continents. [online] Available at: https://www.disabled-world.com/calculators-charts/wpc.php ... slh still needs to figure out where it is in there]
+
 * Search Engine Optimization (SEO):
-   ** [Secret Benefits of Accessibility Part 2: Better Search Ranking](https://www.sitepoint.com/accessible-search-friendly-site/) (SitePoint 19 October 2004)
+   * [Secret Benefits of Accessibility Part 2: Better Search Ranking](https://www.sitepoint.com/accessible-search-friendly-site/) (SitePoint 19 October 2004)
 
 {% include_cached excol.html type="end" %}
 
@@ -281,7 +281,8 @@ Accessible websites can decrease expenses. For example:
 
 @@more categorized links listing key points…
 
-<h3>Return on investment (ROI)<h3>
+<h3>Return on investment (ROI)</h3>
+
 * Brinck, T. [Return on Goodwill: Return on Investment for Accessibility](https://www.sciencedirect.com/science/article/pii/B9780120958115500134). In <cite>Cost-Justifying Usability</cite>, Randolph G. Bias, Deborah J. Mayhew, eds. 2005. &mdash; Example calculation gives a market increase of 8% and ROI of 2.4:1.
 
 * [Tesco Case Study](http://www.w3.org/WAI/bcase/tesco-case-study) &mdash; £35 thousand GBP to build website, £13 million GBP per year in resultant revenue. (2004, UK)
