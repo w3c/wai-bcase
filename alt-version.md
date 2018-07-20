@@ -287,7 +287,7 @@ Accessible websites can decrease expenses. For example:
 
 * [Tesco Case Study](http://www.w3.org/WAI/bcase/tesco-case-study) &mdash; £35 thousand GBP to build website, £13 million GBP per year in resultant revenue. (2004, UK)
 
-<h3>Business Case Resources</h4>
+<h3>Business Case Resources</h3>
 
 * [Benefits of Accessible Design](https://digital.gov/2017/05/09/benefits-of-accessible-design/) (DigitalGov 9 May 2017) &mdash; Discusses key benefits: More Customers, Cost Savings, Inclusion Inspires Innovation - Increased Productivity, Increased Diversity, Improved Corporate Image.
 
