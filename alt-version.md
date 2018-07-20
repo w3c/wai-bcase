@@ -29,12 +29,12 @@ This page provides succinct points for the business case for web accessibility. 
 
 <ul>
  <li><a href="#intro">Introduction</a>
-<ul>
-<li><a href="#your-org">For Your Organization</a></li>
-</ul></li>
-<li><a href="#allusers">Accessibility Benefits All Users</a></li>
-<li>Accessibility can:
-</ul>
+ <ul>
+ <li><a href="#your-org">For Your Organization</a></li>
+ </ul></li>
+ <li><a href="#allusers">Accessibility Benefits All Users</a></li>
+ <li>Accessibility can:
+ </ul>
  <li><a href="#brand">Impact Brand Reputation</a></li>
  <li><a href="#ux">Impact Customer Satisfaction</a></li>
  <li><a href="#market">Increase Market Reach</a></li>
@@ -42,9 +42,9 @@ This page provides succinct points for the business case for web accessibility. 
  <li><a href="#innovation">Drive Innovation</a></li>
  <li><a href="#lower-expenses">Decrease Expenses</a></li>
  <li><a href="#risk">Minimize Financial and Legal Risk</a><a href="#risk"></a></li>
-</ul></li>
+ </ul></li>
  <li><a href="#more">More Case Studies and Resources</a></li>
-<li><a href="#ref">References</a></li>
+ <li><a href="#ref">References</a></li>
  </ul>
 
 {:toc}
@@ -115,7 +115,7 @@ Conversely, if an organization's website has accessibility problems, it can get 
 
 {% include_cached excol.html type="middle" %}
 
-<h4>Positive coverage of web accessibility – examples<h4>
+<h4>Positive coverage of web accessibility – examples</h4>
 * @@ list examples such as:  [How Designing For Disabled People Is Giving Google An Edge](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge), https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/, 
 
 <h4>Negative coverage of accessibility barriers – examples</h4>
