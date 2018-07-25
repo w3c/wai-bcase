@@ -44,6 +44,7 @@ This page provides succinct points for the business case for web accessibility. 
  <li><a href="#risk">Minimize Financial and Legal Risk</a><a href="#risk"></a></li>
  </ul></li>
  <li><a href="#more">More Case Studies and Resources</a></li>
+ <li><a href="#big">Accessibility Big Picture &/or Next Steps</a></li>
  <li><a href="#ref">References</a></li>
  </ul>
 
@@ -247,6 +248,16 @@ Accessible websites can decrease expenses. For example:
 
 {% include_cached excol.html type="end" %}
 
+{% include_cached excol.html type="start" %}
+
+<h2 id="big">@@ Accessibility Big Picture &/or Next Steps</h2>
+
+{% include_cached excol.html type="middle" %}
+
+...
+
+{% include_cached excol.html type="end" %}
+
 <h2 id="risk">Minimize Financial and Legal Risk</h2>
 
 <p>Some organizations have faced legal action for not making their websites accessible. Minimizing financial and legal risk is a primary driver for many organizations to commit to making their technology accessible.</p>
@@ -275,7 +286,7 @@ Accessible websites can decrease expenses. For example:
 
 {% include_cached excol.html type="start" id="more" %}
 
-<h2>More Case Studies and Resources</h2>
+<h2 id="more">More Case Studies and Resources</h2>
 
 {% include_cached excol.html type="middle" %}
 
@@ -292,6 +303,7 @@ Accessible websites can decrease expenses. For example:
 * [Benefits of Accessible Design](https://digital.gov/2017/05/09/benefits-of-accessible-design/) (DigitalGov 9 May 2017) &mdash; Discusses key benefits: More Customers, Cost Savings, Inclusion Inspires Innovation - Increased Productivity, Increased Diversity, Improved Corporate Image.
 
 {% include_cached excol.html type="end" %}
+
 
 {% include excol.html type="all" %}
 
