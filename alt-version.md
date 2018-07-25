@@ -248,16 +248,6 @@ Accessible websites can decrease expenses. For example:
 
 {% include_cached excol.html type="end" %}
 
-{% include_cached excol.html type="start" %}
-
-<h2 id="big">@@ Accessibility Big Picture &/or Next Steps</h2>
-
-{% include_cached excol.html type="middle" %}
-
-...
-
-{% include_cached excol.html type="end" %}
-
 <h2 id="risk">Minimize Financial and Legal Risk</h2>
 
 <p>Some organizations have faced legal action for not making their websites accessible. Minimizing financial and legal risk is a primary driver for many organizations to commit to making their technology accessible.</p>
@@ -285,6 +275,16 @@ Accessible websites can decrease expenses. For example:
 <hr/>
 
 {% include_cached excol.html type="start" id="more" %}
+
+{% include_cached excol.html type="start" %}
+
+<h2 id="big">@@ Accessibility Big Picture &/or Next Steps</h2>
+
+{% include_cached excol.html type="middle" %}
+
+...
+
+{% include_cached excol.html type="end" %}
 
 <h2 id="more">More Case Studies and Resources</h2>
 
