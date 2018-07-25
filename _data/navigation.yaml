@@ -47,7 +47,7 @@
 #      url: "/older-users/literature/"
 #  - name: Accessibility, Usability, Inclusion
 #    url: "/fundamentals/accessibility-usability-inclusion/"
-- name: Planning & Policies
+#- name: Planning & Policies
 #  pages:
 #  - name: Overview
 #    url: "/planning/"
@@ -70,7 +70,7 @@
 #    url: "/planning/involving-users/"
 #  - name: International Laws & Policies
 #    url: "/policies/"
-- name: Design & Develop
+#- name: Design & Develop
 #  pages:
 #  - name: Overview
 #    url: "/design-develop/"
@@ -103,7 +103,7 @@
 #        url: "https://www.w3.org/WAI/tutorials/carousels/"
 #        external: true
 #
-- name: Test & Evaluate
+#- name: Test & Evaluate
 #  pages:
 #  - name: Evaluation Overview
 #    url: "/test-evaluate/"
@@ -132,7 +132,7 @@
 #  - name: Involving Users
 #    url: "/test-evaluate/involving-users/"
 #
-- name: Teach & Advocate
+#- name: Teach & Advocate
 #  pages:
 #  - name: Overview
 #    url: "/teach-advocate/"
@@ -168,7 +168,7 @@
 #  #   - name: Resources
 #  #     url: "/business-case/resources/"
 #
-- name: Standards/<wbr>Guidelines
+#- name: Standards/<wbr>Guidelines
 #  pages:
 #  - name: Standards Overview
 #    url: "/standards-guidelines/"
