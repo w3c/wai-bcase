@@ -229,6 +229,7 @@ Establishing an organisation-wide accessibility strategy for identifying, antici
 {% include_cached excol.html type="end" %}
 
 <h2 id="lower-expenses">Decrease Expenses</h2>
+
 Accessible websites can decrease expenses. For example:
 <ul>
  <li>Decrease cost of alternative format materials</li>
@@ -272,10 +273,6 @@ Accessible websites can decrease expenses. For example:
 
 {% include_cached excol.html type="end" %}
 
-<hr/>
-
-{% include_cached excol.html type="start" id="more" %}
-
 {% include_cached excol.html type="start" %}
 
 <h2 id="big">@@ Accessibility Big Picture &/or Next Steps</h2>
@@ -285,6 +282,8 @@ Accessible websites can decrease expenses. For example:
 ...
 
 {% include_cached excol.html type="end" %}
+
+{% include_cached excol.html type="start" %}
 
 <h2 id="more">More Case Studies and Resources</h2>
 
