@@ -43,8 +43,8 @@ This page provides succinct points for the business case for web accessibility. 
  <li><a href="#lower-expenses">Decrease Expenses</a></li>
  <li><a href="#risk">Minimize Financial and Legal Risk</a><a href="#risk"></a></li>
  </ul></li>
- <li><a href="#more">More Case Studies and Resources</a></li>
  <li><a href="#big">Accessibility Big Picture &/or Next Steps</a></li>
+ <li><a href="#more">More Case Studies and Resources</a></li>
  <li><a href="#ref">References</a></li>
  </ul>
 
