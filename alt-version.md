@@ -5,7 +5,7 @@ layout: default
 github:
  repository: w3c/wai-bcase
 footer: > # Text in footer in HTML
- <p><strong>Date: DRAFT updated 19 July 2018.</strong> Updated 00 Month 2000. First published 00 Month 2000.</p>
+ <p><strong>Date: DRAFT updated 25 July 2018.</strong> Updated 00 Month 2000. First published 00 Month 2000.</p>
  <p><strong>Editors:</strong> Sharron Rush and . Previous editors: <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>, Andrew Arch, and Judy Brewer. <a href="https://www.w3.org/WAI/bcase/ack.html" shape="rect">Acknowledgements</a> lists additional contributors.</p>
  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously updated as part of <a href="https://www.w3.org/WAI/WAI-AGE/Overview.html" shape="rect">WAI-AGE Project</a> funded by the European Commission under the FP6 IST Programme.</p>
  
@@ -17,7 +17,9 @@ _Editors Note: This is a rough concept draft idea. The content is not complete a
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides succinct points for the business case for web accessibility. It includes examples and links to more detailed information, supporting resources, and case studies.
+This page provides succinct points for the business case for web accessibility. It includes supporting examples and links to more detailed information, resources, and case studies.
+
+A [companion Business Case resource](@@) explores the business case in more detail.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -45,7 +47,7 @@ This page provides succinct points for the business case for web accessibility. 
  </ul></li>
  <li><a href="#big">Accessibility Big Picture &/or Next Steps</a></li>
  <li><a href="#more">More Case Studies and Resources</a></li>
- <li><a href="#ref">References</a></li>
+ <li><a href="#refs">References</a></li>
  </ul>
 
 {:toc}
