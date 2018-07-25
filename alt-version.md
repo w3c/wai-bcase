@@ -93,8 +93,7 @@ Web accessibility also benefits people <em>without</em> disabilities. For exampl
 
 *  [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc.html#groups) lists examples of how specific accessibility requirements benefit users without disabilities.
 
-* [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspective-videos/) links to 10 pages with a short video that shows the impact of accessibility and the benefits for everyone in a variety of situations. On each page, the "What are the additional benefits?" section lists examples. There is also a 7&#189;-minute complication video:
-<iframe title="Video" width="560" height="315" src="https://www.youtube-nocookie.com/embed/3f31oufqFSM" allowfullscreen=""></iframe>
+* [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspective-videos/) links to 10 pages with a short video that shows the impact of accessibility and the benefits for everyone in a variety of situations. On each page, the "What are the additional benefits?" section lists examples. There is also a [7&#189;-minute complication video](https://www.youtube.com/watch?v=3f31oufqFSM).
 
 * [How does accessible web design benefit all web users?]( https://www.washington.edu/doit/how-does-accessible-web-design-benefit-all-web-users) (University of Washington 13 April)
 
