@@ -7,30 +7,20 @@ document-status: draft
 
 ## Summary
 
-This article defines the purpose of a Business Case and provides guidance for how to construct the Business Case for web accessibility that is appropriate and relevant to organizations of different types. Business performance and current research indicates that accessibility integration will help companies realize benefits in:
+A Business Case is the rationale for initiating a project or task. Whether formal and highly structured or informal and brief, a good Business Case will articulate both tangible and intangible benefits to the business for dedicating resources to a project. To be effective, consideration will be given to cost, benefit, and resource gap analysis. A good Business Case also considers the cost and risk of inaction. As more retail, educational, government, social service, and personal communication activities have moved online, the Business Case for web accessibility is stronger than ever.
+
+This article defines the purpose and provides guidance for how to construct the Business Case for web accessibility that is appropriate and relevant to organizations of different types. Business performance and current research indicates that accessibility integration will help companies realize benefits in:
 -   <strong>Innovation:</strong> Accessibility features in products and services often solve unanticipated problems.
 -   <strong>Brand Enhancement:</strong> Diversity and inclusion efforts so important to business success are accelerated with a clear, well-integrated accessibility commitment. 
 -   <strong>Market Expansion:</strong> The global market of people with disabilities is over 1 billion people with spending power of more than $6 trillion.
--   <strong>Legal Compliance:</strong> Many countries have laws requiring digital accessibility and the issue is of increased legal scrutiny.
+-   <strong>Legal Compliance:</strong> Many countries have laws requiring digital accessibility and the issue is of increased legal concern.
 
-The article includes statistics, examples, and case studies to illustrate some of these points. Please note that we ue "web accessibility and  "websites" throughout this article and that those terms are meant to includes web applications and other digital technologies as well. 
+The article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility and  "websites" throughout this article and that those terms are meant to includes web applications and other digital technologies as well. 
 
 
 ## What is a Business Case?
 
-A Business Case is an argument for initiating a project or task. Whether
-formal and highly structured or informal and brief, a good Business Case
-will articulate both tangible and intangible benefits to the business
-for dedicating resources to a project. To be effective, consideration
-will be given to cost, benefit, and resource gap analysis. A good
-Business Case also considers the cost and risk of inaction. As more
-retail, educational, government, social service, and personal
-communication activities have moved online, the Business Case for web
-accessibility is stronger than ever.
-
-“Business Case” is a term relevant to organizations and enterprises of
-all kinds, whether the organization is commercial, educational,
-non-profit, or governmental. It is the justification for dedicating
+“Business Case” is a term relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating
 resources such as money or effort in support of a specific
 organizational need. We will use “business” in this article to refer to
 all types of organizations with the understanding that different aspects
@@ -41,8 +31,8 @@ brand enhancement provided by an integrated accessibility program.
 
 Understanding which of the many benefits of web accessibility are most
 relevant in your business environment will help you build the most
-compelling Business Case for your own situation. Uses these resources to
-inspire confidence among leaders and decision makers that investment in
+compelling Business Case for your own situation. Use these resources to
+inspire confidence among leaders and decision makers that continued investment in
 accessibility is good for your business.
 
 > Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.
@@ -59,31 +49,26 @@ readily able to
 -   minimize legal risk.
 
 Let’s look at some examples and research outcomes that will help you
-make the business case that is most useful in your own environment and
+make the business case that is most effective in your own environment and
 business model.
 
 ## Accessibility is good for business
 
-We introduced a few aspects of accessibility to businesses of all types.
-Let’s look at how those are realized in the global marketplace.
+Let’s take a closer look at some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
 
 ### Innovation
 
-The link between accessibility and innovation is increasingly clear.
-Studies demonstrate[^2] that integrating accessibility sparks innovation
-by removing architectural, digital, and social barriers that can get in
-the way. Some examples:
+Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
+the way. [^2] Some examples:
 
--   Problem solving “outside the box” to meet disability needs
-    anticipates temporarily disabling conditions such as noisy, too
-    bright, and other temporarily disabling environments.
+-   Addressing disability barriers anticipates solutions for temporary disabling conditions. For example: noisy or too bright environments.
 
--   Accessible design thinking introduces flexible interaction options
+-   Accessible design thinking leads to flexible interaction options
     useful beyond the disabled community.
 
 -   Innovations like the typewriter, telephone, punch cards, text to
-    speech, email, and voice controls originally meant as accommodations
-    for disability, find wider application.
+    speech, email, and voice controls were originally meant as accommodations
+    for disability and all have found much wider application. [^3]
 
 Accessible design is by nature flexible, allowing content to faithfully
 render across a broad spectrum of devices, platforms, assistive
@@ -95,7 +80,7 @@ For example, in the early 2000’s as the online world increasingly
 adopted mobile devices to browse the web, imagine the delight of those
 who were committed to and had designed for accessibility. Accessible web
 sites were in many cases more mobile-ready. This led to the
-responsive-design trend that has accessibility at its core.[^3]
+responsive-design trend that has accessibility at its core.[^4]
 
 Another example from the early 2000’s was the promotion of the
 iUniversity program delivered to colleges via the iPod by Apple. When
@@ -146,7 +131,7 @@ accessibility can demonstrate that a business has a genuine sense of
 Corporate Social Responsibility (CSR.) As businesses understand and act
 on the diverse needs of their stakeholders and make the commitment to
 sustainable, inclusive marketing and employment practices, studies
-indicate that they can achieve a range of benefits, including [^4]:
+indicate that they can achieve a range of benefits, including [^5]:
 
 -   Improved financial performance;
 
@@ -170,12 +155,12 @@ indicate that they can achieve a range of benefits, including [^4]:
 
 A well-recognized example is Microsoft. For decades, accessibility
 leaders expressed frustration with the gap between what the company said
-about accessibility and what it actually did. [^5] Its brand suffered.
+about accessibility and what it actually did. [^6] Its brand suffered.
 Recently however, Microsoft’s commitment to accessibility has been made
 real and is demonstrated in improvements to products and services and in
 the genuine engagement with stakeholders of all abilities. Its brand
 image is stronger and its efforts lauded in the community of people with
-disabilities. [^6]
+disabilities. [^7]
 
 We asked Barclay’s, a W3C member organization and an exemplar of CSR,
 how accessibility is approached in their company. An excerpt from their
@@ -248,17 +233,17 @@ equivalent to a market the size of China. Consider these facts when
 estimating market size:
 
 -   At least one billion people - 15% of the world’s population - have a
-    recognized disability [^7]
+    recognized disability [^8]
 
 -   As the population ages, many more acquire disability and yet do not
-    identify as a “person with a disability” [^8]
+    identify as a “person with a disability” [^9]
 
 -   In countries with life expectancies over 70 years of age, people
-    spend 11.5 per cent of their life span living with disability.[^9]
+    spend 11.5 per cent of their life span living with disability.[^10]
 
 -   Globally, the extended market is estimated at 2.3 billion people who
     control an incremental \$6.9 trillion in annual disposable
-    income.[^10]
+    income.[^11]
 
 #### Case Study - NPR weekly broadcast of This American Life
 
@@ -335,7 +320,7 @@ Change occurred incrementally:
 -   Complaint put to the Human Rights and Equal Opportunities Commission
     (HREOC) in 2000 about inaccessibility of Sydney Olympics claimed
     violation of Commonwealth Disability Discrimination Act 1992 (Cth
-    DDA). [^11]
+    DDA). [^12]
 
 The decision in the Sydney Olympics site raised awareness of the need to
 address accessibility in the emerging practice of web communication.
@@ -425,22 +410,24 @@ Business Case brief suited to your specific environment.
 
 [^2]: IBM Research. (2018). *Accessibility Innovation Showcase*. \[online\] Available at: [https://www.ibm.com/able/research-projects.html](https://www.ibm.com/able/research-projects.html) \[Accessed \[date\]l. 2018\].
 
-[^3]: Avila, J. (2013). *What Does Responsive Design Have To Do With Accessibility?*. \[online\] Level Access. Available at: [https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/) \[Accessed –date- 2018\].
+[^3]: Germa, Haben. “People with Disabilities Drive Innovation.” Haben Girma, 13 Sept. 2017, habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/. [Accessed \[date\]l. 2018\].
 
-[^4]: IISD's Business and Sustainable Development Guide. (2013). *Corporate Social Responsibility (CSR)*. \[online\] Available at: [https://www.iisd.org/business/issues/sr.aspx](https://www.iisd.org/business/issues/sr.aspx) \[Accessed (date). 2018\].
+[^4]: Avila, J. (2013). *What Does Responsive Design Have To Do With Accessibility?*. \[online\] Level Access. Available at: [https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/) \[Accessed –date- 2018\].
 
-[^5]: Chong, C. (2015). *Accessibility at Microsoft*. \[online\] Braille Monitor. Available at: [https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm) \[Accessed (date). 2018\].
+[^5]: IISD's Business and Sustainable Development Guide. (2013). *Corporate Social Responsibility (CSR)*. \[online\] Available at: [https://www.iisd.org/business/issues/sr.aspx](https://www.iisd.org/business/issues/sr.aspx) \[Accessed (date). 2018\].
 
-[^6]: Rego, N. (2018). *Microsoft Adding New Accessibility Improvements in Windows 10*. \[online\] Cool Blind Tech. Available at: [https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/) \[Accessed 5 Jul. 2018\].
+[^6]: Chong, C. (2015). *Accessibility at Microsoft*. \[online\] Braille Monitor. Available at: [https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm) \[Accessed (date). 2018\].
 
-[^7]: The World Bank. (2018). *Disability Inclusion Overview*. \[online\] Available at: [http://www.worldbank.org/en/topic/disability](http://www.worldbank.org/en/topic/disability) \[Accessed -date-. 2018\].
+[^7]: Rego, N. (2018). *Microsoft Adding New Accessibility Improvements in Windows 10*. \[online\] Cool Blind Tech. Available at: [https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/) \[Accessed 5 Jul. 2018\].
 
-[^8]: Walker, M. (2018). *The Business Case for Accessibility and Inclusive Design*. \[online\] Digital Leaders. Available at: [https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/) \[Accessed –date- 2018\].
+[^8]: The World Bank. (2018). *Disability Inclusion Overview*. \[online\] Available at: [http://www.worldbank.org/en/topic/disability](http://www.worldbank.org/en/topic/disability) \[Accessed -date-. 2018\].
 
-[^9]: Disabled World. (2017). *World Population Chart for Countries and Continents*. \[online\] Available at: [https://www.disabled-world.com/calculators-charts/wpc.php](https://www.disabled-world.com/calculators-charts/wpc.php) \[Accessed 5 Jul. 2018\].
+[^9]: Walker, M. (2018). *The Business Case for Accessibility and Inclusive Design*. \[online\] Digital Leaders. Available at: [https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/) \[Accessed –date- 2018\].
 
-[^10]: Gaudiano, P. and Hunt, E. (2016). *Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*. \[online\] Forbes.com. Available at: [https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/\#4da9aa36788e](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e) \[Accessed 5 Jul. 2018\].
+[^10]: Disabled World. (2017). *World Population Chart for Countries and Continents*. \[online\] Available at: [https://www.disabled-world.com/calculators-charts/wpc.php](https://www.disabled-world.com/calculators-charts/wpc.php) \[Accessed 5 Jul. 2018\].
 
-[^11]: Independent Living Institute. (2000). *Sydney Olympics 2000 Website Accessibility Decision*. \[online\] Available at: [https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html) \[Accessed 5 Jul. 2018\].
+[^11]: Gaudiano, P. and Hunt, E. (2016). *Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*. \[online\] Forbes.com. Available at: [https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/\#4da9aa36788e](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e) \[Accessed 5 Jul. 2018\].
+
+[^12]: Independent Living Institute. (2000). *Sydney Olympics 2000 Website Accessibility Decision*. \[online\] Available at: [https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html) \[Accessed 5 Jul. 2018\].
 
 [^12]: Groves, K. (2017). *List of Web Accessibility-Related Litigation and Settlements*. \[online\] KarlGroves.com. Available at: [http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/) \[Accessed (date) 2018\].
