@@ -7,13 +7,13 @@ document-status: draft
 
 ## Summary
 
-This article defines the purpose of a Business Case and provides guidance for how to construct the Business Case for accessibility that is appropriate and relevant to organizations of different types. Business performance and current research indicates that accessibility integration will help companies realize benefits in:
+This article defines the purpose of a Business Case and provides guidance for how to construct the Business Case for web accessibility that is appropriate and relevant to organizations of different types. Business performance and current research indicates that accessibility integration will help companies realize benefits in:
 -   <strong>Innovation:</strong> Accessibility features in products and services often solve unanticipated problems.
 -   <strong>Brand Enhancement:</strong> Diversity and inclusion efforts so important to business success are accelerated with a clear, well-integrated accessibility commitment. 
 -   <strong>Market Expansion:</strong> The global market of people with disabilities is over 1 billion people with spending power of more than $6 trillion.
 -   <strong>Legal Compliance:</strong> Many countries have laws requiring digital accessibility and the issue is of increased legal scrutiny.
 
-The article includes statistics, examples, and case studies to illustrate some of these points. 
+The article includes statistics, examples, and case studies to illustrate some of these points. Please note that we ue "web accessibility and  "websites" throughout this article and that those terms are meant to includes web applications and other digital technologies as well. 
 
 
 ## What is a Business Case?
