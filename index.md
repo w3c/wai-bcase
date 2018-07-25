@@ -7,10 +7,12 @@ document-status: draft
 
 ## Summary
 
-This article defines how to construct a Business Case for accessibility
-that is appropriate and relevant to organizations of different size and
-purpose. It includes statistics, examples, and case studies to
-illustrate some points.
+This article defines the purpose of a Business Case and provides guidance for how to construct the Business Case for accessibility that is appropriate and relevant to organizations of different types. It includes statistics, examples, and case studies to illustrate some points. Research and business performance indicates that businesses that integrate accessiiblity realize benefits in:
+-   <strong>Innovation:</strong> Accessibility features in products and services often solve unanticipated problems.
+-   <strong>Brand Enhancement:</strong> Diversity and inclusion efforts so important to business success are accelerated with a clear, well-integrated accessiiblity commitment. 
+-   <strong>Market Expansion:</strong> The global market of people with disabilities is over 1 billion people with spending power of more than $6 trillion.
+-   <strong>Legal Compliance:</strong> Many countries have laws requiring digital accessibility and the issue is of increased legal scrutiny.  
+
 
 ## What is a Business Case?
 
