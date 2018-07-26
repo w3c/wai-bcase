@@ -92,8 +92,6 @@ who were already committed to and had designed for accessibility. Accessible, st
 sites were in many cases more mobile-ready. This led to the
 responsive-design trend that has accessibility at its core.[^4]
 
-Another example from the early 2000’s was the promotion of the iPod University program delivered to colleges via the iPod by Apple. When the 26-campus University of California system prohibited its teachers from using the application due to the inaccessibility of iPod controls for blind students, Apple responded not with litigation but with innovation. They implemented voice output in the iPod Classic in 2007 and introduced VoiceOver - voice activated controls - to the iPhone in 2009. Although unrelated to the UC iPod engagement, Apple's acquisition of Siri in 2010 integrated a personal assistant that responds to voice input within the iOS. Siri was enthusiastically adopted by blind users and its wider adoption by the general public played a large part in the development and growth of the mobile web. These technology advances have lead to even wider innovation with the plethora of personal digital assistants in many homes and offices. Today everyone can use these innovations, regardless of ability.  
-
 #### Case Study – Google
 @@@(design will be applied here)
 <blockquote class="special">
