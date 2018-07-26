@@ -380,9 +380,9 @@ Business Case brief suited to your specific environment.
 
 [^7]: Chong, C. (2015). *Accessibility at Microsoft*. \[online\] Braille Monitor. Available at: [https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm) \[Accessed (date). 2018\].
 
-[^8]: Ward, Jason. “How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company.” Windows Central, Windows Central, 22 Sept. 2017, www.windowscentral.com/how-fathering-son-disability-helped-ceo-satya-nadella-transform-microsoft-through-empathy.
+[^8]: Ward, Jason. “How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company.” Windows Central, Windows Central, 22 Sept. 2017, [www.windowscentral.com/how-fathering-son-disability-helped-ceo-satya-nadella-transform-microsoft-through-empathy](www.windowscentral.com/how-fathering-son-disability-helped-ceo-satya-nadella-transform-microsoft-through-empathy).
 
-[^9]:
+[^9]: Nadella, Satya. “The Moment That Forever Changed Our Lives.” PowerShell Team Blog, LinkedIn, Oct. 2017, [blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/).
 
 [^10]: Rego, N. (2018). *Microsoft Adding New Accessibility Improvements in Windows 10*. \[online\] Cool Blind Tech. Available at: [https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/) \[Accessed 5 Jul. 2018\].
 
