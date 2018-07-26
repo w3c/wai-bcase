@@ -103,7 +103,7 @@ that “I’m passionate about accessibility, not just because I believe in
 a level playing field, but because (it) makes life more livable for
 everyone.” Among the innovations that she cites as examples are these:
 
--   contrast minimums help all people see in bright light glare
+-   contrast minimums, required for people with low vision, help all people see in bright light glare
     situations
 
 -   auto-complete, initially provided for the disabled, is now widely
@@ -123,50 +123,35 @@ everyone.” Among the innovations that she cites as examples are these:
 
 ### Brand Enhancement
 
-Fewer things are more important to businesses of all kinds than the
-protection and enhancement of their brands. A clear commitment to
-accessibility can demonstrate that a business has a genuine sense of
-Corporate Social Responsibility (CSR.) As businesses understand and act
-on the diverse needs of their stakeholders and make the commitment to
-sustainable, inclusive marketing and employment practices, studies
-indicate that they can achieve a range of benefits, including [^5]:
+Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Thr International Institute of Sustainable Development has identified these potential outcomes for CSR programs.  [^5]:
 
 -   Improved financial performance;
-
 -   Lower operating costs;
-
 -   Enhanced brand image and reputation;
-
 -   Increased sales and customer loyalty;
-
 -   Greater productivity and quality;
-
 -   More ability to attract and retain employees;
-
 -   Reduced regulatory oversight;
-
 -   Access to capital;
-
 -   Workforce diversity;
-
 -   Product safety and decreased liability.
+
+Further studies [^6] show the broad benefits to the brand and performance of companies that institute policies of diversity and inclusion. Since disability inclusion relies on digital accessibility to be successful, companies strengthen their positive brand identification as they can demonstrate their serious accessibility commitment.   
 
 A well-recognized example is Microsoft. For decades, accessibility
 leaders expressed frustration with the gap between what the company said
-about accessibility and what it actually did. [^6] Its brand suffered.
+about accessibility and what it actually did. [^7] Its brand suffered. [^8]
 Recently however, Microsoft’s commitment to accessibility has been made
-real and is demonstrated in improvements to products and services and in
+real [^9] and is demonstrated in improvements to products and services and in
 the genuine engagement with stakeholders of all abilities. Its brand
 image is stronger and its efforts lauded in the community of people with
-disabilities. [^7]
+disabilities. [^10]
 
-We asked Barclay’s, a W3C member organization and an exemplar of CSR,
-how accessibility is approached in their company. An excerpt from their
-response is included below.
+We asked Barclay’s, a W3C member organization, to share their approach to diversity and inclusion through the accessibility initatives in their company. An excerpt from their response is included below.
 
 #### Case Study – Barclay’s Bank
 Establishing an organisation-wide accessibility strategy for
-identifying, anticipating and addressing the additional needs from
+identifying, anticipating and addressing the additional needs of
 customers and colleagues with impairments contributes in several ways to
 our brand identity – through tailored services, fostering an inclusive
 culture, creating new ways to communicate and consult with existing and
@@ -213,6 +198,8 @@ types of impairments are. We've also shared these animations on our
 [Accessible Banking YouTube
 playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy)
 
+@@@conclusion to this section may be needed as some readers were confused abut where it ended.
+
 ### Increase Market Reach
 
 The market of people with disabilities is large and growing as the
@@ -225,17 +212,17 @@ equivalent to a market the size of China. Consider these facts when
 estimating market size:
 
 -   At least one billion people - 15% of the world’s population - have a
-    recognized disability [^8]
+    recognized disability [^11]
 
 -   As the population ages, many more acquire disability and yet do not
-    identify as a “person with a disability” [^9]
+    identify as a “person with a disability” [^12]
 
 -   In countries with life expectancies over 70 years of age, people
-    spend 11.5 per cent of their life span living with disability.[^10]
+    spend 11.5 per cent of their life span living with disability.[^13]
 
 -   Globally, the extended market is estimated at 2.3 billion people who
     control an incremental \$6.9 trillion in annual disposable
-    income.[^11]
+    income.[^14]
 
 #### Case Study - NPR weekly broadcast of This American Life
 
@@ -312,7 +299,7 @@ Change occurred incrementally:
 -   Complaint put to the Human Rights and Equal Opportunities Commission
     (HREOC) in 2000 about inaccessibility of Sydney Olympics claimed
     violation of Commonwealth Disability Discrimination Act 1992 (Cth
-    DDA). [^12]
+    DDA). [^15]
 
 The decision in the Sydney Olympics site raised awareness of the need to
 address accessibility in the emerging practice of web communication.
@@ -326,14 +313,14 @@ Nations Convention on the Rights of People with Disabilities (CRPD).
     technology.
 
 -   Number of legal actions in US increase and courts increasingly
-    decide in favor of equal access [^12]
+    decide in favor of equal access [^16]
 
 -   European Commission adopts European Accessibility Act, requiring
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books and
     e-commerce meet accessibility requirements.  
 
--   \[more from other countries\]
+-   @@@ more from other countries
 
 As a result, there is a global increase in legislation that further
 defines digital accessibility and creates enforcement mechanisms to
@@ -408,18 +395,24 @@ Business Case brief suited to your specific environment.
 
 [^5]: IISD's Business and Sustainable Development Guide. (2013). *Corporate Social Responsibility (CSR)*. \[online\] Available at: [https://www.iisd.org/business/issues/sr.aspx](https://www.iisd.org/business/issues/sr.aspx) \[Accessed (date). 2018\].
 
-[^6]: Chong, C. (2015). *Accessibility at Microsoft*. \[online\] Braille Monitor. Available at: [https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm) \[Accessed (date). 2018\].
+[^6]: Walter, Ekaterina. “Reaping The Benefits Of Diversity For Modern Business Innovation.” Forbes, Forbes Magazine, 1 Apr. 2014, www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/.
 
-[^7]: Rego, N. (2018). *Microsoft Adding New Accessibility Improvements in Windows 10*. \[online\] Cool Blind Tech. Available at: [https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/) \[Accessed 5 Jul. 2018\].
+[^7]: Chong, C. (2015). *Accessibility at Microsoft*. \[online\] Braille Monitor. Available at: [https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm) \[Accessed (date). 2018\].
 
-[^8]: The World Bank. (2018). *Disability Inclusion Overview*. \[online\] Available at: [http://www.worldbank.org/en/topic/disability](http://www.worldbank.org/en/topic/disability) \[Accessed -date-. 2018\].
+[^8]: Ward, Jason. “How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company.” Windows Central, Windows Central, 22 Sept. 2017, www.windowscentral.com/how-fathering-son-disability-helped-ceo-satya-nadella-transform-microsoft-through-empathy.
 
-[^9]: Walker, M. (2018). *The Business Case for Accessibility and Inclusive Design*. \[online\] Digital Leaders. Available at: [https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/) \[Accessed –date- 2018\].
+[^9]:
 
-[^10]: Disabled World. (2017). *World Population Chart for Countries and Continents*. \[online\] Available at: [https://www.disabled-world.com/calculators-charts/wpc.php](https://www.disabled-world.com/calculators-charts/wpc.php) \[Accessed 5 Jul. 2018\].
+[^10]: Rego, N. (2018). *Microsoft Adding New Accessibility Improvements in Windows 10*. \[online\] Cool Blind Tech. Available at: [https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/) \[Accessed 5 Jul. 2018\].
 
-[^11]: Gaudiano, P. and Hunt, E. (2016). *Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*. \[online\] Forbes.com. Available at: [https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/\#4da9aa36788e](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e) \[Accessed 5 Jul. 2018\].
+[^11]: The World Bank. (2018). *Disability Inclusion Overview*. \[online\] Available at: [http://www.worldbank.org/en/topic/disability](http://www.worldbank.org/en/topic/disability) \[Accessed -date-. 2018\].
 
-[^12]: Independent Living Institute. (2000). *Sydney Olympics 2000 Website Accessibility Decision*. \[online\] Available at: [https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html) \[Accessed 5 Jul. 2018\].
+[^12]: Walker, M. (2018). *The Business Case for Accessibility and Inclusive Design*. \[online\] Digital Leaders. Available at: [https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/) \[Accessed –date- 2018\].
 
-[^12]: Groves, K. (2017). *List of Web Accessibility-Related Litigation and Settlements*. \[online\] KarlGroves.com. Available at: [http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/) \[Accessed (date) 2018\].
+[^13]: Disabled World. (2017). *World Population Chart for Countries and Continents*. \[online\] Available at: [https://www.disabled-world.com/calculators-charts/wpc.php](https://www.disabled-world.com/calculators-charts/wpc.php) \[Accessed 5 Jul. 2018\].
+
+[^14]: Gaudiano, P. and Hunt, E. (2016). *Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*. \[online\] Forbes.com. Available at: [https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/\#4da9aa36788e](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e) \[Accessed 5 Jul. 2018\].
+
+[^15]: Independent Living Institute. (2000). *Sydney Olympics 2000 Website Accessibility Decision*. \[online\] Available at: [https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html) \[Accessed 5 Jul. 2018\].
+
+[^16]: Groves, K. (2017). *List of Web Accessibility-Related Litigation and Settlements*. \[online\] KarlGroves.com. Available at: [http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/) \[Accessed (date) 2018\].
