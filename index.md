@@ -15,7 +15,7 @@ This article defines the purpose and provides guidance for how to construct the 
 -   <strong>Market Expansion:</strong> The global market of people with disabilities is over 1 billion people with spending power of more than $6 trillion.
 -   <strong>Legal Compliance:</strong> Many countries have laws requiring digital accessibility and the issue is of increased legal concern.
 
-The article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility and  "websites" throughout this article and that those terms are meant to includes web applications and other digital technologies as well. 
+The article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility" and  "websites" throughout this article and that those terms are meant to includes web applications and other digital technologies as well. 
 
 
 ## What is a Business Case?
@@ -51,9 +51,16 @@ readily able to
 Let’s look at some examples and research outcomes that will help you
 make the business case that is most effective in your own environment and
 business model.
+<blockquote class="special">
+  <p>Many organisations are waking up to the fact that embracing
+accessibility leads to multiple benefits – reducing legal risks,
+strengthening brand presence, improving customer experience and
+colleague productivity.</p>
+  <cite><strong>Paul Smyth</strong>, Head of Digital Accessiiblity, Barclays</cite>
+</blockquote>
+
 
 ## Accessibility is good for business
-
 Let’s take a closer look at some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
 
 ### Innovation
@@ -72,23 +79,15 @@ the way. [^2] Some examples:
 
 Accessible design is by nature flexible, allowing content to faithfully
 render across a broad spectrum of devices, platforms, assistive
-technologies, and operating systems. Just as in the built environment
-where everyone takes advantage of curbcuts, automatic door openers,
-ramps, and other disability accommodations - so it is on the web.
+technologies, and operating systems. In physical environments everyone takes advantage of lower curbs, automatic door openers, ramps, and other disability accommodations. On the web, such accommodations can be used by everyone, too.
 
 For example, in the early 2000’s as the online world increasingly
 adopted mobile devices to browse the web, imagine the delight of those
-who were committed to and had designed for accessibility. Accessible web
+who were already committed to and had designed for accessibility. Accessible, standards compliant web
 sites were in many cases more mobile-ready. This led to the
 responsive-design trend that has accessibility at its core.[^4]
 
-Another example from the early 2000’s was the promotion of the
-iUniversity program delivered to colleges via the iPod by Apple. When
-the 26-campus University of California system prohibited its teachers
-from using the application due to the inaccessibility of iPod controls
-for blind students, Apple responded with innovation. They implemented
-voice activated controls which evolved into the voice interactions so
-widely used on iPhones today.
+Another example from the early 2000’s was the promotion of the iPod University program delivered to colleges via the iPod by Apple. When the 26-campus University of California system prohibited its teachers from using the application due to the inaccessibility of iPod controls for blind students, Apple responded not with litigation but with innovation. They implemented voice output in the iPod Classic in 2007 and introduced VoiceOver - voice activated controls - to the iPhone in 2009. With Apple's acquisition of Siri in 2010, the company integrated a personal assistant that responds to voice input within the iOS. Siri's wide adoption by the general public played a large part in the development and growth of the mobile Web. These technology advances have lead to even wider innovation with the plethora of personal digital assistants in many homes and offices. 
 
 #### Case Study – Google
 
@@ -117,7 +116,7 @@ everyone.” Among the innovations that she cites as examples are these:
 -   artificial intelligence advances are based on research originally
     done to provide visual context to blind users
 
--   driverless cars, meant to support blind people, are projected to
+-   driverless cars, so promising for the independence of blind people, are projected to
     help solve traffic fatalities and congestion
 
 -   machine learning, initially developed for auto-captioning for the
@@ -167,12 +166,6 @@ how accessibility is approached in their company. An excerpt from their
 response is included below.
 
 #### Case Study – Barclay’s Bank
-
-Many organisations are waking up to the fact that embracing
-accessibility leads to multiple benefits – reducing legal risks,
-strengthening brand presence, improving customer experience and
-colleague productivity.
-
 Establishing an organisation-wide accessibility strategy for
 identifying, anticipating and addressing the additional needs from
 customers and colleagues with impairments contributes in several ways to
