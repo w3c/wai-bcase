@@ -138,7 +138,7 @@ Fewer things are more important to businesses of all kinds than the protection a
 -   workforce diversity;
 -   product safety and decreased liability. [^5]
 
-Further studies [^6] show the broad benefits to the brand and performance of companies that institute policies of broad diversity. Since disability inclusion relies on digital accessibility to be successful, companies strengthen their positive brand identification as they can demonstrate their serious accessibility commitment.   
+Further studies [^6] show the extensive benefits to the brand and performance of companies that institute policies of broad diversity. Since disability inclusion relies on digital accessibility to be successful, companies strengthen their positive brand identification as they can demonstrate their serious accessibility commitment.   
 
 A well-recognized example is Microsoft. For decades, accessibility
 leaders expressed frustration with the gap between what the company said
