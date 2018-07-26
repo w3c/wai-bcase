@@ -21,7 +21,7 @@ The article includes statistics, examples, and case studies to illustrate key be
 
 
 ## What is a Business Case? 
-@@@(iconigraphy here)
+@@@(iconography here)
 
 “Business Case” is a term relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating
 resources such as money or effort in support of a specific
@@ -68,7 +68,7 @@ colleague productivity.</p>
 Let’s take a closer look at some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
 
 ### Innovation
-@@@(iconigraphy here)
+@@@(iconography here)
 
 Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
 the way. [^2] Some examples:
@@ -111,19 +111,14 @@ everyone.” Among the innovations that she cites as examples are these:
 
 -   contrast minimums, required for people with low vision, help all people see in bright light glare
     situations
-
 -   auto-complete, initially provided for the disabled, is now widely
     used by all
-
 -   voice control, implemented for blind users, has been more widely
     adopted as a great convenience by millions of others
-
 -   artificial intelligence advances are based on research originally
     done to provide visual context to blind users
-
 -   driverless cars, so promising for the independence of blind people, are projected to also
     help solve traffic fatalities and congestion
-
 -   machine learning, initially developed for auto-captioning for the
     deaf, is now being turned to broader applications
 
@@ -208,7 +203,7 @@ playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31
 @@@conclusion to this section may be needed as some readers were confused abut where it ended.
 
 ### Increase Market Reach
-@@@(iconigraphy here)
+@@@(iconography here)
 
 The market of people with disabilities is already large and is growing as the
 global population ages. In the UK, disabled people and their
@@ -255,7 +250,7 @@ Study](https://www.3playmedia.com/customers/case-studies/this-american-life/)
 and how it was conducted.
 
 ### Minimize Legal Risk
-@@@(iconigraphy here)
+@@@(iconography here)
 
 {::nomarkdown}
 <div style="float:right; width: 33%; margin-left: 2rem;">
@@ -337,20 +332,16 @@ recover attorney fee and issued the following:
 -   The court concluded that due to the link between the website and
     Winn-Dixie Stores, Title III of the ADA, applicable to “Public
     Accommodations,” did in fact apply in this situation.
-
 -   Required that the website be made accessible to “*individuals with
     disabilities who use computers, laptops, tablets, and smart
     phones.”*
-
 -   Required the store to adopt and post an explicit Accessibility
     Policy *“to ensure the persons with disabilities have full and equal
     enjoyment of its website and shall accompany the public policy
     statement with an accessible means of submitting accessibility
     questions and problems.”*
-
 -   Required annual accessibility training for IT and web staff so they
     learn to create and maintain content that meets WCAG criteria.
-
 -   Required third party applications or content posted to the
     Winn-Dixie site must also meet WCAG requirements.
 
