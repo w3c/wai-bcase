@@ -5,8 +5,10 @@ layout: default
 document-status: draft
 ---
 
-## Summary
 
+@@@There will be a hero image here, either a collage of images to illustrate various aspects as suggested by Howard, or a drawing of an integrated, diverse place of business, or a symbol of a disability friendly business or similar (currently working with an illustrator)
+
+## Summary
 A Business Case is the rationale for initiating a project or task. Whether formal and highly structured or informal and brief, a good Business Case will articulate both tangible and intangible benefits to the business for dedicating resources to a project. To be effective, consideration will be given to cost, benefit, and resource gap analysis. A good Business Case also considers the cost and risk of inaction. As more retail, educational, government, social service, and personal communication activities have moved online, the Business Case for web accessibility is stronger than ever.
 
 This article defines the purpose and provides guidance for how to construct the Business Case for web accessibility that is appropriate and relevant to organizations of different types. Business performance and current research indicates that accessibility integration will help companies realize benefits in:
@@ -18,7 +20,8 @@ This article defines the purpose and provides guidance for how to construct the 
 The article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility" and  "websites" throughout this article and that those terms are meant to includes web applications and other digital technologies as well. 
 
 
-## What is a Business Case?
+## What is a Business Case? 
+@@@(iconigraphy here)
 
 “Business Case” is a term relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating
 resources such as money or effort in support of a specific
@@ -53,6 +56,7 @@ make the business case that is most effective in your own environment and
 business model.
 
 ## Accessibility is good for business
+@@@(design will be applied to make these call-out text boxes)
 <blockquote class="special">
   <p>Many organisations are waking up to the fact that embracing
 accessibility leads to multiple benefits – reducing legal risks,
@@ -64,6 +68,7 @@ colleague productivity.</p>
 Let’s take a closer look at some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
 
 ### Innovation
+@@@(iconigraphy here)
 
 Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
 the way. [^2] Some examples:
@@ -87,10 +92,10 @@ who were already committed to and had designed for accessibility. Accessible, st
 sites were in many cases more mobile-ready. This led to the
 responsive-design trend that has accessibility at its core.[^4]
 
-Another example from the early 2000’s was the promotion of the iPod University program delivered to colleges via the iPod by Apple. When the 26-campus University of California system prohibited its teachers from using the application due to the inaccessibility of iPod controls for blind students, Apple responded not with litigation but with innovation. They implemented voice output in the iPod Classic in 2007 and introduced VoiceOver - voice activated controls - to the iPhone in 2009. With Apple's acquisition of Siri in 2010, the company integrated a personal assistant that responds to voice input within the iOS. Siri's wide adoption by the general public played a large part in the development and growth of the mobile Web. These technology advances have lead to even wider innovation with the plethora of personal digital assistants in many homes and offices. 
+Another example from the early 2000’s was the promotion of the iPod University program delivered to colleges via the iPod by Apple. When the 26-campus University of California system prohibited its teachers from using the application due to the inaccessibility of iPod controls for blind students, Apple responded not with litigation but with innovation. They implemented voice output in the iPod Classic in 2007 and introduced VoiceOver - voice activated controls - to the iPhone in 2009. Although unrelated to the UC iPod engagement, Apple's acquisition of Siri in 2010 integrated a personal assistant that responds to voice input within the iOS. Siri was enthusiastically adopted by blind users and its wider adoption by the general public played a large part in the development and growth of the mobile web. These technology advances have lead to even wider innovation with the plethora of personal digital assistants in many homes and offices. Today everyone can use these innovations, regardless of ability.  
 
 #### Case Study – Google
-
+@@@(design will be applied here)
 <blockquote class="special">
   <p>The accessibility problems of today are the mainstream breakthroughs of tomorrow.</p>
   <cite><strong>Eve Andersson</strong>, lead engineer at Google</cite>
@@ -123,6 +128,7 @@ everyone.” Among the innovations that she cites as examples are these:
     deaf, is now being turned to broader applications
 
 ### Brand Enhancement
+@@@(iconigraphy here)
 
 Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Thr International Institute of Sustainable Development has identified these potential outcomes for CSR programs. Companies with strong CSR programs have realized: 
 
@@ -163,6 +169,8 @@ enterprise-wide accessibility strategy, standards and programmes coupled
 with senior sponsorship helps support our publicly stated ambition of
 becoming the most accessible and inclusive FTSE company.
 
+@@@(design will be applied here)
+
 > At Barclays, accessibility is about more than just disability. It's about helping everyone to work, bank and live their lives regardless of their age, situation, abilities or circumstances.
 {:. special}
 
@@ -200,6 +208,7 @@ playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31
 @@@conclusion to this section may be needed as some readers were confused abut where it ended.
 
 ### Increase Market Reach
+@@@(iconigraphy here)
 
 The market of people with disabilities is already large and is growing as the
 global population ages. In the UK, disabled people and their
@@ -208,13 +217,10 @@ UK Purple Pound. In the US, annual discretionary spending of people with disabil
 
 -   At least one billion people - 15% of the world’s population - have a
     recognized disability [^11]
-
 -   As the population ages, many more acquire disability and yet do not
     identify as a “person with a disability” [^12]
-
 -   In countries with life expectancies over 70 years of age, people
     spend 11.5 per cent of their life span living with disability.[^13]
-
 -   Globally, the extended market is estimated at 2.3 billion people who
     control an incremental \$6.9 trillion in annual disposable
     income.[^14]
@@ -249,7 +255,7 @@ Study](https://www.3playmedia.com/customers/case-studies/this-american-life/)
 and how it was conducted.
 
 ### Minimize Legal Risk
-
+@@@(iconigraphy here)
 
 {::nomarkdown}
 <div style="float:right; width: 33%; margin-left: 2rem;">
@@ -269,7 +275,7 @@ An significant demonstration of the risk of ignoring accessibility requirements 
 {:/}
 
 Consideration of the cost and risk of inaction is an important aspect of
-any Business Case. The risks of ignoring web accessibility requirements are real and
+any Business Case. The risks are real of ignoring requirements for web accessibility and
 the cost can be significant as more regulators recognize the universal
 right to participate in online digital information and services.
 
