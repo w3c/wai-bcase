@@ -6,7 +6,7 @@ github:
  repository: w3c/wai-bcase
 footer: > # Text in footer in HTML
  <p><strong>Date: DRAFT updated 25 July 2018.</strong> Updated 00 Month 2000. First published 00 Month 2000.</p>
- <p><strong>Editors:</strong> Sharron Rush and . Previous editors: <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>, Andrew Arch, and Judy Brewer. <a href="https://www.w3.org/WAI/bcase/ack.html" shape="rect">Acknowledgements</a> lists additional contributors.</p>
+ <p><strong>Editors:</strong> Sharron Rush and Shawn Henry. Previous editors: <a href="https://www.w3.org/People/Shawn">Shawn Henry</a>, Andrew Arch, and Judy Brewer. <a href="https://www.w3.org/WAI/bcase/ack.html" shape="rect">Acknowledgements</a> lists additional contributors.</p>
  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously updated as part of <a href="https://www.w3.org/WAI/WAI-AGE/Overview.html" shape="rect">WAI-AGE Project</a> funded by the European Commission under the FP6 IST Programme.</p>
  
 ---
@@ -17,9 +17,9 @@ _Editors Note: This is a rough concept draft idea. The content is not complete a
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides succinct points for the business case for web accessibility. It includes supporting examples and links to more detailed information, resources, and case studies.
+This page provides succinct points for the business case for web accessibility. It includes supporting examples with links to more detailed information, resources, and case studies.
 
-A [companion Business Case resource](@@) explores the business case in more detail.
+A [companion Business Case resource](https://wai-bcase-new-approach.netlify.com/teach-advocate/business-case/) explores broader aspects of the business case in more detail.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -57,8 +57,8 @@ A [companion Business Case resource](@@) explores the business case in more deta
 {:/}
 
 <h2 id="intro">Introduction</h2>
-<p>The justification to commit resources to a project is often called a "business case". Business cases usually document an analysis of a project's value in meeting the organization's objectives, the cost-benefit analysis, and the expected outcomes.</p>
-<p><strong>Note:</strong> &quot;Websites&quot; through this document includes web applications and is applicable to other digital technology.</p>
+<p>@@The justification to commit resources to a project is often called a "business case". Business cases usually document an analysis of a project's value in meeting the organization's objectives, the cost-benefit analysis, and the expected outcomes.</p>
+<p><strong>Note:</strong> &quot;Websites&quot; through this page includes web applications and is applicable to other digital technology.</p>
 {% include_cached excol.html type="start" id="customize" %}
 
 {% include excol.html type="all" %}
@@ -95,7 +95,7 @@ Web accessibility also benefits people <em>without</em> disabilities. For exampl
 
 *  [Web Accessibility Benefits People With and Without Disabilities](https://www.w3.org/WAI/bcase/soc.html#groups) lists examples of how specific accessibility requirements benefit users without disabilities.
 
-* [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspective-videos/) links to 10 pages with a short video that shows the impact of accessibility and the benefits for everyone in a variety of situations. On each page, the "What are the additional benefits?" section lists examples. There is also a [7&#189;-minute complication video](https://www.youtube.com/watch?v=3f31oufqFSM).
+* [Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspective-videos/) links to 10 pages that include a "What are the additional benefits?" section that lists examples of how accessibility benefits all users, including those without disabilities. (For presentations, you might be interested in the [7&#189;-minute complication video](https://www.youtube.com/watch?v=3f31oufqFSM).)
 
 * [How does accessible web design benefit all web users?]( https://www.washington.edu/doit/how-does-accessible-web-design-benefit-all-web-users) (University of Washington 13 April)
 
@@ -118,10 +118,10 @@ Conversely, if an organization's website has accessibility problems, it can get 
 {% include_cached excol.html type="middle" %}
 
 <h4>Positive coverage of web accessibility – examples</h4>
-* @@ list examples such as:  [How Designing For Disabled People Is Giving Google An Edge](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge), https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/, 
+* @@ list examples such as: [How Designing For Disabled People Is Giving Google An Edge](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge), [Microsoft Adding New Accessibility Improvements in Windows 10](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/) 
 
 <h4>Negative coverage of accessibility barriers – examples</h4>
-* [Accessibility at Microsoft: More Challenges than Victories](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm)
+* @@ maybe list examples such as: [Bank upgrade is excluding blind. Visually impaired customers of American Express say they can no longer read their credit card statements online.](http://news.bbc.co.uk/2/hi/programmes/moneybox/7332216.stm)" (BBC News, 2008); [Accessibility at Microsoft: More Challenges than Victories](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm),<br/>or maybe not list negatives because we don't want this to be a shaming list?
 
 <h4>Organizations promoting web accessibility – examples</h4>
 * Barclays accessibility promotion includes [Website accessibility](https://www.home.barclays/accessibility.html), a series of web pages on [Making your business accessible](https://www.barclayscorporate.com/insight-and-research/managing-your-business/making-your-business-accessible.html), [Creating a culture of inclusion at Barclays – inspiring hearts, educating heads and enabling hands](https://disability-smart.com/2018/03/28/creating-a-culture-of-inclusion-at-barclays-inspiring-hearts-educating-heads-and-enabling-hands/), [@@ other things like those videos]
@@ -130,7 +130,7 @@ Conversely, if an organization's website has accessibility problems, it can get 
 <h4>Others</h4>
 * [Web Accessibility is an Aspect of Corporate Social Responsibility (CSR)](https://www.w3.org/WAI/bcase/soc#responsible)
 
-* Reference: The international web standard Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag.php">WCAG</a>) from the World Wide Web Consortium (W3C) is also <a href="https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/">ISO/IEC 40500</a>.
+* WCAG and ISO &mdash; The international web standard Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag.php">WCAG</a>) from the World Wide Web Consortium (W3C) is also <a href="https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/">ISO/IEC 40500</a>.
 
 {% include_cached excol.html type="end" %}
 
@@ -147,7 +147,7 @@ Conversely, if an organization's website has accessibility problems, it can get 
 
 * [Secret Benefits of Accessibility Part 1: Increased Usability](https://www.sitepoint.com/accessible-usable-website/) (SitePoint 18 October 2004) &mdash; provides specific examples of how accessibility increases usability for all users.
 
-* @@[https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf]  study found that implementing accessible web design minimizes the rate at which users abandon websites, which results in an estimated additional $2.4 million in annual revenue.
+* [Assessing The Value Of Accessible Technologies For Organizations](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf) (Forrester-Microsoft 2016) &mdash; study found that implementing accessible web design minimizes the rate at which users abandon websites, which results in an estimated additional $2.4 million in annual revenue.
 
 {% include_cached excol.html type="end" %}
 
@@ -179,10 +179,9 @@ Accessible websites also reach people <em>without</em> disabilities in various s
 
 * [Older Users and Web Accessibility: Meeting the Needs of Ageing Web Users](https://www.w3.org/WAI/older-users/) describes how the needs of people who are older overlaps with the needs of people with disabilities.<br/>[Developing Websites for Older People: How Web Content Accessibility Guidelines (WCAG) 2.0 Applies](https://www.w3.org/WAI/older-users/developing/) lists specific accessibility requirements that especially benefit older users.
 
-* @@ In countries with life expectancies over 70 years of age, people spend 11.5 per cent of their life span living with disability.  [ from Sharron Disabled World. (2017). World Population Chart for Countries and Continents. [online] Available at: https://www.disabled-world.com/calculators-charts/wpc.php ... slh still needs to figure out where it is in there]
+* [World Population Chart for Countries and Continents](https://www.disabled-world.com/calculators-charts/wpc.ph) &mdash; In countries with life expectancies over 70 years of age, people spend 11.5% of their life span living with disability. [@@ to be confirmed]
 
-* Search Engine Optimization (SEO):
-   * [Secret Benefits of Accessibility Part 2: Better Search Ranking](https://www.sitepoint.com/accessible-search-friendly-site/) (SitePoint 19 October 2004)
+* SEO: [SEO and Accessibility Overlap]( https://web.archive.org/web/20150215081459/http://www.communis.co.uk/blog/2009-08-06-seo-and-accessibility-overlap), [Secret Benefits of Accessibility Part 2: Better Search Ranking](https://www.sitepoint.com/accessible-search-friendly-site/) (SitePoint 2004)
 
 {% include_cached excol.html type="end" %}
 
@@ -196,11 +195,11 @@ Many organizations realize the benefits of a diverse and inclusive workforce. To
 
 {% include_cached excol.html type="middle" %}
 
-* [How to Solve the Jobs Mismatch? American businesses claim they can’t find workers, and disabled Americans can’t find jobs. Here’s how tech can help.](https://slate.com/human-interest/2018/06/jobs-mismatch-american-companies-want-workers-and-disabled-workers-want-jobs.html) (Slate 8 June 2018) &mdash; "As official unemployment numbers fall, more businesses claim to have trouble filling the jobs they’ve got open. Simultaneously, a large population of people categorized as disabled who are skilled and seeking work are unable to find employment. We have an incredible untapped workforce, millions of people with disabilities, many of whom need only minimal accommodations in order to perform well in an office or other workplace—accommodations that should be easy to provide in the digital age, with the wide range of solutions available."
+* [How to Solve the Jobs Mismatch? American businesses claim they can’t find workers, and disabled Americans can’t find jobs. Here’s how tech can help.](https://slate.com/human-interest/2018/06/jobs-mismatch-american-companies-want-workers-and-disabled-workers-want-jobs.html) (Slate 2018) &mdash; "As official unemployment numbers fall, more businesses claim to have trouble filling the jobs they’ve got open. Simultaneously, a large population of people categorized as disabled who are skilled and seeking work are unable to find employment. We have an incredible untapped workforce, millions of people with disabilities, many of whom need only minimal accommodations in order to perform well in an office or other workplace—accommodations that should be easy to provide in the digital age, with the wide range of solutions available."
 
-* [People with Disabilities Drive Innovation](https://www.ft.com/content/d8997604-97ab-11e7-8c5c-c8d8fa6961bb) (Financial Times 13 September 2017)&mdash; "People with disabilities are uniquely positioned to develop solutions that advance technology.",  "…employers who remove barriers from their workspaces receive benefits in the form of increased growth and innovation", "Companies seeking a competitive advantage should hire people who will bring unique perspectives to the table.", "Hiring people with disabilities leads to a more innovative workforce."
+* [People with Disabilities Drive Innovation](https://www.ft.com/content/d8997604-97ab-11e7-8c5c-c8d8fa6961bb) (Financial Times 2017)&mdash; "People with disabilities are uniquely positioned to develop solutions that advance technology.",  "…employers who remove barriers from their workspaces receive benefits in the form of increased growth and innovation", "Companies seeking a competitive advantage should hire people who will bring unique perspectives to the table.", "Hiring people with disabilities leads to a more innovative workforce."
 
-* [How The Abilities Of People With Disabilities Can Enhance The Workplace](https://www.forbes.com/sites/jpmorganchase/2016/11/10/how-the-abilities-of-people-with-disabilities-can-enhance-the-workplace/) (Forbes 10 November 2016)
+* [How The Abilities Of People With Disabilities Can Enhance The Workplace](https://www.forbes.com/sites/jpmorganchase/2016/11/10/how-the-abilities-of-people-with-disabilities-can-enhance-the-workplace/) (Forbes 2016)
 
 {% include_cached excol.html type="end" %}
 
@@ -219,10 +218,6 @@ Designing products to meet the needs of people with disabilities often leads to 
 * [People with Disabilities Drive Innovation](https://www.ft.com/content/d8997604-97ab-11e7-8c5c-c8d8fa6961bb) (Financial Times 13 September 2017)&mdash; Includes examples of tools developed for people with disabilities that also benefit people without disabilities. "Disability creates a constraint, and embracing constraints spurs inventive solutions."
 
 * [@@Artur Ortega's list] &mdash; lists examples of technologies and techniques developed for disability that went mainstream.
-
-* @@ maybe Sharron's iUniversity, voice activated controls, example (although it's from 2000s)– <strong>need reference</strong>
-
-* @@ maybe Shawn's case study that illustrates Sharron's point "…those who were committed to and had designed for accessibility. Accessible web sites were in many cases more mobile-ready." (although it's from 2000)
 
 * [Barclays Case Study](@@) opens with: "<br/>"Many organisations are waking up to the fact that embracing accessibility leads to multiple benefits – reducing legal risks, strengthening brand presence, improving customer experience and colleague productivity.<br/>
 Establishing an organisation-wide accessibility strategy for identifying, anticipating and addressing the additional needs from customers and colleagues with impairments drives innovation in several ways – through tailored services, fostering an inclusive culture, creating new ways to communicate and consult with existing and potential customers."
@@ -266,11 +261,9 @@ Accessible websites can decrease expenses. For example:
 
 * [List of Web Accessibility-Related Litigation and Settlements](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/) &mdash; primarily in the United States.
 
-* Winn-Dixie Case Study
+* [Target Case Study](https://www.w3.org/WAI/bcase/target-case-study)
 
-* Target Case Study
-
-* Sydney Olympic Games Case Study @@ and other resources.
+* [Sydney Olympic Games Case Study](https://www.w3.org/WAI/bcase/socog-case-study)
 
 {% include_cached excol.html type="end" %}
 
