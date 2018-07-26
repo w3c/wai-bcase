@@ -35,8 +35,8 @@ compelling Business Case for your own situation. Use these resources to
 inspire confidence among leaders and decision makers that continued investment in
 accessibility is good for your business.
 
-> Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.
-{:.special}
+<blockquote class="special">Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.
+</blockquote>
 
 Research indicates that an investment in web accessibility is part of an
 overall strategy that is effective for modern business practice. [^1]
@@ -56,9 +56,8 @@ business model.
 accessibility leads to multiple benefits – reducing legal risks,
 strengthening brand presence, improving customer experience and
 colleague productivity.</p>
-  <cite><strong>Paul Smyth</strong>, Head of Digital Accessiiblity, Barclays</cite>
+  <cite><strong>Paul Smyth</strong>, Head of Digital Accessibility, Barclays</cite>
 </blockquote>
-
 
 ## Accessibility is good for business
 Let’s take a closer look at some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
