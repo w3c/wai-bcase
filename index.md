@@ -368,21 +368,21 @@ Business Case brief suited to your specific environment.
 
 [^1]: Ball, P., Monaco, G., Schmeling, J., Schartz, H. and Blanck, P. (2005). *Disability as Diversity in Fortune 100 Companies*. \[online\] Law, Health Policy and Disability Center. Available at: [https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629) \[Accessed -date- 2018\].
 
-[^2]: IBM Research. (2018). *Accessibility Innovation Showcase*. \[online\] Available at: [https://www.ibm.com/able/research-projects.html](https://www.ibm.com/able/research-projects.html) \[Accessed \[date\]l. 2018\].
+[^2]: IBM Research.(2018). *Accessibility Innovation Showcase*.  \[online\] Available at: [https://www.ibm.com/able/research-projects.html](https://www.ibm.com/able/research-projects.html) \[Accessed \[date\]l. 2018\].
 
-[^3]: Germa, Haben. “People with Disabilities Drive Innovation.” Haben Girma, 13 Sept. 2017, habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/. [Accessed \[date\]l. 2018\].
+[^3]: Germa, Haben. (2017) *People with Disabilities Drive Innovation*. Available at: [habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/](https://habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/). [Accessed \[date\]l. 2018\].
 
 [^4]: Avila, J. (2013). *What Does Responsive Design Have To Do With Accessibility?*. \[online\] Level Access. Available at: [https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/) \[Accessed –date- 2018\].
 
 [^5]: IISD's Business and Sustainable Development Guide. (2013). *Corporate Social Responsibility (CSR)*. \[online\] Available at: [https://www.iisd.org/business/issues/sr.aspx](https://www.iisd.org/business/issues/sr.aspx) \[Accessed (date). 2018\].
 
-[^6]: Walter, Ekaterina. “Reaping The Benefits Of Diversity For Modern Business Innovation.” Forbes, Forbes Magazine, 1 Apr. 2014, www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/.
+[^6]: Walter, Ekaterina. (1 Apr. 2014). *Reaping The Benefits Of Diversity For Modern Business Innovation*. Forbes, Forbes Magazine. Available at:   [www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f).\[Accessed –date- 2018\].
 
-[^7]: Chong, C. (2015). *Accessibility at Microsoft*. \[online\] Braille Monitor. Available at: [https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm) \[Accessed (date). 2018\].
+[^7]: Chong, C. (2015). *Accessibility at Microsoft*. \[online\] Braille Monitor. Available at: [https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm) \[Accessed (date). 2018\]. \[Accessed –date- 2018\].
 
-[^8]: Ward, Jason. “How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company.” Windows Central, Windows Central, 22 Sept. 2017, [www.windowscentral.com/how-fathering-son-disability-helped-ceo-satya-nadella-transform-microsoft-through-empathy](www.windowscentral.com/how-fathering-son-disability-helped-ceo-satya-nadella-transform-microsoft-through-empathy).
+[^8]: Ward, Jason. (2017) *How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company.* Windows Central, Windows Central, 22 Sept. 2017, [www.windowscentral.com/how-fathering-son-disability-helped-ceo-satya-nadella-transform-microsoft-through-empathy](www.windowscentral.com/how-fathering-son-disability-helped-ceo-satya-nadella-transform-microsoft-through-empathy). \[Accessed –date- 2018\].
 
-[^9]: Nadella, Satya. “The Moment That Forever Changed Our Lives.” PowerShell Team Blog, LinkedIn, Oct. 2017, [blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/).
+[^9]: Nadella, Satya. “The Moment That Forever Changed Our Lives.” PowerShell Team Blog, LinkedIn, Oct. 2017, [blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/).\[Accessed –date- 2018\].
 
 [^10]: Rego, N. (2018). *Microsoft Adding New Accessibility Improvements in Windows 10*. \[online\] Cool Blind Tech. Available at: [https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/) \[Accessed 5 Jul. 2018\].
 
