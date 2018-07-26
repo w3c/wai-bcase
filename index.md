@@ -51,6 +51,8 @@ readily able to
 Let’s look at some examples and research outcomes that will help you
 make the business case that is most effective in your own environment and
 business model.
+
+## Accessibility is good for business
 <blockquote class="special">
   <p>Many organisations are waking up to the fact that embracing
 accessibility leads to multiple benefits – reducing legal risks,
@@ -59,7 +61,6 @@ colleague productivity.</p>
   <cite><strong>Paul Smyth</strong>, Head of Digital Accessibility, Barclays</cite>
 </blockquote>
 
-## Accessibility is good for business
 Let’s take a closer look at some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
 
 ### Innovation
@@ -115,7 +116,7 @@ everyone.” Among the innovations that she cites as examples are these:
 -   artificial intelligence advances are based on research originally
     done to provide visual context to blind users
 
--   driverless cars, so promising for the independence of blind people, are projected to
+-   driverless cars, so promising for the independence of blind people, are projected to also
     help solve traffic fatalities and congestion
 
 -   machine learning, initially developed for auto-captioning for the
@@ -123,28 +124,26 @@ everyone.” Among the innovations that she cites as examples are these:
 
 ### Brand Enhancement
 
-Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Thr International Institute of Sustainable Development has identified these potential outcomes for CSR programs.  [^5]:
+Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Thr International Institute of Sustainable Development has identified these potential outcomes for CSR programs. Companies with strong CSR programs have realized: 
 
--   Improved financial performance;
--   Lower operating costs;
--   Enhanced brand image and reputation;
--   Increased sales and customer loyalty;
--   Greater productivity and quality;
--   More ability to attract and retain employees;
--   Reduced regulatory oversight;
--   Access to capital;
--   Workforce diversity;
--   Product safety and decreased liability.
+-   improved financial performance;
+-   lower operating costs;
+-   enhanced brand image and reputation;
+-   increased sales and customer loyalty;
+-   greater productivity and quality;
+-   more ability to attract and retain employees;
+-   reduced regulatory oversight;
+-   access to capital;
+-   workforce diversity;
+-   product safety and decreased liability. [^5]
 
-Further studies [^6] show the broad benefits to the brand and performance of companies that institute policies of diversity and inclusion. Since disability inclusion relies on digital accessibility to be successful, companies strengthen their positive brand identification as they can demonstrate their serious accessibility commitment.   
+Further studies [^6] show the broad benefits to the brand and performance of companies that institute policies of broad diversity. Since disability inclusion relies on digital accessibility to be successful, companies strengthen their positive brand identification as they can demonstrate their serious accessibility commitment.   
 
 A well-recognized example is Microsoft. For decades, accessibility
 leaders expressed frustration with the gap between what the company said
 about accessibility and what it actually did. [^7] Its brand suffered. [^8]
 Recently however, Microsoft’s commitment to accessibility has been made
-real [^9] and is demonstrated in improvements to products and services and in
-the genuine engagement with stakeholders of all abilities. Its brand
-image is stronger and its efforts lauded in the community of people with
+real [^9] and is demonstrated in the genuine engagement with stakeholders of all abilities and the resulting improvements to products and services. Its brand image is stronger and its efforts lauded in the community of people with
 disabilities. [^10]
 
 We asked Barclay’s, a W3C member organization, to share their approach to diversity and inclusion through the accessibility initatives in their company. An excerpt from their response is included below.
@@ -202,14 +201,10 @@ playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31
 
 ### Increase Market Reach
 
-The market of people with disabilities is large and growing as the
-global population ages. In the US, Fortune Magazine estimates the annual
-disability market to be more than a trillion dollars with \$200 billion
-of that discretionary spending. In the UK, disabled people and their
+The market of people with disabilities is already large and is growing as the
+global population ages. In the UK, disabled people and their
 families spend at least £249 billion every year, which is known as the
-UK Purple Pound. The global estimate is \$6 trillion, which is
-equivalent to a market the size of China. Consider these facts when
-estimating market size:
+UK Purple Pound. In the US, annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is $6 trillion, which is equivalent to that of China. Consider these facts when estimating market size:
 
 -   At least one billion people - 15% of the world’s population - have a
     recognized disability [^11]
@@ -235,31 +230,25 @@ partner concluded that the provision of transcipts not only met legal
 obligations but returned significant benefits including:
 
 -   search traffic increased 6.86%,
-
--   better comprehension for visitors who know English as a second
+-   better comprehension for visitors who use English as a second
     language,
-
 -   visitors able to use transcripts in noisy or sound-sensitive
     environments,
-
 -   ability to more easily translate, and
-
 -   ability to search text to reference a specific section of audio.
 
 The study conducted over more than one year, used Google analytics to
 capture the following data:
 
 -   visitor engagement increased 7.23%,
-
 -   unique visitors increased 4.18%, and
-
 -   new inbound links to transcript accounted for increase of 3.89%
 
 Read more detail and the full report of the [This American Life Case
 Study](https://www.3playmedia.com/customers/case-studies/this-american-life/)
 and how it was conducted.
 
-### Avoid Legal Risk
+### Minimize Legal Risk
 
 
 {::nomarkdown}
@@ -280,22 +269,18 @@ An significant demonstration of the risk of ignoring accessibility requirements 
 {:/}
 
 Consideration of the cost and risk of inaction is an important aspect of
-the Business Case. In relation to accessibility, the risks are real and
+any Business Case. The risks of ignoring web accessibility requirements are real and
 the cost can be significant as more regulators recognize the universal
 right to participate in online digital information and services.
 
-For much of the first decade of the 21st Century, the legal risk was
-seen to be relatively small for maintaining an inaccessible web site.
-Change occurred incrementally:
+As web use became more integrated into modern life all over the world, regulators introduced laws and policies to strengthen the rights of people with disabilities. Change occurred incrementally and steadily.
 
 -   Early 2000s in the US, a few legal actions related to inaccessible
     websites based on the Americans with Disabilities Act (ADA) and
     Section 508 of the Rehabilitation Act for US government entities.
-
 -   Despite several encouraging victories in US courts for people with
     disabilities seeking equal access, Section 508 was seen to have
     limited scope and the ADA was unevenly applied by various courts.
-
 -   Complaint put to the Human Rights and Equal Opportunities Commission
     (HREOC) in 2000 about inaccessibility of Sydney Olympics claimed
     violation of Commonwealth Disability Discrimination Act 1992 (Cth
@@ -307,19 +292,15 @@ Legal risk became even clearer with the adoption in 2006 of the United
 Nations Convention on the Rights of People with Disabilities (CRPD).
 
 -   CRPD ratified by more than 140 countries by 2016.
-
--   Comprehensive human rights document that includes direct reference
+-   It is a comprehensive human rights document that includes direct reference
     to the rights of all people to have equal access to communications
     technology.
-
 -   Number of legal actions in US increase and courts increasingly
     decide in favor of equal access [^16]
-
 -   European Commission adopts European Accessibility Act, requiring
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books and
     e-commerce meet accessibility requirements.  
-
 -   @@@ more from other countries
 
 As a result, there is a global increase in legislation that further
