@@ -380,7 +380,7 @@ Business Case brief suited to your specific environment.
 
 [^7]: Chong, C. (2015). *Accessibility at Microsoft*. \[online\] Braille Monitor. Available at: [https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm) \[Accessed (date). 2018\]. \[Accessed –date- 2018\].
 
-[^8]: Ward, Jason. (2017) *How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company.* Windows Central, Windows Central, 22 Sept. 2017, [www.windowscentral.com/how-fathering-son-disability-helped-ceo-satya-nadella-transform-microsoft-through-empathy](www.windowscentral.com/how-fathering-son-disability-helped-ceo-satya-nadella-transform-microsoft-through-empathy). \[Accessed –date- 2018\].
+[^8]: Ward, Jason. (2017) *How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company.* Windows Central, Windows Central, 22 Sept. 2017, [https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html](https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html). \[Accessed –date- 2018\].
 
 [^9]: Nadella, Satya. “The Moment That Forever Changed Our Lives.” PowerShell Team Blog, LinkedIn, Oct. 2017, [blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/).\[Accessed –date- 2018\].
 
