@@ -125,7 +125,7 @@ everyone.” Among the innovations that she cites as examples are these:
 ### Brand Enhancement
 @@@(iconigraphy here)
 
-Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Thr International Institute of Sustainable Development has identified these potential outcomes for CSR programs. Companies with strong CSR programs have realized: 
+Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. The International Institute of Sustainable Development has identified these potential outcomes for CSR programs. Companies with strong CSR programs have realized: 
 
 -   improved financial performance;
 -   lower operating costs;
