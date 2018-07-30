@@ -88,11 +88,11 @@ technologies, and operating systems. In physical environments everyone takes adv
 
 For example, in the early 2000’s as the online world increasingly
 adopted mobile devices to browse the web, imagine the delight of those
-who were already committed to and had designed for accessibility. Accessible, standards compliant web
+who were already committed to and had designed for accessibility. Accessible, standards-compliant web
 sites were in many cases more mobile-ready. This led to the
 responsive-design trend that has accessibility at its core.[^4]
 
-Apple has been an innovator in the accessibility space since the inception of the company. They have anticipated market direction and integrated disability needs into product development. In the early 2000’s, for example, the 26-campus University of California (UC) system was unable to take advantage of Apple's iPod University program. The application was inaccessible to blind students and so could not be distributed as an offical platform. However, Apple had already identified that gap and committed to closing it through innovation for its next generation of products. Apple invested the resources to develop and acquire voice technology that led to VoiceOver and Siri, voice interactions that were enthusiastically adopted by blind users. Wider adoption by the general public played a large part in the development and growth of the mobile web itself. Such advances lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these innovations, regardless of ability. 
+Apple has been an innovator in the accessibility space since the inception of the company. They have anticipated market direction and integrated disability needs into product development. In the early 2000’s, for example, the 26-campus University of California (UC) system was unable to take advantage of Apple's iPod University program. The application was inaccessible to blind students and so could not be distributed as an offical platform. However, Apple had already identified that gap and committed to closing it through innovation for its next generation of products. Apple invested the resources to develop and acquire voice technology that led to VoiceOver and Siri, voice interactions that were enthusiastically adopted by blind users. The UC System was soon able to use the features and wider adoption by the general public played a large part in the development and growth of the mobile web itself. Such advances lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these innovations, regardless of ability. 
   
 #### Case Study – Google
 @@@(design will be applied here)
