@@ -1,4 +1,4 @@
 # wai-bcase
 Accessibility Business Case
 
-Preview: https://w3c.github.io/wai-bcase/business-case/
+Preview: https://w3c.github.io/wai-bcase/teach-advocate/business-case/
