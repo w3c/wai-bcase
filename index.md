@@ -344,6 +344,10 @@ recover attorney fee and issued the following:
     learn to create and maintain content that meets WCAG criteria.
 -   Required third party applications or content posted to the
     Winn-Dixie site must also meet WCAG requirements.
+    
+## Share your experience
+
+User experience research and case studies confirm the many ways that accessible design supports an organization’s ability to nnovate, enhance their brand, increase market reach, and minimize legal risk among many other benefits. The WAI is a global community of practice and we encourage you to share your examples. If you have a story of how your commitment to accessibility improved your online business model, please submit it via email to wai-eo-editors@w3.org
 
 ## Resources
 
@@ -358,8 +362,7 @@ novelty but an integrated, critical tool of modern life. The need for
 equal access for all people regardless of ability is clear and smart
 businesses understand it. While the legal risks are significant, the
 benefits have also been demonstrated by leaders like Apple, Barclay’s,
-NPR, IBM, and hundreds more. Use the template provided to create a
-Business Case brief suited to your specific environment.
+NPR, IBM, and hundreds more. Please
 
 <hr>
 
