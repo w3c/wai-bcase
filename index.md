@@ -257,7 +257,7 @@ and how it was conducted.
 {% include box.html type="start" %}
 {:/}
 
-An significant demonstration of the risk of ignoring accessibility requirements was the 2008 settlement by the National Federation of the Blind with Target retailers:
+A significant demonstration of the risk of ignoring accessibility requirements was the 2008 settlement by the National Federation of the Blind with Target retailers:
 
 - class damages of $6 million
 - plaintiff legal fees over $3 million
