@@ -287,7 +287,7 @@ As web use became more integrated into modern life all over the world, regulator
     violation of Commonwealth Disability Discrimination Act 1992 (Cth
     DDA). [^15]
 
-The decision in the Sydney Olympics site raised awareness of the need to
+The 2001 decision in the Sydney Olympics suit [^16] raised awareness of the need to
 address accessibility in the emerging practice of web communication.
 Legal risk became even clearer with the adoption in 2006 of the United
 Nations Convention on the Rights of People with Disabilities (CRPD).
@@ -297,7 +297,7 @@ Nations Convention on the Rights of People with Disabilities (CRPD).
     to the rights of all people to have equal access to communications
     technology.
 -   Number of legal actions in US increase and courts increasingly
-    decide in favor of equal access [^16]
+    decide in favor of equal access [^17]
 -   European Commission adopts European Accessibility Act, requiring
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books and
@@ -396,4 +396,6 @@ NPR, IBM, and hundreds more. Please
 
 [^15]: Independent Living Institute. (2000). *Sydney Olympics 2000 Website Accessibility Decision*. \[online\] Available at: [https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html) \[Accessed 5 Jul. 2018\].
 
-[^16]: Groves, K. (2017). *List of Web Accessibility-Related Litigation and Settlements*. \[online\] KarlGroves.com. Available at: [http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/) \[Accessed (date) 2018\].
+[^16]: Sloan, Martin. “Maguire v Socog.” Electronic Law Journals Journal of Information Law &amp; Technology, University of Warwick, 23 Feb. 2005, warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/.
+
+[^17]: Groves, K. (2017). *List of Web Accessibility-Related Litigation and Settlements*. \[online\] KarlGroves.com. Available at: [http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/) \[Accessed (date) 2018\].
