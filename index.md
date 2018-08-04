@@ -125,20 +125,9 @@ everyone.” Among the innovations that she cites as examples are these:
 ### Brand Enhancement
 @@@(iconigraphy here)
 
-Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. The International Institute of Sustainable Development has identified these potential outcomes for CSR programs. Companies with strong CSR programs have realized: 
+Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits. [^5]
 
--   improved financial performance;
--   lower operating costs;
--   enhanced brand image and reputation;
--   increased sales and customer loyalty;
--   greater productivity and quality;
--   more ability to attract and retain employees;
--   reduced regulatory oversight;
--   access to capital;
--   workforce diversity;
--   product safety and decreased liability. [^5]
-
-Further studies [^6] show the extensive benefits to the brand and performance of companies that institute policies of broad diversity. Since disability inclusion relies on digital accessibility to be successful, companies strengthen their positive brand identification as they can demonstrate their serious accessibility commitment.   
+Further studies [^6] emphasize the benefits to the brand of companies that institute policies of broad diversity. To support employees with disabilities, an important segment of a diverse workforce, the technology that employees use needs to be accessible, including websites and applications.
 
 A well-recognized example is Microsoft. For decades, accessibility
 leaders expressed frustration with the gap between what the company said
@@ -219,6 +208,10 @@ UK Purple Pound. In the US, annual discretionary spending of people with disabil
 -   Globally, the extended market is estimated at 2.3 billion people who
     control an incremental \$6.9 trillion in annual disposable
     income.[^14]
+    
+<blockquote class="special">Added benefit: as accessibility features are included, overall customer satisfaction improves. "Designing inclusive software results in improved usability and customer satisfaction." <br />
+~ Microsoft's app developer guide</blockquote>
+
 
 #### Case Study - NPR weekly broadcast of This American Life
 
