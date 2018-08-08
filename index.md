@@ -42,7 +42,7 @@ accessibility is good for your business.
 </blockquote>
 
 Research indicates that an investment in web accessibility is part of an
-overall strategy that is effective for modern business practice. [^1]
+overall strategy that is effective for modern business practice.[^1]
 When accessibility is part of strategic planning, businesses are more
 readily able to
 
@@ -71,7 +71,7 @@ Let’s take a closer look at some key benefits of web accessibility to business
 @@@(iconography here)
 
 Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
-the way. [^2] Some examples:
+the way.[^2] Some examples:
 
 -   Addressing disability barriers anticipates solutions for temporary disabling conditions. For example: noisy or too bright environments.
 
@@ -80,7 +80,7 @@ the way. [^2] Some examples:
 
 -   Innovations like the typewriter, telephone, punch cards, text to
     speech, email, and voice controls were originally meant as accommodations
-    for disability and all have found much wider application. [^3]
+    for disability and all have found much wider application.[^3]
 
 Accessible design is by nature flexible, allowing content to faithfully
 render across a broad spectrum of devices, platforms, assistive
@@ -125,16 +125,16 @@ everyone.” Among the innovations that she cites as examples are these:
 ### Brand Enhancement
 @@@(iconigraphy here)
 
-Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits. [^5]
+Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^5]
 
-Further studies [^6] emphasize the benefits to the brand of companies that institute policies of broad diversity. To support employees with disabilities, an important segment of a diverse workforce, the technology that employees use needs to be accessible, including websites and applications.
+Further studies[^6] emphasize the benefits to the brand of companies that institute policies of broad diversity. To support employees with disabilities, an important segment of a diverse workforce, the technology that employees use needs to be accessible, including websites and applications.
 
 A well-recognized example is Microsoft. For decades, accessibility
 leaders expressed frustration with the gap between what the company said
-about accessibility and what it actually did. [^7] Its brand suffered. [^8]
+about accessibility and what it actually did.[^7] Its brand suffered.[^8]
 Recently however, Microsoft’s commitment to accessibility has been made
-real [^9] and is demonstrated in the genuine engagement with stakeholders of all abilities and the resulting improvements to products and services. Its brand image is stronger and its efforts lauded in the community of people with
-disabilities. [^10]
+real[^9] and is demonstrated in the genuine engagement with stakeholders of all abilities and the resulting improvements to products and services. Its brand image is stronger and its efforts lauded in the community of people with
+disabilities.[^10]
 
 We asked Barclay’s, a W3C member organization, to share their approach to diversity and inclusion through the accessibility initatives in their company. An excerpt from their response is included below.
 
@@ -200,9 +200,9 @@ families spend at least £249 billion every year, which is known as the
 UK Purple Pound. In the US, annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is $6 trillion, which is equivalent to that of China. Consider these facts when estimating market size:
 
 -   At least one billion people - 15% of the world’s population - have a
-    recognized disability [^11]
+    recognized disability[^11]
 -   As the population ages, many more acquire disability and yet do not
-    identify as a “person with a disability” [^12]
+    identify as a “person with a disability”[^12]
 -   In countries with life expectancies over 70 years of age, people
     spend 11.5 per cent of their life span living with disability.[^13]
 -   Globally, the extended market is estimated at 2.3 billion people who
@@ -278,7 +278,7 @@ As web use became more integrated into modern life all over the world, regulator
 -   Complaint put to the Human Rights and Equal Opportunities Commission
     (HREOC) in 2000 about inaccessibility of Sydney Olympics claimed
     violation of Commonwealth Disability Discrimination Act 1992 (Cth
-    DDA). [^15]
+    DDA).[^15]
 
 The 2001 decision in the Sydney Olympics suit [^16] raised awareness of the need to
 address accessibility in the emerging practice of web communication.
@@ -290,7 +290,7 @@ Nations Convention on the Rights of People with Disabilities (CRPD).
     to the rights of all people to have equal access to communications
     technology.
 -   Number of legal actions in US increase and courts increasingly
-    decide in favor of equal access [^17]
+    decide in favor of equal access[^17]
 -   European Commission adopts European Accessibility Act, requiring
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books and
