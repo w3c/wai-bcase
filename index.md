@@ -35,10 +35,10 @@ brand enhancement provided by an integrated accessibility program.
 Understanding which of the many benefits of web accessibility are most
 relevant in your business environment will help you build the most
 compelling Business Case for your own situation. Use these resources to
-inspire confidence among leaders and decision makers that continued investment in
-accessibility is good for your business.
+inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
 
-<blockquote class="special">Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.
+<blockquote class="pull alt-2">
+  <p>Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.</p>
 </blockquote>
 
 Research indicates that an investment in web accessibility is part of an
@@ -56,8 +56,8 @@ make the business case that is most effective in your own environment and
 business model.
 
 ## Accessibility is good for business
-@@@(design will be applied to make these call-out text boxes)
-<blockquote class="special">
+
+<blockquote class="pull right">
   <p>Many organisations are waking up to the fact that embracing
 accessibility leads to multiple benefits – reducing legal risks,
 strengthening brand presence, improving customer experience and
@@ -95,8 +95,8 @@ responsive-design trend that has accessibility at its core.[^4]
 Apple has been an innovator in the accessibility space since the inception of the company. They have anticipated market direction and integrated disability needs into product development. In the early 2000’s, for example, the 26-campus University of California (UC) system was unable to take advantage of Apple's iPod University program. The application was inaccessible to blind students and so could not be distributed as an offical platform. However, Apple had already identified that gap and committed to closing it through innovation for its next generation of products. Apple invested the resources to develop and acquire voice technology that led to VoiceOver and Siri, voice interactions that were enthusiastically adopted by blind users. The UC System was soon able to use the features and wider adoption by the general public played a large part in the development and growth of the mobile web itself. Such advances lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these innovations, regardless of ability. 
   
 #### Case Study – Google
-@@@(design will be applied here)
-<blockquote class="special">
+
+<blockquote class="pull left alt-1">
   <p>The accessibility problems of today are the mainstream breakthroughs of tomorrow.</p>
   <cite><strong>Eve Andersson</strong>, lead engineer at Google</cite>
 </blockquote>
@@ -155,8 +155,9 @@ becoming the most accessible and inclusive FTSE company.
 
 @@@(design will be applied here)
 
-> At Barclays, accessibility is about more than just disability. It's about helping everyone to work, bank and live their lives regardless of their age, situation, abilities or circumstances.
-{:. special}
+<blockquote class="pull right alt-2">
+  <p>At Barclays, accessibility is about more than just disability. It's about helping everyone to work, bank and live their lives regardless of their age, situation, abilities or circumstances.</p>
+</blockquote>
 
 When we shift our thinking away from the minimum legal compliance to one
 focused on the commercial opportunity and the creative challenge that
@@ -209,9 +210,13 @@ UK Purple Pound. In the US, annual discretionary spending of people with disabil
     control an incremental \$6.9 trillion in annual disposable
     income.[^14]
     
-<blockquote class="special">Added benefit: as accessibility features are included, overall customer satisfaction improves. "Designing inclusive software results in improved usability and customer satisfaction." <br />
-~ Microsoft's app developer guide</blockquote>
 
+Added benefit: as accessibility features are included, overall customer satisfaction improves. 
+
+<blockquote class="pull">
+  <p>Designing inclusive software results in improved usability and customer satisfaction.</p>
+  <cite><strong>Microsoft’s app developer guide</strong></cite>
+</blockquote>
 
 #### Case Study - NPR weekly broadcast of This American Life
 
