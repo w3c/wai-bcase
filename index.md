@@ -251,8 +251,7 @@ and how it was conducted.
 @@@(iconography here)
 
 {::nomarkdown}
-<div style="float:right; width: 33%; margin-left: 2rem;">
-{% include box.html type="start" %}
+{% include box.html type="start" class="simple right" %}
 {:/}
 
 A significant demonstration of the risk of ignoring accessibility requirements was the 2008 settlement by the National Federation of the Blind with Target retailers:
@@ -264,7 +263,6 @@ A significant demonstration of the risk of ignoring accessibility requirements w
 
 {::nomarkdown}
 {% include box.html type="end" %}
-</div>
 {:/}
 
 Consideration of the cost and risk of inaction is an important aspect of
