@@ -283,7 +283,7 @@ As web use became more integrated into modern life all over the world, regulator
     violation of Commonwealth Disability Discrimination Act 1992 (Cth
     DDA).[^15]
 
-The 2001 decision in the Sydney Olympics suit [^16] raised awareness of the need to
+The 2001 decision in the Sydney Olympics suit[^16] raised awareness of the need to
 address accessibility in the emerging practice of web communication.
 Legal risk became even clearer with the adoption in 2006 of the United
 Nations Convention on the Rights of People with Disabilities (CRPD).
