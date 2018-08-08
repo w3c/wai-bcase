@@ -360,8 +360,6 @@ businesses understand it. While the legal risks are significant, the
 benefits have also been demonstrated by leaders like Apple, Barclay’s,
 NPR, IBM, and hundreds more. Please
 
-<hr>
-
 [^1]: Ball, P., Monaco, G., Schmeling, J., Schartz, H. and Blanck, P. (2005). *Disability as Diversity in Fortune 100 Companies*. \[online\] Law, Health Policy and Disability Center. Available at: [https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629) \[Accessed -date- 2018\].
 
 [^2]: IBM Research.(2018). *Accessibility Innovation Showcase*.  \[online\] Available at: [https://www.ibm.com/able/research-projects.html](https://www.ibm.com/able/research-projects.html) \[Accessed \[date\]l. 2018\].
