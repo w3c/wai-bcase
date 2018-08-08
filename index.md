@@ -390,6 +390,6 @@ NPR, IBM, and hundreds more. Please
 
 [^15]: Independent Living Institute. (2000). *Sydney Olympics 2000 Website Accessibility Decision*. \[online\] Available at: [https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html) \[Accessed 5 Jul. 2018\].
 
-[^16]: Sloan, Martin. “Maguire v Socog.” Electronic Law Journals Journal of Information Law &amp; Technology, University of Warwick, 23 Feb. 2005, warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/.
+[^16]: Sloan, Martin. “Maguire v Socog.” Electronic Law Journals Journal of Information Law &amp; Technology, University of Warwick, 23 Feb. 2005, [https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/).
 
 [^17]: Groves, K. (2017). *List of Web Accessibility-Related Litigation and Settlements*. \[online\] KarlGroves.com. Available at: [http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/) \[Accessed (date) 2018\].
