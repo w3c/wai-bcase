@@ -101,7 +101,7 @@ Apple has been an innovator in the accessibility space since the inception of th
   <cite><strong>Eve Andersson</strong>, lead engineer at Google</cite>
 </blockquote>
 
-A 2016 article in FastCompany online magazine highlights the ways in
+A 2016 article in FastCompany online magazine [^5] highlights the ways in
 which Google’s investment in accessibility provides the company with an
 innovation edge in a broad array of products and services. Eve
 Andersson, the lead engineer featured in the article, say unequivocally
@@ -125,16 +125,16 @@ everyone.” Among the innovations that she cites as examples are these:
 ### Brand Enhancement
 @@@(iconigraphy here)
 
-Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^5]
+Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^6]
 
-Further studies[^6] emphasize the benefits to the brand of companies that institute policies of broad diversity. To support employees with disabilities, an important segment of a diverse workforce, the technology that employees use needs to be accessible, including websites and applications.
+Further studies[^7] emphasize the benefits to the brand of companies that institute policies of broad diversity. To support employees with disabilities, an important segment of a diverse workforce, the technology that employees use needs to be accessible, including websites and applications.
 
 A well-recognized example is Microsoft. For decades, accessibility
 leaders expressed frustration with the gap between what the company said
-about accessibility and what it actually did.[^7] Its brand suffered.[^8]
+about accessibility and what it actually did.[^8] Its brand suffered.[^9]
 Recently however, Microsoft’s commitment to accessibility has been made
-real[^9] and is demonstrated in the genuine engagement with stakeholders of all abilities and the resulting improvements to products and services. Its brand image is stronger and its efforts lauded in the community of people with
-disabilities.[^10]
+real[^10] and is demonstrated in the genuine engagement with stakeholders of all abilities and the resulting improvements to products and services. Its brand image is stronger and its efforts lauded in the community of people with
+disabilities.[^11]
 
 We asked Barclay’s, a W3C member organization, to share their approach to diversity and inclusion through the accessibility initatives in their company. An excerpt from their response is included below.
 
@@ -201,14 +201,14 @@ families spend at least £249 billion every year, which is known as the
 UK Purple Pound. In the US, annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is $6 trillion, which is equivalent to that of China. Consider these facts when estimating market size:
 
 -   At least one billion people - 15% of the world’s population - have a
-    recognized disability[^11]
+    recognized disability[^12]
 -   As the population ages, many more acquire disability and yet do not
-    identify as a “person with a disability”[^12]
+    identify as a “person with a disability”[^13]
 -   In countries with life expectancies over 70 years of age, people
-    spend 11.5 per cent of their life span living with disability.[^13]
+    spend 11.5 per cent of their life span living with disability.[^14]
 -   Globally, the extended market is estimated at 2.3 billion people who
     control an incremental \$6.9 trillion in annual disposable
-    income.[^14]
+    income.[^15]
     
 
 Added benefit: as accessibility features are included, overall customer satisfaction improves. 
@@ -281,9 +281,9 @@ As web use became more integrated into modern life all over the world, regulator
 -   Complaint put to the Human Rights and Equal Opportunities Commission
     (HREOC) in 2000 about inaccessibility of Sydney Olympics claimed
     violation of Commonwealth Disability Discrimination Act 1992 (Cth
-    DDA).[^15]
+    DDA).[^16]
 
-The 2001 decision in the Sydney Olympics suit[^16] raised awareness of the need to
+The 2001 decision in the Sydney Olympics suit[^17] raised awareness of the need to
 address accessibility in the emerging practice of web communication.
 Legal risk became even clearer with the adoption in 2006 of the United
 Nations Convention on the Rights of People with Disabilities (CRPD).
@@ -293,7 +293,7 @@ Nations Convention on the Rights of People with Disabilities (CRPD).
     to the rights of all people to have equal access to communications
     technology.
 -   Number of legal actions in US increase and courts increasingly
-    decide in favor of equal access[^17]
+    decide in favor of equal access[^18]
 -   European Commission adopts European Accessibility Act, requiring
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books and
@@ -368,28 +368,30 @@ NPR, IBM, and hundreds more. Please
 
 [^4]: Avila, J. (2013). *What Does Responsive Design Have To Do With Accessibility?*. \[online\] Level Access. Available at: [https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/) \[Accessed –date- 2018\].
 
-[^5]: IISD's Business and Sustainable Development Guide. (2013). *Corporate Social Responsibility (CSR)*. \[online\] Available at: [https://www.iisd.org/business/issues/sr.aspx](https://www.iisd.org/business/issues/sr.aspx) \[Accessed (date). 2018\].
+[^5]: Brownlee, John. “How Designing For Disabled People Is Giving Google An Edge.” Fast Company, Fast Company, 9 July 2018, www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge.
 
-[^6]: Walter, Ekaterina. (1 Apr. 2014). *Reaping The Benefits Of Diversity For Modern Business Innovation*. Forbes, Forbes Magazine. Available at:   [www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f).\[Accessed –date- 2018\].
+[^6]: IISD's Business and Sustainable Development Guide. (2013). *Corporate Social Responsibility (CSR)*. \[online\] Available at: [https://www.iisd.org/business/issues/sr.aspx](https://www.iisd.org/business/issues/sr.aspx) \[Accessed (date). 2018\].
 
-[^7]: Chong, C. (2015). *Accessibility at Microsoft*. \[online\] Braille Monitor. Available at: [https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm) \[Accessed (date). 2018\]. \[Accessed –date- 2018\].
+[^7]: Walter, Ekaterina. (1 Apr. 2014). *Reaping The Benefits Of Diversity For Modern Business Innovation*. Forbes, Forbes Magazine. Available at:   [www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f).\[Accessed –date- 2018\].
 
-[^8]: Ward, Jason. (2017) *How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company.* Windows Central, Windows Central, 22 Sept. 2017, [https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html](https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html). \[Accessed –date- 2018\].
+[^8]: Chong, C. (2015). *Accessibility at Microsoft*. \[online\] Braille Monitor. Available at: [https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm) \[Accessed (date). 2018\]. \[Accessed –date- 2018\].
 
-[^9]: Nadella, Satya. “The Moment That Forever Changed Our Lives.” PowerShell Team Blog, LinkedIn, Oct. 2017, [blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/).\[Accessed –date- 2018\].
+[^9]: Ward, Jason. (2017) *How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company.* Windows Central, Windows Central, 22 Sept. 2017, [https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html](https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html). \[Accessed –date- 2018\].
 
-[^10]: Rego, N. (2018). *Microsoft Adding New Accessibility Improvements in Windows 10*. \[online\] Cool Blind Tech. Available at: [https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/) \[Accessed 5 Jul. 2018\].
+[^10]: Nadella, Satya. “The Moment That Forever Changed Our Lives.” PowerShell Team Blog, LinkedIn, Oct. 2017, [blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/).\[Accessed –date- 2018\].
 
-[^11]: The World Bank. (2018). *Disability Inclusion Overview*. \[online\] Available at: [http://www.worldbank.org/en/topic/disability](http://www.worldbank.org/en/topic/disability) \[Accessed -date-. 2018\].
+[^11]: Rego, N. (2018). *Microsoft Adding New Accessibility Improvements in Windows 10*. \[online\] Cool Blind Tech. Available at: [https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/) \[Accessed 5 Jul. 2018\].
 
-[^12]: Walker, M. (2018). *The Business Case for Accessibility and Inclusive Design*. \[online\] Digital Leaders. Available at: [https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/) \[Accessed –date- 2018\].
+[^12]: The World Bank. (2018). *Disability Inclusion Overview*. \[online\] Available at: [http://www.worldbank.org/en/topic/disability](http://www.worldbank.org/en/topic/disability) \[Accessed -date-. 2018\].
 
-[^13]: Disabled World. (2017). *World Population Chart for Countries and Continents*. \[online\] Available at: [https://www.disabled-world.com/calculators-charts/wpc.php](https://www.disabled-world.com/calculators-charts/wpc.php) \[Accessed 5 Jul. 2018\].
+[^13]: Walker, M. (2018). *The Business Case for Accessibility and Inclusive Design*. \[online\] Digital Leaders. Available at: [https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/) \[Accessed –date- 2018\].
 
-[^14]: Gaudiano, P. and Hunt, E. (2016). *Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*. \[online\] Forbes.com. Available at: [https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/\#4da9aa36788e](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e) \[Accessed 5 Jul. 2018\].
+[^14]: Disabled World. (2017). *World Population Chart for Countries and Continents*. \[online\] Available at: [https://www.disabled-world.com/calculators-charts/wpc.php](https://www.disabled-world.com/calculators-charts/wpc.php) \[Accessed 5 Jul. 2018\].
 
-[^15]: Independent Living Institute. (2000). *Sydney Olympics 2000 Website Accessibility Decision*. \[online\] Available at: [https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html) \[Accessed 5 Jul. 2018\].
+[^15]: Gaudiano, P. and Hunt, E. (2016). *Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*. \[online\] Forbes.com. Available at: [https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/\#4da9aa36788e](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e) \[Accessed 5 Jul. 2018\].
 
-[^16]: Sloan, Martin. “Maguire v Socog.” Electronic Law Journals Journal of Information Law &amp; Technology, University of Warwick, 23 Feb. 2005, [https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/).
+[^16]: Independent Living Institute. (2000). *Sydney Olympics 2000 Website Accessibility Decision*. \[online\] Available at: [https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html) \[Accessed 5 Jul. 2018\].
 
-[^17]: Groves, K. (2017). *List of Web Accessibility-Related Litigation and Settlements*. \[online\] KarlGroves.com. Available at: [http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/) \[Accessed (date) 2018\].
+[^17]: Sloan, Martin. “Maguire v Socog.” Electronic Law Journals Journal of Information Law &amp; Technology, University of Warwick, 23 Feb. 2005, [https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/).
+
+[^18]: Groves, K. (2017). *List of Web Accessibility-Related Litigation and Settlements*. \[online\] KarlGroves.com. Available at: [http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/) \[Accessed (date) 2018\].
