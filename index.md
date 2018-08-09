@@ -101,7 +101,7 @@ Apple has been an innovator in the accessibility space since the inception of th
   <cite><strong>Eve Andersson</strong>, lead engineer at Google</cite>
 </blockquote>
 
-A 2016 article in FastCompany online magazine [^5] highlights the ways in
+A 2016 article in FastCompany online magazine[^5] highlights the ways in
 which Google’s investment in accessibility provides the company with an
 innovation edge in a broad array of products and services. Eve
 Andersson, the lead engineer featured in the article, say unequivocally

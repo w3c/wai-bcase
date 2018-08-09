@@ -347,9 +347,10 @@
     addclass(footnoteBox, 'box');
     addclass(footnoteBox, 'box-simple');
     footnoteBox.setAttribute('role', 'complementary');
+    footnoteBox.setAttribute('aria-label', 'References');
 
     var header = document.createElement("header");
-    header.innerHTML = '<h2>Footnotes</h2>';
+    header.innerHTML = '<h2>References</h2>';
     addclass(header, 'box-h');
     footnoteBox.insertBefore(header, footnoteBox.querySelector('ol'));
 
