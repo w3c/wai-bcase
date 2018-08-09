@@ -368,7 +368,7 @@ NPR, IBM, and hundreds more. Please
 
 [^4]: Avila, J. (2013). *What Does Responsive Design Have To Do With Accessibility?*. \[online\] Level Access. Available at: [https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/) \[Accessed –date- 2018\].
 
-[^5]: Brownlee, John. “How Designing For Disabled People Is Giving Google An Edge.” Fast Company, Fast Company, 9 July 2018, www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge.
+[^5]: Brownlee, John. “How Designing For Disabled People Is Giving Google An Edge.” Fast Company, Fast Company, 9 July 2018, [https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge.).
 
 [^6]: IISD's Business and Sustainable Development Guide. (2013). *Corporate Social Responsibility (CSR)*. \[online\] Available at: [https://www.iisd.org/business/issues/sr.aspx](https://www.iisd.org/business/issues/sr.aspx) \[Accessed (date). 2018\].
 

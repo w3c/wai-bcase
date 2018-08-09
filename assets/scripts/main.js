@@ -303,8 +303,8 @@
   }
 
   function openHiddenNodes() {
-    var fragment = window.location.hash; //.replace(':', '\:');
-
+    var fragment = window.location.hash;
+    fragment = fragment.replace(':', '\\:');
     if (fragment.length) {
       var target = document.querySelector(fragment);
       var initialTarget = target;
