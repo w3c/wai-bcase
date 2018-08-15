@@ -62,7 +62,7 @@ business model.
 accessibility leads to multiple benefits – reducing legal risks,
 strengthening brand presence, improving customer experience and
 colleague productivity.</p>
-  <cite><strong>Paul Smyth</strong>, Head of Digital Accessibility, Barclays</cite>
+  <cite>Paul Smyth, Head of Digital Accessibility, Barclays</cite>
 </blockquote>
 
 Let’s take a closer look at some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
@@ -98,7 +98,7 @@ Apple has been an innovator in the accessibility space since the inception of th
 
 <blockquote class="pull left alt-1">
   <p>The accessibility problems of today are the mainstream breakthroughs of tomorrow.</p>
-  <cite><strong>Eve Andersson</strong>, lead engineer at Google</cite>
+  <cite>Eve Andersson, lead engineer at Google</cite>
 </blockquote>
 
 A 2016 article in FastCompany online magazine[^5] highlights the ways in
@@ -215,7 +215,7 @@ Added benefit: as accessibility features are included, overall customer satisfac
 
 <blockquote class="pull">
   <p>Designing inclusive software results in improved usability and customer satisfaction.</p>
-  <cite><strong>Microsoft’s app developer guide</strong></cite>
+  <cite>Microsoft’s app developer guide</cite>
 </blockquote>
 
 #### Case Study - NPR weekly broadcast of This American Life
