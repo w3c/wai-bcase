@@ -7,8 +7,6 @@ document-status: draft
 
 <img src="{{ "/content-images/wai-bcase/hero.svg" | relative_url }}" alt="">
 
-{% comment %}@@@There will be a hero image here, either a collage of images to illustrate various aspects as suggested by Howard, or a drawing of an integrated, diverse place of business, or a symbol of a disability friendly business or similar (currently working with an illustrator){% endcomment %}
-
 ## Summary
 A Business Case is the rationale for initiating a project or task. Whether formal and highly structured or informal and brief, a good Business Case will articulate both tangible and intangible benefits to the business for dedicating resources to a project. To be effective, consideration will be given to cost, benefit, and resource gap analysis. A good Business Case also considers the cost and risk of inaction. As more retail, educational, government, social service, and personal communication activities have moved online, the Business Case for web accessibility is stronger than ever.
 
