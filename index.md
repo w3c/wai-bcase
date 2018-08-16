@@ -355,12 +355,9 @@ organize by topic
 
 ## Conclusion
 
-Public use of the web is more than 25 years old. It is no longer a
-novelty but an integrated, critical tool of modern life. The need for
-equal access for all people regardless of ability is clear and smart
-businesses understand it. While the legal risks are significant, the
-benefits have also been demonstrated by leaders like Apple, Barclay’s,
-NPR, IBM, and hundreds more. Please
+Public use of the Internet is more than 25 years old. The web is no longer a
+novelty but an integrated, critical tool of modern life. Smart businesses understand the need for
+equal access by all people as they integrate accessible design into their development and procurement processes. While the legal risks of ignoring accessibility are significant, the benefits have also been demonstrated by leaders like Apple, Barclay’s, NPR, IBM, Microsoft and hundreds more. Business leaders and the advocates who influence them can have tremendous social impact and healthy ROI as they follow a roadmap that leads to equal access. More than one billion people with disabilities in the world are eager to enagage with you as customers, clients, partners, employees, and full participants. By developing a long term commitment to accessiblity and using WAI resources to develop policy and implement strategy to bring that commitment to life, your business will reach this market and is likely to thrive in unexpected and self-sustaining ways.
 
 [^1]: Ball, P., Monaco, G., Schmeling, J., Schartz, H. and Blanck, P. (2005). *Disability as Diversity in Fortune 100 Companies*. \[online\] Law, Health Policy and Disability Center. Available at: [https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629) \[Accessed -date- 2018\].
 
