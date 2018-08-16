@@ -288,9 +288,7 @@ As web use became more integrated into modern life all over the world, regulator
     DDA).[^16]
 
 The 2001 decision in the Sydney Olympics suit[^17] raised awareness of the need to
-address accessibility in the emerging practice of web communication.
-Legal risk became even clearer with the adoption in 2006 of the United
-Nations Convention on the Rights of People with Disabilities (CRPD).
+address accessibility in the emerging practice of web communication. Legal risk became even clearer with the adoption of the United Nations Convention on the Rights of People with Disabilities (CRPD) and its adoption in the laws and policies of countries around the world.
 
 -   CRPD ratified by more than 140 countries by 2016.
 -   It is a comprehensive human rights document that includes direct reference
