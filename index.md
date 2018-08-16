@@ -192,7 +192,7 @@ types of impairments are. We've also shared these animations on our
 [Accessible Banking YouTube
 playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy)
 
-@@@conclusion to this section may be needed as some readers were confused abut where it ended.
+Barclay's is an excellent example of how a strong commitment to accessibility results in distributed responsibility and shared understanding throughout the company culture. 
 
 ### Increase Market Reach
 
