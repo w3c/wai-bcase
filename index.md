@@ -5,8 +5,9 @@ layout: default
 document-status: draft
 ---
 
+<img src="{{ "/content-images/wai-bcase/hero.svg" | relative_url }}" alt="">
 
-@@@There will be a hero image here, either a collage of images to illustrate various aspects as suggested by Howard, or a drawing of an integrated, diverse place of business, or a symbol of a disability friendly business or similar (currently working with an illustrator)
+{% comment %}@@@There will be a hero image here, either a collage of images to illustrate various aspects as suggested by Howard, or a drawing of an integrated, diverse place of business, or a symbol of a disability friendly business or similar (currently working with an illustrator){% endcomment %}
 
 ## Summary
 A Business Case is the rationale for initiating a project or task. Whether formal and highly structured or informal and brief, a good Business Case will articulate both tangible and intangible benefits to the business for dedicating resources to a project. To be effective, consideration will be given to cost, benefit, and resource gap analysis. A good Business Case also considers the cost and risk of inaction. As more retail, educational, government, social service, and personal communication activities have moved online, the Business Case for web accessibility is stronger than ever.
@@ -21,7 +22,8 @@ The article includes statistics, examples, and case studies to illustrate key be
 
 
 ## What is a Business Case? 
-@@@(iconography here)
+
+<img src="{{ "/content-images/wai-bcase/chart.svg" | relative_url }}" alt="" style="float: right; margin-left: 10px; width: 30%; max-width: 220px">
 
 “Business Case” is a term relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating
 resources such as money or effort in support of a specific
@@ -68,7 +70,8 @@ colleague productivity.</p>
 Let’s take a closer look at some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
 
 ### Innovation
-@@@(iconography here)
+
+<img src="{{ "/content-images/wai-bcase/rocket.svg" | relative_url }}" alt="" style="float: right; margin-left: 10px; clear:right; width: 30%; max-width: 220px">
 
 Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
 the way.[^2] Some examples:
@@ -123,7 +126,8 @@ everyone.” Among the innovations that she cites as examples are these:
     deaf, is now being turned to broader applications
 
 ### Brand Enhancement
-@@@(iconigraphy here)
+
+<img src="{{ "/content-images/wai-bcase/dna.svg" | relative_url }}" alt="" style="float: right; margin-left: 10px; clear:right; width: 30%; max-width: 220px">
 
 Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^6]
 
@@ -152,8 +156,6 @@ governance, partnering, training and tools. Establishing an
 enterprise-wide accessibility strategy, standards and programmes coupled
 with senior sponsorship helps support our publicly stated ambition of
 becoming the most accessible and inclusive FTSE company.
-
-@@@(design will be applied here)
 
 <blockquote class="pull right alt-2">
   <p>At Barclays, accessibility is about more than just disability. It's about helping everyone to work, bank and live their lives regardless of their age, situation, abilities or circumstances.</p>
@@ -193,7 +195,8 @@ playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31
 @@@conclusion to this section may be needed as some readers were confused abut where it ended.
 
 ### Increase Market Reach
-@@@(iconography here)
+
+<img src="{{ "/content-images/wai-bcase/chart.svg" | relative_url }}" alt="" style="float: right; margin-left: 10px; clear:right; width: 30%; max-width: 220px">
 
 The market of people with disabilities is already large and is growing as the
 global population ages. In the UK, disabled people and their
@@ -248,7 +251,8 @@ Study](https://www.3playmedia.com/customers/case-studies/this-american-life/)
 and how it was conducted.
 
 ### Minimize Legal Risk
-@@@(iconography here)
+
+<img src="{{ "/content-images/wai-bcase/scale.svg" | relative_url }}" alt="" style="float: left; margin-right: 10px; width: 30%; max-width: 220px">
 
 {::nomarkdown}
 {% include box.html type="start" class="simple right" %}
