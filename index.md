@@ -67,7 +67,7 @@ colleague productivity.</p>
 
 Let’s take a closer look at some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
 
-### Innovation
+### Drive Innovation
 
 <img src="{{ "/content-images/wai-bcase/rocket.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
@@ -123,7 +123,7 @@ everyone.” Among the innovations that she cites as examples are these:
 -   machine learning, initially developed for auto-captioning for the
     deaf, is now being turned to broader applications
 
-### Brand Enhancement
+### Enhance Your Brand
 
 <img src="{{ "/content-images/wai-bcase/alt/brand-enhancement.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
