@@ -156,6 +156,8 @@
     url: "/teach-advocate/contact-inaccessible-websites/"
   - name: Business Case
     url: "/teach-advocate/business-case/"
+  - name: Business Case Alt Illustrations
+    url: "/teach-advocate/business-case/alt/"
   # pages:
   #   - name: Social Factors
   #     url: "/business-case/social-factors/"

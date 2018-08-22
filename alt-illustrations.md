@@ -1,11 +1,11 @@
 ---
 title: "The Business Case for Accessibility"
-permalink: /teach-advocate/business-case/
+permalink: /teach-advocate/business-case/alt/
 layout: default
 document-status: draft
 ---
 
-<img src="{{ "/content-images/wai-bcase/hero.svg" | relative_url }}" alt="">
+<div style="background-color: #ddd; width: 100%; height: 250px"></div>
 
 ## Summary
 A Business Case is the rationale for initiating a project or task. Whether formal and highly structured or informal and brief, a good Business Case will articulate both tangible and intangible benefits to the business for dedicating resources to a project. To be effective, consideration will be given to cost, benefit, and resource gap analysis. A good Business Case also considers the cost and risk of inaction. As more retail, educational, government, social service, and personal communication activities have moved online, the Business Case for web accessibility is stronger than ever.
@@ -21,7 +21,7 @@ The article includes statistics, examples, and case studies to illustrate key be
 
 ## What is a Business Case? 
 
-<img src="{{ "/content-images/wai-bcase/chart.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/alt/business-case.png" | relative_url }}" alt="" style="float: right; margin-left: 2em; width: 30%; max-width: 220px">
 
 “Business Case” is a term relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating
 resources such as money or effort in support of a specific
@@ -69,7 +69,7 @@ Let’s take a closer look at some key benefits of web accessibility to business
 
 ### Innovation
 
-<img src="{{ "/content-images/wai-bcase/rocket.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/rocket.svg" | relative_url }}" alt="" style="float: right; margin-left: 2em; clear:right; width: 30%; max-width: 220px">
 
 Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
 the way.[^2] Some examples:
@@ -125,7 +125,7 @@ everyone.” Among the innovations that she cites as examples are these:
 
 ### Brand Enhancement
 
-<img src="{{ "/content-images/wai-bcase/alt/brand-enhancement.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/alt/brand.png" | relative_url }}" alt="" style="float: right; margin-left: 2em; clear:right; width: 30%; max-width: 220px">
 
 Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^6]
 
@@ -194,7 +194,7 @@ Barclay's is an excellent example of how a strong commitment to accessibility re
 
 ### Increase Market Reach
 
-<img src="{{ "/content-images/wai-bcase/chart.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/alt/market-reach.png" | relative_url }}" alt="" style="float: right; margin-left: 2em; clear:right; width: 30%; max-width: 220px">
 
 The market of people with disabilities is already large and is growing as the
 global population ages. In the UK, disabled people and their
@@ -250,7 +250,7 @@ and how it was conducted.
 
 ### Minimize Legal Risk
 
-<img src="{{ "/content-images/wai-bcase/scale.svg" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/alt/minimize-risk.png" | relative_url }}" alt="" style="float: left; margin-right: 2em; width: 30%; max-width: 220px">
 
 {::nomarkdown}
 {% include box.html type="start" class="simple right" %}
