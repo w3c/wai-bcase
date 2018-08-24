@@ -69,7 +69,7 @@ Let’s take a closer look at some key benefits of web accessibility to business
 
 ### Innovation
 
-<img src="{{ "/content-images/wai-bcase/rocket.svg" | relative_url }}" alt="" style="float: right; margin-left: 2em; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/alt/innovation.png" | relative_url }}" alt="" style="float: right; margin-left: 2em; clear:right; width: 30%; max-width: 220px">
 
 Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
 the way.[^2] Some examples:
