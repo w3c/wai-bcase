@@ -298,11 +298,10 @@ address accessibility in the emerging practice of web communication. Legal risk 
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books and
     e-commerce meet accessibility requirements.  
--   @@@ more from other countries
 
 As a result, there is a global increase in legislation that further
 defines digital accessibility and creates enforcement mechanisms to
-ensure compliance with new laws. In Austria, for example customer protection regulation since 2006 has required most public websites to meet accessibility standards. Customers that beleive they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, legal actions continue to accelerate. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is changing in favor of equal access.
+ensure compliance with new laws. In Austria, for example, customer protection regulation in place since 2006 requires most public websites to meet accessibility standards. Customers that beleive they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate[^19]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is changing in favor of equal access.
 
 With legal risks increasing, it is no wonder that smart businesses,
 particularly those with global activities, are creating accessibility
@@ -390,3 +389,5 @@ equal access by all people as they integrate accessible design into their develo
 [^17]: Sloan, Martin. “Maguire v Socog.” Electronic Law Journals Journal of Information Law &amp; Technology, University of Warwick, 23 Feb. 2005, [https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/).
 
 [^18]: Groves, K. (2017). *List of Web Accessibility-Related Litigation and Settlements*. \[online\] KarlGroves.com. Available at: [http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/) \[Accessed (date) 2018\].
+
+[^19] Roggio, Armando. “Absence of U.S. Regulation Leads to Web Accessibility Lawsuits.” Practical Ecommerce, Practical Ecommerce, 15 Dec. 2015, www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits.
