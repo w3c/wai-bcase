@@ -302,9 +302,7 @@ address accessibility in the emerging practice of web communication. Legal risk 
 
 As a result, there is a global increase in legislation that further
 defines digital accessibility and creates enforcement mechanisms to
-ensure compliance with new laws. In addition, the many legal precedents
-in the United States continue to accumulate and the landscape is
-changing in favor of equal access.
+ensure compliance with new laws. In Austria, for example customer protection regulation since 2006 has required most public websites to meet accessibility standards. Customers that beleive they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, legal actions continue to accelerate. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is changing in favor of equal access.
 
 With legal risks increasing, it is no wonder that smart businesses,
 particularly those with global activities, are creating accessibility
