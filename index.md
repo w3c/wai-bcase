@@ -19,7 +19,7 @@ This article defines the purpose and provides guidance for how to construct the 
 The article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility" and  "websites" throughout this article and that those terms are meant to includes web applications and other digital technologies as well. 
 
 
-## What is a Business Case? 
+## Who Needs a Business Case for Accessibility? 
 
 <img src="{{ "/content-images/wai-bcase/chart.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
