@@ -297,11 +297,11 @@ address accessibility in the emerging practice of web communication. Legal risk 
 -   European Commission adopts European Accessibility Act, requiring
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books and
-    e-commerce meet accessibility requirements.  
+    e-commerce meet accessibility requirements.
 
 As a result, there is a global increase in legislation that further
 defines digital accessibility and creates enforcement mechanisms to
-ensure compliance with new laws. In Austria, for example, customer protection regulation in place since 2006 requires most public websites to meet accessibility standards. Customers that beleive they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate[^19]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is changing in favor of equal access.
+ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. Commercial companies that do not comply are fined by the government. [^19] Austia has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that beleive they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate [^20]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
 With legal risks increasing, it is no wonder that smart businesses,
 particularly those with global activities, are creating accessibility
@@ -390,4 +390,6 @@ equal access by all people as they integrate accessible design into their develo
 
 [^18]: Groves, K. (2017). *List of Web Accessibility-Related Litigation and Settlements*. \[online\] KarlGroves.com. Available at: [http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/) \[Accessed (date) 2018\].
 
-[^19] Roggio, Armando. “Absence of U.S. Regulation Leads to Web Accessibility Lawsuits.” Practical Ecommerce, Practical Ecommerce, 15 Dec. 2015, www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits.
+[^19] Aalen, Ida. “It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us.” Medium, Augmenting Humanity, 17 Feb. 2018, medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54.
+
+[^20] Roggio, Armando. “Absence of U.S. Regulation Leads to Web Accessibility Lawsuits.” Practical Ecommerce, Practical Ecommerce, 15 Dec. 2015, www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits.
