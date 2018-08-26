@@ -65,7 +65,7 @@ colleague productivity.</p>
   <cite>Paul Smyth, Head of Digital Accessibility, Barclays</cite>
 </blockquote>
 
-Let’s take a closer look at some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
+The sections below provide a closer look at key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
 
 ### Drive Innovation
 
@@ -91,7 +91,7 @@ For example, in the early 2000’s as the online world increasingly
 adopted mobile devices to browse the web, imagine the delight of those
 who were already committed to and had designed for accessibility. Accessible, standards-compliant web
 sites were in many cases more mobile-ready. This led to the
-responsive-design trend that has accessibility at its core.[^4]
+responsive-design trend that has accessibility at its core.[^4] 
 
 Apple has been an innovator in the accessibility space since the inception of the company. They have anticipated market direction and integrated disability needs into product development. In the early 2000’s, for example, the 26-campus University of California (UC) system was unable to take advantage of Apple's iPod University program. The application was inaccessible to blind students and so could not be distributed as an offical platform. However, Apple had already identified that gap and committed to closing it through innovation for its next generation of products. Apple invested the resources to develop and acquire voice technology that led to VoiceOver and Siri, voice interactions that were enthusiastically adopted by blind users. The UC System was soon able to use the features and wider adoption by the general public played a large part in the development and growth of the mobile web itself. Such advances lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these innovations, regardless of ability. 
   
@@ -212,7 +212,7 @@ UK Purple Pound. In the US, annual discretionary spending of people with disabil
     income.[^15]
     
 
-Added benefit: as accessibility features are included, overall customer satisfaction improves. 
+A Forrester study commisioned by Microsoft concluded that accessibility can contribute to cost savings when it is integrated into existing and ongoing development cycles. [^16] Technology updates and redesigns that include accessibility along with other best practices demonstate reduced maintenance, service, and traffic cost. And, according to Microsoft, as accessibility features are included, overall customer satisfaction improves. 
 
 <blockquote class="pull">
   <p>Designing inclusive software results in improved usability and customer satisfaction.</p>
@@ -382,6 +382,9 @@ novelty but an integrated, critical tool of modern life. As they integrate acces
 [^14]: Disabled World. (2017). *World Population Chart for Countries and Continents*. \[online\] Available at: [https://www.disabled-world.com/calculators-charts/wpc.php](https://www.disabled-world.com/calculators-charts/wpc.php) 
 
 [^15]: Gaudiano, P. and Hunt, E. (2016). *Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*. \[online\] Forbes.com. Available at: [https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/\#4da9aa36788e](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e).
+
+[^16] Parks, Shaheen and Varun Sedov. (2016). *Assessing the Value 0f Accessible Technologies for Organizations - A Total
+Economic Impact™ Study*.\[online\] Forrester Research, Inc. Available at: https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf
 
 [^16]: Independent Living Institute. (2000). *Sydney Olympics 2000 Website Accessibility Decision*. \[online\] Available at: [https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html).
 
