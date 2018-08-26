@@ -212,7 +212,7 @@ UK Purple Pound. In the US, annual discretionary spending of people with disabil
     income.[^15]
     
 
-A Forrester study commisioned by Microsoft concluded that accessibility can contribute to cost savings when it is integrated into existing and ongoing development cycles. [^16] Technology updates and redesigns that include accessibility along with other best practices demonstate reduced maintenance, service, and traffic cost. And, according to Microsoft, as accessibility features are included, overall customer satisfaction improves. 
+A Forrester study commissioned by Microsoft concluded that accessibility can contribute to cost savings when it is integrated into existing and ongoing development cycles. [^16] Technology updates and redesigns that include accessibility along with other best practices have demonstrated reduced maintenance, service, and traffic cost. And, according to Microsoft, as accessibility features are included, overall customer satisfaction improves. 
 
 <blockquote class="pull">
   <p>Designing inclusive software results in improved usability and customer satisfaction.</p>
