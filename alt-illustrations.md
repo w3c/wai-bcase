@@ -10,16 +10,16 @@ document-status: draft
 ## Summary
 A Business Case is the rationale for initiating a project or task. Whether formal and highly structured or informal and brief, a good Business Case will articulate both tangible and intangible benefits to the business for dedicating resources to a project. To be effective, consideration will be given to cost, benefit, and resource gap analysis. A good Business Case also considers the cost and risk of inaction. As more retail, educational, government, social service, and personal communication activities have moved online, the Business Case for web accessibility is stronger than ever.
 
-This article defines the purpose and provides guidance for how to construct the Business Case for web accessibility that is appropriate and relevant to organizations of different types. Business performance and current research indicates that accessibility integration will help companies realize benefits in:
--   <strong>Innovation:</strong> Accessibility features in products and services often solve unanticipated problems.
--   <strong>Brand Enhancement:</strong> Diversity and inclusion efforts so important to business success are accelerated with a clear, well-integrated accessibility commitment. 
--   <strong>Market Expansion:</strong> The global market of people with disabilities is over 1 billion people with spending power of more than $6 trillion.
--   <strong>Legal Compliance:</strong> Many countries have laws requiring digital accessibility and the issue is of increased legal concern.
+This article defines the purpose and provides guidance for how to construct the Business Case for web accessibility that is appropriate and relevant to organizations of different types. Business performance and current research indicates that accessibility integration will help companies realize these benefits.
+-   <strong>Drive Innovation:</strong> Accessibility features in products and services often solve unanticipated problems.
+-   <strong>Enhance Your Brand:</strong> Diversity and inclusion efforts so important to business success are accelerated with a clear, well-integrated accessibility commitment. 
+-   <strong>Extend Market Reach:</strong> The global market of people with disabilities is over 1 billion people with spending power of more than $6 trillion.
+-   <strong>Minimize Legal Risk:</strong> Many countries have laws requiring digital accessibility and the issue is of increased legal concern.
 
 The article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility" and  "websites" throughout this article and that those terms are meant to includes web applications and other digital technologies as well. 
 
 
-## What is a Business Case? 
+## Who Needs a Business Case for Accessibility? 
 
 <img src="{{ "/content-images/wai-bcase/alt/business-case.png" | relative_url }}" alt="" style="float: right; margin-left: 2em; width: 30%; max-width: 220px">
 
@@ -65,35 +65,42 @@ colleague productivity.</p>
   <cite>Paul Smyth, Head of Digital Accessibility, Barclays</cite>
 </blockquote>
 
-Let’s take a closer look at some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
+Among multiple benefits cited above is the recognition of improved customer experience. For customers with disabilities, such improvement is essential for equal access. Also worth noting are the ways in which accessibility is useful for broader audiences in various scenarios. For example, web accessibility also benefits: 
+* people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.,
+* older people with changing abilities due to ageing,
+* people with “temporary disabilities” such as a broken arm or lost glasses,
+* challenging situations like bright, glaring sunlight or in noisy environments where audio can't be heard, 
+* those with a slow Internet connection, or who have limited or expensive bandwidth - common in rural areas and some geographical regions.
 
-### Innovation
+The sections below provide a closer look at key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
+
+### Drive Innovation
 
 <img src="{{ "/content-images/wai-bcase/alt/innovation.png" | relative_url }}" alt="" style="float: right; margin-left: 2em; clear:right; width: 30%; max-width: 220px">
 
 Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
 the way.[^2] Some examples:
 
--   Addressing disability barriers anticipates solutions for temporary disabling conditions. For example: noisy or too bright environments.
-
 -   Accessible design thinking leads to flexible interaction options
     useful beyond the disabled community.
 
 -   Innovations like the typewriter, telephone, punch cards, text to
-    speech, email, and voice controls were originally meant as accommodations
-    for disability and all have found much wider application.[^3]
+    speech, email, and voice controls were originally meant to include those with 
+   disability and all have found much wider application.[^3]
+    
+-   Accessibility is closely related to general usability — both have interest in defining and delivering an intuitive user experience. Innovation follows as interaction design moves beyond screens and toward interactions that are more human-centered, natural and contextual. 
 
 Accessible design is by nature flexible, allowing content to faithfully
 render across a broad spectrum of devices, platforms, assistive
-technologies, and operating systems. In physical environments everyone takes advantage of lower curbs, automatic door openers, ramps, and other disability accommodations. On the web, such accommodations can be used by everyone, too.
+technologies, and operating systems. In physical environments everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features are also often used by everyone.
 
 For example, in the early 2000’s as the online world increasingly
 adopted mobile devices to browse the web, imagine the delight of those
 who were already committed to and had designed for accessibility. Accessible, standards-compliant web
 sites were in many cases more mobile-ready. This led to the
-responsive-design trend that has accessibility at its core.[^4]
+responsive-design trend that has accessibility at its core.[^4] 
 
-Apple has been an innovator in the accessibility space since the inception of the company. They have anticipated market direction and integrated disability needs into product development. In the early 2000’s, for example, the 26-campus University of California (UC) system was unable to take advantage of Apple's iPod University program. The application was inaccessible to blind students and so could not be distributed as an offical platform. However, Apple had already identified that gap and committed to closing it through innovation for its next generation of products. Apple invested the resources to develop and acquire voice technology that led to VoiceOver and Siri, voice interactions that were enthusiastically adopted by blind users. The UC System was soon able to use the features and wider adoption by the general public played a large part in the development and growth of the mobile web itself. Such advances lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these innovations, regardless of ability. 
+Apple has been an innovator in the accessibility space since the inception of the company. Leaders there anticipated market direction and have integrated disability needs into product development for decades. In the early 2000’s, for example, the 26-campus University of California (UC) system was unable to take advantage of Apple's iPod University program. The application was inaccessible to blind students and so could not be distributed as an offical UC platform. However, Apple had previously identified the gap for blind users and was committed to closing it through innovation for its next generation of products. Apple invested the resources to develop and acquire voice technology that led to VoiceOver and Siri, voice interactions that were enthusiastically adopted by blind users. The UC System was soon able to use the features and wider adoption by the general public played a large part in the development and growth of the mobile web itself. Such advances lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these innovations, regardless of ability. 
   
 #### Case Study – Google
 
@@ -123,7 +130,7 @@ everyone.” Among the innovations that she cites as examples are these:
 -   machine learning, initially developed for auto-captioning for the
     deaf, is now being turned to broader applications
 
-### Brand Enhancement
+### Enhance Your Brand
 
 <img src="{{ "/content-images/wai-bcase/alt/brand.png" | relative_url }}" alt="" style="float: right; margin-left: 2em; clear:right; width: 30%; max-width: 220px">
 
@@ -212,7 +219,7 @@ UK Purple Pound. In the US, annual discretionary spending of people with disabil
     income.[^15]
     
 
-Added benefit: as accessibility features are included, overall customer satisfaction improves. 
+A Forrester study commissioned by Microsoft concluded that accessibility can contribute to cost savings when it is integrated into existing and ongoing development cycles. [^16] Technology updates and redesigns that include accessibility along with other best practices have demonstrated reduced maintenance, service, and traffic cost. And, according to Microsoft, as accessibility features are included, overall customer satisfaction improves. 
 
 <blockquote class="pull">
   <p>Designing inclusive software results in improved usability and customer satisfaction.</p>
@@ -283,9 +290,9 @@ As web use became more integrated into modern life all over the world, regulator
 -   Complaint put to the Human Rights and Equal Opportunities Commission
     (HREOC) in 2000 about inaccessibility of Sydney Olympics claimed
     violation of Commonwealth Disability Discrimination Act 1992 (Cth
-    DDA).[^16]
+    DDA).[^17]
 
-The 2001 decision in the Sydney Olympics suit[^17] raised awareness of the need to
+The 2001 decision in the Sydney Olympics suit[^18] raised awareness of the need to
 address accessibility in the emerging practice of web communication. Legal risk became even clearer with the adoption of the United Nations Convention on the Rights of People with Disabilities (CRPD) and its adoption in the laws and policies of countries around the world.
 
 -   CRPD ratified by more than 140 countries by 2016.
@@ -293,18 +300,15 @@ address accessibility in the emerging practice of web communication. Legal risk 
     to the rights of all people to have equal access to communications
     technology.
 -   Number of legal actions in US increase and courts increasingly
-    decide in favor of equal access[^18]
+    decide in favor of equal access[^19]
 -   European Commission adopts European Accessibility Act, requiring
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books and
-    e-commerce meet accessibility requirements.  
--   @@@ more from other countries
+    e-commerce meet accessibility requirements.
 
 As a result, there is a global increase in legislation that further
 defines digital accessibility and creates enforcement mechanisms to
-ensure compliance with new laws. In addition, the many legal precedents
-in the United States continue to accumulate and the landscape is
-changing in favor of equal access.
+ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. Commercial companies that do not comply are fined by the government.[^20] Austia has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate [^21]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
 With legal risks increasing, it is no wonder that smart businesses,
 particularly those with global activities, are creating accessibility
@@ -354,41 +358,46 @@ organize by topic
 ## Conclusion
 
 Public use of the Internet is more than 25 years old. The web is no longer a
-novelty but an integrated, critical tool of modern life. Smart businesses understand the need for
-equal access by all people as they integrate accessible design into their development and procurement processes. While the legal risks of ignoring accessibility are significant, the benefits have also been demonstrated by leaders like Apple, Barclay’s, NPR, IBM, Microsoft and hundreds more. Business leaders and the advocates who influence them can have tremendous social impact and healthy ROI as they follow a roadmap that leads to equal access. More than one billion people with disabilities in the world are eager to enagage with you as customers, clients, partners, employees, and full participants. By developing a long term commitment to accessiblity and using WAI resources to develop policy and implement strategy to bring that commitment to life, your business will reach this market and is likely to thrive in unexpected and self-sustaining ways.
+novelty but an integrated, critical tool of modern life. As they integrate accessible design into their development and procurement processes, smart businesses understand the need for equal access by all people. The legal risks of ignoring accessibility are significant, and the benefits have also been demonstrated by leaders like Apple, Barclay’s, NPR, IBM, Microsoft and hundreds more. Business leaders and the advocates who influence them can have tremendous social impact and healthy ROI as they follow a roadmap that leads to equal access. More than one billion people with disabilities in the world are eager to enagage with you as customers, clients, partners, employees, and equal civic and social participants. By developing a long term commitment to accessiblity and by using WAI resources to develop policy and implement strategy to bring that commitment to life, your business will reach this market and is likely to thrive in unexpected and self-sustaining ways.
 
-[^1]: Ball, P., Monaco, G., Schmeling, J., Schartz, H. and Blanck, P. (2005). *Disability as Diversity in Fortune 100 Companies*. \[online\] Law, Health Policy and Disability Center. Available at: [https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629) \[Accessed -date- 2018\].
+[^1]: [_Disability as diversity in fortune 100 companies_](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629). Ball, P., Monaco, G., Schmeling, J., Schartz, H., and Blanck, P.; Law, Health Policy and Disability Center (2005).
 
-[^2]: IBM Research.(2018). *Accessibility Innovation Showcase*.  \[online\] Available at: [https://www.ibm.com/able/research-projects.html](https://www.ibm.com/able/research-projects.html) \[Accessed \[date\]l. 2018\].
+[^2]: [_Accessibility Innovation Showcase_](https://www.ibm.com/able/research-projects.html). IBM Research (2018). 
 
-[^3]: Germa, Haben. (2017) *People with Disabilities Drive Innovation*. Available at: [habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/](https://habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/). [Accessed \[date\]l. 2018\].
+[^3]:  [_People with Disabilities Drive Innovation_](https://habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/). Germa, H. (2017)
 
-[^4]: Avila, J. (2013). *What Does Responsive Design Have To Do With Accessibility?*. \[online\] Level Access. Available at: [https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/) \[Accessed –date- 2018\].
+[^4]: [_What Does Responsive Design Have To Do With Accessibility?_](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/). Avila, J.; Level Access (2013).
 
-[^5]: Brownlee, John. “How Designing For Disabled People Is Giving Google An Edge.” Fast Company, Fast Company, 9 July 2018, [https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge.).
+[^5]: [_How Designing For Disabled People Is Giving Google An Edge_](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge.). Brownlee, J.; Fast Company (2018).
 
-[^6]: IISD's Business and Sustainable Development Guide. (2013). *Corporate Social Responsibility (CSR)*. \[online\] Available at: [https://www.iisd.org/business/issues/sr.aspx](https://www.iisd.org/business/issues/sr.aspx) \[Accessed (date). 2018\].
+[^6]: [_Corporate Social Responsibility (CSR)_](https://www.iisd.org/business/issues/sr.aspx). IISD's Business and Sustainable Development Guide (2013).
 
-[^7]: Walter, Ekaterina. (1 Apr. 2014). *Reaping The Benefits Of Diversity For Modern Business Innovation*. Forbes, Forbes Magazine. Available at:   [www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f).\[Accessed –date- 2018\].
+[^7]: [_Reaping The Benefits Of Diversity For Modern Business Innovation_](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f). Walter, E.; Forbes Magazine (2014).
 
-[^8]: Chong, C. (2015). *Accessibility at Microsoft*. \[online\] Braille Monitor. Available at: [https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm) \[Accessed (date). 2018\]. \[Accessed –date- 2018\].
+[^8]: [_Accessibility at Microsoft_](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm). Chong, C.;  Braille Monitor (2015).
 
-[^9]: Ward, Jason. (2017) *How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company.* Windows Central, Windows Central, 22 Sept. 2017, [https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html](https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html). \[Accessed –date- 2018\].
+[^9]: [_How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company_](https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html). Ward, J.; Windows Central (2017).
 
-[^10]: Nadella, Satya. “The Moment That Forever Changed Our Lives.” PowerShell Team Blog, LinkedIn, Oct. 2017, [blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/).\[Accessed –date- 2018\].
+[^10]: [_The Moment That Forever Changed Our Lives_](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/). Nadella, S.; PowerShell Team Blog, LinkedIn, (2017).
 
-[^11]: Rego, N. (2018). *Microsoft Adding New Accessibility Improvements in Windows 10*. \[online\] Cool Blind Tech. Available at: [https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/) \[Accessed 5 Jul. 2018\].
+[^11]: [*Microsoft Adding New Accessibility Improvements in Windows 10*](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/). Rego, N.;  Cool Blind Tech (2018).
 
-[^12]: The World Bank. (2018). *Disability Inclusion Overview*. \[online\] Available at: [http://www.worldbank.org/en/topic/disability](http://www.worldbank.org/en/topic/disability) \[Accessed -date-. 2018\].
+[^12]: [*Disability Inclusion Overview*](http://www.worldbank.org/en/topic/disability). The World Bank (2018).
 
-[^13]: Walker, M. (2018). *The Business Case for Accessibility and Inclusive Design*. \[online\] Digital Leaders. Available at: [https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/) \[Accessed –date- 2018\].
+[^13]: [*The Business Case for Accessibility and Inclusive Design*](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/). Walker, M.; Digital Leaders (2018).
 
-[^14]: Disabled World. (2017). *World Population Chart for Countries and Continents*. \[online\] Available at: [https://www.disabled-world.com/calculators-charts/wpc.php](https://www.disabled-world.com/calculators-charts/wpc.php) \[Accessed 5 Jul. 2018\].
+[^14]: [_World Population Chart for Countries and Continents_](https://www.disabled-world.com/calculators-charts/wpc.php). Disabled World (2017).
 
-[^15]: Gaudiano, P. and Hunt, E. (2016). *Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*. \[online\] Forbes.com. Available at: [https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/\#4da9aa36788e](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e) \[Accessed 5 Jul. 2018\].
+[^15]: [*Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e). Gaudiano, P. and Hunt, E.; Forbes.com (2016).
 
-[^16]: Independent Living Institute. (2000). *Sydney Olympics 2000 Website Accessibility Decision*. \[online\] Available at: [https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html) \[Accessed 5 Jul. 2018\].
+[^16]: [*Assessing the Value 0f Accessible Technologies for Organizations*](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf). Parks, S. and Sedov V.; Forrester Research, Inc. (2017)
 
-[^17]: Sloan, Martin. “Maguire v Socog.” Electronic Law Journals Journal of Information Law &amp; Technology, University of Warwick, 23 Feb. 2005, [https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/).
+[^17]: [*Sydney Olympics 2000 Website Accessibility Decision*](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html). Independent Living Institute (2000).
 
-[^18]: Groves, K. (2017). *List of Web Accessibility-Related Litigation and Settlements*. \[online\] KarlGroves.com. Available at: [http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/) \[Accessed (date) 2018\].
+[^18]: [*Web Accessibility and the DDA*](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/) Sloan, M.; Journal of Information Law & Technology, University of Warwick (2005).
+
+[^19]: [*List of Web Accessibility-Related Litigation and Settlements*](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/). Groves, K. (2017).
+
+[^20]: [*“It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us.”*](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54). Aalen, I.; Confrere/Medium (2018).
+
+[^21]: [*“Absence of U.S. Regulation Leads to Web Accessibility Lawsuits.”*](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits). Roggio, A.; Practical Ecommerce (2015).
