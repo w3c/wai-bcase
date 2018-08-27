@@ -65,12 +65,12 @@ colleague productivity.</p>
   <cite>Paul Smyth, Head of Digital Accessibility, Barclays</cite>
 </blockquote>
 
-Among multiple benefits cited above is the recognition of improved customer experience. For customers with disabilities, that improvement is essential for equal access. Also worth noting are the ways in which accessibility is useful for broader audiences in various scenarios. For example, web accessibility also benefits: 
+Among multiple benefits cited above is the recognition of improved customer experience. For customers with disabilities, such improvement is essential for equal access. Also worth noting are the ways in which accessibility is useful for broader audiences in various scenarios. For example, web accessibility also benefits: 
 * people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.,
 * older people with changing abilities due to ageing,
 * people with “temporary disabilities” such as a broken arm or lost glasses,
 * challenging situations like bright, glaring sunlight or in noisy environments where audio can't be heard, 
-* those with a slow Internet connection, or who have limited or expensive bandwidth, common in rural areas and geographical regions.
+* those with a slow Internet connection, or who have limited or expensive bandwidth - common in rural areas and some geographical regions.
 
 The sections below provide a closer look at key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
 
