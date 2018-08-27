@@ -12,12 +12,11 @@ A Business Case is the rationale for initiating a project or task. Whether forma
 
 This article defines the purpose and provides guidance for how to construct the Business Case for web accessibility that is appropriate and relevant to organizations of different types. Business performance and current research indicates that accessibility integration will help companies realize these benefits.
 -   <strong>Drive Innovation:</strong> Accessibility features in products and services often solve unanticipated problems.
--   <strong>Enhance Your Brand:</strong> Diversity and inclusion efforts so important to business success are accelerated with a clear, well-integrated accessibility commitment. 
--   <strong>Extend Market Reach:</strong> The global market of people with disabilities is over 1 billion people with spending power of more than $6 trillion.
+-   <strong>Enhance Your Brand:</strong> Diversity and inclusion efforts so important to business success are accelerated with a clear, well-integrated accessibility commitment.  
+-   <strong>Extend Market Reach:</strong> The global market of people with disabilities is over 1 billion people with spending power of more than $6 trillion. Accessibility often improves the online experience for all users.
 -   <strong>Minimize Legal Risk:</strong> Many countries have laws requiring digital accessibility and the issue is of increased legal concern.
 
 The article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility" and  "websites" throughout this article and that those terms are meant to includes web applications and other digital technologies as well. 
-
 
 ## Who Needs a Business Case for Accessibility? 
 
@@ -65,14 +64,7 @@ colleague productivity.</p>
   <cite>Paul Smyth, Head of Digital Accessibility, Barclays</cite>
 </blockquote>
 
-Among multiple benefits cited above is the recognition of improved customer experience. For customers with disabilities, such improvement is essential for equal access. Also worth noting are the ways in which accessibility is useful for broader audiences in various scenarios. For example, web accessibility also benefits: 
-* people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.,
-* older people with changing abilities due to ageing,
-* people with “temporary disabilities” such as a broken arm or lost glasses,
-* challenging situations like bright, glaring sunlight or in noisy environments where audio can't be heard, 
-* those with a slow Internet connection, or who have limited or expensive bandwidth - common in rural areas and some geographical regions.
-
-The sections below provide a closer look at key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
+The sections below explore and provide examples of some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
 
 ### Drive Innovation
 
@@ -218,13 +210,19 @@ UK Purple Pound. In the US, annual discretionary spending of people with disabil
     control an incremental \$6.9 trillion in annual disposable
     income.[^15]
     
-
 A Forrester study commissioned by Microsoft concluded that accessibility can contribute to cost savings when it is integrated into existing and ongoing development cycles. [^16] Technology updates and redesigns that include accessibility along with other best practices have demonstrated reduced maintenance, service, and traffic cost. And, according to Microsoft, as accessibility features are included, overall customer satisfaction improves. 
 
 <blockquote class="pull">
   <p>Designing inclusive software results in improved usability and customer satisfaction.</p>
   <cite>Microsoft’s app developer guide</cite>
 </blockquote>
+
+Accessible design considerations often lead to improvements in general customer experience and customer loyalty. For customers with disabilities, such improvement is essential for equal access. Worth noting as well are the ways in which accessibility provides options that are useful to all customers in various situations. For example, web accessibility also benefits: 
+* people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.,
+* older people with changing abilities due to ageing,
+* people with “temporary disabilities” such as a broken arm or lost glasses,
+* challenging situations like bright, glaring sunlight or in noisy environments where audio can't be heard, 
+* those with a slow Internet connection, or who have limited or expensive bandwidth - common in rural areas and some geographical regions.
 
 #### Case Study - NPR weekly broadcast of This American Life
 
