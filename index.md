@@ -290,9 +290,9 @@ As web use became more integrated into modern life all over the world, regulator
 -   Complaint put to the Human Rights and Equal Opportunities Commission
     (HREOC) in 2000 about inaccessibility of Sydney Olympics claimed
     violation of Commonwealth Disability Discrimination Act 1992 (Cth
-    DDA).[^16]
+    DDA).[^17]
 
-The 2001 decision in the Sydney Olympics suit[^17] raised awareness of the need to
+The 2001 decision in the Sydney Olympics suit[^18] raised awareness of the need to
 address accessibility in the emerging practice of web communication. Legal risk became even clearer with the adoption of the United Nations Convention on the Rights of People with Disabilities (CRPD) and its adoption in the laws and policies of countries around the world.
 
 -   CRPD ratified by more than 140 countries by 2016.
@@ -300,7 +300,7 @@ address accessibility in the emerging practice of web communication. Legal risk 
     to the rights of all people to have equal access to communications
     technology.
 -   Number of legal actions in US increase and courts increasingly
-    decide in favor of equal access[^18]
+    decide in favor of equal access[^19]
 -   European Commission adopts European Accessibility Act, requiring
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books and
@@ -308,7 +308,7 @@ address accessibility in the emerging practice of web communication. Legal risk 
 
 As a result, there is a global increase in legislation that further
 defines digital accessibility and creates enforcement mechanisms to
-ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. Commercial companies that do not comply are fined by the government. [^19] Austia has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that beleive they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate [^20]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
+ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. Commercial companies that do not comply are fined by the government.[^20] Austia has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate [^21]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
 With legal risks increasing, it is no wonder that smart businesses,
 particularly those with global activities, are creating accessibility
@@ -360,45 +360,44 @@ organize by topic
 Public use of the Internet is more than 25 years old. The web is no longer a
 novelty but an integrated, critical tool of modern life. As they integrate accessible design into their development and procurement processes, smart businesses understand the need for equal access by all people. The legal risks of ignoring accessibility are significant, and the benefits have also been demonstrated by leaders like Apple, Barclay’s, NPR, IBM, Microsoft and hundreds more. Business leaders and the advocates who influence them can have tremendous social impact and healthy ROI as they follow a roadmap that leads to equal access. More than one billion people with disabilities in the world are eager to enagage with you as customers, clients, partners, employees, and equal civic and social participants. By developing a long term commitment to accessiblity and by using WAI resources to develop policy and implement strategy to bring that commitment to life, your business will reach this market and is likely to thrive in unexpected and self-sustaining ways.
 
-[^1]: Ball, P., Monaco, G., Schmeling, J., Schartz, H. and Blanck, P. (2005).  \[online\] Law, Health Policy and Disability Center. Available at: [https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629).
+[^1]: [_Disability as diversity in fortune 100 companies_](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629). Ball, P., Monaco, G., Schmeling, J., Schartz, H., and Blanck, P.; Law, Health Policy and Disability Center (2005).
 
-[^2]: IBM Research.(2018). *Accessibility Innovation Showcase*.  \[online\] Available at: [https://www.ibm.com/able/research-projects.html](https://www.ibm.com/able/research-projects.html).
+[^2]: [_Accessibility Innovation Showcase_](https://www.ibm.com/able/research-projects.html). IBM Research (2018). 
 
-[^3]: Germa, Haben. (2017) *People with Disabilities Drive Innovation*. Available at: [habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/](https://habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/). 
+[^3]:  [_People with Disabilities Drive Innovation_](https://habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/). Germa, H. (2017)
 
-[^4]: Avila, J. (2013). *What Does Responsive Design Have To Do With Accessibility?*. \[online\] Level Access. Available at: [https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/).
+[^4]: [_What Does Responsive Design Have To Do With Accessibility?_](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/). Avila, J.; Level Access (2013).
 
-[^5]: Brownlee, John. “How Designing For Disabled People Is Giving Google An Edge.” Fast Company, Fast Company, 9 July 2018, [https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge.).
+[^5]: [_How Designing For Disabled People Is Giving Google An Edge_](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge.). Brownlee, J.; Fast Company (2018).
 
-[^6]: IISD's Business and Sustainable Development Guide. (2013). *Corporate Social Responsibility (CSR)*. \[online\] Available at: [https://www.iisd.org/business/issues/sr.aspx](https://www.iisd.org/business/issues/sr.aspx) 
+[^6]: [_Corporate Social Responsibility (CSR)_](https://www.iisd.org/business/issues/sr.aspx). IISD's Business and Sustainable Development Guide (2013).
 
-[^7]: Walter, Ekaterina. (1 Apr. 2014). *Reaping The Benefits Of Diversity For Modern Business Innovation*. Forbes, Forbes Magazine. Available at:   [www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f).
+[^7]: [_Reaping The Benefits Of Diversity For Modern Business Innovation_](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f). Walter, E.; Forbes Magazine (2014).
 
-[^8]: Chong, C. (2015). *Accessibility at Microsoft*. \[online\] Braille Monitor. Available at: [https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm) \[Accessed (date). 2018\].
+[^8]: [_Accessibility at Microsoft_](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm). Chong, C.;  Braille Monitor (2015).
 
-[^9]: Ward, Jason. (2017) *How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company.* Windows Central, Windows Central, 22 Sept. 2017, [https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html](https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html). 
+[^9]: [_How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company_](https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html). Ward, J.; Windows Central (2017).
 
-[^10]: Nadella, Satya. “The Moment That Forever Changed Our Lives.” PowerShell Team Blog, LinkedIn, Oct. 2017, [blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/).
+[^10]: [_The Moment That Forever Changed Our Lives_](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/). Nadella, S.; PowerShell Team Blog, LinkedIn, (2017).
 
-[^11]: Rego, N. (2018). *Microsoft Adding New Accessibility Improvements in Windows 10*. \[online\] Cool Blind Tech. Available at: [https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/) 
+[^11]: [*Microsoft Adding New Accessibility Improvements in Windows 10*](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/). Rego, N.;  Cool Blind Tech (2018).
 
-[^12]: The World Bank. (2018). *Disability Inclusion Overview*. \[online\] Available at: [http://www.worldbank.org/en/topic/disability](http://www.worldbank.org/en/topic/disability).
+[^12]: [*Disability Inclusion Overview*](http://www.worldbank.org/en/topic/disability). The World Bank (2018).
 
-[^13]: Walker, M. (2018). *The Business Case for Accessibility and Inclusive Design*. \[online\] Digital Leaders. Available at: [https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/).
+[^13]: [*The Business Case for Accessibility and Inclusive Design*](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/). Walker, M.; Digital Leaders (2018).
 
-[^14]: Disabled World. (2017). *World Population Chart for Countries and Continents*. \[online\] Available at: [https://www.disabled-world.com/calculators-charts/wpc.php](https://www.disabled-world.com/calculators-charts/wpc.php) 
+[^14]: [_World Population Chart for Countries and Continents_](https://www.disabled-world.com/calculators-charts/wpc.php). Disabled World (2017).
 
-[^15]: Gaudiano, P. and Hunt, E. (2016). *Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*. \[online\] Forbes.com. Available at: [https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/\#4da9aa36788e](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e).
+[^15]: [*Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e). Gaudiano, P. and Hunt, E.; Forbes.com (2016).
 
-[^16] Parks, Shaheen and Varun Sedov. (2016). *Assessing the Value 0f Accessible Technologies for Organizations - A Total
-Economic Impact™ Study*.\[online\] Forrester Research, Inc. Available at: https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf
+[^16]: [*Assessing the Value 0f Accessible Technologies for Organizations*](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf). Parks, S. and Sedov V.; Forrester Research, Inc. (2017)
 
-[^16]: Independent Living Institute. (2000). *Sydney Olympics 2000 Website Accessibility Decision*. \[online\] Available at: [https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html).
+[^17]: [*Sydney Olympics 2000 Website Accessibility Decision*](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html). Independent Living Institute (2000).
 
-[^17]: Sloan, Martin. “Maguire v Socog.” Electronic Law Journals Journal of Information Law &amp; Technology, University of Warwick, 23 Feb. 2005, [https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/).
+[^18]: [*Web Accessibility and the DDA*](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/) Sloan, M.; Journal of Information Law & Technology, University of Warwick (2005).
 
-[^18]: Groves, K. (2017). *List of Web Accessibility-Related Litigation and Settlements*. \[online\] KarlGroves.com. Available at: [http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/) .
+[^19]: [*List of Web Accessibility-Related Litigation and Settlements*](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/). Groves, K. (2017).
 
-[^19] Aalen, Ida. “It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us.” Medium, Augmenting Humanity, 17 Feb. 2018, medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54.
+[^20]: [*“It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us.”*](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54). Aalen, I.; Confrere/Medium (2018).
 
-[^20] Roggio, Armando. “Absence of U.S. Regulation Leads to Web Accessibility Lawsuits.” Practical Ecommerce, Practical Ecommerce, 15 Dec. 2015, www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits.
+[^21]: [*“Absence of U.S. Regulation Leads to Web Accessibility Lawsuits.”*](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits). Roggio, A.; Practical Ecommerce (2015).
