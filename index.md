@@ -81,14 +81,14 @@ The sections below provide a closer look at key benefits of web accessibility to
 Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
 the way.[^2] Some examples:
 
--   Addressing disability barriers anticipates solutions for temporary disabling conditions. For example: noisy or too bright environments.
-
 -   Accessible design thinking leads to flexible interaction options
     useful beyond the disabled community.
 
 -   Innovations like the typewriter, telephone, punch cards, text to
     speech, email, and voice controls were originally meant as accommodations
     for disability and all have found much wider application.[^3]
+    
+-   Accessibility is closely related to general usability — both have interest in defining and delivering an intuitive user experience. Innovation follows as interaction design moves beyond screens and toward interactions that are more human-centered, natural and contextual. 
 
 Accessible design is by nature flexible, allowing content to faithfully
 render across a broad spectrum of devices, platforms, assistive
