@@ -7,7 +7,12 @@ document-status: draft
 
 <img src="{{ "/content-images/wai-bcase/hero.svg" | relative_url }}" alt="">
 
-## Summary
+{::nomarkdown}
+
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+
+{:/}
+
 A Business Case is the rationale for initiating a project or task. Whether formal and highly structured or informal and brief, a good Business Case will articulate both tangible and intangible benefits to the business for dedicating resources to a project. To be effective, consideration will be given to cost, benefit, and resource gap analysis. A good Business Case also considers the cost and risk of inaction. As more retail, educational, government, social service, and personal communication activities have moved online, the Business Case for web accessibility is stronger than ever.
 
 This article defines the purpose and provides guidance for how to construct the Business Case for web accessibility that is appropriate and relevant to organizations of different types. Business performance and current research indicates that accessibility integration will help companies realize these benefits.
@@ -17,6 +22,12 @@ This article defines the purpose and provides guidance for how to construct the 
 -   <strong>Minimize Legal Risk:</strong> Many countries have laws requiring digital accessibility and the issue is of increased legal concern.
 
 The article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility" and  "websites" throughout this article and that those terms are meant to includes web applications and other digital technologies as well. 
+
+{::nomarkdown}
+
+{% include box.html type="end" %}
+
+{:/}
 
 ## Who Needs a Business Case for Accessibility? 
 
