@@ -16,7 +16,7 @@ The sources below are categorized as much as possible according to their central
 ## Accessibility As Innovation
 [_Reaping The Benefits Of Diversity For Modern Business Innovation_](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f). Walter, E.; Forbes Magazine (2014).
 
-[_How Designing For Disabled People Is Giving Google An Edge_] https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge.). Brownlee, J.; Fast Company (2018).
+[_How Designing For Disabled People Is Giving Google An Edge_](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge). Brownlee, J.; Fast Company (2018).
 
 [_People with Disabilities Drive Innovation_](https://habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/). Germa, H. (2017)
 
