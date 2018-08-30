@@ -7,13 +7,8 @@ github:
   repository: w3c/wai-bcase
   path: 'bibliography.md'
 ---
-{% include box.html type="start" h="2" title="Summary" class="full" %}
-
-{:/}
-
+Summary: 
 To create a Business Case that is relevant for the 21st century, we relied on formal research, grant funded studies, editorial comment, the historical record, anecdotal stories, and case studies provided by the businesses themselves. The bibliography here includes a brief description of the resource.      
-
-{::nomarkdown}
 
 # Topic Categories
 The sources below are categorized as much as possible according to their central topic relating to the several aspects of the Business Case for Accessibility. There is some overlap and some articles or papers were broad enough to be in a category designated simply as "general."  
