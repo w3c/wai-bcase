@@ -36,10 +36,16 @@ The sources below are categorized as much as possible according to their central
 ## Related To Increased Revenue/Decreased Costs
 [_Assessing the Value 0f Accessible Technologies for Organizations_](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf). Parks, S. and Sedov V.; Forrester Research, Inc. (2017)
 
-## Human Interest
+[_Organizational Motivations for Web Accessibility Implementation – A Case Study_](https://www.researchgate.net/publication/221009860_Organizational_Motivations_for_Web_Accessibility_Implementation_-_A_Case_Study)  November 2016, University of Vienna, by Marie-Luise Leitner and Christine Strauss. 
+
+## Human Interest/Disability Employment
 [_How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company_](https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html). Ward, J.; Windows Central (2017).
 
 [_The Moment That Forever Changed Our Lives_](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/). Nadella, S.; PowerShell Team Blog, LinkedIn, (2017).
+
+[_Leaving no one behind: UNDP/UNV Talent Programme for Young Professionals with Disabilities_](http://www.undp.org/content/undp/en/home/news-centre/news/2017/leaving-no-one-behind-undp-unv-talent-programme-young-professionals-disabilities.html) Expectation to reduce poverty and attain sustainable development goals at UN. 
+ 
+[_How to Solve the Jobs Mismatch?_](https://slate.com/human-interest/2018/06/jobs-mismatch-american-companies-want-workers-and-disabled-workers-want-jobs.html) Slate article, June 2018. American businesses claim they can’t find workers, and disabled Americans can’t find jobs. Here’s how tech can help.
 
 ## Global Standards and Best Practice
 [_What Does Responsive Design Have To Do With Accessibility?_](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/). Avila, J.; Level Access (2013).
@@ -64,10 +70,16 @@ The sources below are categorized as much as possible according to their central
 
 [_Corporate Social Responsibility (CSR)_](https://www.iisd.org/business/issues/sr.aspx). IISD's Business and Sustainable Development Guide (2013).
 
-## General Statistics/Other Business Case perspectives 
+## General Statistics/Research methods/Other Business Case perspectives 
 [_Disability Inclusion Overview_](http://www.worldbank.org/en/topic/disability). The World Bank (2018).
 
 [_The Business Case for Accessibility and Inclusive Design_](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/). Walker, M.; Digital Leaders (2018).
 
 [_World Population Chart for Countries and Continents_](https://www.disabled-world.com/calculators-charts/wpc.php). Disabled World (2017).
+
+[_Exploratory Case Study Research on Web Accessibility_](https://www.researchgate.net/publication/259465171_Exploratory_Case_Study_Research_on_Web_Accessibility) Authors proposed study design that the 2016 article is based upon. 
+[_Exploratory Case Study Research on Web Accessibility_](http://urlibrary.co/download/web-accessibility-a-foundation-for-research.pdf) Design for research, the research has not yet actually been conducted to my knowledge.
+
+[_Accessibility Research Methods with Jonathan Lazar_](http://rosenfeldmedia.com/a-web-for-everyone/accessibility-research-methods-with-jonathan-lazar/) Podcast produced by Sarah Horton.
+
 
