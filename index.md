@@ -200,7 +200,7 @@ types of impairments are. We've also shared these animations on our
 [Accessible Banking YouTube
 playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy)
 
-Barclay's is an excellent example of how a strong commitment to accessibility results in distributed responsibility and shared understanding throughout the company culture. 
+Barclay's is an excellent example of how a strong commitment to accessibility results in distributed responsibility and shared understanding throughout the company culture. The company is percieved as open, fair, and people are proud to work there and to do business with Barclay's. Read the [full Barclay's case study](https://www.barclayscorporate.com/content/dam/corppublic/corporate/Documents/Accessibility/bmb-case-study.pdf) to learn more.   
 
 ### Increase Market Reach
 
@@ -310,13 +310,14 @@ address accessibility in the emerging practice of web communication. Legal risk 
     technology.
 -   Number of legal actions in US increase and courts increasingly
     decide in favor of equal access[^19]
+-   The strategy of Structured Negotiation proved effective in helping companies integrate accessibility while avoiding litigation. [^20]
 -   European Commission adopts European Accessibility Act, requiring
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books and
     e-commerce meet accessibility requirements.
 
-As a result, there is a global increase in legislation that further
-defines digital accessibility and creates enforcement mechanisms to
+Throughout the world, legislation continues to pass to further
+define digital accessibility and create enforcement mechanisms to
 ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. Commercial companies that do not comply are fined by the government.[^20] Austia has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate [^21]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
 With legal risks increasing, it is no wonder that smart businesses,
@@ -406,6 +407,8 @@ novelty but an integrated, critical tool of modern life. As they integrate acces
 [^18]: [*Web Accessibility and the DDA*](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/) Sloan, M.; Journal of Information Law & Technology, University of Warwick (2005).
 
 [^19]: [*List of Web Accessibility-Related Litigation and Settlements*](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/). Groves, K. (2017).
+
+[^20]: [*Settlements in Structured Negotiation*](http://www.lflegal.com/negotiations/) Feingold, L. (2018)
 
 [^20]: [*“It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us.”*](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54). Aalen, I.; Confrere/Medium (2018).
 
