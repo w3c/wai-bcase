@@ -318,7 +318,7 @@ address accessibility in the emerging practice of web communication. Legal risk 
 
 Throughout the world, legislation continues to pass to further
 define digital accessibility and create enforcement mechanisms to
-ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. Commercial companies that do not comply are fined by the government.[^20] Austia has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate [^21]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
+ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. Commercial companies that do not comply are fined by the government.[^21] Austia has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate [^22]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
 With legal risks increasing, it is no wonder that smart businesses,
 particularly those with global activities, are creating accessibility
@@ -410,6 +410,6 @@ novelty but an integrated, critical tool of modern life. As they integrate acces
 
 [^20]: [*Settlements in Structured Negotiation*](http://www.lflegal.com/negotiations/) Feingold, L. (2018)
 
-[^20]: [*“It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us.”*](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54). Aalen, I.; Confrere/Medium (2018).
+[^21]: [*“It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us.”*](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54). Aalen, I.; Confrere/Medium (2018).
 
-[^21]: [*“Absence of U.S. Regulation Leads to Web Accessibility Lawsuits.”*](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits). Roggio, A.; Practical Ecommerce (2015).
+[^22]: [*“Absence of U.S. Regulation Leads to Web Accessibility Lawsuits.”*](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits). Roggio, A.; Practical Ecommerce (2015).
