@@ -31,7 +31,7 @@ Summary: While the page itself is mostly a promotional vehicle for IBM products,
 
 ## Legal Landscape
 * [_Legal Update Series_](http://www.lflegal.com/category/accessibility-laws-and-regulations/legal-updates/) Feingold, L.; Law Office of Lainey Feingold (2018).<br />
-Type: Product Promotion <br />
+Type: Blog post <br />
 Summary: Structured Negotiation author and pioneer and Disability Rights attorney Lainey Feingold maintains updates on legel actions as well as other related, easy to follow perspectives on digital accessiiblity. Lots of relevant information throughout the site.  
 
 * [_Sydney Olympics 2000 Website Accessibility Decision_](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html). Independent Living Institute (2000).<br />
