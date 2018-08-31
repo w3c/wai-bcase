@@ -13,17 +13,27 @@ To create a Business Case that is relevant for the 21st century, we relied on fo
 # Topic Categories
 The sources below are categorized as much as possible according to their central topic relating to the several aspects of the Business Case for Accessibility. There is some overlap and some articles or papers were broad enough to be in a category designated simply as "general."  
 
+
+
 ## Accessibility As Innovation
 * [_Reaping The Benefits Of Diversity For Modern Business Innovation_](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f). Walter, E.; Forbes Magazine (2014). <br />Type: Magazine Article <br />
+Summary: The author interviews  Neil Lenane, Business Leader of Talent Management at Progressive who is a strong advocate of the value of diversity.Not specifically focused on disability and includes links to related articles and research. 
 
+* [_How Designing For Disabled People Is Giving Google An Edge_](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge). Brownlee, J.; Fast Company (2018). <br />
+Type: Magazine article<br />
+Summary: Author interviews Google’s Eve Andersson, lead engineer on accessibility projects about how accessible design thinking contributes in unanticipated ways to innovative products and services. 
 
-[_How Designing For Disabled People Is Giving Google An Edge_](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge). Brownlee, J.; Fast Company (2018).
+[_People with Disabilities Drive Innovation_](https://habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/). Germa, H. (2017)<br />Type: Bog post <br />
+Summary: Haben Girma, the first deaf-blind person to graduate Harvard Law School, explores historical instances of how people with disabilities have innovated basic life tasks. Disability concerns led to invention of telephone, typewriter, email, and many other innovations that have made life better for everyone.  
 
-[_People with Disabilities Drive Innovation_](https://habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/). Germa, H. (2017)
-
-[_Accessibility Innovation Showcase_](https://www.ibm.com/able/research-projects.html). IBM Research (2018). 
+[_Accessibility Innovation Showcase_](https://www.ibm.com/able/research-projects.html). IBM Research (2018).<br />Type: Product Promotion <br />
+Summary: While the page itself is mostly a promotional vehicle for IBM products, it is impressive to see the investment they have made in research related to disability and aging.
 
 ## Legal Landscape
+* [_Legal Update Series_](http://www.lflegal.com/category/accessibility-laws-and-regulations/legal-updates/) Feingold, L.; Law Office of Lainey Feingold (2018).<br />
+Type: Product Promotion <br />
+Summary:Structured Negotiation author and pioneer and Disability Rights attorney Lainey Feingold maintains updates on legel actions as well as other related, easy to follow perspectives on digital accessiiblity. Lots of relevant information throughout the site.  
+
 [_Sydney Olympics 2000 Website Accessibility Decision_](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html). Independent Living Institute (2000).
 
 [_Web Accessibility and the DDA_](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/) Sloan, M.; Journal of Information Law & Technology, University of Warwick (2005).
