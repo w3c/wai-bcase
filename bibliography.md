@@ -14,7 +14,8 @@ To create a Business Case that is relevant for the 21st century, we relied on fo
 The sources below are categorized as much as possible according to their central topic relating to the several aspects of the Business Case for Accessibility. There is some overlap and some articles or papers were broad enough to be in a category designated simply as "general."  
 
 ## Accessibility As Innovation
-[_Reaping The Benefits Of Diversity For Modern Business Innovation_](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f). Walter, E.; Forbes Magazine (2014).
+* [_Reaping The Benefits Of Diversity For Modern Business Innovation_](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f). Walter, E.; Forbes Magazine (2014). <br />Type: Magazine Article <br />
+
 
 [_How Designing For Disabled People Is Giving Google An Edge_](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge). Brownlee, J.; Fast Company (2018).
 
