@@ -29,40 +29,16 @@ Summary: Haben Girma, the first deaf-blind person to graduate Harvard Law School
 * [_Accessibility Innovation Showcase_](https://www.ibm.com/able/research-projects.html). IBM Research (2018).<br />Type: Product Promotion <br />
 Summary: While the page itself is mostly a promotional vehicle for IBM products, it is impressive to see the investment they have made in research related to disability and aging.
 
-## Legal Landscape
-* [_Legal Update Series_](http://www.lflegal.com/category/accessibility-laws-and-regulations/legal-updates/) Feingold, L.; Law Office of Lainey Feingold (2018).<br />
-Type: Blog post <br />
-Summary: Structured Negotiation author and pioneer and Disability Rights attorney Lainey Feingold maintains updates on legel actions as well as other related, easy to follow perspectives on digital accessiiblity. Lots of relevant information throughout the site.  
-
-* [_Sydney Olympics 2000 Website Accessibility Decision_](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html). Independent Living Institute (2000).<br />
-Type:   <br />
-Summary: 
-
-* [_Web Accessibility and the DDA_](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/) Sloan, M.; Journal of Information Law & Technology, University of Warwick (2005).<br />
-Type:   <br />
-Summary: 
-
-* [_List of Web Accessibility-Related Litigation and Settlements_](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/). Groves, K. (2017).<br />
-Type:   <br />
-Summary: 
-
-* [_It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us._](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54). Aalen, I.; Confrere/Medium (2018).<br />
-Type:   <br />
-Summary: 
-
-* [_Absence of U.S. Regulation Leads to Web Accessibility Lawsuits._](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits). Roggio, A.; Practical Ecommerce (2015).<br />
-Type:   <br />
-Summary: 
-
 ## Related To Increased Revenue/Decreased Costs
 * [_Assessing the Value 0f Accessible Technologies for Organizations_](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf). Parks, S. and Sedov V.; Forrester Research, Inc. (2017)
 <br />
-Type:   <br />
-Summary: 
-
+Type:Archived research study commisioned by Microsoft <br />
+Summary: Found that adoption of accessible technologies provides tangible
+economic and social value. Trends are quantified to help organizations understand the wide range of benefits that accrue when they make investments in accessiiblity. 
+ 
 * [_Organizational Motivations for Web Accessibility Implementation – A Case Study_](https://www.researchgate.net/publication/221009860_Organizational_Motivations_for_Web_Accessibility_Implementation_-_A_Case_Study)  November 2016, University of Vienna, by Marie-Luise Leitner and Christine Strauss. <br />
-Type:   <br />
-Summary: 
+Type: Academic study  <br />
+Summary: Introduces a holistic, managerial approach to identify business experiences with web accessibility implementation in three industry sectors. 
 
 ## Human Interest/Disability Employment
 * [_How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company_](https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html). Ward, J.; Windows Central (2017).<br />
@@ -147,5 +123,31 @@ Summary:
 * [_Accessibility Research Methods with Jonathan Lazar_](http://rosenfeldmedia.com/a-web-for-everyone/accessibility-research-methods-with-jonathan-lazar/) Podcast produced by Sarah Horton.<br />
 Type:   <br />
 Summary:
+
+## Legal Landscape
+* [_Legal Update Series_](http://www.lflegal.com/category/accessibility-laws-and-regulations/legal-updates/) Feingold, L.; Law Office of Lainey Feingold (2018).<br />
+Type: Blog post <br />
+Summary: Structured Negotiation author and pioneer and Disability Rights attorney Lainey Feingold maintains updates on legel actions as well as other related, easy to follow perspectives on digital accessiiblity. Lots of relevant information throughout the site.  
+
+* [_Sydney Olympics 2000 Website Accessibility Decision_](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html). Independent Living Institute (2000).<br />
+Type:   <br />
+Summary: 
+
+* [_Web Accessibility and the DDA_](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/) Sloan, M.; Journal of Information Law & Technology, University of Warwick (2005).<br />
+Type:   <br />
+Summary: 
+
+* [_List of Web Accessibility-Related Litigation and Settlements_](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/). Groves, K. (2017).<br />
+Type:   <br />
+Summary: 
+
+* [_It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us._](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54). Aalen, I.; Confrere/Medium (2018).<br />
+Type:   <br />
+Summary: 
+
+* [_Absence of U.S. Regulation Leads to Web Accessibility Lawsuits._](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits). Roggio, A.; Practical Ecommerce (2015).<br />
+Type:   <br />
+Summary: 
+
 
 
