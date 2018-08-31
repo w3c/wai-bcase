@@ -360,15 +360,15 @@ recover attorney fee and issued the following:
 User experience research and case studies confirm the many ways that accessible design supports an organization’s ability to nnovate, enhance their brand, increase market reach, and minimize legal risk among many other benefits. The WAI is a global community of practice and we encourage you to share your examples. If you have a story of how your commitment to accessibility improved your online business model, please submit it via email to wai-eo-editors@w3.org
 
 ## Resources
-This article was written after reading and exploring many external resources that shaped our understanding of the current landscape. We have provided links and notes about our reaserch in this [Annotated Bibliography](https://w3c.github.io/wai-bcase/teach-advocate/business-case/bibliography/).
+This article was written after reading and exploring many external resources that shaped our understanding of the current landscape. We have provided links and notes about our research in this [Annotated Bibliography](https://w3c.github.io/wai-bcase/teach-advocate/business-case/bibliography/).
 
-In addiiton, the WAI website has a large library of useful resources to help companies realize the benefits outlined in this article for integrating accessibility into their development, procurement, and general business practice. Listed below are a few of what we consider especially useful as you start your accessibility program.
+In addition, the WAI website has a large library of useful support to help companies realize the benefits outlined in this article for integrating accessibility into their development, procurement, and general business practice. Listed below are a few of what we consider especially useful as you start your accessibility program.
 
 * [Planning and Managing Guide](https://www.w3.org/WAI/planning-and-managing/)
 * [Developing Organizational Policies](https://www.w3.org/WAI/planning/org-policies/)
 * [Perspective Videos](https://www.w3.org/WAI/perspective-videos/)
 
-These are suggested places that might help you get started and we hope you will explore throughout the WAI site as you dive deeper into accessibility and begin to realize the related benefits for you and your organization.
+These are suggested simply as a way to get started. We hope you will explore throughout the WAI site as you dive deeper into accessibility and begin to realize the related benefits for you and your organization.
 
 
 
