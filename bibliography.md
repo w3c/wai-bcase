@@ -147,7 +147,7 @@ Summary: Graphic representaiton of disability statistics throughout the world.
 
 * [_Exploratory Case Study Research on Web Accessibility_](http://urlibrary.co/download/web-accessibility-a-foundation-for-research.pdf) Leitner, ML and Christine Strauss  <br />
 Type: Research study proposal  <br />
-Summary: Design for research, the research has not yet actually been conducted to my knowledge.
+Summary: Design for research conducted at a later date. Recommended for others who wish to design accessibility studies that produce defintitive outcomes.
 
 * [_Accessibility Research Methods with Jonathan Lazar_](http://rosenfeldmedia.com/a-web-for-everyone/accessibility-research-methods-with-jonathan-lazar/) Horton, S.<br />
 Type: Podcast   <br />
