@@ -54,12 +54,7 @@ inspire confidence among leaders and decision makers that continued investment i
 Research indicates that an investment in web accessibility is part of an
 overall strategy that is effective for modern business practice.[^1]
 When accessibility is part of strategic planning, businesses are more
-readily able to
-
--   innovate,
--   enhance their brand,
--   increase market reach, and
--   minimize legal risk.
+readily equipped for success in the modern connected world of commerce, academia, and civic engagement.
 
 Let’s look at some examples and research outcomes that will help you
 make the business case that is most effective in your own environment and
