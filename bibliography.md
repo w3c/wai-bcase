@@ -49,7 +49,7 @@ Summary: Structured Negotiation author and pioneer and Disability Rights attorne
 Type: Magazine article<br />
 Summary: Author interviews Google’s Eve Andersson, lead engineer on accessibility projects about how accessible design thinking contributes in unanticipated ways to innovative products and services. 
 
-* [_People with Disabilities Drive Innovation_](https://habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/). Germa, H. (2017)<br />Type: Bog post <br />
+* [_People with Disabilities Drive Innovation_](https://habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/). Germa, H. (2017)<br />Type: Blog post <br />
 Summary: Haben Girma, the first deaf-blind person to graduate Harvard Law School, explores historical instances of how people with disabilities have innovated basic life tasks. Disability concerns led to invention of telephone, typewriter, email, and many other innovations that have made life better for everyone.  
 
 * [_Accessibility Innovation Showcase_](https://www.ibm.com/able/research-projects.html). IBM Research (2018).<br />Type: Product Promotion <br />
