@@ -134,9 +134,9 @@ everyone.” Among the innovations that she cites as examples are these:
 
 Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^6]
 
-Further studies[^7] emphasize the benefits to the brand of companies that institute policies of broad diversity. To support employees with disabilities, an important segment of a diverse workforce, the technology that employees use needs to be accessible, including websites and applications.
+Further studies[^7] emphasize the benefits to the brand of companies that institute policies of broad diversity. Employing people with disabilities is an important aspect of creating a diverse workforce. To be successful, the technology that employees use, including websites and applications, must be accessible.
 
-A well-recognized example is Microsoft. For decades, accessibility
+A well-recognized example of how a brand can be affected is Microsoft. For decades, accessibility
 leaders expressed frustration with the gap between what the company said
 about accessibility and what it actually did.[^8] Its brand suffered.[^9]
 Recently however, Microsoft’s commitment to accessibility has been made
@@ -195,13 +195,13 @@ types of impairments are. We've also shared these animations on our
 [Accessible Banking YouTube
 playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy)
 
-Barclay's is an excellent example of how a strong commitment to accessibility results in distributed responsibility and shared understanding throughout the company culture. The company is percieved as open, fair, and people are proud to work there and to do business with Barclay's. Read the [full Barclay's case study](https://www.barclayscorporate.com/content/dam/corppublic/corporate/Documents/Accessibility/bmb-case-study.pdf) to learn more.   
+Barclay's is an excellent example of how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is percieved as open and fair. People are proud to work there and to do business with Barclay's. Read the [full Barclay's case study](https://www.barclayscorporate.com/content/dam/corppublic/corporate/Documents/Accessibility/bmb-case-study.pdf) to learn more.   
 
 ### Increase Market Reach
 
 <img src="{{ "/content-images/wai-bcase/chart.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-The market of people with disabilities is already large and is growing as the
+The market of people with disabilities is large and it is growing as the
 global population ages. In the UK, disabled people and their
 families spend at least £249 billion every year, which is known as the
 UK Purple Pound. In the US, annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is $6 trillion, which is equivalent to that of China. Consider these facts when estimating market size:
@@ -279,11 +279,10 @@ A significant demonstration of the risk of ignoring accessibility requirements w
 {:/}
 
 Consideration of the cost and risk of inaction is an important aspect of
-any Business Case. The risks are real of ignoring requirements for web accessibility and
-the cost can be significant as more regulators recognize the universal
+any Business Case. The risks are real if companies ignore requirements for web accessibility. The cost of litigation and remediation can be significant as more governments recognize and legislate in favor of the universal
 right to participate in online digital information and services.
 
-As web use became more integrated into modern life all over the world, regulators introduced laws and policies to strengthen the rights of people with disabilities. Change occurred incrementally and steadily.
+As web use is woven into modern life all over the world, regulators are mandating laws and policies that strengthen the rights of people with disabilities. Change is occuring incrementally and steadily.
 
 -   Early 2000s in the US, a few legal actions related to inaccessible
     websites based on the Americans with Disabilities Act (ADA) and
