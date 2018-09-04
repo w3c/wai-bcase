@@ -42,7 +42,7 @@ purpose. For example, government businesses may be more committed to the
 legal and equity aspects while commercial businesses care more about the
 brand enhancement provided by an integrated accessibility program.
 
-Understanding which of the many benefits of web accessibility are most
+Determining which of the many benefits of web accessibility are most
 relevant in your business environment will help you build the most
 compelling Business Case for your own situation. Use these resources to
 inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
@@ -52,13 +52,12 @@ inspire confidence among leaders and decision makers that continued investment i
 </blockquote>
 
 Research indicates that an investment in web accessibility is part of an
-overall strategy that is effective for modern business practice.[^1]
+overall strategy that is effective for current business practice.[^1]
 When accessibility is part of strategic planning, businesses are more
-readily equipped for success in the modern connected world of commerce, academia, and civic engagement.
+readily equipped for success in our connected world of commerce, academia, and civic engagement.
 
 Let’s look at some examples and research outcomes that will help you
-make the business case that is most effective in your own environment and
-business model.
+make the business case that is most effective in your own business environment.  
 
 ## Accessibility is good for business
 
@@ -70,7 +69,7 @@ colleague productivity.</p>
   <cite>Paul Smyth, Head of Digital Accessibility, Barclays</cite>
 </blockquote>
 
-The sections below explore and provide examples of some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
+The sections below explore key advantages of web accessibility to businesses of all types. Real world examples are presented to show how benefits are realized in the global marketplace.
 
 ### Drive Innovation
 
@@ -79,26 +78,28 @@ The sections below explore and provide examples of some key benefits of web acce
 Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
 the way.[^2] Some examples:
 
--   Accessible design thinking leads to flexible interaction options
+-   Accessible design thinking creates flexible interaction options
     useful beyond the disabled community.
 
 -   Innovations like the typewriter, telephone, punch cards, text to
     speech, email, and voice controls were originally meant to include those with 
    disability and all have found much wider application.[^3]
     
--   Accessibility is closely related to general usability — both have interest in defining and delivering an intuitive user experience. Innovation follows as interaction design moves beyond screens and toward interactions that are more human-centered, natural and contextual. 
+-   Accessibility is closely related to general usability — both aim to define and deliver a more intuitive user experience.
+
+-   Interaction design moves beyond screens when accessibility is a consideration and toward interactions that are more human-centered, natural, and contextual. 
 
 Accessible design is by nature flexible, allowing content to faithfully
 render across a broad spectrum of devices, platforms, assistive
-technologies, and operating systems. In physical environments everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features are also often used by everyone.
+technologies, and operating systems. In physical environments everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features become options that are also often used more widely.
 
-For example, in the early 2000’s as the online world increasingly
-adopted mobile devices to browse the web, imagine the delight of those
+A compelling example of how this wroks comes from the early 2000’s as the online world increasingly
+adopted mobile devices to browse the web. Imagine the delight of those
 who were already committed to and had designed for accessibility. Accessible, standards-compliant web
-sites were in many cases more mobile-ready. This led to the
+sites were in many cases more mobile-ready as interaction options were already baked in. This realization led to the
 responsive-design trend that has accessibility at its core.[^4] 
 
-Apple has been an innovator in the accessibility space since the inception of the company. Leaders there anticipated market direction and have integrated disability needs into product development for decades. In the early 2000’s, for example, the 26-campus University of California (UC) system was unable to take advantage of Apple's iPod University program. The application was inaccessible to blind students and so could not be distributed as an offical UC platform. However, Apple had previously identified the gap for blind users and was committed to closing it through innovation for its next generation of products. Apple invested the resources to develop and acquire voice technology that led to VoiceOver and Siri, voice interactions that were enthusiastically adopted by blind users. The UC System was soon able to use the features and wider adoption by the general public played a large part in the development and growth of the mobile web itself. Such advances lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these innovations, regardless of ability. 
+Apple has been an innovator in the accessibility space since the inception of the company. Leaders there anticipated market direction and have integrated disability needs into product development for decades. In the early 2000’s, for example, the 26-campus University of California (UC) system was unable to take advantage of Apple's iPod University program. The application was inaccessible to blind students and so could not be distributed as an offical UC platform. Designers and researchers at Apple had previously identified that gap for blind users and were committed to closing it through innovation for its next generation of products. Apple informed the University system adminstrators that the company had invested the resources and were developing and acquiring voice technology. Implementation led to VoiceOver and Siri, voice interactions that were enthusiastically adopted. Blind students within the UC System were soon able to use the features and wider adoption by the general public played a large part in the development and growth of the mobile web itself. Such innovations lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these devices, regardless of ability. 
   
 #### Case Study – Google
 
@@ -363,13 +364,6 @@ In addition, the WAI website has a large library of useful support to help compa
 * [Perspective Videos](https://www.w3.org/WAI/perspective-videos/)
 
 These are suggested simply as a way to get started. We hope you will explore throughout the WAI site as you dive deeper into accessibility and begin to realize the related benefits for you and your organization.
-
-
-
-
-
-
-
 
 ## Conclusion
 
