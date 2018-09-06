@@ -328,17 +328,14 @@ assets and their reputations.
 
 The case was heard in the U. S. District Court of the Southern District
 of Florida, Case No. 16-23020. Winn-Dixie is a regional chain of grocery
-stores, some of which maintain pharmacies. The blind plaintiff was Juan
-Carlos Gil who shopped at the store in person but was unable to access
+stores, some of which maintain pharmacies. The blind plaintiff shopped at the store in person but was unable to access
 the website for such information as the store locator, coupons, store
 events and specials. The historic suit was the first trial in the
 history of the ADA about the accessibility of a public accommodation’s
-website. Winn-Dixie asked the court to dismiss the suit based on their
-contention that a website is not a public accommodation covered by Title
-III of the ADA. The court deemed otherwise, allowed the plaintiff to
-recover attorney fee and issued the following:
+website. The court allowed the plaintiff to
+recover attorney fees and:
 
--   The court concluded that due to the link between the website and
+-   Concluded that due to the link between the website and
     Winn-Dixie Stores, Title III of the ADA, applicable to “Public
     Accommodations,” did in fact apply in this situation.
 -   Required that the website be made accessible to “*individuals with
