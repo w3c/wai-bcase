@@ -116,8 +116,7 @@ Apple has been an innovator in the accessibility space since the inception of th
 A 2016 article in FastCompany online magazine[^5] highlights the ways in
 which Google’s investment in accessibility provides the company with an
 innovation edge in a broad array of products and services. Eve
-Andersson, the lead engineer featured in the article, say unequivocally
-that “I’m passionate about accessibility, not just because I believe in
+Andersson, the lead engineer featured in the article, says unequivocally “I’m passionate about accessibility, not just because I believe in
 a level playing field, but because (it) makes life more livable for
 everyone.” Among the innovations that she cites as examples are these:
 
