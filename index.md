@@ -356,7 +356,12 @@ recover attorney fee and issued the following:
     
 ## Share your experience
 
-User experience research and case studies confirm the many ways that accessible design supports an organization’s ability to nnovate, enhance their brand, increase market reach, and minimize legal risk among many other benefits. The WAI is a global community of practice and we encourage you to share your examples. If you have a story of how your commitment to accessibility improved your online business model, please submit it via email to wai-eo-editors@w3.org
+User experience research and case studies confirm the many ways that accessible design supports an organization’s ability to innovate, enhance their brand, increase market reach, and minimize legal risk - among many other benefits. The WAI is a global community of practice and we encourage you to share your examples. If you have a story of how your commitment to accessibility improved your online business model, please submit it via email to wai-eo-editors@w3.org
+
+## Conclusion
+
+Public use of the Internet is more than 25 years old. The web is no longer a
+novelty but an integrated, critical tool of modern life. As smart businesses integrate accessible design into their development and procurement processes, they understand the need for equal access by all people. The legal risks of ignoring accessibility are significant, and the benefits have also been demonstrated by leaders like Apple, Barclay’s, NPR, IBM, Microsoft and hundreds more. Business leaders and the advocates who influence them can have tremendous social impact and healthy ROI as they follow a roadmap that leads to equal access. More than one billion people with disabilities in the world are eager to enagage with you as customers, clients, partners, employees, and equal participants in civic and social activities. By developing a long term commitment to accessiblity and by using WAI resources to develop policy and implement strategy to bring that commitment to life, your business will reach this market and is likely to thrive in unexpected and self-sustaining ways.
 
 ## Resources
 This article was written after reading and exploring many external resources that shaped our understanding of the current landscape. We have provided links and notes about our research in this [Annotated Bibliography](https://w3c.github.io/wai-bcase/teach-advocate/business-case/bibliography/).
@@ -368,11 +373,6 @@ In addition, the WAI website has a large library of useful support to help compa
 * [Perspective Videos](https://www.w3.org/WAI/perspective-videos/) Watch how accessibility impacts users.
 
 These are suggested simply as a way to get started. We hope you will explore throughout the WAI site as you dive deeper into accessibility and begin to realize the related benefits for you and your organization.
-
-## Conclusion
-
-Public use of the Internet is more than 25 years old. The web is no longer a
-novelty but an integrated, critical tool of modern life. As smart businesses integrate accessible design into their development and procurement processes, they understand the need for equal access by all people. The legal risks of ignoring accessibility are significant, and the benefits have also been demonstrated by leaders like Apple, Barclay’s, NPR, IBM, Microsoft and hundreds more. Business leaders and the advocates who influence them can have tremendous social impact and healthy ROI as they follow a roadmap that leads to equal access. More than one billion people with disabilities in the world are eager to enagage with you as customers, clients, partners, employees, and equal participants in civic and social activities. By developing a long term commitment to accessiblity and by using WAI resources to develop policy and implement strategy to bring that commitment to life, your business will reach this market and is likely to thrive in unexpected and self-sustaining ways.
 
 [^1]: [_Disability as diversity in fortune 100 companies_](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629). Ball, P., Monaco, G., Schmeling, J., Schartz, H., and Blanck, P.; Law, Health Policy and Disability Center (2005).
 
