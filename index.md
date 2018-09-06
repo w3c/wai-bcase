@@ -248,7 +248,7 @@ obligations but returned significant benefits including:
 -   search traffic increased 6.86%,
 -   better comprehension for visitors who use English as a second
     language,
--   visitors able to use transcripts in noisy or sound-sensitive
+-   visitors were able to use transcripts in noisy or sound-sensitive
     environments,
 -   ability to more easily translate, and
 -   ability to search text to reference a specific section of audio.
