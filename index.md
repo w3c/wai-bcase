@@ -240,7 +240,7 @@ Accessible design considerations often lead to improvements in general customer 
 A popular broadcast on US National Public Radio (NPR), This American
 Life, is heard on more than 500 stations by about 2.1 million listeners
 each week. In 2011, in response to new FCC regulations around broadcast
-media, they committed to creating transcripts for their entire archive
+media, the broadcaster committed to creating transcripts for their entire archive
 of recorded programs. A several month study conducted by their media
 partner concluded that the provision of transcipts not only met legal
 obligations but returned significant benefits including:
