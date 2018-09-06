@@ -238,7 +238,7 @@ Accessible design considerations often lead to improvements in general customer 
 #### Case Study - NPR weekly broadcast of This American Life
 
 A popular broadcast on US National Public Radio (NPR), This American
-Life is heard on more than 500 stations by about 2.1 million listeners
+Life, is heard on more than 500 stations by about 2.1 million listeners
 each week. In 2011, in response to new FCC regulations around broadcast
 media, they committed to creating transcripts for their entire archive
 of recorded programs. A several month study conducted by their media
