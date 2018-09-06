@@ -21,7 +21,7 @@ This article defines the purpose and provides guidance for how to construct the 
 -   <strong>Extend Market Reach:</strong> The global market of people with disabilities is over 1 billion people with spending power of more than $6 trillion. Accessibility often improves the online experience for all users.
 -   <strong>Minimize Legal Risk:</strong> Many countries have laws requiring digital accessibility and the issue is of increased legal concern.
 
-The article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility" and  "websites" throughout this article and that those terms are meant to includes web applications and other digital technologies as well. 
+The article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility" and  "websites" throughout this article and that those terms are meant to include web applications and other digital technologies as well. 
 
 {::nomarkdown}
 
