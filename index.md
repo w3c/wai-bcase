@@ -22,7 +22,7 @@ This article defines the purpose and provides guidance for how to construct the 
 -   <strong>Minimize Legal Risk:</strong> Many countries have laws requiring digital accessibility and the issue is of increased legal concern.
 
 
-The article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility" and  "websites" throughout this article and that those terms are meant to include web applications and other digital technologies as well. 
+This article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility" and  "websites" throughout this article and that those terms are meant to include web applications and other digital technologies as well. 
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -368,9 +368,9 @@ This article was written after reading and exploring many external resources tha
 
 In addition, the WAI website has a large library of useful support to help companies realize the benefits outlined in this article for integrating accessibility into their development, procurement, and general business practice. Listed below are a few of what we consider especially useful as you start your accessibility program.
 
-* [Planning and Managing Guide](https://www.w3.org/WAI/planning-and-managing/)
-* [Developing Organizational Policies](https://www.w3.org/WAI/planning/org-policies/)
-* [Perspective Videos](https://www.w3.org/WAI/perspective-videos/)
+* [Developing Organizational Accessibility Policies](https://www.w3.org/WAI/planning/org-policies/) Start with a clear policy.
+* [Planning and Managing Accessibility](https://www.w3.org/WAI/planning-and-managing/) A guide for implementation.
+* [Perspective Videos](https://www.w3.org/WAI/perspective-videos/) Watch how accessibility impacts users.
 
 These are suggested simply as a way to get started. We hope you will explore throughout the WAI site as you dive deeper into accessibility and begin to realize the related benefits for you and your organization.
 
