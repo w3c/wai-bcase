@@ -7,7 +7,12 @@ document-status: draft
 
 <img src="{{ "/content-images/wai-bcase/hero.svg" | relative_url }}" alt="">
 
-## Summary
+{::nomarkdown}
+
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+
+{:/}
+
 A Business Case is the rationale for initiating a project or task. Whether formal and highly structured or informal and brief, a good Business Case will articulate both tangible and intangible benefits to the business for dedicating resources to a project. To be effective, consideration will be given to cost, benefit, and resource gap analysis. A good Business Case also considers the cost and risk of inaction. As more retail, educational, government, social service, and personal communication activities have moved online, the Business Case for web accessibility is stronger than ever.
 
 This article defines the purpose and provides guidance for how to construct the Business Case for web accessibility that is appropriate and relevant to organizations of different types. Business performance and current research indicates that accessibility integration will help companies realize these benefits.
@@ -16,9 +21,11 @@ This article defines the purpose and provides guidance for how to construct the 
 -   <strong>Extend Market Reach:</strong> The global market of people with disabilities is over 1 billion people with spending power of more than $6 trillion. Accessibility often improves the online experience for all users.
 -   <strong>Minimize Legal Risk:</strong> Many countries have laws requiring digital accessibility and the issue is of increased legal concern.
 
-The article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility" and  "websites" throughout this article and that those terms are meant to includes web applications and other digital technologies as well.
+
+The article includes statistics, examples, and case studies to illustrate key benefits and risks. Please note that we use "web accessibility" and  "websites" throughout this article and that those terms are meant to include web applications and other digital technologies as well. 
 
 {::nomarkdown}
+{% include box.html type="end" %}
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
 
@@ -44,7 +51,7 @@ purpose. For example, government businesses may be more committed to the
 legal and equity aspects while commercial businesses care more about the
 brand enhancement provided by an integrated accessibility program.
 
-Understanding which of the many benefits of web accessibility are most
+Determining which of the many benefits of web accessibility are most
 relevant in your business environment will help you build the most
 compelling Business Case for your own situation. Use these resources to
 inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
@@ -54,18 +61,12 @@ inspire confidence among leaders and decision makers that continued investment i
 </blockquote>
 
 Research indicates that an investment in web accessibility is part of an
-overall strategy that is effective for modern business practice.[^1]
+overall strategy that is effective for current business practice.[^1]
 When accessibility is part of strategic planning, businesses are more
-readily able to
-
--   innovate,
--   enhance their brand,
--   increase market reach, and
--   minimize legal risk.
+readily equipped for success in our connected world of commerce, academia, and civic engagement.
 
 Let’s look at some examples and research outcomes that will help you
-make the business case that is most effective in your own environment and
-business model.
+make the business case that is most effective in your own business environment.  
 
 ## Accessibility is good for business
 
@@ -77,7 +78,7 @@ colleague productivity.</p>
   <cite>Paul Smyth, Head of Digital Accessibility, Barclays</cite>
 </blockquote>
 
-The sections below explore and provide examples of some key benefits of web accessibility to businesses of all types. How are those realized in the global marketplace?
+The sections below explore key advantages of web accessibility to businesses of all types. Real world examples are presented to show how benefits are realized in the global marketplace.
 
 ### Drive Innovation
 
@@ -86,26 +87,28 @@ The sections below explore and provide examples of some key benefits of web acce
 Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
 the way.[^2] Some examples:
 
--   Accessible design thinking leads to flexible interaction options
+-   Accessible design thinking creates flexible interaction options
     useful beyond the disabled community.
 
 -   Innovations like the typewriter, telephone, punch cards, text to
     speech, email, and voice controls were originally meant to include those with 
    disability and all have found much wider application.[^3]
     
--   Accessibility is closely related to general usability — both have interest in defining and delivering an intuitive user experience. Innovation follows as interaction design moves beyond screens and toward interactions that are more human-centered, natural and contextual. 
+-   Accessibility is closely related to general usability — both aim to define and deliver a more intuitive user experience.
+
+-   Interaction design moves beyond screens when accessibility is a consideration and toward interactions that are more human-centered, natural, and contextual. 
 
 Accessible design is by nature flexible, allowing content to faithfully
 render across a broad spectrum of devices, platforms, assistive
-technologies, and operating systems. In physical environments everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features are also often used by everyone.
+technologies, and operating systems. In physical environments everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features become options that are also often used more widely.
 
-For example, in the early 2000’s as the online world increasingly
-adopted mobile devices to browse the web, imagine the delight of those
+A compelling example of how this wroks comes from the early 2000’s as the online world increasingly
+adopted mobile devices to browse the web. Imagine the delight of those
 who were already committed to and had designed for accessibility. Accessible, standards-compliant web
-sites were in many cases more mobile-ready. This led to the
+sites were in many cases more mobile-ready as interaction options were already baked in. This realization led to the
 responsive-design trend that has accessibility at its core.[^4] 
 
-Apple has been an innovator in the accessibility space since the inception of the company. Leaders there anticipated market direction and have integrated disability needs into product development for decades. In the early 2000’s, for example, the 26-campus University of California (UC) system was unable to take advantage of Apple's iPod University program. The application was inaccessible to blind students and so could not be distributed as an offical UC platform. However, Apple had previously identified the gap for blind users and was committed to closing it through innovation for its next generation of products. Apple invested the resources to develop and acquire voice technology that led to VoiceOver and Siri, voice interactions that were enthusiastically adopted by blind users. The UC System was soon able to use the features and wider adoption by the general public played a large part in the development and growth of the mobile web itself. Such advances lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these innovations, regardless of ability. 
+Apple has been an innovator in the accessibility space since the inception of the company. Leaders there anticipated market direction and have integrated disability needs into product development for decades. In the early 2000’s, for example, the 26-campus University of California (UC) system was unable to take advantage of Apple's iPod University program. The application was inaccessible to blind students and so could not be distributed as an offical UC platform. Designers and researchers at Apple had previously identified that gap for blind users and were committed to closing it through innovation for its next generation of products. Apple informed the University system adminstrators that the company had invested the resources and were developing and acquiring voice technology. Implementation led to VoiceOver and Siri, voice interactions that were enthusiastically adopted. Blind students within the UC System were soon able to use the features and wider adoption by the general public played a large part in the development and growth of the mobile web itself. Such innovations lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these devices, regardless of ability. 
   
 #### Case Study – Google
 
@@ -141,9 +144,9 @@ everyone.” Among the innovations that she cites as examples are these:
 
 Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^6]
 
-Further studies[^7] emphasize the benefits to the brand of companies that institute policies of broad diversity. To support employees with disabilities, an important segment of a diverse workforce, the technology that employees use needs to be accessible, including websites and applications.
+Further studies[^7] emphasize the benefits to the brand of companies that institute policies of broad diversity. Employing people with disabilities is an important aspect of creating a diverse workforce. To be successful, the technology that employees use, including websites and applications, must be accessible.
 
-A well-recognized example is Microsoft. For decades, accessibility
+A well-recognized example of how a brand can be affected is Microsoft. For decades, accessibility
 leaders expressed frustration with the gap between what the company said
 about accessibility and what it actually did.[^8] Its brand suffered.[^9]
 Recently however, Microsoft’s commitment to accessibility has been made
@@ -202,13 +205,13 @@ types of impairments are. We've also shared these animations on our
 [Accessible Banking YouTube
 playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy)
 
-Barclay's is an excellent example of how a strong commitment to accessibility results in distributed responsibility and shared understanding throughout the company culture. 
+Barclay's is an excellent example of how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is percieved as open and fair. People are proud to work there and to do business with Barclay's. Read the [full Barclay's case study](https://www.barclayscorporate.com/content/dam/corppublic/corporate/Documents/Accessibility/bmb-case-study.pdf) to learn more.   
 
 ### Increase Market Reach
 
 <img src="{{ "/content-images/wai-bcase/chart.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-The market of people with disabilities is already large and is growing as the
+The market of people with disabilities is large and it is growing as the
 global population ages. In the UK, disabled people and their
 families spend at least £249 billion every year, which is known as the
 UK Purple Pound. In the US, annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is $6 trillion, which is equivalent to that of China. Consider these facts when estimating market size:
@@ -286,11 +289,10 @@ A significant demonstration of the risk of ignoring accessibility requirements w
 {:/}
 
 Consideration of the cost and risk of inaction is an important aspect of
-any Business Case. The risks are real of ignoring requirements for web accessibility and
-the cost can be significant as more regulators recognize the universal
+any Business Case. The risks are real if companies ignore requirements for web accessibility. The cost of litigation and remediation can be significant as more governments recognize and legislate in favor of the universal
 right to participate in online digital information and services.
 
-As web use became more integrated into modern life all over the world, regulators introduced laws and policies to strengthen the rights of people with disabilities. Change occurred incrementally and steadily.
+As web use is woven into modern life all over the world, regulators are mandating laws and policies that strengthen the rights of people with disabilities. Change is occuring incrementally and steadily.
 
 -   Early 2000s in the US, a few legal actions related to inaccessible
     websites based on the Americans with Disabilities Act (ADA) and
@@ -312,14 +314,15 @@ address accessibility in the emerging practice of web communication. Legal risk 
     technology.
 -   Number of legal actions in US increase and courts increasingly
     decide in favor of equal access[^19]
+-   The strategy of Structured Negotiation proved effective in helping companies integrate accessibility while avoiding litigation. [^20]
 -   European Commission adopts European Accessibility Act, requiring
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books and
     e-commerce meet accessibility requirements.
 
-As a result, there is a global increase in legislation that further
-defines digital accessibility and creates enforcement mechanisms to
-ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. Commercial companies that do not comply are fined by the government.[^20] Austia has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate [^21]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
+Throughout the world, legislation continues to pass to further
+define digital accessibility and create enforcement mechanisms to
+ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. Commercial companies that do not comply are fined by the government.[^21] Austia has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate [^22]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
 With legal risks increasing, it is no wonder that smart businesses,
 particularly those with global activities, are creating accessibility
@@ -361,15 +364,20 @@ recover attorney fee and issued the following:
 User experience research and case studies confirm the many ways that accessible design supports an organization’s ability to nnovate, enhance their brand, increase market reach, and minimize legal risk among many other benefits. The WAI is a global community of practice and we encourage you to share your examples. If you have a story of how your commitment to accessibility improved your online business model, please submit it via email to wai-eo-editors@w3.org
 
 ## Resources
+This article was written after reading and exploring many external resources that shaped our understanding of the current landscape. We have provided links and notes about our research in this [Annotated Bibliography](https://w3c.github.io/wai-bcase/teach-advocate/business-case/bibliography/).
 
-Will pull from the [list on EO Biz Case
-wiki](https://www.w3.org/WAI/EO/wiki/Business_Case#Articles) and
-organize by topic
+In addition, the WAI website has a large library of useful support to help companies realize the benefits outlined in this article for integrating accessibility into their development, procurement, and general business practice. Listed below are a few of what we consider especially useful as you start your accessibility program.
+
+* [Planning and Managing Guide](https://www.w3.org/WAI/planning-and-managing/)
+* [Developing Organizational Policies](https://www.w3.org/WAI/planning/org-policies/)
+* [Perspective Videos](https://www.w3.org/WAI/perspective-videos/)
+
+These are suggested simply as a way to get started. We hope you will explore throughout the WAI site as you dive deeper into accessibility and begin to realize the related benefits for you and your organization.
 
 ## Conclusion
 
 Public use of the Internet is more than 25 years old. The web is no longer a
-novelty but an integrated, critical tool of modern life. As they integrate accessible design into their development and procurement processes, smart businesses understand the need for equal access by all people. The legal risks of ignoring accessibility are significant, and the benefits have also been demonstrated by leaders like Apple, Barclay’s, NPR, IBM, Microsoft and hundreds more. Business leaders and the advocates who influence them can have tremendous social impact and healthy ROI as they follow a roadmap that leads to equal access. More than one billion people with disabilities in the world are eager to enagage with you as customers, clients, partners, employees, and equal civic and social participants. By developing a long term commitment to accessiblity and by using WAI resources to develop policy and implement strategy to bring that commitment to life, your business will reach this market and is likely to thrive in unexpected and self-sustaining ways.
+novelty but an integrated, critical tool of modern life. As they integrate accessible design into their development and procurement processes, smart businesses understand the need for equal access by all people. The legal risks of ignoring accessibility are significant, and the benefits have also been demonstrated by leaders like Apple, Barclay’s, NPR, IBM, Microsoft and hundreds more. Business leaders and the advocates who influence them can have tremendous social impact and healthy ROI as they follow a roadmap that leads to equal access. More than one billion people with disabilities in the world are eager to enagage with you as customers, clients, partners, employees, and equal participants in civic and social activities. By developing a long term commitment to accessiblity and by using WAI resources to develop policy and implement strategy to bring that commitment to life, your business will reach this market and is likely to thrive in unexpected and self-sustaining ways.
 
 [^1]: [_Disability as diversity in fortune 100 companies_](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629). Ball, P., Monaco, G., Schmeling, J., Schartz, H., and Blanck, P.; Law, Health Policy and Disability Center (2005).
 
@@ -409,6 +417,8 @@ novelty but an integrated, critical tool of modern life. As they integrate acces
 
 [^19]: [*List of Web Accessibility-Related Litigation and Settlements*](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/). Groves, K. (2017).
 
-[^20]: [*“It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us.”*](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54). Aalen, I.; Confrere/Medium (2018).
+[^20]: [*Settlements in Structured Negotiation*](http://www.lflegal.com/negotiations/) Feingold, L. (2018)
 
-[^21]: [*“Absence of U.S. Regulation Leads to Web Accessibility Lawsuits.”*](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits). Roggio, A.; Practical Ecommerce (2015).
+[^21]: [*“It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us.”*](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54). Aalen, I.; Confrere/Medium (2018).
+
+[^22]: [*“Absence of U.S. Regulation Leads to Web Accessibility Lawsuits.”*](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits). Roggio, A.; Practical Ecommerce (2015).

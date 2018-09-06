@@ -19,7 +19,7 @@ _Editors Note: This is a rough concept draft idea. The content is not complete a
 
 This page provides succinct points for the business case for web accessibility. It includes supporting examples with links to more detailed information, resources, and case studies.
 
-A [companion Business Case resource](https://wai-bcase-new-approach.netlify.com/teach-advocate/business-case/) explores broader aspects of the business case in more detail.
+A [companion Business Case resource](https://w3c.github.io/wai-bcase/teach-advocate/business-case/) explores broader aspects of the business case in more detail.
 
 {::nomarkdown}
 {% include box.html type="end" %}
