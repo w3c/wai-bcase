@@ -88,7 +88,7 @@ the way.[^2] Some examples:
 -   Accessible design thinking creates flexible interaction options
     useful beyond the disabled community.
     
--   Research and development of the artificial retina project to help restore sight for blind patients may also help future robots with real-time image-processing systems, effectively enabling them to "see." [3]
+-   Research and development of the artificial retina project to help restore sight for blind patients may also help future robots with real-time image-processing systems, effectively enabling them to "see." [^3]
 
 -   Driverless cars, so promising for the independence of blind people, are projected to also
     help solve traffic fatalities and congestion.
