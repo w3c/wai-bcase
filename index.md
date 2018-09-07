@@ -87,6 +87,8 @@ the way.[^2] Some examples:
 
 -   Accessible design thinking creates flexible interaction options
     useful beyond the disabled community.
+    
+-   Robots of the future might be able to “see” because of the accessibility work done in computer vision for blind people today.
 
 -   Innovations like the typewriter, telephone, punch cards, text to
     speech, email, and voice controls were originally meant to include those with 
