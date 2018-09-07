@@ -88,7 +88,7 @@ the way.[^2] Some examples:
 -   Accessible design thinking creates flexible interaction options
     useful beyond the disabled community.
     
--   Robots of the future might be able to “see” because of the accessibility work done in computer vision for blind people today.
+-   Research and development of the artificial retina project to help restore sight for blind patients may also help future robots with real-time image-processing systems, effectively enabling them to "see." [3]
 
 -   Driverless cars, so promising for the independence of blind people, are projected to also
     help solve traffic fatalities and congestion.
@@ -362,6 +362,8 @@ These are suggested simply as a way to get started. We hope you will explore thr
 [^1]: [_Disability as diversity in fortune 100 companies_](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629). Ball, P., Monaco, G., Schmeling, J., Schartz, H., and Blanck, P.; Law, Health Policy and Disability Center (2005).
 
 [^2]: [_Accessibility Innovation Showcase_](https://www.ibm.com/able/research-projects.html). IBM Research (2018). 
+
+[^3]: [_Professor's Research Helps Restore Sight to the Blind_](https://medicalxpress.com/news/2012-01-professor-sight.html). Brown, P.; University of Arizona (2012)
 
 [^3]:  [_People with Disabilities Drive Innovation_](https://habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/). Germa, H. (2017)
 
