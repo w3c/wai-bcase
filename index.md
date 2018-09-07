@@ -58,8 +58,8 @@ inspire confidence among leaders and decision makers that continued investment i
   <p>Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.</p>
 </blockquote>
 
-Research indicates that an investment in web accessibility is part of an
-overall strategy that is effective for current business practice.[^1]
+A research study of Fortune 100 companies indicates that disability inclusion as part of an
+overall diversity strategy is common practice among high performing businesses.[^1]
 When accessibility is part of strategic planning, businesses are more
 readily equipped for success in our connected world of commerce, academia, and civic engagement.
 
