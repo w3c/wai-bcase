@@ -159,11 +159,6 @@
     pages:
     - name: Bibliography
       url: "/teach-advocate/business-case/bibliography/"
-  - name: Business Case Alt Illustrations
-    url: "/teach-advocate/business-case/alt/"
-    pages:
-    - name: Bibliography
-      url: "/teach-advocate/business-case/bibliography/"
   # pages:
   #   - name: Social Factors
   #     url: "/business-case/social-factors/"

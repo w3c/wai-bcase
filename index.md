@@ -40,7 +40,7 @@ This article includes statistics, examples, and case studies to illustrate key b
 
 ## Who Needs a Business Case for Accessibility? 
 
-<img src="{{ "/content-images/wai-bcase/chart.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/business-case.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
 “Business Case” is a term relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating
 resources such as money or effort in support of a specific
@@ -82,7 +82,7 @@ The sections below explore key advantages of web accessibility to businesses of 
 
 ### Drive Innovation
 
-<img src="{{ "/content-images/wai-bcase/rocket.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/innovation.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
 the way.[^2] Some examples:
@@ -135,7 +135,7 @@ everyone.” Among the innovations that she cites as examples are these:
 
 ### Enhance Your Brand
 
-<img src="{{ "/content-images/wai-bcase/dna.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/brand.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^6]
 
@@ -204,7 +204,7 @@ Barclay's is an excellent example of how a strong commitment to accessibility re
 
 ### Increase Market Reach
 
-<img src="{{ "/content-images/wai-bcase/chart.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/market-reach.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 The market of people with disabilities is large and it is growing as the
 global population ages. In the UK, disabled people and their
