@@ -285,35 +285,20 @@ Consideration of the cost and risk of inaction is an important aspect of
 any Business Case. The risks are real if companies ignore requirements for web accessibility. The cost of litigation and remediation can be significant as more governments recognize and legislate in favor of the universal
 right to participate in online digital information and services.
 
-As web use is woven into modern life all over the world, regulators are mandating laws and policies that strengthen the rights of people with disabilities. Change is occuring incrementally and steadily.
+As web use is woven into modern life all over the world, regulators began to mandate laws and policies that strengthen the rights of people with disabilities. One of the earliest indications that there could be legal consequences to web accessibility was a complaint put to the Human Rights and Equal Opportunities Commission (HREOC) in 2000 about the inaccessibility of the website of the Sydney Olympics. The plaintiff claimed the site was a violation of the Commonwealth Disability Discrimination Act 1992.[^17]
 
--   Early 2000s in the US, a few legal actions related to inaccessible
-    websites based on the Americans with Disabilities Act (ADA) and
-    Section 508 of the Rehabilitation Act for US government entities.
--   Despite several encouraging victories in US courts for people with
-    disabilities seeking equal access, Section 508 was seen to have
-    limited scope and the ADA was unevenly applied by various courts.
--   Complaint put to the Human Rights and Equal Opportunities Commission
-    (HREOC) in 2000 about inaccessibility of Sydney Olympics claimed
-    violation of Commonwealth Disability Discrimination Act 1992 (Cth
-    DDA).[^17]
+The 2001 decision in the Sydney Olympics suit[^18] raised awareness of the need to address accessibility in the emerging practice of web communication. Legal risk has increased with the adoption of clearer laws and policies in countries all over  the world.
 
-The 2001 decision in the Sydney Olympics suit[^18] raised awareness of the need to
-address accessibility in the emerging practice of web communication. Legal risk became even clearer with the adoption of the United Nations Convention on the Rights of People with Disabilities (CRPD) and its adoption in the laws and policies of countries around the world.
-
--   CRPD ratified by more than 140 countries by 2016.
--   It is a comprehensive human rights document that includes direct reference
-    to the rights of all people to have equal access to communications
-    technology.
--   Number of legal actions in US increase and courts increasingly
-    decide in favor of equal access[^19]
--   The strategy of Structured Negotiation proved effective in helping companies integrate accessibility while avoiding litigation. [^20]
--   European Commission adopts European Accessibility Act, requiring
+-   The United Nations passed the Convention on the Rights of People with Disabilities (CRPD) and it was ratified by more than 140 countries by 2016. Comprehensive human rights document that includes direct reference to the rights of all people to have equal access to communications technology.
+-   Number of legal actions in the US has risen dramatically and courts increasingly
+    decide in favor of equal access[^19], often citing the ADA.
+-   A strategy of Structured Negotiation has proved effective in helping companies integrate accessibility while avoiding litigation. [^20]
+-   European Commission adopted European Accessibility Act, requiring
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books and
     e-commerce meet accessibility requirements.
 
-Throughout the world, legislation continues to pass to further
+Change is occured incrementally and steadily. Legislation continues to pass throughout the world to further
 define digital accessibility and create enforcement mechanisms to
 ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. Commercial companies that do not comply are fined by the government.[^21] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate [^22]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
