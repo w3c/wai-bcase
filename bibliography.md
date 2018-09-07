@@ -164,11 +164,6 @@ Summary: A blind reviewer makes clear that the lack of accessiiblity in compnay 
 Type: Statiscal summary with sources  <br />
 Summary: Report on the numbers of people through out the world with disabilities who experince barriers to full social and economic inclusion. Barriers include inaccessible physical environments and transportation, the unavailability of assistive devices and technologies, non-adapted means of communication, gaps in service delivery, and discriminatory prejudice and stigma in society.
 
-* [_The Business Case for Accessibility and Inclusive Design_](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/). Walker, M.; Digital Leaders (2018).<br />
-Type: Editorial  <br />
-Summary: The author investigates and considers factors in three core areas. They find and report that businesses can realize Financial Benefits, Brand Benefits, and Legal Benefits by adopting and implementing accessiiblity policy.
-
-
 * [_World Population Chart for Countries and Continents_](https://www.disabled-world.com/calculators-charts/wpc.php). Disabled World (2017).<br />
 Type:  Statistical compilation <br />
 Summary: Graphic representaiton of disability statistics throughout the world. 
@@ -180,4 +175,12 @@ Summary: Design for research conducted at a later date. Recommended for others w
 * [_Accessibility Research Methods with Jonathan Lazar_](http://rosenfeldmedia.com/a-web-for-everyone/accessibility-research-methods-with-jonathan-lazar/) Horton, S.<br />
 Type: Podcast   <br />
 Summary: Discussion of how to bring more accessibility research, often carried out in academia, into the practice of people who are designing and building digital products and services.
+
+* [_The Business Case for Accessibility and Inclusive Design_](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/). Walker, M.; Digital Leaders (2018).<br />
+Type: Editorial  <br />
+Summary: The author investigates and considers factors in three core areas. They find and report that businesses can realize Financial Benefits, Brand Benefits, and Legal Benefits by adopting and implementing accessiiblity policy.
+
+* [_The business case for digital accessibility_](https://digileaders.com/webinar-recording-the-business-case-for-digital-accessibility/). Crouch, E; Digital Leaders (2018). <br  />
+Type: Webinar recording of session with Robin Christopherson MBE and Mark Walker of AbiltyNet
+Summary: One hour webinare with examples to show how inclusive design can boost revenue, deliver financial savings, improve a brand and reduce legal risks. Demonstrations of how accessible apps and websites can improve the experience for mobile users – whether they have a disability or not. 
 
