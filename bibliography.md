@@ -7,12 +7,33 @@ github:
   repository: w3c/wai-bcase
   path: 'bibliography.md'
 ---
-Summary: 
-To create a Business Case that is relevant for the 21st century, we relied on formal research, grant funded studies, editorial comment, the historical record, anecdotal stories, and case studies provided by the businesses themselves. The bibliography here includes a brief description of the resource.      
 
-# Topic Categories
+{::nomarkdown}
+{% include_cached box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+To create a Business Case that is relevant for the 21st century, we relied on formal research, grant funded studies, editorial comment, the historical record, anecdotal stories, and case studies provided by the businesses themselves. The bibliography here includes a brief description of the resource.
+
+{::nomarkdown}
+{% include_cached box.html type="end" %}
+{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
+{:/}
+
+{::options toc_levels="2" /}
+
+-   This text will be replaced by the TOC.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
+## Topic Categories
+{:.no_toc}
+
 The sources below are categorized as much as possible according to their central topic relating to the several aspects of the Business Case for Accessibility. There is some overlap and some articles or papers were broad enough to be in a category designated simply as "general."  
-## Something to share?
+
+### Something to share?
+
 We welcome your contributions to the Business Case for Accessibility. Share articles, case studies, employment success stories, and any related resources or topics. To submit, please write to the editors list of the Accessibility Education and Outreach Working Group at wai-eo-editors@w3.org . Thank you!
 
 ## Legal Issues
@@ -45,6 +66,7 @@ Type: Blog post <br />
 Summary: Structured Negotiation author and pioneer and Disability Rights attorney Lainey Feingold maintains updates on legel actions as well as other related, easy to follow perspectives on digital accessiiblity. Lots of relevant information throughout the site.  
 
 ## Accessibility As Innovation
+
 * [_How Designing For Disabled People Is Giving Google An Edge_](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge). Brownlee, J.; Fast Company (2018). <br />
 Type: Magazine article<br />
 Summary: Author interviews Google’s Eve Andersson, lead engineer on accessibility projects about how accessible design thinking contributes in unanticipated ways to innovative products and services. 
@@ -59,6 +81,7 @@ Summary: While the page itself is mostly a promotional vehicle for IBM products,
 Summary: The author interviews  Neil Lenane, Business Leader of Talent Management at Progressive who is a strong advocate of the value of diversity.Not specifically focused on disability and includes links to related articles and research. 
 
 ## Increase Revenue/Decrease Costs
+
 * [_Assessing the Value 0f Accessible Technologies for Organizations_](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf). Parks, S. and Sedov V.; Forrester Research, Inc. (2017) <br />
 Type:Archived research study commisioned by Microsoft <br />
 Summary: Found that adoption of accessible technologies provides tangible economic and social value. Trends are quantified to help organizations understand the wide range of benefits that accrue when they make investments in accessiiblity. 
@@ -68,6 +91,7 @@ Type: Academic study  <br />
 Summary: Introduces a holistic, managerial approach to identify business experiences with web accessibility implementation in three industry sectors. 
 
 ## Disability Employment
+
 * [_Leaving no one behind: UNDP/UNV Talent Programme for Young Professionals with Disabilities_](http://www.undp.org/content/undp/en/home/news-centre/news/2017/leaving-no-one-behind-undp-unv-talent-programme-young-professionals-disabilities.html)  <br />
 Type: Report  <br />
 Summary: The launch of the UNDP-UNV Talent Programme for Young Professionals with Disabilities at UNV headquarters in Bonn, Germany in 2017. The expectation is to reduce poverty and attain the sustainable development goals at the UN by providing a model for successful emplotyment of people with disabilities in professional jobs.
@@ -77,6 +101,7 @@ Type: Report  <br />
 Summary: American businesses claim they can’t find workers, and disabled Americans can’t find jobs. Here’s how tech can help.
 
 ## Global Standards and Best Practice
+
 * [_What Does Responsive Design Have To Do With Accessibility?_](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/). Avila, J.; Level Access (2013).<br />
 Type: Technical Report  <br />
 Summary: A demonstration of how consideration of accessiiblity during the design phase enables more respnsive, flexible, versatile outcomes that work better across all devices and situations. 
@@ -86,6 +111,7 @@ Type: Product review  <br />
 Summary: Blind review notes Windows 10 integrated accessibility features that make the products easier to use for disabled users and the general public. 
 
 ## Diversity/Human Factors
+
 * [_Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too_](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e). Gaudiano, P. and Hunt, E.; Forbes.com (2016).<br />
 Type: Article  <br />
 Summary: Forbes reports on the US Department of Labor National Disability Employment Month by listing 6 steps to improve the culture of disability inclusion in compnaies. The authors advocate that the future demands a new mindset in which diversity and inclusion are explicitly linked to the success of organizations and provide this guide to help compnaies get started.  
@@ -119,6 +145,7 @@ Type: Editorial
 Summary: Disability design advocate Liz Jackson makes the case for how and why people with disabilities muct be included in design thinking and narratives.
 
 ## Corporate Social Responsibility/Brand Reputation
+
 * [_Disability as diversity in fortune 100 companies_](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629). Ball, P., Monaco, G., Schmeling, J., Schartz, H., and Blanck, P.; Law, Health Policy and Disability Center (2005)<br />
 Type: Research Article.  <br />
 Summary: "To investigate the inclusion of people with disabilities in the diversity policies of the most successful businesses in the United States, we examined the publicly available workforce and supplier diversity policies of the top 100 companies on Fortune Magazine's 2003 list of the 500 most profitable companies in the nation." 
@@ -132,6 +159,7 @@ Type: Product review  <br />
 Summary: A blind reviewer makes clear that the lack of accessiiblity in compnay products is at odds with their cleims and how it impacts his opinion of the compnay overall.
 
 ## General Statistics/Research Methods/Other Business Case perspectives 
+
 * [_Disability Inclusion Overview_](http://www.worldbank.org/en/topic/disability). The World Bank (2018).<br />
 Type: Statiscal summary with sources  <br />
 Summary: Report on the numbers of people through out the world with disabilities who experince barriers to full social and economic inclusion. Barriers include inaccessible physical environments and transportation, the unavailability of assistive devices and technologies, non-adapted means of communication, gaps in service delivery, and discriminatory prejudice and stigma in society.
