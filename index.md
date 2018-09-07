@@ -90,6 +90,9 @@ the way.[^2] Some examples:
     
 -   Robots of the future might be able to “see” because of the accessibility work done in computer vision for blind people today.
 
+-   Driverless cars, so promising for the independence of blind people, are projected to also
+    help solve traffic fatalities and congestion.
+
 -   Innovations like the typewriter, telephone, punch cards, text to
     speech, email, and voice controls were originally meant to include those with 
    disability and all have found much wider application.[^3]
@@ -116,9 +119,9 @@ Apple has been an innovator in the accessibility space since the inception of th
 A 2016 article in FastCompany online magazine[^5] highlights the ways in
 which Google’s investment in accessibility provides the company with an
 innovation edge in a broad array of products and services. Eve
-Andersson, the lead engineer featured in the article, says unequivocally “I’m passionate about accessibility, not just because I believe in
+Andersson, the lead engineer featured in the article, says “I’m passionate about accessibility, not just because I believe in
 a level playing field, but because (it) makes life more livable for
-everyone.” Among the innovations that she cites as examples are these:
+everyone.” Among the innovations cited as examples are these:
 
 -   contrast minimums, required for people with low vision, help all people see in bright light glare
     situations
@@ -128,8 +131,6 @@ everyone.” Among the innovations that she cites as examples are these:
     adopted as a great convenience by millions of others
 -   artificial intelligence advances are based on research originally
     done to provide visual context to blind users
--   driverless cars, so promising for the independence of blind people, are projected to also
-    help solve traffic fatalities and congestion
 -   machine learning, initially developed for auto-captioning for the
     deaf, is now being turned to broader applications
 
