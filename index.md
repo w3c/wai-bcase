@@ -29,7 +29,7 @@ This article includes statistics, examples, and case studies to illustrate key b
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
 
-{::options toc_levels="2" /}
+{::options toc_levels="2,3" /}
 
 -   This text will be replaced by the TOC.
 {:toc}
