@@ -289,14 +289,13 @@ As web use is woven into modern life all over the world, regulators began to man
 
 The 2001 decision in the Sydney Olympics suit[^18] raised awareness of the need to address accessibility in the emerging practice of web communication. Legal risk has increased with the adoption of clearer laws and policies in countries all over  the world.
 
--   The United Nations passed the Convention on the Rights of People with Disabilities (CRPD) and it was ratified by more than 140 countries by 2016. Comprehensive human rights document that includes direct reference to the rights of all people to have equal access to communications technology.
--   Number of legal actions in the US has risen dramatically and courts increasingly
-    decide in favor of equal access[^19], often citing the ADA.
--   A strategy of Structured Negotiation has proved effective in helping companies integrate accessibility while avoiding litigation. [^20]
--   European Commission adopted European Accessibility Act, requiring
+-   The Convention on the Rights of People with Disabilities (CRPD) is a comprehensive human rights document that includes direct reference to the rights of all people to have equal access to communications technology. Passed by the General Assembly of the United nations, it was ratified by more than 140 countries by 2016. 
+-   The European Commission adopted the European Accessibility Act, requiring
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books and
     e-commerce meet accessibility requirements.
+-   In the US, the number of legal actions continues to rise and courts increasingly
+    decide in favor of equal access[^19], often citing the Americans with Disabilities Act (ADA.) A strategy of Structured Negotiation is another way that companies meet accessibility requirements within a legal structure while avoiding litigation. [^20]
 
 Change is occured incrementally and steadily. Legislation continues to pass throughout the world to further
 define digital accessibility and create enforcement mechanisms to
