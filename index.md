@@ -105,9 +105,9 @@ Accessible design is by nature flexible, allowing content to faithfully
 render across a broad spectrum of devices, platforms, assistive
 technologies, and operating systems. In physical environments everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features become options that are also often used more widely.
 
-A compelling example of how this works comes from the early 2000’s as the online world increasingly adopted mobile devices to browse the web. Those web sites which were accessible and standards-compliant were in many cases more mobile-ready as interaction options were already baked in. Imagine the delight of those who were already committed to and had designed for accessibility! This realization led to the responsive-design trend that has accessibility at its core.[^5] 
+A compelling example of how this works comes from the early 2000’s as the online world increasingly adopted mobile devices to browse the web. Those web sites which were accessible and standards-compliant were in many cases more mobile-ready as interaction options were already baked in. Imagine the delight of those who were already committed to and had designed for accessibility! This revelation led to the responsive-design trend that has accessibility at its core.[^5] 
 
-Apple has been an innovator in the accessibility space since the inception of the company. Leaders there anticipated market direction and have integrated disability needs into product development for decades. In the early 2000’s, for example, the 26-campus University of California (UC) system was unable to take advantage of Apple's iPod University program. The application was inaccessible to blind students and so could not be distributed as an offical UC platform. Designers and researchers at Apple had previously identified that gap for blind users and were committed to closing it through innovation for its next generation of products. Apple informed the University system adminstrators that the company had invested the resources and were developing and acquiring voice technology. Implementation led to VoiceOver and Siri, voice interactions that were enthusiastically adopted. Blind students within the UC System were soon able to use the features and wider adoption by the general public played a large part in the development and growth of the mobile web itself. Such innovations lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these devices, regardless of ability. 
+Apple development practice is another demonstration of how accessibility can drive innovation. In the early 2000’s, the 26-campus University of California (UC) system was unable to take advantage of Apple's iTunes University program. The iPod device needed to use the application was inaccessible to blind students and so adminstrators declined to distribute it as an offical UC platform. Designers and researchers at Apple had previously identified that gap for blind users and were committed to closing it through innovation for its next generation of products. Apple informed the University system adminstrators that the company had invested the resources and were developing and acquiring voice technology. Implementation led to VoiceOver and Siri, voice interactions that were widely adopted. Blind students within the UC System were soon able to use the features and adoption by the general public played a large part in the development and growth of the mobile web itself. Such innovations lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these devices, regardless of ability. 
   
 #### Case Study – Google
 
@@ -142,12 +142,9 @@ Fewer things are more important to businesses of all kinds than the protection a
 
 Further studies[^8] emphasize the benefits to the brand of companies that institute policies of broad diversity. Employing people with disabilities is an important aspect of creating a diverse workforce. To be successful, the technology that employees use, including websites and applications, must be accessible.
 
-A well-recognized example of how a brand can be affected is Microsoft. For decades, accessibility
-leaders expressed frustration with the gap between what the company said
-about accessibility and what it actually did.[^9] Its brand suffered.[^10]
-Recently however, Microsoft’s commitment to accessibility has been made
-real[^11] and is demonstrated in the genuine engagement with stakeholders of all abilities and the resulting improvements to products and services. Its brand image is stronger and its efforts lauded in the community of people with
-disabilities.[^12]
+A well-recognized example of how a brand can be affected is Microsoft. After long advocacy and some criticism by accessibility
+advocates [^9], Microsoft has made a real and appreciable commitment to accessibility  demonstrated in the genuine engagement with stakeholders of all abilities.  and the resulting improvements to products and services. Its brand image is stronger and its efforts lauded in the community of people with
+disabilities.[^10] [^11] [^12]
 
 We asked Barclay’s, a W3C member organization, to share their approach to diversity and inclusion through the accessibility initatives in their company. An excerpt from their response is included below.
 
