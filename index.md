@@ -143,10 +143,9 @@ Fewer things are more important to businesses of all kinds than the protection a
 Further studies[^8] emphasize the benefits to the brand of companies that institute policies of broad diversity. Employing people with disabilities is an important aspect of creating a diverse workforce. To be successful, the technology that employees use, including websites and applications, must be accessible.
 
 A well-recognized example of how a brand can be affected is Microsoft. After long advocacy and some criticism by accessibility
-advocates [^9], Microsoft has made a real and appreciable commitment to accessibility  demonstrated in the genuine engagement with stakeholders of all abilities.  and the resulting improvements to products and services. Its brand image is stronger and its efforts lauded in the community of people with
-disabilities.[^10] [^11] [^12]
+advocates [^9], Microsoft made a real and appreciable commitment to accessibility demonstrated by genuine engagement with stakeholders of all abilities.[^10] The resulting improvements to products and services have strengthened its overall brand image [^11] and accessibility efforts are now lauded in the community of people with disabilities.[^12]
 
-We asked Barclay’s, a W3C member organization, to share their approach to diversity and inclusion through the accessibility initatives in their company. An excerpt from their response is included below.
+Barclay’s shared their approach to diversity and inclusion through the accessibility initatives in their company and how that approach has made them a better company.
 
 #### Case Study – Barclay’s Bank
 Establishing an organisation-wide accessibility strategy for
@@ -170,26 +169,7 @@ becoming the most accessible and inclusive FTSE company.
 When we shift our thinking away from the minimum legal compliance to one
 focused on the commercial opportunity and the creative challenge that
 arises from building better experiences for everyone, we create a more
-sustainable, customer orientated approach to digital services. This
-requires a fundamental shift in the way we think about accessibility and
-in the culture around delivering digital services. To do this we've
-identified three main areas of focus to transform our culture based on
-the fundamental elements of culture change - Think, Feel and Act. Our
-approach to this culture change focuses on:
-
--   Inspiring Hearts (Feel) - ensuring our colleagues understand the
-    impact of accessibility on everyone- not just people with
-    disabilities. We use storytelling to bridge the gap that exists
-    between our colleagues creating services and our customers using
-    them.
-
--   Educating Heads (Think) - helping our colleagues understand the
-    business case for accessibility and the commercial benefits we bring
-    by investing in accessible and inclusive products and services
-
--   Enabling Hands (Act) - giving our colleagues the training, tools and
-    processes to make accessibility easier to achieve, repeatable and
-    consistent to deliver.
+sustainable, customer orientated approach to digital services. 
 
 To help everyone understand our accessibility focused mind set, we've
 created a range of animations which help our colleagues to understand
@@ -198,7 +178,7 @@ types of impairments are. We've also shared these animations on our
 [Accessible Banking YouTube
 playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy)
 
-Barclay's is an excellent example of how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is percieved as open and fair. People are proud to work there and to do business with Barclay's. Read the [full Barclay's case study](https://www.barclayscorporate.com/content/dam/corppublic/corporate/Documents/Accessibility/bmb-case-study.pdf) to learn more.   
+Barclay's demonstrates how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is percieved as open and fair. People are proud to work there and to do business with Barclay's. Read the [full Barclay's case study](https://www.barclayscorporate.com/content/dam/corppublic/corporate/Documents/Accessibility/bmb-case-study.pdf) to learn more.   
 
 ### Increase Market Reach
 
@@ -235,12 +215,11 @@ Accessible design considerations often lead to improvements in general customer 
 
 #### Case Study - NPR weekly broadcast of This American Life
 
-A popular broadcast on US National Public Radio (NPR), This American
-Life, is heard on more than 500 stations by about 2.1 million listeners
-each week. In 2011, in response to new FCC regulations around broadcast
+This American Life is a broadcast heard on more than 500 National Public Radio (NPR) stations by about 2.1 million listeners
+each week in the United States. In 2011, in response to new FCC regulations around broadcast
 media, the broadcaster committed to creating transcripts for their entire archive
 of recorded programs. A several month study conducted by their media
-partner concluded that the provision of transcipts not only met legal
+partner concluded that the provision of transcipts not only met legal  
 obligations but returned significant benefits including:
 
 -   search traffic increased 6.86%,
@@ -287,7 +266,7 @@ right to participate in online digital information and services.
 
 As web use is woven into modern life all over the world, regulators began to mandate laws and policies that strengthen the rights of people with disabilities. One of the earliest indications that there could be legal consequences to web accessibility was a complaint put to the Human Rights and Equal Opportunities Commission (HREOC) in 2000 about the inaccessibility of the website of the Sydney Olympics. The plaintiff claimed the site was a violation of the Commonwealth Disability Discrimination Act 1992.[^18]
 
-The 2001 decision in the Sydney Olympics suit[^19] raised awareness of the need to address accessibility in the emerging practice of web communication. Legal risk has increased with the adoption of clearer laws and policies in countries all over  the world.
+The 2001 decision in the Sydney Olympics suit[^19] raised awareness of the need to address accessibility in the emerging practice of web communication. Over time, legal risk increased with the adoption of clearer laws and policies in countries throughout the world.
 
 -   The Convention on the Rights of People with Disabilities (CRPD) is a comprehensive human rights document that includes direct reference to the rights of all people to have equal access to communications technology. Passed by the General Assembly of the United nations, it was ratified by more than 140 countries by 2016. 
 -   The European Commission adopted the European Accessibility Act, requiring
@@ -295,16 +274,16 @@ The 2001 decision in the Sydney Olympics suit[^19] raised awareness of the need 
     telephony and audiovisual services, transport, e-books and
     e-commerce meet accessibility requirements.
 -   In the US, the number of legal actions continues to rise and courts increasingly
-    decide in favor of equal access[^20], often citing the Americans with Disabilities Act (ADA.) A strategy of Structured Negotiation is another way that companies meet accessibility requirements within a legal structure while avoiding litigation. [^21]
+    decide in favor of equal access[^20], often citing the Americans with Disabilities Act (ADA.) Structured Negotiation is another way that legal pressure is brought to bear, encouraging companies to meet accessibility requirements while avoiding litigation. [^21]
 
-Change is occured incrementally and steadily. Legislation continues to pass throughout the world to further
-define digital accessibility and create enforcement mechanisms to
-ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. Commercial companies that do not comply are fined by the government.[^22] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate [^23]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
+Change is occured incrementally and steadily. Legislation continues to further define digital accessibility and create enforcement mechanisms to ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. Commercial companies that do not comply are fined by the government.[^22] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States by contrast, the regulation is less clear but legal action continues to accelerate [^23]. Between government oversight and regulation on one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
-With legal risks increasing, it is no wonder that smart businesses,
-particularly those with global activities, are creating accessibility
+<blockquote class="pull alt-2">
+  <p>With legal risks increasing, smart businesses - 
+particularly those with global activities - are creating accessibility
 policies and programs to mitigate risk in order to protect both their
-assets and their reputations.
+assets and their reputations.</p>
+</blockquote>
 
 #### Case Study: Juan Carlos Gil vs. Winn-Dixie retailer
 
@@ -374,9 +353,9 @@ These are suggested simply as a way to get started. We hope you will explore thr
 
 [^9]: [_Accessibility at Microsoft_](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm). Chong, C.;  Braille Monitor (2015).
 
-[^10]: [_How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company_](https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html). Ward, J.; Windows Central (2017).
+[^10]: [_The Moment That Forever Changed Our Lives_](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/). Nadella, S.; PowerShell Team Blog, LinkedIn, (2017).
 
-[^11]: [_The Moment That Forever Changed Our Lives_](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/). Nadella, S.; PowerShell Team Blog, LinkedIn, (2017).
+[^11]: [_How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company_](https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html). Ward, J.; Windows Central (2017).
 
 [^12]: [*Microsoft Adding New Accessibility Improvements in Windows 10*](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/). Rego, N.;  Cool Blind Tech (2018).
 
