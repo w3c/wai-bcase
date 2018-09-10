@@ -194,7 +194,7 @@ UK Purple Pound. In the US, annual discretionary spending of people with disabil
 -   As the population ages, many more acquire disability and yet do not
     identify as a “person with a disability”[^14]
 -   In countries with life expectancies over 70 years of age, people
-    spend 11.5 per cent of their life span living with disability.[^1415]
+    spend 11.5 per cent of their life span living with disability.[^15]
 -   Globally, the extended market is estimated at 2.3 billion people who
     control an incremental \$6.9 trillion in annual disposable
     income.[^16]
