@@ -110,6 +110,10 @@ Summary: A demonstration of how consideration of accessiiblity during the design
 Type: Product review  <br />
 Summary: Blind review notes Windows 10 integrated accessibility features that make the products easier to use for disabled users and the general public. 
 
+* [_Making Bulb Accessible_](https://bulb.co.uk/blog/making-bulb-accessible-introducing-the-new-bulb-site) Pickering, Heydon; Bulb.co.uk (2018)
+Type: Blog post
+Summary: Implementation process description from a renewable energy company in the UK, inlcuding the development of code and design pattern libraries that bakein accessibility from the start. 
+
 ## Diversity/Human Factors
 
 * [_Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too_](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e). Gaudiano, P. and Hunt, E.; Forbes.com (2016).<br />
