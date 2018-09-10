@@ -110,8 +110,8 @@ Summary: A demonstration of how consideration of accessiiblity during the design
 Type: Product review  <br />
 Summary: Blind review notes Windows 10 integrated accessibility features that make the products easier to use for disabled users and the general public. 
 
-* [_Making Bulb Accessible_](https://bulb.co.uk/blog/making-bulb-accessible-introducing-the-new-bulb-site) Pickering, Heydon; Bulb.co.uk (2018)
-Type: Blog post
+* [_Making Bulb Accessible_](https://bulb.co.uk/blog/making-bulb-accessible-introducing-the-new-bulb-site) Pickering, Heydon; Bulb.co.uk (2018)<br />
+Type: Blog post<br />
 Summary: Implementation process description from a renewable energy company in the UK, inlcuding the development of code and design pattern libraries that bakein accessibility from the start. 
 
 ## Diversity/Human Factors
