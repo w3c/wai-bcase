@@ -148,6 +148,10 @@ advocates [^9], Microsoft made a real and appreciable commitment to accessibilit
 Barclay’s shared their approach to diversity and inclusion through the accessibility initatives in their company and how that approach has made them a better company.
 
 #### Case Study – Barclay’s Bank
+<blockquote class="pull right alt-2">
+  <p>At Barclays, accessibility is about more than just disability. It's about helping everyone to work, bank and live their lives regardless of their age, situation, abilities or circumstances.</p>
+</blockquote>
+
 Establishing an organisation-wide accessibility strategy for
 identifying, anticipating and addressing the additional needs of
 customers and colleagues with impairments contributes in several ways to
@@ -161,10 +165,6 @@ governance, partnering, training and tools. Establishing an
 enterprise-wide accessibility strategy, standards and programmes coupled
 with senior sponsorship helps support our publicly stated ambition of
 becoming the most accessible and inclusive FTSE company.
-
-<blockquote class="pull right alt-2">
-  <p>At Barclays, accessibility is about more than just disability. It's about helping everyone to work, bank and live their lives regardless of their age, situation, abilities or circumstances.</p>
-</blockquote>
 
 When we shift our thinking away from the minimum legal compliance to one
 focused on the commercial opportunity and the creative challenge that
