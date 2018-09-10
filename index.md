@@ -337,7 +337,7 @@ These are suggested simply as a way to get started. We hope you will explore thr
 
 [^1]: [_Disability as diversity in fortune 100 companies_](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629). Ball, P., Monaco, G., Schmeling, J., Schartz, H., and Blanck, P.; Law, Health Policy and Disability Center (2005).
 
-[^2]: [_Accessibility Innovation Showcase_](https://www.ibm.com/able/research-projects.html). IBM Research (2018). 
+[^2]  Pullin, Graham. _Design Meets Disability_. MIT Press, 2011.
 
 [^3]: [_Professor's Research Helps Restore Sight to the Blind_](https://medicalxpress.com/news/2012-01-professor-sight.html). Brown, P.; University of Arizona (2012)
 
