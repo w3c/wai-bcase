@@ -108,8 +108,10 @@ technologies, and operating systems. In physical environments everyone takes adv
 A compelling example of how this works comes from the early 2000’s as the online world increasingly adopted mobile devices to browse the web. Those web sites which were accessible and standards-compliant were in many cases more mobile-ready as interaction options were already baked in. Imagine the delight of those who were already committed to and had designed for accessibility! This revelation led to the responsive-design trend that has accessibility at its core.[^5] 
 
 Apple development practice is another demonstration of how accessibility can drive innovation. In the early 2000’s, the 26-campus University of California (UC) system was unable to take advantage of Apple's iTunes University program. The iPod device needed to use the application was inaccessible to blind students and so adminstrators declined to distribute it as an offical UC platform. Designers and researchers at Apple had previously identified that gap for blind users and were committed to closing it through innovation for its next generation of products. Apple informed the University system adminstrators that the company had invested the resources and were developing and acquiring voice technology. Implementation led to VoiceOver and Siri, voice interactions that were widely adopted. Blind students within the UC System were soon able to use the features and adoption by the general public played a large part in the development and growth of the mobile web itself. Such innovations lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these devices, regardless of ability. 
-  
-#### Case Study – Google
+
+{::nomarkdown}
+{% include box.html type="start" h="4" title=" Case Study – Google " class="simple aside" %}
+{:/}
 
 <blockquote class="pull left alt-1">
   <p>The accessibility problems of today are the mainstream breakthroughs of tomorrow.</p>
@@ -134,6 +136,10 @@ everyone.” Among the innovations cited as examples are these:
 -   machine learning, initially developed for auto-captioning for the
     deaf, is now being turned to broader applications
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 ### Enhance Your Brand
 
 <img src="{{ "/content-images/wai-bcase/brand.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
@@ -147,7 +153,10 @@ advocates [^9], Microsoft made a real and appreciable commitment to accessibilit
 
 Barclay’s shared their approach to diversity and inclusion through the accessibility initatives in their company and how that approach has made them a better company.
 
-#### Case Study – Barclay’s Bank
+{::nomarkdown}
+{% include box.html type="start" h="4" title="Case Study – Barclays" class="simple aside" %}
+{:/}
+
 Establishing an organisation-wide accessibility strategy for
 identifying, anticipating and addressing the additional needs of
 customers and colleagues with impairments contributes in several ways to
@@ -179,6 +188,10 @@ what accessibility is all about, who benefits and what the different
 types of impairments are. We've also shared these animations on our
 [Accessible Banking YouTube
 playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy)
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 Barclay's demonstrates how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is percieved as open and fair. People are proud to work there and to do business with Barclay's. Read the [full Barclay's case study](https://www.barclayscorporate.com/content/dam/corppublic/corporate/Documents/Accessibility/bmb-case-study.pdf) to learn more.   
 
@@ -215,7 +228,9 @@ Accessible design considerations often lead to improvements in general customer 
 * challenging situations like bright, glaring sunlight or in noisy environments where audio can't be heard, 
 * those with a slow Internet connection, or who have limited or expensive bandwidth - common in rural areas and some geographical regions.
 
-#### Case Study - NPR weekly broadcast of This American Life
+{::nomarkdown}
+{% include box.html type="start" h="4" title=" Case Study - NPR Weekly Broadcast " class="simple aside" %}
+{:/}
 
 This American Life is a broadcast heard on more than 500 National Public Radio (NPR) stations by about 2.1 million listeners
 each week in the United States. In 2011, in response to new FCC regulations around broadcast
@@ -242,6 +257,10 @@ capture the following data:
 Read more detail and the full report of the [This American Life Case
 Study](https://www.3playmedia.com/customers/case-studies/this-american-life/)
 and how it was conducted.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 ### Minimize Legal Risk
 
@@ -287,7 +306,9 @@ policies and programs to mitigate risk in order to protect both their
 assets and their reputations.</p>
 </blockquote>
 
-#### Case Study: Juan Carlos Gil vs. Winn-Dixie retailer
+{::nomarkdown}
+{% include box.html type="start" h="4" title=" Case Study: ADA and Website Accessibility " class="simple aside" %}
+{:/}
 
 The case was heard in the U. S. District Court of the Southern District
 of Florida, Case No. 16-23020. Winn-Dixie is a regional chain of grocery
@@ -316,7 +337,11 @@ recover attorney fee and issued the following:
     learn to create and maintain content that meets WCAG criteria.
 -   Required third party applications or content posted to the
     Winn-Dixie site must also meet WCAG requirements.
-    
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 ## Share your experience
 
 User experience research and case studies confirm the many ways that accessible design supports an organization’s ability to innovate, enhance their brand, increase market reach, and minimize legal risk - among many other benefits. The WAI is a global community of practice and we encourage you to share your examples. If you have a story of how your commitment to accessibility improved your online business model, please submit it via email to wai-eo-editors@w3.org
