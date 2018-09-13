@@ -45,9 +45,7 @@ resources such as money or effort in support of a specific
 organizational need. We will use “business” in this article to refer to
 all types of organizations with the understanding that different aspects
 will be more or less relevant depending on the organizational focus and
-purpose. For example, government businesses may be more committed to the
-legal and equity aspects while commercial businesses care more about the
-brand enhancement provided by an integrated accessibility program.
+purpose. For example, government businesses may be more committed to the legal and equity aspects while commercial businesses may care more about the brand enhancement provided by an integrated accessibility program.
 
 Determining which of the many benefits of web accessibility are most
 relevant in your business environment will help you build the most
