@@ -217,14 +217,11 @@ Accessible design considerations often lead to improvements in general customer 
 
 This American Life is a broadcast heard on more than 500 National Public Radio (NPR) stations by about 2.1 million listeners
 each week in the United States. In 2011, in response to new FCC regulations around broadcast media, the broadcaster committed to creating transcripts for their entire archive of recorded programs. A several month study conducted by their media partner concluded that the provision of transcipts not only met legal obligations but returned significant benefits including:
-
--   search traffic increased 6.86%,
--   better comprehension for visitors who use English as a second
-    language,
--   visitors were able to use transcripts in noisy or sound-sensitive
-    environments,
--   ability to more easily translate, and
--   ability to search text to reference a specific section of audio.
+* search traffic increased by 6.86%,
+* there was better comprehension for visitors with English as a second language,
+* transcripts proved to be very useful to visitors in noisy or sound-sensitive environments,
+* translations were easier to do and outreach increased
+* referencing a specific section of the audio was enabled through text search.
 
 The study, which was conducted over more than one year, used Google analytics to track visitors. The following positive results were noted:
 
