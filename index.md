@@ -230,12 +230,11 @@ obligations but returned significant benefits including:
 -   ability to more easily translate, and
 -   ability to search text to reference a specific section of audio.
 
-The study conducted over more than one year, used Google analytics to
-capture the following data:
+The study, which was conducted over more than one year, used Google analytics to track visitors. The following positive results were noted:
 
--   visitor engagement increased 7.23%,
--   unique visitors increased 4.18%, and
--   new inbound links to transcript accounted for increase of 3.89%
+* Visitor engagement increased by 7.23%,
+* unique visitors increased by 4.18%, and
+* new inbound links to transcripts accounted for an increase of 3.89%.
 
 Read more detail and the full report of the [This American Life Case
 Study](https://www.3playmedia.com/customers/case-studies/this-american-life/)
