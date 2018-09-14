@@ -110,10 +110,10 @@ A compelling example of how this works comes from the early 2000’s as the onli
 Apple development practice is another demonstration of how accessibility can drive innovation. In the early 2000’s, the 26-campus University of California (UC) system was unable to take advantage of Apple's iTunes University program. The iPod device needed to use the application was inaccessible to blind students and so adminstrators declined to distribute it as an offical UC platform. Designers and researchers at Apple had previously identified that gap for blind users and were committed to closing it through innovation for its next generation of products. Apple informed the University system adminstrators that the company had invested the resources and were developing and acquiring voice technology. Implementation led to VoiceOver and Siri, voice interactions that were widely adopted. Blind students within the UC System were soon able to use the features and adoption by the general public played a large part in the development and growth of the mobile web itself. Such innovations lead to the wealth of personal digital assistants in many homes and offices. Today everyone can use these devices, regardless of ability. 
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title=" Case Study – Google " class="simple aside" %}
+{% include box.html type="start" h="4" title="Case Study: Google " class="" %}
 {:/}
 
-<blockquote class="pull left alt-1">
+<blockquote class="pull right alt-1">
   <p>The accessibility problems of today are the mainstream breakthroughs of tomorrow.</p>
   <cite>Eve Andersson, lead engineer at Google</cite>
 </blockquote>
@@ -154,7 +154,7 @@ advocates [^9], Microsoft made a real and appreciable commitment to accessibilit
 Barclay’s shared their approach to diversity and inclusion through the accessibility initatives in their company and how that approach has made them a better company.
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Case Study – Barclays" class="simple aside" %}
+{% include box.html type="start" h="4" title="Case Study: Barclays" class="" %}
 {:/}
 
 Establishing an organisation-wide accessibility strategy for
@@ -229,7 +229,7 @@ Accessible design considerations often lead to improvements in general customer 
 * those with a slow Internet connection, or who have limited or expensive bandwidth - common in rural areas and some geographical regions.
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title=" Case Study - NPR Weekly Broadcast " class="simple aside" %}
+{% include box.html type="start" h="4" title="Case Study: NPR Weekly Broadcast " class="" %}
 {:/}
 
 This American Life is a broadcast heard on more than 500 National Public Radio (NPR) stations by about 2.1 million listeners
@@ -307,7 +307,7 @@ assets and their reputations.</p>
 </blockquote>
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title=" Case Study: ADA and Website Accessibility " class="simple aside" %}
+{% include box.html type="start" h="4" title="Case Study: ADA and Website Accessibility " class="" %}
 {:/}
 
 The case was heard in the U. S. District Court of the Southern District
