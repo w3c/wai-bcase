@@ -77,6 +77,8 @@ Summary: Haben Girma, the first deaf-blind person to graduate Harvard Law School
 * [_Accessibility Innovation Showcase_](https://www.ibm.com/able/research-projects.html). IBM Research (2018).<br />Type: Product Promotion <br />
 Summary: While the page itself is mostly a promotional vehicle for IBM products, it is impressive to see the investment they have made in research related to disability and aging.
 
+* [_Apple Eases iTunes Access For The Blind_](https://www.cbsnews.com/news/apple-eases-itunes-access-for-the-blind/) Associated Press, CBS News Online. (2008) <br /> Type: News article <br /> Summary: Apple settles with the Massachusetts Attorney General's Office in agreeing to make products more accessible. Apple's industry leadership position encourages other businesses to work to make the Internet more accessible by realizing the marketing advantage of giving more people a way to buy their products. 
+
 * [_Reaping The Benefits Of Diversity For Modern Business Innovation_](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f). Walter, E.; Forbes Magazine (2014). <br />Type: Magazine Article <br />
 Summary: The author interviews  Neil Lenane, Business Leader of Talent Management at Progressive who is a strong advocate of the value of diversity.Not specifically focused on disability and includes links to related articles and research. 
 
