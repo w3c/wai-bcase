@@ -39,7 +39,7 @@ We welcome your contributions to the Business Case for Accessibility. Share arti
 ## Legal Issues
 * [_Sydney Olympics 2000 Website Accessibility Decision_](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html). Independent Living Institute (2000).<br />
 Type: Online library archive   <br />
-Summary: The article summarizes the proceedings and outcome of the lwsuit, the outcome, and the resons for the favorable decision for the plaintiff in the case of Bruce Lindsay Maguire vs Sydney Organising Committee for the Olympic Games. 
+Summary: The article summarizes the proceedings of the lawsuit, the outcome, and the reasons for the favorable decision for the plaintiff in the case of Bruce Lindsay Maguire vs Sydney Organising Committee for the Olympic Games. 
 
 * [_Web Accessibility and the DDA_](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/) Sloan, M.; Journal of Information Law & Technology, University of Warwick (2005).<br />
 Type: Peer-reviewed article in the online Law Journal of the Glasgow Graduate School of Law  <br />
@@ -63,7 +63,7 @@ Summary: An investigation of the law passed in Norway in 2014 that requires webs
 
 * [_Legal Update Series_](http://www.lflegal.com/category/accessibility-laws-and-regulations/legal-updates/) Feingold, L.; Law Office of Lainey Feingold (2018).<br />
 Type: Blog post <br />
-Summary: Structured Negotiation author and pioneer and Disability Rights attorney Lainey Feingold maintains updates on legel actions as well as other related, easy to follow perspectives on digital accessiiblity. Lots of relevant information throughout the site.  
+Summary: Structured Negotiation author and pioneer and Disability Rights attorney Lainey Feingold maintains updates on legal actions as well as other related, easy to follow perspectives on digital accessibility. Lots of relevant information throughout the site.  
 
 ## Accessibility As Innovation
 
@@ -96,7 +96,7 @@ Summary: Introduces a holistic, managerial approach to identify business experie
 
 * [_Leaving no one behind: UNDP/UNV Talent Programme for Young Professionals with Disabilities_](http://www.undp.org/content/undp/en/home/news-centre/news/2017/leaving-no-one-behind-undp-unv-talent-programme-young-professionals-disabilities.html)  <br />
 Type: Report  <br />
-Summary: The launch of the UNDP-UNV Talent Programme for Young Professionals with Disabilities at UNV headquarters in Bonn, Germany in 2017. The expectation is to reduce poverty and attain the sustainable development goals at the UN by providing a model for successful emplotyment of people with disabilities in professional jobs.
+Summary: The launch of the UNDP-UNV Talent Programme for Young Professionals with Disabilities at UNV headquarters in Bonn, Germany in 2017. The expectation is to reduce poverty and attain the sustainable development goals at the UN by providing a model for successful employment of people with disabilities in professional jobs.
  
 * [_How to Solve the Jobs Mismatch?_](https://slate.com/human-interest/2018/06/jobs-mismatch-american-companies-want-workers-and-disabled-workers-want-jobs.html) Slate article, June 2018. <br />
 Type: Report  <br />
@@ -106,7 +106,7 @@ Summary: American businesses claim they can’t find workers, and disabled Ameri
 
 * [_What Does Responsive Design Have To Do With Accessibility?_](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/). Avila, J.; Level Access (2013).<br />
 Type: Technical Report  <br />
-Summary: A demonstration of how consideration of accessiiblity during the design phase enables more respnsive, flexible, versatile outcomes that work better across all devices and situations. 
+Summary: A demonstration of how consideration of accessibility during the design phase enables more responsive, flexible, versatile outcomes that work better across all devices and situations. 
 
 * [_Microsoft Adding New Accessibility Improvements in Windows 10_](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/). Rego, N.;  Cool Blind Tech (2018).<br />
 Type: Product review  <br />
@@ -114,13 +114,13 @@ Summary: Blind review notes Windows 10 integrated accessibility features that ma
 
 * [_Making Bulb Accessible_](https://bulb.co.uk/blog/making-bulb-accessible-introducing-the-new-bulb-site) Pickering, Heydon; Bulb.co.uk (2018)<br />
 Type: Blog post<br />
-Summary: Implementation process description from a renewable energy company in the UK, inlcuding the development of code and design pattern libraries that bakein accessibility from the start. 
+Summary: Implementation process description from a renewable energy company in the UK, including the development of code and design pattern libraries that bake-in accessibility from the start. 
 
 ## Diversity/Human Factors
 
 * [_Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too_](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e). Gaudiano, P. and Hunt, E.; Forbes.com (2016).<br />
 Type: Article  <br />
-Summary: Forbes reports on the US Department of Labor National Disability Employment Month by listing 6 steps to improve the culture of disability inclusion in compnaies. The authors advocate that the future demands a new mindset in which diversity and inclusion are explicitly linked to the success of organizations and provide this guide to help compnaies get started.  
+Summary: Forbes reports on the US Department of Labor National Disability Employment Month by listing 6 steps to improve the culture of disability inclusion in companies. The authors advocate that the future demands a new mindset in which diversity and inclusion are explicitly linked to the success of organizations and provide this guide to help companies get started.  
 
 * [_Is there a payoff for top team diversity?_](https://www.mckinsey.com/business-functions/organization/our-insights/is-there-a-payoff-from-top-team-diversity)  Barta, Thomas, Markus Kleiner, and Tilo Neumann; McKinsey Quarterly (2018).<br />
 Type: Report  <br />
@@ -148,7 +148,7 @@ Summary: Microsoft CEO in his own words.
 
 * [_We Are Original Life Hackers_](https://www.nytimes.com/2018/05/30/opinion/disability-design-lifehacks.html) Jackson, Liz. New York Times,online edition. May, 2018.
 Type: Editorial
-Summary: Disability design advocate Liz Jackson makes the case for how and why people with disabilities muct be included in design thinking and narratives.
+Summary: Disability design advocate Liz Jackson makes the case for how and why people with disabilities must be included in design thinking and narratives.
 
 ## Corporate Social Responsibility/Brand Reputation
 
@@ -162,21 +162,21 @@ Summary: A referenced guide with case studies, examples, and conclusion about ho
 
 * [_Accessibility at Microsoft_](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm). Chong, C.;  Braille Monitor (2015).<br />
 Type: Product review  <br />
-Summary: A blind reviewer makes clear that the lack of accessiiblity in compnay products is at odds with their cleims and how it impacts his opinion of the compnay overall.
+Summary: A blind reviewer makes clear that the lack of accessibility in company products is at odds with their claims and how it impacts his opinion of the company overall.
 
 ## General Statistics/Research Methods/Other Business Case perspectives 
 
 * [_Disability Inclusion Overview_](http://www.worldbank.org/en/topic/disability). The World Bank (2018).<br />
 Type: Statiscal summary with sources  <br />
-Summary: Report on the numbers of people through out the world with disabilities who experince barriers to full social and economic inclusion. Barriers include inaccessible physical environments and transportation, the unavailability of assistive devices and technologies, non-adapted means of communication, gaps in service delivery, and discriminatory prejudice and stigma in society.
+Summary: Report on the numbers of people through out the world with disabilities who experience barriers to full social and economic inclusion. Barriers include inaccessible physical environments and transportation, the unavailability of assistive devices and technologies, non-adapted means of communication, gaps in service delivery, and discriminatory prejudice and stigma in society.
 
 * [_World Population Chart for Countries and Continents_](https://www.disabled-world.com/calculators-charts/wpc.php). Disabled World (2017).<br />
 Type:  Statistical compilation <br />
-Summary: Graphic representaiton of disability statistics throughout the world. 
+Summary: Graphic representation of disability statistics throughout the world. 
 
 * [_Exploratory Case Study Research on Web Accessibility_](http://urlibrary.co/download/web-accessibility-a-foundation-for-research.pdf) Leitner, ML and Christine Strauss  <br />
 Type: Research study proposal  <br />
-Summary: Design for research conducted at a later date. Recommended for others who wish to design accessibility studies that produce defintitive outcomes.
+Summary: Design for research conducted at a later date. Recommended for others who wish to design accessibility studies that produce definitive outcomes.
 
 * [_Accessibility Research Methods with Jonathan Lazar_](http://rosenfeldmedia.com/a-web-for-everyone/accessibility-research-methods-with-jonathan-lazar/) Horton, S.<br />
 Type: Podcast   <br />
@@ -184,9 +184,9 @@ Summary: Discussion of how to bring more accessibility research, often carried o
 
 * [_The Business Case for Accessibility and Inclusive Design_](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/). Walker, M.; Digital Leaders (2018).<br />
 Type: Editorial  <br />
-Summary: The author investigates and considers factors in three core areas. They find and report that businesses can realize Financial Benefits, Brand Benefits, and Legal Benefits by adopting and implementing accessiiblity policy.
+Summary: The author investigates and considers factors in three core areas. They find and report that businesses can realize Financial Benefits, Brand Benefits, and Legal Benefits by adopting and implementing accessibility policy.
 
 * [_The business case for digital accessibility_](https://digileaders.com/webinar-recording-the-business-case-for-digital-accessibility/). Crouch, E; Digital Leaders (2018). <br  />
 Type: Webinar recording of session with Robin Christopherson MBE and Mark Walker of AbiltyNet
-Summary: One hour webinare with examples to show how inclusive design can boost revenue, deliver financial savings, improve a brand and reduce legal risks. Demonstrations of how accessible apps and websites can improve the experience for mobile users – whether they have a disability or not. 
+Summary: One hour webinar with examples to show how inclusive design can boost revenue, deliver financial savings, improve a brand and reduce legal risks. Demonstrations of how accessible apps and websites can improve the experience for mobile users – whether they have a disability or not. 
 
