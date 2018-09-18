@@ -5,7 +5,7 @@ layout: default
 document-status: draft
 ---
 
-<img src="{{ "/content-images/wai-bcase/hero.svg" | relative_url }}" alt="">
+<img src="{{ "/content-images/wai-bcase/hero.svg" | relative_url }}" alt=""><br/>{This is a placeholder image that will be changed.}
 
 {::nomarkdown}
 {% include_cached box.html type="start" h="2" title="Summary" class="full" %}
@@ -137,7 +137,7 @@ everyone.” Among the innovations cited as examples are these:
 
 ### Enhance Your Brand
 
-<img src="{{ "/content-images/wai-bcase/brand.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<span style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px"><img src="{{ "/content-images/wai-bcase/brand.png" | relative_url }}" alt=""><br/>{This is a placeholder image that will be changed.}</span>
 
 Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^7]
 
@@ -240,7 +240,7 @@ Read more detail and the full report of the [This American Life Case Study](http
 
 ### Minimize Legal Risk
 
-<img src="{{ "/content-images/wai-bcase/scale.svg" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 30%; max-width: 220px">
+<span style="float: left; margin-right: 2rem; width: 30%; max-width: 220px"><img src="{{ "/content-images/wai-bcase/scale.svg" | relative_url }}" alt=""><br/>{This is a placeholder image that will be changed.}</span>
 
 {::nomarkdown}
 {% include box.html type="start" class="simple right" %}
