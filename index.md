@@ -5,7 +5,7 @@ layout: default
 document-status: draft
 ---
 
-<img src="{{ "/content-images/wai-bcase/hero.svg" | relative_url }}" alt="">
+<img src="{{ "/content-images/wai-bcase/hero.svg" | relative_url }}" alt=""><br/>{This is a placeholder image that will be changed.}
 
 {::nomarkdown}
 {% include_cached box.html type="start" h="2" title="Summary" class="full" %}
@@ -38,7 +38,7 @@ This article includes statistics, examples, and case studies to illustrate the k
 
 ## Who Needs a Business Case for Accessibility? 
 
-<img src="{{ "/content-images/wai-bcase/business-case.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/business-case.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
 “Business Case” is a term relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating
 resources such as money or effort in support of a specific
@@ -137,7 +137,7 @@ everyone.” Among the innovations cited as examples are these:
 
 ### Enhance Your Brand
 
-<img src="{{ "/content-images/wai-bcase/brand.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/brand.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^7]
 
@@ -180,7 +180,7 @@ Barclay's demonstrates how a strong commitment to accessibility results in distr
 
 ### Increase Market Reach
 
-<img src="{{ "/content-images/wai-bcase/market-reach.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/market-reach.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 The market of people with disabilities is large, and it is growing as the
 global population ages. In the UK, disabled people and their
@@ -240,7 +240,7 @@ Read more detail and the full report of the [This American Life Case Study](http
 
 ### Minimize Legal Risk
 
-<img src="{{ "/content-images/wai-bcase/scale.svg" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/minimize-risk.svg" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 30%; max-width: 220px">
 
 {::nomarkdown}
 {% include box.html type="start" class="simple right" %}
