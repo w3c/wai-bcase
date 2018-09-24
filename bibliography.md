@@ -1,5 +1,5 @@
 ---
-title: "The Business Case for Accessibility: Annotated Bibliography"
+title: "The Business Case for Accessibility: <br />Annotated Bibliography"
 permalink: /teach-advocate/business-case/bibliography/
 layout: default
 document-status: draft
@@ -63,7 +63,11 @@ Summary: An investigation of the law passed in Norway in 2014 that requires webs
 
 * [_Legal Update Series_](http://www.lflegal.com/category/accessibility-laws-and-regulations/legal-updates/) Feingold, L.; Law Office of Lainey Feingold (2018).<br />
 Type: Blog post <br />
-Summary: Structured Negotiation author and pioneer and Disability Rights attorney Lainey Feingold maintains updates on legal actions as well as other related, easy to follow perspectives on digital accessibility. Lots of relevant information throughout the site.  
+Summary: Structured Negotiation author and pioneer and Disability Rights attorney Lainey Feingold maintains updates on legal actions as well as other related, easy to follow perspectives on digital accessibility. Lots of relevant information throughout the site. 
+
+* [_What You Can Learn from Major Accessibility lawsuits_](https://www.3playmedia.com/2018/09/20/accessibility-lawsuits/). Sauld, S.; 3PlayMedia (2018)<br />
+Type: Blog Post
+Summary: An overview with lessons learned of recent accessibility lawsuits in the US with examples from retail and heigher education. The focus is to help organizations learn from previous accessibility lawsuits that a pro-active accessibility program can not only prevent a potential lawsuit, but also help to make the web accessible for all users, including those with disabilities.
 
 ## Accessibility As Innovation
 
