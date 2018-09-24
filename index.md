@@ -171,12 +171,9 @@ potential customers.
 
 We want to leverage inclusive technology to enable and empower all people to bank, work and reach their full potential. The Barclays Accessibility team does this by supporting digital teams to embed accessibility into our services and culture through effective governance, partnering, training, and tools. Establishing an enterprise-wide accessibility strategy, standards and programmes coupled with senior sponsorship helps support our publicly stated ambition of becoming the most accessible and inclusive FTSE company.
 
-When we shift our thinking away from the minimum legal compliance to one
-focused on the commercial opportunity and the creative challenge that
-arises from building better experiences for everyone, we create a more
-sustainable, customer orientated approach to digital services. 
+When we shift our thinking away from the minimum legal compliance to focus instead on the commercial opportunity and the creative challenge of building better experiences for everyone, we create a more sustainable, customer orientated approach to digital information and services. 
 
-To help everyone understand our accessibility-focused mindset, we've created a range of animations which help our colleagues to understand what accessibility is all about, who benefits and what the different types of impairments are. We've also shared these animations on our [Accessible Banking YouTube playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy).
+To help everyone understand Barclays accessibility-focused mindset, we've created a range of animations which help our colleagues understand what accessibility is all about, who benefits, and what the different types of impairments are. We've also shared these animations on our [Accessible Banking YouTube playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -203,7 +200,7 @@ UK Purple Pound. In the US, the annual discretionary spending of people with dis
     control an incremental $6.9 trillion in annual disposable
     income.[^18]
     
-A Forrester study commissioned by Microsoft concluded that accessibility could contribute to cost savings when it is integrated into existing and ongoing development cycles. [^19] Technology updates and redesigns that include accessibility along with other best practices have demonstrated reduced maintenance, service, and traffic cost. Moreover, according to Microsoft, as accessibility features are included, overall customer satisfaction improves. 
+A Forrester study commissioned by Microsoft concluded that accessibility could contribute to cost savings when it is integrated into existing and ongoing development cycles. [^19] Technology updates and redesigns that include accessibility along with other best practices have demonstrated reduced costs for maintenance and service. Moreover, according to Microsoft, as accessibility features are included, overall customer satisfaction improves. 
 
 <blockquote class="pull">
   <p>Designing inclusive software results in improved usability and customer satisfaction.</p>
@@ -278,7 +275,7 @@ The 2001 decision in the Sydney Olympics suit[^21] raised awareness of the need 
 -   In the US, the number of legal actions continues to rise and courts increasingly
     decide in favor of equal access[^22], often citing the Americans with Disabilities Act (ADA.) Structured Negotiation is another way that legal pressure is brought to bear, encouraging companies to meet accessibility requirements while avoiding litigation. [^23]
 
-Change occurs incrementally and steadily. Legislation continues to define digital accessibility further and create enforcement mechanisms to ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. The government fines commercial companies that do not comply.[^24] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate [^25]. Between government oversight and regulation on the one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
+Change occurs incrementally and steadily. Legislation continues to define digital accessibility further, creating enforcement mechanisms to ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. The government fines commercial companies that do not comply.[^24] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate [^25]. Between government oversight and regulation on the one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
 <blockquote class="pull alt-2">
   <p>With legal risks increasing, smart businesses - 
@@ -301,13 +298,13 @@ history of the ADA about the accessibility of a public accommodation’s
 website. Winn-Dixie asked the court to dismiss the suit based on their
 contention that a website is not a public accommodation covered by Title
 III of the ADA. The court deemed otherwise, allowed the plaintiff to
-recover attorney fee and issued the following:
+recover attorney fee. The decision included the following conclusions by the court: 
 
--   The court concluded that due to the link between the website and Winn-Dixie Stores, Title III of the ADA, applicable to “Public Accommodations,” did, in fact, apply in this situation.
--   Required that the website be made accessible to *“individuals with disabilities who use computers, laptops, tablets, and smartphones.”*
+-   The link between the website and Winn-Dixie Stores was a circumatance that made Title III of the ADA, applicable to “Public Accommodations,” relevant in this situation.
+-   Website must be be made accessible to *“individuals with disabilities who use computers, laptops, tablets, and smartphones.”*
 -   Required the store to adopt and post an explicit Accessibility Policy *“to ensure the persons with disabilities have full and equal enjoyment of its website and shall accompany the public policy statement with an accessible means of submitting accessibility questions and problems.”*
 -   Required annual accessibility training for IT and web staff, so they learn to create and maintain content that meets WCAG criteria.
--   Required third-party applications or content posted to the Winn-Dixie site must also meet WCAG requirements.
+-   Required that any third-party applications or content posted to the Winn-Dixie site must also meet WCAG requirements.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -315,7 +312,7 @@ recover attorney fee and issued the following:
 
 ## Share your experience
 
-User experience research and case studies confirm the many ways that accessible design supports an organization’s ability to innovate, enhance their brand, increase market reach, and minimize legal risk - among many other benefits. The WAI is a global community of practice, and we encourage you to share your examples. If you have a story of how your commitment to accessibility improved your online business model, please submit it via email to wai-eo-editors@w3.org.
+User experience research and case studies confirm the many ways that accessible design supports an organization’s ability to innovate, enhance their brand, increase market reach, and minimize legal risk - among many other benefits. The WAI is a global community of practice, and we encourage you to share your examples. If you have a story of how your commitment to accessibility improved your online business model, please submit it via email to wai-eo-editors@w3.org or post it to the [WAI-Engage wiki](https://www.w3.org/community/wai-engage/wiki/Case_studies).
 
 ## Conclusion
 
