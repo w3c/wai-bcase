@@ -4,8 +4,7 @@ permalink: /teach-advocate/business-case/
 layout: default
 doc-note-type: draft
 doc-note-message: >
-  <p>This is an unapproved, in-progress draft and it should not be referenced or quoted.</p>
-  <p>We welcome your comments. <a href="#helpimprove">Links to e-mail and GitHub are below</a>.</p>
+  <p>This is an unapproved, in-progress draft and it should not be referenced or quoted.<br>We welcome your comments. <a href="#helpimprove">Links to e-mail and GitHub are below</a>.</p>
 inline_css: |
   .hero {
     display: flex;
