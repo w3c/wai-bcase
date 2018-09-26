@@ -2,10 +2,30 @@
 title: "The Business Case for Accessibility"
 permalink: /teach-advocate/business-case/
 layout: default
-document-status: draft
+doc-note-type: draft
+doc-note-message: >
+  <p>This is an unapproved, in-progress draft and it should not be referenced or quoted.</p>
+  <p>We welcome your comments. <a href="#helpimprove">Links to e-mail and GitHub are below</a>.</p>
+inline_css: |
+  .hero {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0 30px;
+  }
+  .hero img {
+    width: 15%;
+    max-height: 120px;
+  }
 ---
 
-<img src="{{ "/content-images/wai-bcase/hero.svg" | relative_url }}" alt=""><br/>{This is a placeholder image that will be changed.}
+
+<div class="hero">
+  <img src="{{ "/content-images/wai-bcase/business-case.svg" | relative_url }}" alt="">
+  <img src="{{ "/content-images/wai-bcase/innovation-zoomed.svg" | relative_url }}" alt="">
+  <img src="{{ "/content-images/wai-bcase/brand.svg" | relative_url }}" alt="">
+  <img src="{{ "/content-images/wai-bcase/market-reach.svg" | relative_url }}" alt="">
+  <img src="{{ "/content-images/wai-bcase/minimize-risk.svg" | relative_url }}" alt="">
+</div>
 
 {::nomarkdown}
 {% include_cached box.html type="start" h="2" title="Summary" class="full" %}
@@ -80,7 +100,7 @@ The sections below explore key advantages of web accessibility to businesses of 
 
 ### Drive Innovation
 
-<img src="{{ "/content-images/wai-bcase/innovation.png" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-bcase/innovation.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
 the way.[^2] Some examples:
