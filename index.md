@@ -113,7 +113,7 @@ Apple development practice is another demonstration of how accessibility can dri
 
 <blockquote class="pull right alt-1">
   <p>Accessibility is a core value at Apple and always has been. </p>
-  <cite>~ Sarah Herrlinger, Director of Global Accessibility Policy and Initiatives</cite>
+  <cite>Sarah Herrlinger, Director of Global Accessibility Policy and Initiatives</cite>
 </blockquote>
 
 Apple engineers have been innovators in the accessibility space since the inception of the company, both willing to listen and work with outside constituents. As well, the company anticipates market direction by integrating disability needs into product development. Examples include:
