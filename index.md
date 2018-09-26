@@ -13,7 +13,7 @@ document-status: draft
 
 A Business Case is a rationale for initiating a project or task. Whether formal and highly structured or informal and brief, a good Business Case will articulate both tangible and intangible benefits to the business for dedicating resources to a project. To be effective, consideration will be given to cost, benefit, and resource gap analysis. A good Business Case also considers the cost and risk of inaction. As more retail, educational, government, social service, and personal communication activities have moved online, the Business Case for web accessibility is stronger than ever.
 
-This article defines the purpose and guides how to construct the Business Case for web accessibility that is appropriate and relevant to organizations of different types. Business performance and current research indicate that accessibility integration can help companies realize these benefits.
+This article defines the purpose and guides how to construct the Business case for web accessibility that is appropriate and relevant to organizations of different types. Business performance and current research indicate that accessibility integration can help companies realize these benefits.
 -   <strong>Drive Innovation:</strong> Accessibility features in products and services often solve unanticipated problems.
 -   <strong>Enhance Your Brand:</strong> Diversity and inclusion efforts so important to business success are accelerated with a clear, well-integrated accessibility commitment.  
 -   <strong>Extend Market Reach:</strong> The global market of people with disabilities is over 1 billion people with a spending power of more than $6 trillion. Accessibility often improves the online experience for all users.
@@ -40,7 +40,7 @@ This article includes statistics, examples, and case studies to illustrate the k
 
 <img src="{{ "/content-images/wai-bcase/business-case.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-“Business Case” is a term relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating
+“Business case” is a term relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating
 resources such as money or effort in support of a specific
 organizational need. We will use “business” in this article to refer to
 all types of organizations with the understanding that different aspects
@@ -51,7 +51,7 @@ brand enhancement provided by an integrated accessibility program.
 
 Determining which of the many benefits of web accessibility are most
 relevant in your business environment will help you build the most
-compelling Business Case for your situation. Use these resources to
+compelling Business case for your situation. Use these resources to
 inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
 
 <blockquote class="pull alt-2">
@@ -152,7 +152,7 @@ Further studies[^10] emphasize the benefits to the brand of companies that insti
 A well-recognized example of how a brand can be affected is Microsoft. After long advocacy and some criticism by accessibility
 advocates [^11], Microsoft made a real and appreciable commitment to accessibility demonstrated by genuine engagement with stakeholders of all abilities.[^12] The resulting improvements to products and services have strengthened its overall brand image [^13], and accessibility efforts are now lauded in the community of people with disabilities.[^14]
 
-Barclay’s shared their approach to diversity and inclusion through the accessibility initiatives in their company and how that approach has made them a better company.
+Barclays shared their approach to diversity and inclusion through the accessibility initiatives in their company and how that approach has made them a better company.
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: Barclays" class="" %}
@@ -179,7 +179,7 @@ To help everyone understand Barclays accessibility-focused mindset, we've create
 {% include box.html type="end" %}
 {:/}
 
-Barclay's demonstrates how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is perceived as open and fair. People are proud to work there and to do business with Barclay's. Read the [full Barclay's case study](https://www.barclayscorporate.com/content/dam/corppublic/corporate/Documents/Accessibility/bmb-case-study.pdf) to learn more.   
+Barclays demonstrates how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is perceived as open and fair. People are proud to work there and to do business with Barclays. Read the [full Barclays case study](https://www.barclayscorporate.com/content/dam/corppublic/corporate/Documents/Accessibility/bmb-case-study.pdf) to learn more.   
 
 ### Increase Market Reach
 
@@ -261,7 +261,7 @@ A significant demonstration of the risk of ignoring accessibility requirements w
 {:/}
 
 Consideration of the cost and risk of inaction is a critical aspect of
-any Business Case. The risks are real if companies ignore requirements for web accessibility. The cost of litigation and remediation can be significant as more governments recognize and legislate in favor of the universal
+any Business case. The risks are real if companies ignore requirements for web accessibility. The cost of litigation and remediation can be significant as more governments recognize and legislate in favor of the universal
 right to participate in online digital information and services.
 
 As web use is woven into modern life all over the world, regulators began to mandate laws and policies that strengthen the rights of people with disabilities. One of the earliest indications that there could be legal consequences to web accessibility was a complaint put to the Human Rights and Equal Opportunities Commission (HREOC) in 2000 about the inaccessibility of the website of the Sydney Olympics. The plaintiff claimed the site was a violation of the Commonwealth Disability Discrimination Act 1992.[^20]
@@ -316,7 +316,7 @@ User experience research and case studies confirm the many ways that accessible 
 
 ## Conclusion
 
-Public use of the Internet is more than 25 years old. The web is no longer a novelty but an integrated, critical tool of modern life. As smart businesses integrate accessible design into their development and procurement processes, they understand the need for equal access by all people. The legal risks of ignoring accessibility are significant, and the benefits have also been demonstrated by leaders like Apple, Barclay’s, NPR, IBM, Microsoft and hundreds more. Business leaders and the advocates who influence them can have a tremendous social impact and healthy ROI as they follow a roadmap that leads to equal access. More than one billion people with disabilities in the world are eager to engage with you as customers, clients, partners, employees, and equal participants in civic and social activities. By developing a long-term commitment to accessibility and by using WAI resources to develop policy and implement a strategy to bring that commitment to life, your business will reach this market and is likely to thrive in unexpected and self-sustaining ways.
+Public use of the Internet is more than 25 years old. The web is no longer a novelty but an integrated, critical tool of modern life. As smart businesses integrate accessible design into their development and procurement processes, they understand the need for equal access by all people. The legal risks of ignoring accessibility are significant, and the benefits have also been demonstrated by leaders like Apple, Barclays, NPR, IBM, Microsoft and hundreds more. Business leaders and the advocates who influence them can have a tremendous social impact and healthy ROI as they follow a roadmap that leads to equal access. More than one billion people with disabilities in the world are eager to engage with you as customers, clients, partners, employees, and equal participants in civic and social activities. By developing a long-term commitment to accessibility and by using WAI resources to develop policy and implement a strategy to bring that commitment to life, your business will reach this market and is likely to thrive in unexpected and self-sustaining ways.
 
 ## Resources
 This article was written after reading and exploring many external resources that shaped our understanding of the current landscape. We have provided links and notes about our research in this [Annotated Bibliography](https://w3c.github.io/wai-bcase/teach-advocate/business-case/bibliography/).
