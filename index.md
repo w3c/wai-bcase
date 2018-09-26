@@ -76,12 +76,11 @@ relevant in your business environment will help you build the most
 compelling Business case for your situation. Use these resources to
 inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
 
-<blockquote class="pull alt-3">
-  <p>Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.</p>
-</blockquote>
 
-A research study of Fortune 100 companies indicates that disability inclusion as part of an
-overall diversity strategy is common practice among high performing businesses.[^1]
+**Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.**
+
+A research study of Fortune 100 companies indicates that disability inclusion as part of an overall diversity strategy is common practice among high performing businesses.[^1]
+
 When accessibility is part of strategic planning, businesses are more
 readily equipped for success in our connected world of commerce, academia, and civic engagement.
 
@@ -316,12 +315,7 @@ The 2001 decision in the Sydney Olympics suit[^21] raised awareness of the need 
 
 Change occurs incrementally and steadily. Legislation continues to define digital accessibility further, creating enforcement mechanisms to ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. The government fines commercial companies that do not comply.[^24] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate [^25]. Between government oversight and regulation on the one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
-<blockquote class="pull alt-3">
-  <p>With legal risks increasing, smart businesses - 
-particularly those with global activities - are creating accessibility
-policies and programs to mitigate risk to protect both their
-assets and their reputations.</p>
-</blockquote>
+**With legal risks increasing, smart businesses - particularly those with global activities - are creating accessibility policies and programs to mitigate risk to protect both their assets and their reputations.**
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: ADA and Website Accessibility " class="" %}
