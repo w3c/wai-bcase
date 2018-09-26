@@ -74,7 +74,7 @@ relevant in your business environment will help you build the most
 compelling Business case for your situation. Use these resources to
 inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
 
-<blockquote class="pull alt-2">
+<blockquote class="pull alt-3">
   <p>Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.</p>
 </blockquote>
 
@@ -202,7 +202,7 @@ our brand identity – through tailored services, fostering an inclusive
 culture, creating new ways to communicate and consult with existing and
 potential customers. 
 
-<blockquote class="pull right alt-2">
+<blockquote class="pull right">
   <p>At Barclays, accessibility is about more than just disability. It's about helping everyone to work, bank and live their lives regardless of their age, situation, abilities or circumstances.</p>
 </blockquote>
 
@@ -314,7 +314,7 @@ The 2001 decision in the Sydney Olympics suit[^21] raised awareness of the need 
 
 Change occurs incrementally and steadily. Legislation continues to define digital accessibility further, creating enforcement mechanisms to ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. The government fines commercial companies that do not comply.[^24] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate [^25]. Between government oversight and regulation on the one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
-<blockquote class="pull alt-2">
+<blockquote class="pull alt-3">
   <p>With legal risks increasing, smart businesses - 
 particularly those with global activities - are creating accessibility
 policies and programs to mitigate risk to protect both their
