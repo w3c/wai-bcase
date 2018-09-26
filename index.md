@@ -105,13 +105,28 @@ technologies, and operating systems. In physical environments, everyone takes ad
 
 A compelling example of how this works comes from the early 2000’s as the online world increasingly adopted mobile devices to browse the web. Those websites which were accessible and standards-compliant were in many cases more mobile-ready as interaction options were already baked in. Imagine the delight of those who were already committed to and had designed for accessibility! This revelation led to the responsive-design trend that has accessibility at its core.[^5] 
 
-Apple development practice is another demonstration of how accessibility can drive innovation. Accessibility is a core value at Apple and always has been. They have been innovators in the accessibility space since the inception of the company, both willing to listen and work with outside constituents. [^6] As well, the company anticipates market direction by integrating disability needs into product development. Examples include:
+Apple development practice is another demonstration of how accessibility can drive innovation. [^6]  
+{::nomarkdown}
+{% include box.html type="start" h="4" title="Case Study: Apple " class="" %}
+{:/}
+
+<blockquote class="pull right alt-1">
+  <p>Accessibility is a core value at Apple and always has been. </p>
+  <cite>Sarah Herrlinger</cite>
+</blockquote>
+
+Apple engineers have been innovators in the accessibility space since the inception of the company, both willing to listen and work with outside constituents.  As well, the company anticipates market direction by integrating disability needs into product development. Examples include:
 
 -   <strong>iTunes U:</strong> In the early 2000’s, the 26-campus California State University system was unable to take advantage of Apple’s iTunes U educational program because the application was not fully accessible to blind students. Teachers within the UC system were prohibited from using it. This was resolved by innovation, not litigation as Apple listened to CSU’s concerns and worked to make iTunes accessible on both the Mac and Windows platforms. CSU System was soon able to use the program widely.
 
 -   <strong>VoiceOver on iPhone:</strong> Early in the evolution of the iPhone, Apple began considering the implications that a touchscreen device would have on the blind. Iterating over a number of years behind the scenes, the company invested the resources to develop the voice technology that led to VoiceOver, the world’s first gesture based screen reader. Within weeks of launch, Apple received a special commendation from the National Federation of the Blind "For designing the first fully accessible touchscreen interface.” [^7]
 
-Screen readers on other touch screen devices have now become more prevalent in the industry, and Apple led the charge in striving for inclusion for all. Innovation from voice interactions lead to the wealth of personal digital assistants now found in many homes and offices. Today millions of people use these devices, regardless of ability.  
+Screen readers on other touch screen devices have now become more prevalent in the industry, and Apple led the charge in striving for inclusion for all. 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+Innovation from voice interactions at Apple and elsewhere have contributed to the wealth of personal digital assistants now found in many homes and offices. Today millions of people use these devices, regardless of ability.  
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: Google " class="" %}
