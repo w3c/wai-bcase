@@ -106,13 +106,14 @@ technologies, and operating systems. In physical environments, everyone takes ad
 A compelling example of how this works comes from the early 2000’s as the online world increasingly adopted mobile devices to browse the web. Those websites which were accessible and standards-compliant were in many cases more mobile-ready as interaction options were already baked in. Imagine the delight of those who were already committed to and had designed for accessibility! This revelation led to the responsive-design trend that has accessibility at its core.[^5] 
 
 Apple development practice is another demonstration of how accessibility can drive innovation. [^6]  
+
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: Apple " class="" %}
 {:/}
 
 <blockquote class="pull right alt-1">
   <p>Accessibility is a core value at Apple and always has been. </p>
-  <cite>Sarah Herrlinger</cite>
+  <cite>Sarah Herrlinger, Director of Global Accessibility Policy and Initiatives</cite>
 </blockquote>
 
 Apple engineers have been innovators in the accessibility space since the inception of the company, both willing to listen and work with outside constituents.  As well, the company anticipates market direction by integrating disability needs into product development. Examples include:
