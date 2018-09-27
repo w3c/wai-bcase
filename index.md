@@ -221,7 +221,7 @@ To help everyone understand Barclays accessibility-focused mindset, we've create
 {% include box.html type="end" %}
 {:/}
 
-Barclays demonstrates how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is perceived as open and fair. People are proud to work there and to do business with Barclays. Read the [full Barclays case study](https://www.barclayscorporate.com/content/dam/corppublic/corporate/Documents/Accessibility/bmb-case-study.pdf) to learn more.   
+Barclays demonstrates how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is perceived as open and fair. People are proud to work there and to do business with Barclays. Read the [full Barclays case study](https://www.w3.org/community/wai-engage/wiki/Barclays_Bank_Case_Study) to learn more.   
 
 ### Increase Market Reach
 
