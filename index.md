@@ -70,7 +70,7 @@ This article includes statistics, examples, and case studies to illustrate the k
 resources such as money or effort in support of a specific
 organizational need. We will use “business” in this article to refer to
 all types of organizations with the understanding that different aspects
-will be more or less relevant depending on the organizational focus and
+will be relevant depending on the organizational focus and
 purpose. For example, government businesses may be more committed to the
 legal and equity aspects while commercial businesses care more about the
 brand enhancement provided by an integrated accessibility program.
@@ -137,15 +137,15 @@ Apple development practice is another demonstration of how accessibility can dri
 {:/}
 
 <blockquote class="pull right alt-1">
-  <p>Accessibility is a core value at Apple and always has been. </p>
-  <cite>Sarah Herrlinger, Director of Global Accessibility Policy and Initiatives</cite>
+  <p>Accessibility is a core value at Apple and something we view as a basic human right.  </p>
+  <cite>Sarah Herrlinger, Director of Global Accessibility Policy and Initiatives, Apple</cite>
 </blockquote>
 
 Apple engineers have been innovators in the accessibility space since the inception of the company, both willing to listen and work with outside constituents. As well, the company anticipates market direction by integrating disability needs into product development. Examples include:
 
 -  <strong>iTunes U:</strong> In the early 2000’s, the 26-campus California State University system was unable to take advantage of Apple’s iTunes U educational program because the application was not fully accessible to blind students. Teachers within the UC system were prohibited from using it. This was resolved by innovation, not litigation as Apple listened to CSU’s concerns and worked to make iTunes accessible on both the Mac and Windows platforms. CSU System was soon able to use the program widely.
 
--  <strong>VoiceOver on iPhone:</strong> Early in the evolution of the iPhone, Apple began considering the implications that a touchscreen device would have on the blind. Iterating over a number of years behind the scenes, the company invested the resources to develop the voice technology that led to VoiceOver, the world’s first gesture based screen reader. Within weeks of launch, Apple received a special commendation from the National Federation of the Blind "For designing the first fully accessible touchscreen interface.” [^7]
+-  <strong>VoiceOver on iPhone:</strong> Early in the evolution of the iPhone, Apple began considering the implications that a touchscreen device would have on the blind. Iterating over several years behind the scenes, the company invested the resources to develop the voice technology that led to VoiceOver, the world’s first gesture-based screen reader. Within weeks of launch, Apple received a special commendation from the National Federation of the Blind "For designing the first fully accessible touchscreen interface.” [^7]
 
 Screen readers on other touch screen devices have now become more prevalent in the industry, and Apple led the charge in striving for inclusion for all. 
 
