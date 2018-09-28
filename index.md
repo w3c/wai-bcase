@@ -161,7 +161,7 @@ Innovation from voice interactions at Apple and elsewhere have contributed to th
 
 <blockquote class="pull right alt-1">
   <p>The accessibility problems of today are the mainstream breakthroughs of tomorrow.</p>
-  <cite>Eve Andersson, lead engineer at Google</cite>
+  <cite>Eve Andersson, Director, Accessibility Engineering</cite>
 </blockquote>
 
 A 2016 article in the FastCompany online magazine[^8] highlights how Google’s investment in accessibility provides the company with an
@@ -173,11 +173,11 @@ everyone.” Among the innovations cited as examples are these:
 -   contrast minimums, required for people with low vision, help all people see in bright light glare situations
 -   auto-complete, initially provided for the disabled, is now widely
     used by all
--   voice control, implemented for blind users, has been more widely
+-   voice control, implemented for users with physical impairments, has been more widely
     adopted as a great convenience by millions of others
 -   artificial intelligence advances are based on research originally
     done to provide visual context to blind users
--   machine learning, initially developed for auto-captioning for the deaf, is now being turned to broader applications
+-   auto-captioning for the deaf using machine learning is now being turned to broader applications
 
 {::nomarkdown}
 {% include box.html type="end" %}
