@@ -111,7 +111,7 @@ Integrating accessibility sparks innovation by removing architectural, digital, 
 the way.[^2] Some examples:
 
 -   Accessible design thinking creates flexible interaction options
-    useful beyond the disabled community.
+    useful beyond people with disabilities.
     
 -   Research and development of the artificial retina project to help restore sight for blind patients may also help future robots with real-time image-processing systems, effectively enabling them to "see." [^3]
 
@@ -171,7 +171,7 @@ a level playing field, but because (it) makes life more livable for
 everyone.” Among the innovations cited as examples are these:
 
 -   contrast minimums, required for people with low vision, help all people see in bright light glare situations
--   auto-complete, initially provided for the disabled, is now widely
+-   auto-complete, initially provided for people with disabilities, is now widely
     used by all
 -   voice control, implemented for users with physical impairments, has been more widely
     adopted as a great convenience by millions of others
@@ -228,7 +228,7 @@ Barclays demonstrates how a strong commitment to accessibility results in distri
 <img src="{{ "/content-images/wai-bcase/market-reach.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 The market of people with disabilities is large, and it is growing as the
-global population ages. In the UK, disabled people and their
+global population ages. In the UK, people with disabilities and their
 families spend at least £249 billion every year, which is known as the
 UK Purple Pound. In the US, the annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is $6 trillion, which is equivalent to that of China. Consider these facts when estimating market size:
 
