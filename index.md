@@ -161,7 +161,7 @@ Innovation from voice interactions at Apple and elsewhere have contributed to th
 
 <blockquote class="pull right alt-1">
   <p>The accessibility problems of today are the mainstream breakthroughs of tomorrow.</p>
-  <cite>Eve Andersson, Director, Accessibility Engineering</cite>
+  <cite>Eve Andersson, Director, Accessibility Engineering, Google</cite>
 </blockquote>
 
 A 2016 article in the FastCompany online magazine[^8] highlights how Google’s investment in accessibility provides the company with an
