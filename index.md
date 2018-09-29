@@ -291,7 +291,7 @@ Read more detail and the full report of the [This American Life Case Study](http
 {% include box.html type="start" class="simple right" %}
 {:/}
 
-A significant demonstration of the risk of ignoring accessibility requirements was the 2008 settlement by the National Federation of the Blind with Target retailers:
+A significant demonstration of the risk of ignoring accessibility requirements was the 2008 settlement by the National Federation of the Blind with Target retailers:[^20]
 
 - class damages of $6 million
 - plaintiff legal fees over $3 million
@@ -306,18 +306,18 @@ Consideration of the cost and risk of inaction is a critical aspect of
 any Business case. The risks are real if companies ignore requirements for web accessibility. The cost of litigation and remediation can be significant as more governments recognize and legislate in favor of the universal
 right to participate in online digital information and services.
 
-As web use is woven into modern life all over the world, regulators began to mandate laws and policies that strengthen the rights of people with disabilities. One of the earliest indications that there could be legal consequences to web accessibility was a complaint put to the Human Rights and Equal Opportunities Commission (HREOC) in 2000 about the inaccessibility of the website of the Sydney Olympics. The plaintiff claimed the site was a violation of the Commonwealth Disability Discrimination Act 1992.[^20]
+As web use is woven into modern life all over the world, regulators began to mandate laws and policies that strengthen the rights of people with disabilities. One of the earliest indications that there could be legal consequences to web accessibility was a complaint put to the Human Rights and Equal Opportunities Commission (HREOC) in 2000 about the inaccessibility of the website of the Sydney Olympics. The plaintiff claimed the site was a violation of the Commonwealth Disability Discrimination Act 1992.[^21]
 
-The 2001 decision in the Sydney Olympics suit[^21] raised awareness of the need to address accessibility in the emerging practice of web communication. Over time, the legal risk increased with the adoption of more specific laws and policies in countries throughout the world.
+The 2001 decision in the Sydney Olympics suit[^22] raised awareness of the need to address accessibility in the emerging practice of web communication. Over time, the legal risk increased with the adoption of more specific laws and policies in countries throughout the world.
 
 -   The Convention on the Rights of People with Disabilities (CRPD) is a comprehensive human rights document that includes a direct reference to the rights of all people to have equal access to communications technology. Passed by the General Assembly of the United Nations, more than 140 countries ratified it by 2016. 
 -   The European Commission adopted the European Accessibility Act, requiring
     ATMs and banking services, PCs, telephones and TV equipment,
     telephony and audiovisual services, transport, e-books, and e-commerce meet accessibility requirements.
 -   In the US, the number of legal actions continues to rise and courts increasingly
-    decide in favor of equal access[^22], often citing the Americans with Disabilities Act (ADA.) Structured Negotiation is another way that legal pressure is brought to bear, encouraging companies to meet accessibility requirements while avoiding litigation. [^23]
+    decide in favor of equal access[^23], often citing the Americans with Disabilities Act (ADA.) Structured Negotiation is another way that legal pressure is brought to bear, encouraging companies to meet accessibility requirements while avoiding litigation. [^24]
 
-Change occurs incrementally and steadily. Legislation continues to define digital accessibility further, creating enforcement mechanisms to ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. The government fines commercial companies that do not comply.[^24] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate [^25]. Between government oversight and regulation on the one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
+Change occurs incrementally and steadily. Legislation continues to define digital accessibility further, creating enforcement mechanisms to ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. The government fines commercial companies that do not comply.[^25] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate [^26]. Between government oversight and regulation on the one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
 **With legal risks increasing, smart businesses - particularly those with global activities - are creating accessibility policies and programs to mitigate risk to protect both their assets and their reputations.**
 
@@ -404,14 +404,16 @@ These are suggested merely as a way to get started. We hope you will explore thr
 
 [^19]: [*Assessing the Value 0f Accessible Technologies for Organizations*](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf). Parks, S., and Sedov V.; Forrester Research, Inc. (2017)
 
-[^20]: [*Sydney Olympics 2000 Website Accessibility Decision*](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html). Independent Living Institute (2000).
+[^20]: [*National Federation of the Blind v. Target Corp.*](https://en.wikipedia.org/wiki/National_Federation_of_the_Blind_v._Target_Corp.) Wikipedia. (2008)
 
-[^21]: [*Web Accessibility and the DDA*](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/) Sloan, M.; Journal of Information Law & Technology, University of Warwick (2005).
+[^21]: [*Sydney Olympics 2000 Website Accessibility Decision*](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html). Independent Living Institute (2000).
 
-[^22]: [*List of Web Accessibility-Related Litigation and Settlements*](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/). Groves, K. (2017).
+[^22]: [*Web Accessibility and the DDA*](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/) Sloan, M.; Journal of Information Law & Technology, University of Warwick (2005).
 
-[^23]: [*Settlements in Structured Negotiation*](http://www.lflegal.com/negotiations/) Feingold, L. (2018)
+[^23]: [*List of Web Accessibility-Related Litigation and Settlements*](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/). Groves, K. (2017).
 
-[^24]: [*“It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us.”*](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54). Aalen, I.; Confrere/Medium (2018).
+[^24]: [*Settlements in Structured Negotiation*](http://www.lflegal.com/negotiations/) Feingold, L. (2018)
 
-[^25]: [*“Absence of U.S. Regulation Leads to Web Accessibility Lawsuits.”*](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits). Roggio, A.; Practical Ecommerce (2015).
+[^25]: [*“It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us.”*](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54). Aalen, I.; Confrere/Medium (2018).
+
+[^26]: [*“Absence of U.S. Regulation Leads to Web Accessibility Lawsuits.”*](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits). Roggio, A.; Practical Ecommerce (2015).
