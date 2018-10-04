@@ -1,6 +1,7 @@
 ---
 title: "Acknowledgements for The Business Case for Accessibility"
 permalink: /teach-advocate/business-case/acknowledgements/
+parent: /teach-advocate/business-case/
 layout: default
 github:
   repository: w3c/wai-bcase
