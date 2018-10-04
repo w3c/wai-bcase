@@ -10,7 +10,7 @@ github:
   path: 'index.md'
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> <strong>Draft in progress {{ site.time }} </strong></p>
-  <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Vicki Menezes Miller, Laura Keen <a href="https://w3c.github.io/wai-bcase/teach-advocate/business-case/acks">Acknowledgements</a> lists additional contributors.</p>
+  <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Vicki Menezes Miller, Laura Keen <a href="./acknowledgements/">Acknowledgements</a> lists additional contributors.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 inline_css: |
   .hero {
