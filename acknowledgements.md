@@ -1,13 +1,13 @@
 ---
 title: "Acknowledgements for The Business Case for Accessibility"
-permalink: /teach-advocate/business-case/acks/
+permalink: /teach-advocate/business-case/acknowledgements/
 layout: default
 github:
   repository: w3c/wai-bcase
-  path: 'acks.md'
+  path: 'acknowledgements.md'
 ---
 
-The <a href="https://www.w3.org/WAI/business-case/">Business Case for Accessibility</a> is developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with input from others.
+The <a href="{{ "/teach-advocate/business-case/" | relative_url }}">Business Case for Accessibility</a> is developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with input from others.
 
 ## Current Version
 
@@ -31,4 +31,4 @@ The <a href="https://www.w3.org/WAI/business-case/">Business Case for Accessibil
 
 ## Previous Versions
 
-<a href="@@">Developing a Web Accessibility Business Case for Your Organization</a> was first published in August 2005. Updates in 2009-2010 were related to the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE</a> Project funded by the European Commission under the 6th Framework. <a href="@@">Contributions to the previous version are acknowledged in the archive.</a>
+<a href="{{ "/teach-advocate/business-case/" | relative_url }}">Developing a Web Accessibility Business Case for Your Organization</a> was first published in August 2005. Updates in 2009-2010 were related to the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE</a> Project funded by the European Commission under the 6th Framework. <a href="@@">Contributions to the previous version are acknowledged in the archive.</a>
