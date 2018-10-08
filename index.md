@@ -325,23 +325,18 @@ Change occurs incrementally and steadily. Legislation continues to define digita
 {% include box.html type="start" h="4" title="Case Study: ADA and Website Accessibility " class="" %}
 {:/}
 
-The case was heard in the U. S. District Court of the Southern District
-of Florida, Case No. 16-23020. Winn-Dixie is a regional chain of grocery
-stores, some of which maintain pharmacies. The blind plaintiff was Juan
-Carlos Gil who shopped at the store in person but was unable to access
-the website for such information as the store locator, coupons, store
-events, and specials. The historic suit was the first trial in the
-history of the ADA about the accessibility of a public accommodation’s
-website. Winn-Dixie asked the court to dismiss the suit based on their
-contention that a website is not a public accommodation covered by Title
-III of the ADA. The court deemed otherwise, allowed the plaintiff to
-recover attorney fee. The decision included the following conclusions by the court: 
+The blind plaintiff shopped at the local Winn-Dixie grocery store and pharmacy in person but was unable to access the website for information such as the store locator, coupons, store events, and specials. The historic suit was the first trial in the history of the ADA about the accessibility of a public accommodation’s website. 
 
--   The link between the website and Winn-Dixie Stores was a circumatance that made Title III of the ADA, applicable to “Public Accommodations,” relevant in this situation.
--   Website must be be made accessible to *“individuals with disabilities who use computers, laptops, tablets, and smartphones.”*
--   Required the store to adopt and post an explicit Accessibility Policy *“to ensure the persons with disabilities have full and equal enjoyment of its website and shall accompany the public policy statement with an accessible means of submitting accessibility questions and problems.”*
--   Required annual accessibility training for IT and web staff, so they learn to create and maintain content that meets WCAG criteria.
--   Required that any third-party applications or content posted to the Winn-Dixie site must also meet WCAG requirements.
+Winn-Dixie asked the court to dismiss the suit based on their argument that a website is not a public accommodation covered by Title III of the ADA. The court decided otherwise, allowed the plaintiff to recover their attorney fees. The decision included the following conclusions by the court: 
+
+-   The link between the website and Winn-Dixie Stores was a circumstance that made Title III of the ADA, applicable to “Public Accommodations,” relevant in this situation.
+-   The website must be be made accessible to *“individuals with disabilities who use computers, laptops, tablets, and smartphones.”*
+
+The court required the chain of grocery stores to
+
+-   adopt and post an explicit Accessibility Policy *“to ensure the persons with disabilities have full and equal enjoyment of its website and shall accompany the public policy statement with an accessible means of submitting accessibility questions and problems.”*
+-   conduct annual accessibility training for IT and web staff, so they learn to create and maintain content that meets WCAG criteria.
+-   make sure that any third-party applications or content posted to the Winn-Dixie site must also meet WCAG requirements.
 
 {::nomarkdown}
 {% include box.html type="end" %}
