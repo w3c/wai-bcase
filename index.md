@@ -227,19 +227,18 @@ Barclays demonstrates how a strong commitment to accessibility results in distri
 
 <img src="{{ "/content-images/wai-bcase/market-reach.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-The market of people with disabilities is large, and it is growing as the
+The market of people with disabilities is large and growing as the
 global population ages. In the UK, people with disabilities and their
-families spend at least £249 billion every year, which is known as the
-UK Purple Pound. In the US, the annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is $6 trillion, which is equivalent to that of China. Consider these facts when estimating market size:
+families spend at least £249 billion every year. In the US, the annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is $6 trillion. Consider these facts when estimating market size:
 
--   At least one billion people - 15% of the world’s population - have a
+-   At least one billion people – 15% of the world’s population – have a
     recognized disability[^15]
 -   As the population ages, many more acquire disability and yet do not
     identify as a “person with a disability”[^16]
--   In countries with life expectancies of over 70 years of age, people
-    spend 11.5 percent of their lifespan living with a disability.[^17]
--   Globally, the extended market is estimated at 2.3 billion people who
-    control an incremental $6.9 trillion in annual disposable
+-   In countries with life expectancies of over 70 years of age, people
+    spend 11.5 percent of their lifespan living with a disability.[^17]
+-   Globally, the extended market is estimated at 2.3 billion people who
+    control an incremental $6.9 trillion in annual disposable
     income.[^18]
     
 A Forrester study commissioned by Microsoft concluded that accessibility could contribute to cost savings when it is integrated into existing and ongoing development cycles. [^19] Technology updates and redesigns that include accessibility along with other best practices have demonstrated reduced costs for maintenance and service. Moreover, according to Microsoft, as accessibility features are included, overall customer satisfaction improves. 
