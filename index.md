@@ -37,16 +37,16 @@ inline_css: |
 {% include_cached box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-A business case is a rationale for initiating a project or task. Whether formal and highly structured or informal and brief, a good business case will articulate both tangible and intangible benefits to the business for dedicating resources to a project. To be effective, consideration will be given to cost, benefit, and resource gap analysis. The business case also presents the cost and risk of inaction. As more retail, educational, government, social service, and personal communication activities have moved online, the business case for web accessibility is stronger than ever.
+As more retail, educational, government, social service, and personal communication activities have moved online, the business case for web accessibility is stronger than ever.
 
-This article defines the purpose and guides how to construct the business case for web accessibility that is appropriate and relevant to organizations of different types. Business performance and current research indicate that accessibility integration can help companies realize these benefits.
+This article defines the purpose and guides how to construct the business case for web accessibility that is appropriate and relevant to organizations of different types. It includes statistics, examples, and case studies to illustrate the key benefits and risks. Business performance and current research indicate that accessibility integration can help companies realize these benefits:
+
 -   <strong>Drive Innovation:</strong> Accessibility features in products and services often solve unanticipated problems.
 -   <strong>Enhance Your Brand:</strong> Diversity and inclusion efforts so important to business success are accelerated with a clear, well-integrated accessibility commitment.  
 -   <strong>Extend Market Reach:</strong> The global market of people with disabilities is over 1 billion people with a spending power of more than $6 trillion. Accessibility often improves the online experience for all users.
 -   <strong>Minimize Legal Risk:</strong> Many countries have laws requiring digital accessibility, and the issue is of increased legal concern.
 
-
-This article includes statistics, examples, and case studies to illustrate the key benefits and risks. Please note that we use "web accessibility" and  "websites" throughout this article and that those terms are meant to include web applications and other digital technologies as well. 
+Please note that we use "web accessibility" and "websites" throughout this article and that those terms are meant to include web applications and other digital technologies as well. 
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
