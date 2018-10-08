@@ -349,20 +349,20 @@ recover attorney fee. The decision included the following conclusions by the cou
 
 ## Share your experience
 
-User experience research and case studies confirm the many ways that accessible design supports an organization’s ability to innovate, enhance their brand, increase market reach, and minimize legal risk - among many other benefits. The WAI is a global community of practice, and we encourage you to share your examples. If you have a story of how your commitment to accessibility improved your online business model, please submit it via email to wai-eo-editors@w3.org or post it to the [WAI-Engage wiki](https://www.w3.org/community/wai-engage/wiki/Case_studies).
+User experience research and case studies confirm the many ways that accessible design supports an organization’s ability to innovate, enhance their brand, increase market reach, and minimize legal risk – among many other benefits. The WAI is a global community of practice, and we encourage you to share your examples. If you have a story of how your commitment to accessibility improved your online business model, please submit it via email to <wai-eo-editors@w3.org> or post it to the [WAI-Engage wiki {% include_cached different.html %}](https://www.w3.org/community/wai-engage/wiki/Case_studies).
 
 ## Conclusion
 
-Public use of the Internet is more than 25 years old. The web is no longer a novelty but an integrated, critical tool of modern life. As smart businesses integrate accessible design into their development and procurement processes, they understand the need for equal access by all people. The legal risks of ignoring accessibility are significant, and the benefits have also been demonstrated by leaders like Apple, Barclays, NPR, IBM, Microsoft and hundreds more. Business leaders and the advocates who influence them can have a tremendous social impact and healthy ROI as they follow a roadmap that leads to equal access. More than one billion people with disabilities in the world are eager to engage with you as customers, clients, partners, employees, and equal participants in civic and social activities. By developing a long-term commitment to accessibility and by using WAI resources to develop policy and implement a strategy to bring that commitment to life, your business will reach this market and is likely to thrive in unexpected and self-sustaining ways.
+Public use of the Internet is more than 25 years old. The web is no longer a novelty but an integrated, critical tool of modern life. As smart businesses integrate accessible design into their development and procurement processes, they understand the need for equal access by all people. The legal risks of ignoring accessibility are significant, and the benefits have also been demonstrated by leaders like Apple, Barclays, NPR, IBM, Microsoft and hundreds more. Business leaders and the advocates who influence them can have a tremendous social impact and healthy return on investment as they follow a roadmap that leads to equal access. More than one billion people with disabilities in the world are eager to engage with you as customers, clients, partners, employees, and equal participants in civic and social activities. By developing a long-term commitment to accessibility and by using WAI resources to develop policy and implement a strategy to bring that commitment to life, your business will reach this market and is likely to thrive in unexpected and self-sustaining ways.
 
 ## Resources
-This article was written after reading and exploring many external resources that shaped our understanding of the current landscape. We have provided links and notes about our research in this [Annotated Bibliography](https://w3c.github.io/wai-bcase/teach-advocate/business-case/bibliography/).
+This article was written after reading and exploring many external resources that shaped our understanding of the current landscape. We have provided links and notes about our research in this [Annotated Bibliography]({{ "/teach-advocate/business-case/bibliography/" | relative_url }}).
 
 Also, the WAI website has an extensive library of useful support to help companies realize the benefits outlined in this article for integrating accessibility into their development, procurement, and general business practice. Listed below are a few of what we consider especially useful as you start your accessibility program.
 
-* [Developing Organizational Accessibility Policies](https://www.w3.org/WAI/planning/org-policies/) Start with a clear policy.
-* [Planning and Managing Accessibility](https://www.w3.org/WAI/planning-and-managing/) A guide for implementation.
-* [Perspective Videos](https://www.w3.org/WAI/perspective-videos/) Watch how accessibility impacts users.
+* [Developing Organizational Accessibility Policies]({{ "/planning/org-policies/" | relative_url}}): Start with a clear policy.
+* [Planning and Managing Accessibility]({{ "/planning-and-managing/" | relative_url}}): A guide for implementation.
+* [Perspective Videos]({{ "/perspective-videos/" | relative_url}}): Watch how accessibility impacts users.
 
 These are suggested merely as a way to get started. We hope you will explore throughout the WAI site as you dive deeper into accessibility and begin to realize the related benefits for you and your organization.
 
