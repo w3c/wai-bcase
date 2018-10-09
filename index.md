@@ -303,23 +303,23 @@ A significant demonstration of the risk of ignoring accessibility requirements w
 {:/}
 
 Consideration of the cost and risk of inaction is a critical aspect of
-any Business case. The risks are real if companies ignore requirements for web accessibility. The cost of litigation and remediation can be significant as more governments recognize and legislate in favor of the universal
-right to participate in online digital information and services.
+any Business case. As web use is woven into modern life all over the world, governments and regulators began to mandate laws and policies that strengthen the rights of people with disabilities to participate in online digital information and services. 
 
-As web use is woven into modern life all over the world, regulators began to mandate laws and policies that strengthen the rights of people with disabilities. One of the earliest indications that there could be legal consequences to web accessibility was a complaint put to the Human Rights and Equal Opportunities Commission (HREOC) in 2000 about the inaccessibility of the website of the Sydney Olympics. The plaintiff claimed the site was a violation of the Commonwealth Disability Discrimination Act 1992.[^21]
+One of the earliest examples of legal consequences to web accessibility was a complaint put to the Human Rights and Equal Opportunities Commission (HREOC) in 2000 about the inaccessibility of the website of the Sydney Olympics. The plaintiff claimed the site was a violation of the Commonwealth Disability Discrimination Act 1992.[^21] The 2001 decision in the Sydney Olympics suit[^22] raised awareness of the need to address accessibility in the emerging practice of web communication. 
 
-The 2001 decision in the Sydney Olympics suit[^22] raised awareness of the need to address accessibility in the emerging practice of web communication. Over time, the legal risk increased with the adoption of more specific laws and policies in countries throughout the world.
+Over time, the legal risk increased with the adoption of more specific laws and policies in countries throughout the world.
 
--   The Convention on the Rights of People with Disabilities (CRPD) is a comprehensive human rights document that includes a direct reference to the rights of all people to have equal access to communications technology. Passed by the General Assembly of the United Nations, more than 140 countries ratified it by 2016. 
--   The European Commission adopted the European Accessibility Act, requiring
-    ATMs and banking services, PCs, telephones and TV equipment,
-    telephony and audiovisual services, transport, e-books, and e-commerce meet accessibility requirements.
--   In the US, the number of legal actions continues to rise and courts increasingly
-    decide in favor of equal access[^23], often citing the Americans with Disabilities Act (ADA.) Structured Negotiation is another way that legal pressure is brought to bear, encouraging companies to meet accessibility requirements while avoiding litigation. [^24]
+- The Convention on the Rights of People with Disabilities (CRPD) is a comprehensive human rights document that includes a direct reference to the rights of all people to have equal access to communications technology. Passed by the General Assembly of the United Nations, more than 175 countries ratified it by 2018. 
 
-Change occurs incrementally and steadily. Legislation continues to define digital accessibility further, creating enforcement mechanisms to ensure compliance with new laws. An example is Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. The government fines commercial companies that do not comply.[^25] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate [^26]. Between government oversight and regulation on the one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
+- The European Commission adopted the European Accessibility Act, requiring ATMs and banking services, PCs, telephones and TV equipment, telephony and audiovisual services, transport, e-books, and e-commerce meet accessibility requirements.
 
-**With legal risks increasing, smart businesses - particularly those with global activities - are creating accessibility policies and programs to mitigate risk to protect both their assets and their reputations.**
+- In the US, the number of legal actions continues to rise and courts increasingly decide in favor of equal access[^23], often citing the Americans with Disabilities Act (ADA). Structured Negotiation is another way that legal pressure is effective, encouraging companies to meet accessibility requirements while avoiding litigation.[^24]
+
+In Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. The government fines commercial companies that do not comply.[^25] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate[^26]. 
+
+Between government oversight and regulation on the one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
+
+**With legal risks increasing, smart businesses – particularly those with global activities – are creating accessibility policies and programs to mitigate risk to protect both their assets and their reputations.**
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: ADA and Website Accessibility " class="" %}
