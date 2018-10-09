@@ -66,9 +66,9 @@ Please note that we use "web accessibility" and "websites" throughout this artic
 
 <img src="{{ "/content-images/wai-bcase/business-case.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-A business case for any course of action is relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating
+Organizations and enterprises of all kinds require a business case for the pursuit of a policy or course of action. Whether the organization is commercial, educational, non-profit, or governmental, it requires justification for dedicating
 resources such as money or effort in support of a specific
-organizational need. We will use “business” in this article to refer to
+organizational goal. "Business” in this article refers to
 all types of organizations with the understanding that different aspects
 will be relevant depending on the organizational focus and
 purpose. For example, government businesses may be more committed to the
