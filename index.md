@@ -187,12 +187,9 @@ everyone.” Among the innovations cited as examples are these:
 
 <img src="{{ "/content-images/wai-bcase/brand.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-Fewer things are more important to businesses of all kinds than the protection and enhancement of their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^9]
+Businesses need to protect and enhance their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^9] Further studies[^10] emphasize the benefits to the brand of companies that institute policies of broad diversity. 
 
-Further studies[^10] emphasize the benefits to the brand of companies that institute policies of broad diversity. Employing people with disabilities is an essential aspect of creating a diverse workforce. To be successful, the technology that employees use, including websites and applications, must be accessible.
-
-A well-recognized example of how a brand can be affected is Microsoft. After long advocacy and some criticism by accessibility
-advocates [^11], Microsoft made a real and appreciable commitment to accessibility demonstrated by genuine engagement with stakeholders of all abilities.[^12] The resulting improvements to products and services have strengthened its overall brand image [^13], and accessibility efforts are now lauded in the community of people with disabilities.[^14]
+Employing people with disabilities is an essential aspect of creating a diverse workforce. To be successful, the technology that employees use, including websites and applications, must be accessible.
 
 Barclays shared their approach to diversity and inclusion through the accessibility initiatives in their company and how that approach has made them a better company.
 
@@ -215,13 +212,16 @@ We want to leverage inclusive technology to enable and empower all people to ban
 
 When we shift our thinking away from the minimum legal compliance to focus instead on the commercial opportunity and the creative challenge of building better experiences for everyone, we create a more sustainable, customer orientated approach to digital information and services. 
 
-To help everyone understand Barclays accessibility-focused mindset, we've created a range of animations which help our colleagues understand what accessibility is all about, who benefits, and what the different types of impairments are. We've also shared these animations on our [Accessible Banking YouTube playlist](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy).
+To help everyone understand Barclays accessibility-focused mindset, we've created a range of animations which help our colleagues understand what accessibility is all about, who benefits, and what the different types of impairments are. We've also shared these animations on our [Accessible Banking YouTube playlist {% include_cached external.html %}](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy).
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-Barclays demonstrates how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is perceived as open and fair. People are proud to work there and to do business with Barclays. Read the [full Barclays case study](https://www.w3.org/community/wai-engage/wiki/Barclays_Bank_Case_Study) to learn more.   
+Barclays demonstrates how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is perceived as open and fair. People are proud to work there and to do business with Barclays. Read the [full Barclays case study {% include_cached different.html %}](https://www.w3.org/community/wai-engage/wiki/Barclays_Bank_Case_Study) to learn more.
+
+Another well-recognized example of how a brand can be affected is Microsoft. After long advocacy and some criticism by accessibility
+advocates [^11], Microsoft made a real and appreciable commitment to accessibility demonstrated by genuine engagement with stakeholders of all abilities.[^12] The resulting improvements to products and services have strengthened its overall brand image [^13], and accessibility efforts are now lauded in the community of people with disabilities.[^14]
 
 ### Increase Market Reach
 
