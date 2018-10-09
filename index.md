@@ -327,7 +327,7 @@ The blind plaintiff shopped at the local Winn-Dixie grocery store and pharmacy i
 Winn-Dixie asked the court to dismiss the suit based on their argument that a website is not a public accommodation covered by Title III of the ADA. The court decided otherwise, allowed the plaintiff to recover their attorney fees. The decision included the following conclusions by the court: 
 
 -   The link between the website and Winn-Dixie Stores was a circumstance that made Title III of the ADA, applicable to “Public Accommodations,” relevant in this situation.
--   The website must be be made accessible to *“individuals with disabilities who use computers, laptops, tablets, and smartphones.”*
+-   The website must be made accessible to *“individuals with disabilities who use computers, laptops, tablets, and smartphones.”*
 
 The court required the chain of grocery stores to
 
