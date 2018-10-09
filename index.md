@@ -107,30 +107,28 @@ The sections below explore key advantages of web accessibility to businesses of 
 
 <img src="{{ "/content-images/wai-bcase/innovation.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-Integrating accessibility sparks innovation by removing architectural, digital, and social barriers that can get in
-the way.[^2] Some examples:
+Integrating accessibility removes architectural, digital, and social barriers that can get in the way of innovation[^2], for example:
+
 
 -   Accessible design thinking creates flexible interaction options
     useful beyond people with disabilities.
-    
--   Research and development of the artificial retina project to help restore sight for blind patients may also help future robots with real-time image-processing systems, effectively enabling them to "see." [^3]
+
+-   Interaction design moves beyond screens when accessibility is a consideration and toward interactions that are more human-centered, natural, and contextual. 
+
+-   Accessibility is closely related to general usability – both aim to define and deliver a more intuitive user experience.
+
+-   Innovations like the typewriter, telephone, punch cards, text to speech, email, and voice controls were initially meant to include those with a disability, and all have found a much broader application.[^4]
 
 -   Driverless cars, so promising for the independence of blind people, are projected to also
     help solve traffic fatalities and congestion.
 
--   Innovations like the typewriter, telephone, punch cards, text to speech, email, and voice controls were initially meant to include those with a disability, and all have found a much broader application.[^4]
-    
--   Accessibility is closely related to general usability — both aim to define and deliver a more intuitive user experience.
+-   Research and development of the artificial retina project to help restore sight for blind patients may also help future robots with real-time image-processing systems, effectively enabling them to "see." [^3]
 
--   Interaction design moves beyond screens when accessibility is a consideration and toward interactions that are more human-centered, natural, and contextual. 
+Accessible design is by its nature flexible, allowing content to faithfully render across a broad spectrum of devices, platforms, assistive technologies, and operating systems. In physical environments, everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features become options that are also often used more widely.
 
-Accessible design is by nature flexible, allowing content to faithfully
-render across a broad spectrum of devices, platforms, assistive
-technologies, and operating systems. In physical environments, everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features become options that are also often used more widely.
+A compelling example comes from the early 2000’s, when people increasingly used mobile devices to browse the web. Websites which were accessible and standards-compliant were in many cases more mobile-ready as they did not rely on mouse input. This experience led to the responsive-design trend that has accessibility at its core.[^5] 
 
-A compelling example of how this works comes from the early 2000’s as the online world increasingly adopted mobile devices to browse the web. Those websites which were accessible and standards-compliant were in many cases more mobile-ready as interaction options were already baked in. Imagine the delight of those who were already committed to and had designed for accessibility! This revelation led to the responsive-design trend that has accessibility at its core.[^5] 
-
-Apple development practice is another demonstration of how accessibility can drive innovation. [^6]  
+Apple’s development practice is another demonstration of how accessibility can drive innovation. [^6]  
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: Apple " class="" %}
@@ -143,7 +141,7 @@ Apple development practice is another demonstration of how accessibility can dri
 
 Apple engineers have been innovators in the accessibility space since the inception of the company, both willing to listen and work with outside constituents. As well, the company anticipates market direction by integrating disability needs into product development. Examples include:
 
--  <strong>iTunes U:</strong> In the early 2000’s, the 26-campus California State University system was unable to take advantage of Apple’s iTunes U educational program because the application was not fully accessible to blind students. Teachers within the CSU system were prohibited from using it. This was resolved by innovation, not litigation as Apple listened to CSU’s concerns and worked to make iTunes accessible on both the Mac and Windows platforms. CSU System was soon able to use the program widely.
+-  <strong>iTunes U:</strong> In the early 2000’s, the 26-campus California State University system was unable to take advantage of Apple’s iTunes U educational program because the application was not fully accessible to blind students. Teachers within the CSU system were prohibited from using it. This was resolved by innovation, not litigation, as Apple listened to CSU’s concerns and worked to make iTunes accessible on both the Mac and Windows platforms. CSU System was soon able to use the program widely.
 
 -  <strong>VoiceOver on iPhone:</strong> Early in the evolution of the iPhone, Apple began considering the implications that a touchscreen device would have on the blind. Iterating over several years behind the scenes, the company invested the resources to develop the voice technology that led to VoiceOver, the world’s first gesture-based screen reader. Within weeks of launch, Apple received a special commendation from the National Federation of the Blind "For designing the first fully accessible touchscreen interface.” [^7]
 
