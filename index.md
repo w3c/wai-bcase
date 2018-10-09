@@ -66,14 +66,7 @@ This article includes statistics, examples, and case studies to illustrate the k
 
 <img src="{{ "/content-images/wai-bcase/business-case.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-“Business case” is a term relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating
-resources such as money or effort in support of a specific
-organizational need. We will use “business” in this article to refer to
-all types of organizations with the understanding that different aspects
-will be relevant depending on the organizational focus and
-purpose. For example, government businesses may be more committed to the
-legal and equity aspects while commercial businesses care more about the
-brand enhancement provided by an integrated accessibility program.
+Business cases are relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating resources such as money or effort towards a specific organizational need. In this article, “business” refers to all types of organizations with the understanding that different aspects will be relevant depending on the organizational focus and purpose. For example, government businesses may be more committed to the legal and equity aspects while commercial businesses care more about the brand enhancement provided by an integrated accessibility program.
 
 Determining which of the many benefits of web accessibility are most
 relevant in your business environment will help you build the most
@@ -81,12 +74,11 @@ compelling Business case for your situation. Use these resources to
 inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
 
 
-**Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.**
+**Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging and that meet emerging global legal requirements.**
 
 A research study of Fortune 100 companies indicates that disability inclusion as part of an overall diversity strategy is common practice among high performing businesses.[^1]
 
-When accessibility is part of strategic planning, businesses are more
-readily equipped for success in our connected world of commerce, academia, and civic engagement.
+When accessibility is part of strategic planning, businesses are better equipped for success in our connected world of commerce, academia, and civic engagement.
 
 Let’s look at some examples and research outcomes that will help you
 make the business case that is most effective in your business environment.  
