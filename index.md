@@ -228,8 +228,8 @@ Barclays demonstrates how a strong commitment to accessibility results in distri
 <img src="{{ "/content-images/wai-bcase/market-reach.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 The market of people with disabilities is large and growing as the
-global population ages. In the UK, people with disabilities and their
-families spend at least £249 billion every year. In the US, the annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is $6 trillion. Consider these facts when estimating market size:
+global population ages. In the UK, where the large disability market is known as the Purple Pound, people with disabilities and their
+families spend at least £249 billion every year. In the US, the annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is nearly $7 trillion. Consider these facts when estimating market size:
 
 -   At least one billion people – 15% of the world’s population – have a
     recognized disability[^15]
