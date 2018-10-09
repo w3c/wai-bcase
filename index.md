@@ -126,9 +126,9 @@ Integrating accessibility removes architectural, digital, and social barriers th
 
 Accessible design is by its nature flexible, allowing content to faithfully render across a broad spectrum of devices, platforms, assistive technologies, and operating systems. In physical environments, everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features become options that are also often used more widely.
 
-A compelling example comes from the early 2000’s, when people increasingly used mobile devices to browse the web. Websites which were accessible and standards-compliant were in many cases more mobile-ready as they did not rely on mouse input. This experience led to the responsive-design trend that has accessibility at its core.[^5] 
+A compelling example comes from the early 2000’s, when people increasingly used mobile devices to browse the web. Websites which were accessible and standards-compliant were in many cases more mobile-ready as they did not rely on mouse input. Imagine the delight of those who were already committed to and had designed for accessibility! This revelation led to the responsive-design trend that has accessibility at its core.[^5] 
 
-Apple’s development practice is another demonstration of how accessibility can drive innovation. [^6]  
+Development practice at Apple is another demonstration of how accessibility can drive innovation in leading technology companies. [^6]  
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: Apple " class="" %}
