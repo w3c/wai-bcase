@@ -66,14 +66,14 @@ This article includes statistics, examples, and case studies to illustrate the k
 
 <img src="{{ "/content-images/wai-bcase/business-case.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-“Business case” is a term relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating
+A business case for any course of action is relevant to organizations and enterprises of all kinds, whether the organization is commercial, educational, non-profit, or governmental. It is the justification for dedicating
 resources such as money or effort in support of a specific
 organizational need. We will use “business” in this article to refer to
 all types of organizations with the understanding that different aspects
 will be relevant depending on the organizational focus and
 purpose. For example, government businesses may be more committed to the
 legal and equity aspects while commercial businesses care more about the
-brand enhancement provided by an integrated accessibility program.
+brand and market enhancement provided by an integrated accessibility program.
 
 Determining which of the many benefits of web accessibility are most
 relevant in your business environment will help you build the most
@@ -85,8 +85,7 @@ inspire confidence among leaders and decision makers that continued investment i
 
 A research study of Fortune 100 companies indicates that disability inclusion as part of an overall diversity strategy is common practice among high performing businesses.[^1]
 
-When accessibility is part of strategic planning, businesses are more
-readily equipped for success in our connected world of commerce, academia, and civic engagement.
+When accessibility is part of strategic planning, businesses are better equipped for success in our connected world of commerce, academia, and civic engagement.
 
 Let’s look at some examples and research outcomes that will help you
 make the business case that is most effective in your business environment.  
