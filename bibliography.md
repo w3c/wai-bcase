@@ -36,7 +36,7 @@ The sources below are categorized as much as possible according to their central
 
 ### Something to share?
 
-We welcome your contributions to the Business Case for Accessibility. Share articles, case studies, employment success stories, and any related resources or topics. To submit, please write to the editors list of the Accessibility Education and Outreach Working Group at wai-eo-editors@w3.org . Thank you!
+We welcome your contributions to the Business Case for Accessibility. Share articles, case studies, employment success stories, and any related resources or topics. To submit, please write to the editors list of the Accessibility Education and Outreach Working Group at <wai-eo-editors@w3.org>. Thank you!
 
 ## Legal Issues
 * [_Sydney Olympics 2000 Website Accessibility Decision_](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html). Independent Living Institute (2000).<br />
