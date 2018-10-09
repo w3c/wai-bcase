@@ -227,19 +227,18 @@ Barclays demonstrates how a strong commitment to accessibility results in distri
 
 <img src="{{ "/content-images/wai-bcase/market-reach.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-The market of people with disabilities is large, and it is growing as the
+The market of people with disabilities is large and growing as the
 global population ages. In the UK, people with disabilities and their
-families spend at least £249 billion every year, which is known as the
-UK Purple Pound. In the US, the annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is $6 trillion, which is equivalent to that of China. Consider these facts when estimating market size:
+families spend at least £249 billion every year. In the US, the annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is $6 trillion. Consider these facts when estimating market size:
 
--   At least one billion people - 15% of the world’s population - have a
+-   At least one billion people – 15% of the world’s population – have a
     recognized disability[^15]
 -   As the population ages, many more acquire disability and yet do not
     identify as a “person with a disability”[^16]
--   In countries with life expectancies of over 70 years of age, people
-    spend 11.5 percent of their lifespan living with a disability.[^17]
--   Globally, the extended market is estimated at 2.3 billion people who
-    control an incremental $6.9 trillion in annual disposable
+-   In countries with life expectancies of over 70 years of age, people
+    spend 11.5 percent of their lifespan living with a disability.[^17]
+-   Globally, the extended market is estimated at 2.3 billion people who
+    control an incremental $6.9 trillion in annual disposable
     income.[^18]
     
 A Forrester study commissioned by Microsoft concluded that accessibility could contribute to cost savings when it is integrated into existing and ongoing development cycles. [^19] Technology updates and redesigns that include accessibility along with other best practices have demonstrated reduced costs for maintenance and service. Moreover, according to Microsoft, as accessibility features are included, overall customer satisfaction improves. 
@@ -249,12 +248,13 @@ A Forrester study commissioned by Microsoft concluded that accessibility could c
   <cite>Microsoft’s app developer guide</cite>
 </blockquote>
 
-Accessible design considerations often lead to improvements in general customer experience and customer loyalty. For customers with disabilities, such improvement is essential for equal access. Worth noting as well are how accessibility provides options that are useful to all customers in various situations. For example, web accessibility also benefits: 
-* people using mobile phones, smartwatches, smart TVs, and other devices with small screens, different input modes, etc.,
+Accessible design considerations often lead to improvements in general customer experience and loyalty. For customers with disabilities, such improvements are essential for equal access. However, accessibility provides options that are useful to all customers in various situations. For example, web accessibility also benefits:
+
+* people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.,
 * older people with changing abilities due to ageing,
 * people with “temporary disabilities” such as a broken arm or lost glasses,
-* challenging situations like bright, glaring sunlight or in noisy environments where audio can't be heard, 
-* those with a slow Internet connection, or who have limited or expensive bandwidth - common in rural areas and some geographical regions.
+* challenging situations like bright, glaring sunlight or noisy environments where audio can't be heard, 
+* those with a slow internet connection, limited or expensive bandwidth, which is common in rural areas and some geographical regions.
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: NPR Weekly Broadcast " class="" %}
@@ -277,7 +277,7 @@ capture the following data:
 -   unique visitors increased 4.18%, and
 -   new inbound links to transcript accounted for an increase of 3.89%
 
-Read more detail and the full report of the [This American Life Case Study](https://www.3playmedia.com/customers/case-studies/this-american-life/) and how it was conducted.
+Read more detail and the full report of the [This American Life Case Study {% include_cached external.html %}](https://www.3playmedia.com/customers/case-studies/this-american-life/) and how it was conducted.
 
 {::nomarkdown}
 {% include box.html type="end" %}
