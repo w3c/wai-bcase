@@ -13,7 +13,7 @@ github:
 {::nomarkdown}
 {% include_cached box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
-To create a Business Case that is relevant for the 21st century, we relied on formal research, grant funded studies, editorial comment, the historical record, anecdotal stories, and case studies provided by the businesses themselves. The bibliography here includes a brief description of the resource.
+To create a Business Case that is relevant for the 21st century, we relied on formal research, grant funded studies, editorial comment, the historical record, anecdotal stories, and case studies provided by the businesses themselves. The bibliography here includes a brief description of the referenced resource.
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
@@ -50,6 +50,10 @@ Summary: Academic exploration, based on global trends of whether and to what ext
 * [UN Convention on the Rights of Persons with Disabillities](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html) United Nations Department of Economic and Social Affairs (2006) <br />
 Type: Online portal page  <br />
 Summary: Brief description of the convention and its passage with links to the full text in many languages.
+
+* [Signatories to the UN Convention on the Rights of Persons with Disabilities](https://treaties.un.org/pages/ViewDetails.aspx?src=IND&mtdsg_no=IV-15&chapter=4&clang=_en) United Nations Treaty Collection. 2018<br />
+Type: Web site archive
+Summary: A list of signers to the UN Convention along with the date that they signed on to implement it. 
 
 * [_Absence of U.S. Regulation Leads to Web Accessibility Lawsuits._](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits). Roggio, A.; Practical Ecommerce (2015).<br />
 Type: Opinion piece/editorial  <br />
