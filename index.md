@@ -124,7 +124,7 @@ Accessible design is by its nature flexible, allowing content to faithfully rend
 
 A compelling example comes from the early 2000’s, when people increasingly used mobile devices to browse the web. Websites which were accessible and standards-compliant were in many cases more mobile-ready as they did not rely on mouse input. Imagine the delight of those who were already committed to and had designed for accessibility! This revelation led to the responsive-design trend that has accessibility at its core.[^5] 
 
-Development practice at Apple is another demonstration of how accessibility can drive innovation in leading technology companies. [^6]  
+Tech giants Apple and Google are recognized as leading innovators. Their development practices demonstrate the value of accessible design thinking.
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: Apple " class="" %}
@@ -135,7 +135,7 @@ Development practice at Apple is another demonstration of how accessibility can 
   <cite>Sarah Herrlinger, Director of Global Accessibility Policy and Initiatives, Apple</cite>
 </blockquote>
 
-Apple engineers have been innovators in the accessibility space since the inception of the company, both willing to listen and work with outside constituents. As well, the company anticipates market direction by integrating disability needs into product development. Examples include:
+Apple engineers have been innovators in the accessibility space since the inception of the company, both willing to listen and work with outside constituents. [^6] As well, the company anticipates market direction by integrating disability needs into product development. Examples include:
 
 -  <strong>iTunes U:</strong> In the early 2000’s, the 26-campus California State University system was unable to take advantage of Apple’s iTunes U educational program because the application was not fully accessible to blind students. Teachers within the CSU system were prohibited from using it. This was resolved by innovation, not litigation, as Apple listened to CSU’s concerns and worked to make iTunes accessible on both the Mac and Windows platforms. CSU System was soon able to use the program widely.
 
@@ -171,7 +171,7 @@ everyone.” Among the innovations cited as examples are these:
     adopted as a great convenience by millions of others
 -   artificial intelligence advances are based on research originally
     done to provide visual context to blind users
--   auto-captioning for the deaf using machine learning is now being turned to broader applications
+-   auto-captioning for the deaf using machine learning was problematic at first and as it has been steadily improving, is now being turned to broader applications
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -254,7 +254,7 @@ Accessible design considerations often lead to improvements in general customer 
 {% include box.html type="start" h="4" title="Case Study: NPR Weekly Broadcast " class="" %}
 {:/}
 
-This American Life is a broadcast heard on more than 500 National Public Radio (NPR) stations by about 2.1 million listeners each week in the United States. In 2011, in response to new FCC regulations around broadcast media, the broadcaster committed to creating transcripts for their entire archive of recorded programs. A study by their media partner,  conducted over several months, concluded that the provision of transcripts not only met legal obligations but returned significant benefits including:
+This American Life is a broadcast heard on more than 500 National Public Radio (NPR) stations by about 2.1 million listeners each week in the United States. In 2011, in response to new regulations around broadcast media from the US Federal Communications Commision (FCC),  the broadcaster committed to creating transcripts for their entire archive of recorded programs. A study by their media partner, conducted over several months, concluded that the provision of transcripts not only met legal obligations but returned significant benefits including:
 
 -   search traffic increased 6.86%,
 -   better comprehension for visitors who use English as a second
@@ -309,7 +309,7 @@ Over time, the legal risk increased with the adoption of more specific laws and 
 
 - In the US, the number of legal actions continues to rise and courts increasingly decide in favor of equal access[^23], often citing the Americans with Disabilities Act (ADA). Structured Negotiation is another way that legal pressure is effective, encouraging companies to meet accessibility requirements while avoiding litigation.[^24]
 
-In Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. The government fines commercial companies that do not comply.[^25] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate[^26]. 
+In Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. The government fines commercial companies that do not comply.[^25] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate.[^26] 
 
 Between government oversight and regulation on the one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
