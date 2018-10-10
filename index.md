@@ -39,7 +39,7 @@ inline_css: |
 
 As more retail, educational, government, social service, and personal communication activities have moved online, the business case for web accessibility is stronger than ever.
 
-This article defines the purpose and guides how to construct the business case for web accessibility that is appropriate and relevant to organizations of different types. It includes statistics, examples, and case studies to illustrate the key benefits and risks. Business performance and current research indicate that accessibility integration can help companies realize these benefits:
+This article defines the purpose and guides how to construct the business case for web accessibility that is appropriate and relevant to organizations of different types. It includes statistics, examples, and case studies to illustrate the key benefits and risks. Research indicates that integrating accessibility into businesses can help companies realize these benefits:
 
 -   <strong>Drive Innovation:</strong> Accessibility features in products and services often solve unanticipated problems.
 -   <strong>Enhance Your Brand:</strong> Diversity and inclusion efforts so important to business success are accelerated with a clear, well-integrated accessibility commitment.  
@@ -66,24 +66,21 @@ Please note that we use "web accessibility" and "websites" throughout this artic
 
 <img src="{{ "/content-images/wai-bcase/business-case.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-Organizations and enterprises of all kinds require a business case for the pursuit of a policy or course of action. Whether the organization is commercial, educational, non-profit, or governmental, it requires justification for dedicating
+A business case is a necessary tool for organizations when planning for various initiatives. Whether the organization is commercial, educational, non-profit, or governmental, it requires justification for dedicating
 resources such as money or effort in support of a specific
-organizational goal. "Business” in this article refers to
+organizational policy or goal. "Business” in this article refers to
 all types of organizations with the understanding that different aspects
 will be relevant depending on the organizational focus and
 purpose. For example, government businesses may be more committed to the
 legal and equity aspects while commercial businesses care more about the
 brand and market enhancement provided by an integrated accessibility program.
 
-Determining which of the many benefits of web accessibility are most
-relevant in your business environment will help you build the most
-compelling Business case for your situation. Use these resources to
-inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
+To create a compelling business case, it is important to highlight the most relevant accessibility benefits within your operational landscape. This article provides research and examples to inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
 
 
 **Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.**
 
-A research study of Fortune 100 companies indicates that disability inclusion as part of an overall diversity strategy is common practice among high performing businesses.[^1]
+A research study of Fortune 100 companies indicates that disability inclusion, as part of an overall diversity strategy, is common practice among high performing businesses.[^1]
 
 When accessibility is part of strategic planning, businesses are better equipped for success in our connected world of commerce, academia, and civic engagement.
 
@@ -110,7 +107,7 @@ Integrating accessibility removes architectural, digital, and social barriers th
 
 
 -   Accessible design thinking creates flexible interaction options
-    useful beyond people with disabilities.
+    useful beyond people with disabilities. 
 
 -   Interaction design moves beyond screens when accessibility is a consideration and toward interactions that are more human-centered, natural, and contextual. 
 
