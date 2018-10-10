@@ -389,7 +389,7 @@ These are suggested merely as a way to get started. We hope you will explore thr
 
 [^18]: [*Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e). Gaudiano, P. and Hunt, E.; Forbes.com (2016).
 
-[^19]: [*Assessing the Value 0f Accessible Technologies for Organizations*](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf). Parks, S., and Sedov V.; Forrester Research, Inc. (2017)
+[^19]: [*Assessing the Value 0f Accessible Technologies for Organizations*](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf). Parks, S., and Sedov V.; Forrester Research, Inc. (2016)
 
 [^20]: [*National Federation of the Blind v. Target Corp.*](https://en.wikipedia.org/wiki/National_Federation_of_the_Blind_v._Target_Corp.) Wikipedia. (2008)
 
