@@ -37,16 +37,14 @@ inline_css: |
 {% include_cached box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-As more retail, educational, government, social service, and personal communication activities have moved online, the business case for web accessibility is stronger than ever.
-
-This article defines the purpose and guides how to construct the business case for web accessibility that is appropriate and relevant to organizations of different types. It includes statistics, examples, and case studies to illustrate the key benefits and risks. Research indicates that integrating accessibility into businesses can help companies realize these benefits:
+This article examines the rationale for organizations to address accessibility. It includes tangible and intangible benefits, and the risks of not addressing accessibility adequately. It explores how accessibility can:
 
 -   <strong>Drive Innovation:</strong> Accessibility features in products and services often solve unanticipated problems.
 -   <strong>Enhance Your Brand:</strong> Diversity and inclusion efforts so important to business success are accelerated with a clear, well-integrated accessibility commitment.  
 -   <strong>Extend Market Reach:</strong> The global market of people with disabilities is over 1 billion people with a spending power of more than $6 trillion. Accessibility often improves the online experience for all users.
 -   <strong>Minimize Legal Risk:</strong> Many countries have laws requiring digital accessibility, and the issue is of increased legal concern.
 
-Please note that we use "web accessibility" and "websites" throughout this article and that those terms are meant to include web applications and other digital technologies as well. 
+Note that "web accessibility" and "websites" throughout this article include web applications and other digital technologies.
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
