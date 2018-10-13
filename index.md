@@ -69,11 +69,9 @@ resources such as money or effort in support of a specific
 organizational policy or goal. "Business” in this article refers to
 all types of organizations with the understanding that different aspects
 will be relevant depending on the organizational focus and
-purpose. For example, government businesses may be more committed to the
-legal and equity aspects while commercial businesses care more about the
-brand and market enhancement provided by an integrated accessibility program.
+purpose. For example, government agencies may be strongly motivated by legal and equity aspects. Commercial businesses may be more persuaded by innovation and market expansion opportunities. Educational and nonprofit businesses may be especially drawn to brand enhancement. 
 
-To create a compelling business case, it is important to highlight the most relevant accessibility benefits within your operational landscape. This article provides research and examples to inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
+To create a compelling business case, it is important to highlight the most relevant accessibility benefits within your operational landscape. It is most likely your business will respond to a mix of motivating factors as you consider implementing an integrated accessibility program.  This article provides research and examples to inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
 
 
 **Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.**
