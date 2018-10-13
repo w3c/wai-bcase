@@ -121,7 +121,7 @@ Accessible design is by its nature flexible, allowing content to faithfully rend
 
 A compelling example comes from the early 2000’s, when people increasingly used mobile devices to browse the web. Accessible and standards-compliant websites were in many cases more mobile-ready as they did not rely on mouse input. Imagine the delight of those who were already committed to and had designed for accessibility! This revelation led to the responsive-design trend that has accessibility at its core.[^5] 
 
-Tech giants Apple and Google are recognized as leading innovators. Their development practices demonstrate the value of accessible design thinking.
+Case studies from a couple of large technology companies provide useful examples for companies of all sizes.
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: Apple " class="" %}
