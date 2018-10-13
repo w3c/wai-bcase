@@ -72,7 +72,7 @@ Type: Blog post <br />
 Summary: Structured Negotiation author and pioneer and Disability Rights attorney Lainey Feingold maintains updates on legal actions as well as other related, easy to follow perspectives on digital accessibility. Lots of relevant information throughout the site. 
 
 * [_What You Can Learn from Major Accessibility lawsuits_](https://www.3playmedia.com/2018/09/20/accessibility-lawsuits/){:rel="nofollow"}. Sauld, S.; 3PlayMedia (2018)<br />
-Type: Blog Post
+Type: Blog Post <br />
 Summary: An overview with lessons learned of recent accessibility lawsuits in the US with examples from retail and higher education. The focus is to help organizations learn from previous accessibility lawsuits that a pro-active accessibility program can not only minimize legal risk, but also help to make the web accessible for all users, including those with disabilities.
 
 ## Accessibility As Innovation
