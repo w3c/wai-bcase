@@ -163,13 +163,12 @@ a level playing field, but because (it) makes life more livable for
 everyone.” Among the innovations cited as examples are these:
 
 -   contrast minimums, required for people with low vision, help all people see in bright light glare situations
--   auto-complete, initially provided for people with disabilities, is now widely
-    used by all
+-   auto-complete, initially provided for people with disabilities, is now widely used by all
 -   voice control, implemented for users with physical impairments, has been more widely
     adopted as a great convenience by millions of others
 -   artificial intelligence advances are based on research originally
     done to provide visual context to blind users
--   auto-captioning for the deaf using machine learning was problematic at first and as it has been steadily improving, is now being turned to broader applications
+-   auto-captioning for the deaf using machine learning has been problematic for the main target population of deaf users and many feel it is still inadequate to meet that need. However, work continues and machine learning itself is steadily improving and has found broader applications die to this effort.
 
 {::nomarkdown}
 {% include box.html type="end" %}
