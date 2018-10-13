@@ -1,5 +1,5 @@
 ---
-title: "The Business Case for Accessibility: <br />Annotated Bibliography"
+title: "The Business Case for Digital Accessibility: <br />Annotated Bibliography"
 permalink: /teach-advocate/business-case/bibliography/
 layout: default
 doc-note-type: draft
