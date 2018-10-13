@@ -103,10 +103,9 @@ The sections below explore key advantages of web accessibility to businesses of 
 
 Integrating accessibility removes architectural, digital, and social barriers that can get in the way of innovation[^2], for example:
 
+-   Accessible design thinking provides varied and flexible ways for users to interact with websites and applications, options that are useful for people with and without disabilities.
 
--   Accessible design thinking creates flexible interaction options useful for people with and without disabilities.
-
--   Interaction design moves beyond screens when accessibility is a consideration and toward interactions that are more human-centered, natural, and contextual. 
+-   Design of user interaction considers experiences other than screens when accessibility is a consideration. The result is interaction that is more human-centered, natural, and contextual. 
 
 -   Accessibility is closely related to general usability – both aim to define and deliver a more intuitive user experience.
 
@@ -115,13 +114,13 @@ Integrating accessibility removes architectural, digital, and social barriers th
 -   Driverless cars, so promising for the independence of blind people, are projected to also
     help solve traffic fatalities and congestion.
 
--   Research and development of the artificial retina project to help restore sight for blind patients may also help future robots with real-time image-processing systems, effectively enabling them to "see." [^3]
+-   Research and development of the artificial retina project to help restore sight for blind participants may also help future robots with real-time image-processing systems, effectively enabling them to "see." [^3]
 
 Accessible design is by its nature flexible, allowing content to faithfully render across a broad spectrum of devices, platforms, assistive technologies, and operating systems. In physical environments, everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features become options that are also often used more widely.
 
 A compelling example comes from the early 2000’s, when people increasingly used mobile devices to browse the web. Accessible and standards-compliant websites were in many cases more mobile-ready as they did not rely on mouse input. Imagine the delight of those who were already committed to and had designed for accessibility! This revelation led to the responsive-design trend that has accessibility at its core.[^5] 
 
-Case studies from a couple of large technology companies provide useful examples for companies of all sizes.
+The following case studies from two large technology companies provide useful examples for companies of all sizes.
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: Apple " class="" %}
@@ -132,11 +131,11 @@ Case studies from a couple of large technology companies provide useful examples
   <cite>Sarah Herrlinger, Director of Global Accessibility Policy and Initiatives, Apple</cite>
 </blockquote>
 
-Apple engineers have been innovators in the accessibility space since the inception of the company, both willing to listen and work with outside constituents. [^6] As well, the company anticipates market direction by integrating disability needs into product development. Examples include:
+Apple engineers have been innovators in the accessibility space since the inception of the company, both willing to listen and work with outside constituents. [^6] The company also anticipates market direction by integrating disability needs into product development. Examples include:
 
 -  <strong>iTunes U:</strong> In the early 2000’s, the 26-campus California State University system was unable to take advantage of Apple’s iTunes U educational program because the application was not fully accessible to blind students. Teachers within the CSU system were prohibited from using it. This was resolved by innovation, not litigation, as Apple listened to CSU’s concerns and worked to make iTunes accessible on both the Mac and Windows platforms. CSU System was soon able to use the program widely.
 
--  <strong>VoiceOver on iPhone:</strong> Early in the evolution of the iPhone, Apple began considering the implications that a touchscreen device would have on the blind. Iterating over several years behind the scenes, the company invested the resources to develop the voice technology that led to VoiceOver, the world’s first gesture-based screen reader. Within weeks of launch, Apple received a special commendation from the National Federation of the Blind "For designing the first fully accessible touchscreen interface.” [^7]
+-  <strong>VoiceOver on iPhone:</strong> Early in the evolution of the iPhone, Apple began considering the implications that a touchscreen device would have on their blind customers. Iterating over several years behind the scenes, the company invested the resources to develop the voice technology that led to VoiceOver, the world’s first gesture-based screen reader. Within weeks of launch, Apple received a special commendation from the National Federation of the Blind "For designing the first fully accessible touchscreen interface.” [^7]
 
 Screen readers on other touch screen devices have now become more prevalent in the industry, and Apple led the charge in striving for inclusion for all. 
 
@@ -167,7 +166,7 @@ everyone.” Among the innovations cited as examples are these:
     adopted as a great convenience by millions of others
 -   artificial intelligence advances are based on research originally
     done to provide visual context to blind users
--   auto-captioning for the deaf using machine learning has been problematic for the main target population of deaf users and many feel it is still inadequate to meet that need. However, work continues and machine learning itself is steadily improving and has found broader applications die to this effort.
+-   auto-captioning using machine learning has been problematic for the main target population of deaf users and many feel it is still inadequate to meet that need. However, work continues and machine learning itself is steadily improving and has found broader applications die to this effort.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -195,7 +194,7 @@ culture, creating new ways to communicate and consult with existing and
 potential customers. 
 
 <blockquote class="pull right">
-  <p>At Barclays, accessibility is about more than just disability. It's about helping everyone to work, bank and live their lives regardless of their age, situation, abilities or circumstances.</p>
+  <p>At Barclays, accessibility is about more than just disability. It's about helping everyone to work, bank and live their lives regardless of their age, situation, abilities or circumstances.</p><cite>Paul Smyth, Head of Digital Accessibility, Barclays</cite>
 </blockquote>
 
 We want to leverage inclusive technology to enable and empower all people to bank, work and reach their full potential. The Barclays Accessibility team does this by supporting digital teams to embed accessibility into our services and culture through effective governance, partnering, training, and tools. Establishing an enterprise-wide accessibility strategy, standards and programmes coupled with senior sponsorship helps support our publicly stated ambition of becoming the most accessible and inclusive Financial Times Stock Exchange (FTSE) company.
