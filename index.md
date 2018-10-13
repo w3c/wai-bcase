@@ -1,5 +1,5 @@
 ---
-title: "The Business Case for Accessibility"
+title: "The Business Case for Digital Accessibility"
 permalink: /teach-advocate/business-case/
 layout: default
 doc-note-type: draft
