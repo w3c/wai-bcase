@@ -144,7 +144,7 @@ Screen readers on other touch screen devices have now become more prevalent in t
 {% include box.html type="end" %}
 {:/}
 
-Innovation from voice interactions at Apple and elsewhere have contributed to the wealth of personal digital assistants now found in many homes and offices. Today millions of people use these devices, regardless of ability.  
+Innovation from voice interactions at Apple and elsewhere have contributed to the abundance of personal digital assistants now found in many homes and offices. Today millions of people use these devices, regardless of ability.  
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: Google " class="" %}
@@ -198,7 +198,7 @@ potential customers.
   <p>At Barclays, accessibility is about more than just disability. It's about helping everyone to work, bank and live their lives regardless of their age, situation, abilities or circumstances.</p>
 </blockquote>
 
-We want to leverage inclusive technology to enable and empower all people to bank, work and reach their full potential. The Barclays Accessibility team does this by supporting digital teams to embed accessibility into our services and culture through effective governance, partnering, training, and tools. Establishing an enterprise-wide accessibility strategy, standards and programmes coupled with senior sponsorship helps support our publicly stated ambition of becoming the most accessible and inclusive FTSE company.
+We want to leverage inclusive technology to enable and empower all people to bank, work and reach their full potential. The Barclays Accessibility team does this by supporting digital teams to embed accessibility into our services and culture through effective governance, partnering, training, and tools. Establishing an enterprise-wide accessibility strategy, standards and programmes coupled with senior sponsorship helps support our publicly stated ambition of becoming the most accessible and inclusive Financial Times Stock Exchange (FTSE) company.
 
 When we shift our thinking away from the minimum legal compliance to focus instead on the commercial opportunity and the creative challenge of building better experiences for everyone, we create a more sustainable, customer orientated approach to digital information and services. 
 
