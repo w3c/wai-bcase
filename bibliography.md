@@ -95,7 +95,7 @@ Summary: The author interviews  Neil Lenane, Business Leader of Talent Managemen
 ## Increase Revenue/Decrease Costs
 * [_SEO and Web Accessibility CrossOver_](http://www.iadcontrol.com/seo-and-web-accessibility-crossover){:rel="nofollow"}. By iAdControl.com. (2018) <br />
 Type: Online article <br />
-Summary: Compilation of examples and links to other resources produced to celebrate Global Accessibility Aawreness day (GAAD) 2018 to illustrate how SEO and website accessibility crossover.  
+Summary: Compilation of examples and links to other resources produced to celebrate Global Accessibility Awareness Day (GAAD) 2018 by illustrating how SEO and website accessibility are mutually supportive and have common outcomes.  
 
 * [_Assessing the Value 0f Accessible Technologies for Organizations_](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf){:rel="nofollow"}. Parks, S. and Sedov V.; Forrester Research, Inc. (2017) <br />
 Type:Archived research study commisioned by Microsoft <br />
