@@ -10,7 +10,7 @@ github:
   path: 'index.md'
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> <strong>Draft in progress {{ site.time }} </strong></p>
-  <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Vicki Menezes Miller, Laura Keen <a href="./acknowledgements/">Acknowledgements</a> lists additional contributors.</p>
+  <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen <a href="./acknowledgements/">Acknowledgements</a> lists additional contributors.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 inline_css: |
   .hero {
@@ -104,8 +104,7 @@ The sections below explore key advantages of web accessibility to businesses of 
 Integrating accessibility removes architectural, digital, and social barriers that can get in the way of innovation[^2], for example:
 
 
--   Accessible design thinking creates flexible interaction options
-    useful beyond people with disabilities. 
+-   Accessible design thinking creates flexible interaction options useful for people with and without disabilities.
 
 -   Interaction design moves beyond screens when accessibility is a consideration and toward interactions that are more human-centered, natural, and contextual. 
 
