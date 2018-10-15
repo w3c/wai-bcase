@@ -44,7 +44,7 @@ This article examines the rationale for organizations to address accessibility. 
 -   <strong>Extend Market Reach:</strong> The global market of people with disabilities is over 1 billion people with a spending power of more than $6 trillion. Accessibility often improves the online experience for all users.
 -   <strong>Minimize Legal Risk:</strong> Many countries have laws requiring digital accessibility, and the issue is of increased legal concern.
 
-Note that "web accessibility" and "websites" throughout this article include include web and mobile applications and other digital technologies.
+Note that "web accessibility" and "websites" throughout this article include web and mobile applications and other digital technologies.
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
