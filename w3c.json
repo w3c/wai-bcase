@@ -1,5 +1,11 @@
 {
-    "group":      35532
-,   "contacts":   ["slhenry", "sharronrush", "yatil"]
-,   "shortName":  "wai-bcase"
+  "group": 35532,
+  "contacts": [
+    "slhenry",
+    "sharronrush",
+    "yatil"
+  ],
+  "shortName": "wai-bcase",
+  "repo-type": "article",
+  "policy": "open"
 }
