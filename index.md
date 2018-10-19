@@ -109,10 +109,10 @@ Integrating accessibility removes architectural, digital, and social barriers th
 
 -   Innovations like the typewriter, telephone, punch cards, text to speech, email, and voice controls were initially meant to include those with a disability, and all have found a much broader application.[^4]
 
--   Driverless cars, so promising for the independence of blind people, are projected to also
+-   Driverless cars, so promising for the independence of people who are blind, are projected to also
     help solve traffic fatalities and congestion.
 
--   Research and development of the artificial retina project to help restore sight for blind participants may also help future robots with real-time image-processing systems, effectively enabling them to "see." [^3]
+-   Research and development of the artificial retina project to help restore sight for participants who are blind may also help future robots with real-time image-processing systems, effectively enabling them to "see." [^3]
 
 Accessible design is by its nature flexible, allowing content to faithfully render across a broad spectrum of devices, platforms, assistive technologies, and operating systems. In physical environments, everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features become options that are also often used more widely.
 
@@ -131,9 +131,9 @@ The following case studies from two large technology companies provide useful ex
 
 Apple engineers have been innovators in the accessibility space since the inception of the company, both willing to listen and work with outside constituents. [^6] The company also anticipates market direction by integrating disability needs into product development. Examples include:
 
--  <strong>iTunes U:</strong> In the early 2000’s, the 26-campus California State University system was unable to take advantage of Apple’s iTunes U educational program because the application was not fully accessible to blind students. Teachers within the CSU system were prohibited from using it. This was resolved by innovation, not litigation, as Apple listened to CSU’s concerns and worked to make iTunes accessible on both the Mac and Windows platforms. CSU System was soon able to use the program widely.
+-  <strong>iTunes U:</strong> In the early 2000’s, the 26-campus California State University system was unable to take advantage of Apple’s iTunes U educational program because the application was not fully accessible to students who are blind. Teachers within the CSU system were prohibited from using it. This was resolved by innovation, not litigation, as Apple listened to CSU’s concerns and worked to make iTunes accessible on both the Mac and Windows platforms. CSU System was soon able to use the program widely.
 
--  <strong>VoiceOver on iPhone:</strong> Early in the evolution of the iPhone, Apple began considering the implications that a touchscreen device would have on their blind customers. Iterating over several years behind the scenes, the company invested the resources to develop the voice technology that led to VoiceOver, the world’s first gesture-based screen reader. Within weeks of launch, Apple received a special commendation from the National Federation of the Blind "For designing the first fully accessible touchscreen interface.” [^7]
+-  <strong>VoiceOver on iPhone:</strong> Early in the evolution of the iPhone, Apple began considering the implications that a touchscreen device would have on their customers who are blind. Iterating over several years behind the scenes, the company invested the resources to develop the voice technology that led to VoiceOver, the world’s first gesture-based screen reader. Within weeks of launch, Apple received a special commendation from the National Federation of the Blind "For designing the first fully accessible touchscreen interface.” [^7]
 
 Screen readers on other touch screen devices have now become more prevalent in the industry, and Apple led the charge in striving for inclusion for all. 
 
@@ -163,7 +163,7 @@ everyone.” Among the innovations cited as examples are these:
 -   voice control, implemented for users with physical impairments, has been more widely
     adopted as a great convenience by millions of others
 -   artificial intelligence advances are based on research originally
-    done to provide visual context to blind users
+    done to provide visual context to users who are blind
 -   auto-captioning using machine learning has been problematic for the main target population of deaf users and many feel it is still inadequate to meet that need. However, work continues and machine learning itself is steadily improving and has found broader applications die to this effort.
 
 {::nomarkdown}
@@ -216,16 +216,16 @@ advocates [^11], Microsoft made a real and appreciable commitment to accessibili
 
 The market of people with disabilities is large and growing as the
 global population ages. In the UK, where the large disability market is known as the Purple Pound, people with disabilities and their
-families spend at least £249 billion every year. In the US, the annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is nearly $7 trillion. Consider these facts when estimating market size:
+families spend at least £249 billion every year. In the US, the annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is nearly $7 trillion. Consider these facts when estimating market size:
 
 -   At least one billion people – 15% of the world’s population – have a
     recognized disability[^15]
 -   As the population ages, many more acquire disability and yet do not
     identify as a “person with a disability”[^16]
--   In countries with life expectancies of over 70 years of age, people
-    spend 11.5 percent of their lifespan living with a disability.[^17]
--   Globally, the extended market is estimated at 2.3 billion people who
-    control an incremental $6.9 trillion in annual disposable
+-   In countries with life expectancies of over 70 years of age, people
+    spend 11.5 percent of their lifespan living with a disability.[^17]
+-   Globally, the extended market is estimated at 2.3 billion people who
+    control an incremental $6.9 trillion in annual disposable
     income.[^18]
     
 A Forrester Research Economic Impact Study concluded that accessibility could contribute to cost savings when it is integrated into existing and ongoing development cycles. [^19] Technology updates and redesigns that include accessibility along with other best practices have demonstrated reduced costs for maintenance and service. Moreover, according to Microsoft, as accessibility features are included, overall customer satisfaction improves. 
@@ -312,7 +312,7 @@ Between government oversight and regulation on the one hand, and increased legal
 {% include box.html type="start" h="4" title="Case Study: ADA and Website Accessibility " class="" %}
 {:/}
 
-The blind plaintiff shopped at the local Winn-Dixie grocery store and pharmacy in person but was unable to access the website for information such as the store locator, coupons, store events, and specials. The historic suit was the first trial in the history of the ADA about the accessibility of a public accommodation’s website. 
+The plaintiff who is blind shopped at the local Winn-Dixie grocery store and pharmacy in person but was unable to access the website for information such as the store locator, coupons, store events, and specials. The historic suit was the first trial in the history of the ADA about the accessibility of a public accommodation’s website. 
 
 Winn-Dixie asked the court to dismiss the suit based on their argument that a website is not a public accommodation covered by Title III of the ADA. The court decided otherwise, allowed the plaintiff to recover their attorney fees. The decision included the following conclusions by the court: 
 
