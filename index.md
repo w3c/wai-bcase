@@ -164,7 +164,7 @@ everyone.” Among the innovations cited as examples are these:
     adopted as a great convenience by millions of others
 -   artificial intelligence advances are based on research originally
     done to provide visual context to blind users
--   auto-captioning using machine learning has been problematic for the main target population of deaf users and many feel it is still inadequate to meet that need. However, work continues and machine learning itself is steadily improving and has found broader applications die to this effort.
+-   auto-captioning using machine learning has been problematic for the main target population of deaf users and many feel it is still inadequate to meet that need. However, work continues and machine learning itself is steadily improving and has found broader applications due to this effort.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -174,7 +174,7 @@ everyone.” Among the innovations cited as examples are these:
 
 <img src="{{ "/content-images/wai-bcase/brand.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-Businesses need to protect and enhance their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR.) As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^9] Further studies[^10] emphasize the benefits to the brand of companies that institute policies of broad diversity. 
+Businesses need to protect and enhance their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR). As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^9] Further studies[^10] emphasize the benefits to the brand of companies that institute policies of broad diversity. 
 
 Employing people with disabilities is an essential aspect of creating a diverse workforce. To be successful, the technology that employees use, including websites and applications, must be accessible.
 
@@ -247,7 +247,7 @@ Accessible design considerations often lead to improvements in general customer 
 {% include box.html type="start" h="4" title="Case Study: NPR Weekly Broadcast " class="" %}
 {:/}
 
-This American Life is a broadcast heard on more than 500 National Public Radio (NPR) stations by about 2.1 million listeners each week in the United States. In 2011, in response to new regulations around broadcast media from the US Federal Communications Commision (FCC),  the broadcaster committed to creating transcripts for their entire archive of recorded programs. A study by their media partner, conducted over several months, concluded that the provision of transcripts not only met legal obligations but returned significant benefits including:
+This American Life is a broadcast heard on more than 500 National Public Radio (NPR) stations by about 2.1 million listeners each week in the United States. In 2011, in response to new regulations around broadcast media from the US Federal Communications Commission (FCC),  the broadcaster committed to creating transcripts for their entire archive of recorded programs. A study by their media partner, conducted over several months, concluded that the provision of transcripts not only met legal obligations but returned significant benefits including:
 
 -   search traffic increased 6.86%,
 -   better comprehension for visitors who use English as a second
@@ -257,7 +257,7 @@ This American Life is a broadcast heard on more than 500 National Public Radio (
 -   ability to more easily translate, and
 -   ability to search text to reference a specific section of audio.
 
-The study, conducted over more than one year, used Google analytics to
+The study, conducted over more than one year, used Google Analytics to
 capture the following data:
 
 -   visitor engagement increased 7.23%,
@@ -302,7 +302,7 @@ Over time, the legal risk increased with the adoption of more specific laws and 
 
 - In the US, the number of legal actions continues to rise and courts increasingly decide in favor of equal access[^23], often citing the Americans with Disabilities Act (ADA). Structured Negotiation is another way that legal pressure is effective, encouraging companies to meet accessibility requirements while avoiding litigation.[^24]
 
-In Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities. The government fines commercial companies that do not comply.[^25] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate.[^26] 
+In Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities, the government fines commercial companies that do not comply.[^25] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate.[^26] 
 
 Between government oversight and regulation on the one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
 
@@ -314,7 +314,7 @@ Between government oversight and regulation on the one hand, and increased legal
 
 The blind plaintiff shopped at the local Winn-Dixie grocery store and pharmacy in person but was unable to access the website for information such as the store locator, coupons, store events, and specials. The historic suit was the first trial in the history of the ADA about the accessibility of a public accommodation’s website. 
 
-Winn-Dixie asked the court to dismiss the suit based on their argument that a website is not a public accommodation covered by Title III of the ADA. The court decided otherwise, allowed the plaintiff to recover their attorney fees. The decision included the following conclusions by the court: 
+Winn-Dixie asked the court to dismiss the suit based on their argument that a website is not a public accommodation covered by Title III of the ADA. The court decided otherwise, allowing the plaintiff to recover their attorney fees. The decision included the following conclusions by the court: 
 
 -   The link between the website and Winn-Dixie Stores was a circumstance that made Title III of the ADA, applicable to “Public Accommodations,” relevant in this situation.
 -   The website must be made accessible to *“individuals with disabilities who use computers, laptops, tablets, and smartphones.”*
@@ -360,7 +360,7 @@ These are suggested merely as a way to get started. We hope you will explore thr
 
 [^6]: [_When it comes to accessibility, Apple continues to lead in awareness and innovation_](https://techcrunch.com/2016/05/19/when-it-comes-to-accessibility-apple-continues-to-lead-in-awareness-and-innovation/){:rel="nofollow"}. Aquino, S. (2016)
 
-[^7]: [_National Federation of the Blind Commends Apple for Including VoiceOver on iPad _](https://nfb.org/node/1083){:rel="nofollow"}. Danielsen, C. NFB (2010)
+[^7]: [_National Federation of the Blind Commends Apple for Including VoiceOver on iPad_](https://nfb.org/node/1083){:rel="nofollow"}. Danielsen, C. NFB (2010)
 
 [^8]: [_How Designing For Disabled People Is Giving Google An Edge_](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge.){:rel="nofollow"}. Brownlee, J.; Fast Company (2018).
 
@@ -384,7 +384,7 @@ These are suggested merely as a way to get started. We hope you will explore thr
 
 [^18]: [*Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e){:rel="nofollow"}. Gaudiano, P. and Hunt, E.; Forbes.com (2016).
 
-[^19]: [*Assessing the Value 0f Accessible Technologies for Organizations*](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf){:rel="nofollow"}. Parks, S., and Sedov V.; Forrester Research, Inc. (2016)
+[^19]: [*Assessing the Value Of Accessible Technologies for Organizations*](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf){:rel="nofollow"}. Parks, S., and Sedov V.; Forrester Research, Inc. (2016)
 
 [^20]: [*National Federation of the Blind v. Target Corp.*](https://en.wikipedia.org/wiki/National_Federation_of_the_Blind_v._Target_Corp.){:rel="nofollow"} Wikipedia. (2008)
 
