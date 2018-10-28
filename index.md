@@ -112,7 +112,7 @@ Integrating accessibility removes architectural, digital, and social barriers th
 -   Driverless cars, so promising for the independence of blind people, are projected to also
     help solve traffic fatalities and congestion.
 
--   Research and development of the artificial retina project to help restore sight for blind participants may also help future robots with real-time image-processing systems, effectively enabling them to "see." [^3]
+-   Research and development of the artificial retina project to help restore sight for participants who are blind may also help future robots with real-time image-processing systems, effectively enabling them to "see." [^3]
 
 Accessible design is by its nature flexible, allowing content to faithfully render across a broad spectrum of devices, platforms, assistive technologies, and operating systems. In physical environments, everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features become options that are also often used more widely.
 
@@ -163,7 +163,7 @@ everyone.” Among the innovations cited as examples are these:
 -   voice control, implemented for users with physical impairments, has been more widely
     adopted as a great convenience by millions of others
 -   artificial intelligence advances are based on research originally
-    done to provide visual context to blind users
+    done to provide visual context to users with visual impairments
 -   auto-captioning using machine learning has been problematic for the main target population of deaf users and many feel it is still inadequate to meet that need. However, work continues and machine learning itself is steadily improving and has found broader applications due to this effort.
 
 {::nomarkdown}
@@ -292,7 +292,7 @@ A significant demonstration of the risk of ignoring accessibility requirements w
 Consideration of the cost and risk of inaction is a critical aspect of
 any business case. As web use is woven into modern life all over the world, governments and regulators began to mandate laws and policies that strengthen the rights of people with disabilities to participate in online digital information and services. 
 
-One of the earliest examples of legal consequences to web accessibility was a complaint put to the Human Rights and Equal Opportunities Commission (HREOC) in 2000 about the inaccessibility of the website of the Sydney Olympics. The plaintiff claimed the site was a violation of the Commonwealth Disability Discrimination Act 1992.[^21] The 2001 decision in the Sydney Olympics suit[^22] raised awareness of the need to address accessibility in the emerging practice of web communication. 
+One of the earliest examples of legal consequences to web accessibility was a complaint put to the Human Rights and Equal Opportunities Commission (HREOC) in 2000 about the inaccessibility of the website of the Sydney Olympics. The plaintiff, who was blind, claimed the site was a violation of the Commonwealth Disability Discrimination Act 1992.[^21] The 2001 decision in the Sydney Olympics suit[^22] raised awareness of the need to address accessibility in the emerging practice of web communication. 
 
 Over time, the legal risk increased with the adoption of more specific laws and policies in countries throughout the world.
 
