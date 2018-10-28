@@ -60,18 +60,18 @@ Note that "web accessibility" and "websites" throughout this article include web
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Who Needs a Business Case for Accessibility? 
+## Is there a Business Case for Accessibility? 
 
 <img src="{{ "/content-images/wai-bcase/business-case.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-A business case is a necessary tool for organizations when planning for various initiatives. Whether the organization is commercial, educational, non-profit, or governmental, it requires justification for dedicating
+A business case is a necessary tool for organizations when planning for various initiatives. Whether an organization is commercial, educational, non-profit, or governmental, most require justification for dedicating
 resources such as money or effort in support of a specific
 organizational policy or goal. "Business” in this article refers to
 all types of organizations with the understanding that different aspects
 will be relevant depending on the organizational focus and
 purpose. For example, government agencies may be strongly motivated by legal and equity aspects. Commercial businesses may be more persuaded by innovation and market expansion opportunities. Educational and nonprofit businesses may be especially drawn to brand enhancement. 
 
-To create a compelling business case, it is important to highlight the most relevant accessibility benefits within your operational landscape. It is most likely your business will respond to a mix of motivating factors as you consider implementing an integrated accessibility program.  This article provides research and examples to inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
+To create a compelling business case, it is important to highlight the most relevant accessibility benefits within your specific  operational landscape. There are both tangible and intangible benefits to businesses that dedicate resources to digital accessibility. A frequent argument against the accessiiblity business case is that the direct return on investment (ROI) is too difficult to measure. ROI is important of course, but not by any means the only way to measure how an accessibility commitment benefits organizations of all kinds. A useful business case also presents the cost and risk of inaction. It is most likely your business will respond to a mix of motivating factors as you consider implementing an integrated accessibility program.  This article provides research and examples to inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
 
 
 **Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.**
