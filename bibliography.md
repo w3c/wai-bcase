@@ -115,6 +115,10 @@ Summary: The launch of the UNDP-UNV Talent Programme for Young Professionals wit
 Type: Report  <br />
 Summary: American businesses claim they can’t find workers, and disabled Americans can’t find jobs. Here’s how tech can help.
 
+* [_Getting to Equal: The Disability Inclusion Advantage_](https://www.accenture.com/t20181029T185446Z__w__/us-en/_acnmedia/PDF-89/Accenture-Disability-Inclusion-Research-Report.pdf#zoom=50)  Accenture Research Report,  (2018) <br />
+Type: Research commissioned by Disability:In and the American Association of Peoplemwith Disabilities (AAPD) <br />
+Summary: Research demonstrates that companies that embrace best practices for employing and supporting more persons with disabilities in their workforce outperform their peers.</p>
+
 ## Global Standards and Best Practice
 
 * [_What Does Responsive Design Have To Do With Accessibility?_](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/){:rel="nofollow"}. Avila, J.; Level Access (2013).<br />
