@@ -135,7 +135,7 @@ Apple engineers have been innovators in the accessibility space since the incept
 
 -  <strong>VoiceOver on iPhone:</strong> Early in the evolution of the iPhone, Apple began considering the implications that a touchscreen device would have on their blind customers. Iterating over several years behind the scenes, the company invested the resources to develop the voice technology that led to VoiceOver, the world’s first gesture-based screen reader. Within weeks of launch, Apple received a special commendation from the National Federation of the Blind "For designing the first fully accessible touchscreen interface.” [^7]
 
-Screen readers on other touch screen devices have now become more prevalent in the industry, and Apple led the charge in striving for inclusion for all. 
+Screen readers on other touch screen devices have now become more prevalent in the industry and Apple has been an important leader in the effort to ensure inclusion for all. 
 
 {::nomarkdown}
 {% include box.html type="end" %}
