@@ -1,5 +1,6 @@
 ---
-title: "The Business Case for Digital Accessibility: <br />Annotated Bibliography"
+title: "The Business Case for Digital Accessibility: Annotated Bibliography"
+title_html: "The Business Case for Digital Accessibility: <br>Annotated Bibliography"
 permalink: /business-case/bibliography/
 layout: default
 github:
