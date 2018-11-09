@@ -1,14 +1,18 @@
 ---
 title: "Acknowledgements for The Business Case for Accessibility"
-permalink: /teach-advocate/business-case/acknowledgements/
-parent: /teach-advocate/business-case/
+permalink: /business-case/acknowledgements/
+parent: /business-case/
 layout: default
 github:
   repository: w3c/wai-bcase
   path: 'acknowledgements.md'
+footer: > # Text in footer in HTML
+  <p><strong>Date:</strong> <strong>Published 9 Nov 2018.</strong></p>
+  <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. <a href="./acknowledgements/">Acknowledgements</a> lists additional contributors.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
-The <a href="{{ "/teach-advocate/business-case/" | relative_url }}">Business Case for Accessibility</a> is developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with input from others.
+The <a href="{{ "/business-case/" | relative_url }}">Business Case for Accessibility</a> is developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with input from others.
 
 ## Current Version
 
@@ -32,4 +36,4 @@ The <a href="{{ "/teach-advocate/business-case/" | relative_url }}">Business Cas
 
 ## Previous Versions
 
-<a href="{{ "/teach-advocate/business-case/" | relative_url }}">Developing a Web Accessibility Business Case for Your Organization</a> was first published in August 2005. Updates in 2009-2010 were related to the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE</a> Project funded by the European Commission under the 6th Framework. <a href="@@">Contributions to the previous version are acknowledged in the archive.</a>
+<a href="{{ "/business-case/" | relative_url }}">Developing a Web Accessibility Business Case for Your Organization</a> was first published in August 2005. Updates in 2009-2010 were related to the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE</a> Project funded by the European Commission under the 6th Framework. <a href="@@">Contributions to the previous version are acknowledged in the archive.</a>

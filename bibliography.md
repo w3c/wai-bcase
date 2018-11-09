@@ -1,10 +1,14 @@
 ---
 title: "The Business Case for Digital Accessibility: <br />Annotated Bibliography"
-permalink: /teach-advocate/business-case/bibliography/
+permalink: /business-case/bibliography/
 layout: default
 github:
   repository: w3c/wai-bcase
   path: 'bibliography.md'
+footer: > # Text in footer in HTML
+  <p><strong>Date:</strong> <strong>Published 9 Nov 2018.</strong></p>
+  <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. <a href="./acknowledgements/">Acknowledgements</a> lists additional contributors.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
 {::nomarkdown}
