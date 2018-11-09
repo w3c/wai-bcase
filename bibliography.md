@@ -2,9 +2,6 @@
 title: "The Business Case for Digital Accessibility: <br />Annotated Bibliography"
 permalink: /teach-advocate/business-case/bibliography/
 layout: default
-doc-note-type: draft
-doc-note-message: >
-  <p>This is an unapproved, in-progress draft and it should not be referenced or quoted.<br>We welcome your comments. <a href="#helpimprove">Links to e-mail and GitHub are below</a>.</p>
 github:
   repository: w3c/wai-bcase
   path: 'bibliography.md'
