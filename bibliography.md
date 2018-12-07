@@ -123,6 +123,10 @@ Summary: American businesses claim they can’t find workers, and disabled Ameri
 Type: Research commissioned by Disability:In and the American Association of Peoplemwith Disabilities (AAPD) <br />
 Summary: Research demonstrates that companies that embrace best practices for employing and supporting more persons with disabilities in their workforce outperform their peers.</p>
 
+* [_The Accessible Workforce_](https://www.ibm.com/ibm/history/ibm100/us/en/icons/accessibleworkforce/) IBM 100 Icons of Progress, (2016) <br />
+Type: Article<br />
+Summary: How IBM successfully managed the return to work of an IBM engineer after injury resulted in disability.
+
 ## Global Standards and Best Practice
 
 * [_What Does Responsive Design Have To Do With Accessibility?_](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/){:rel="nofollow"}. Avila, J.; Level Access (2013).<br />
