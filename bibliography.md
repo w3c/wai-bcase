@@ -185,6 +185,10 @@ Summary: A referenced guide with case studies, examples, and conclusion about ho
 Type: Product review  <br />
 Summary: A blind reviewer makes clear that the lack of accessibility in company products is at odds with their claims and how it impacts his opinion of the company overall.
 
+* [_Accessibility Culture_](https://www.lflegal.com/2018/05/accessibility-culture/) Feingold, Lainey.; Law Office of Lainey Feingold (May, 2018)<br />
+Type: Editorial post  <br />
+Summary: A bit of background on why culture matters with links to more in-depth articles.
+
 ## General Statistics/Research Methods/Other Business Case perspectives 
 
 * [_Disability Inclusion Overview_](http://www.worldbank.org/en/topic/disability){:rel="nofollow"}. The World Bank (2018).<br />
