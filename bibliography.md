@@ -123,6 +123,10 @@ Summary: American businesses claim they can’t find workers, and disabled Ameri
 Type: Research commissioned by Disability:In and the American Association of Peoplemwith Disabilities (AAPD) <br />
 Summary: Research demonstrates that companies that embrace best practices for employing and supporting more persons with disabilities in their workforce outperform their peers.</p>
 
+* [_The Accessible Workforce_](https://www.ibm.com/ibm/history/ibm100/us/en/icons/accessibleworkforce/) IBM 100 Icons of Progress, (2016) <br />
+Type: Article<br />
+Summary: How IBM successfully managed the return to work of an IBM engineer after injury resulted in disability.
+
 ## Global Standards and Best Practice
 
 * [_What Does Responsive Design Have To Do With Accessibility?_](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/){:rel="nofollow"}. Avila, J.; Level Access (2013).<br />
@@ -184,6 +188,10 @@ Summary: A referenced guide with case studies, examples, and conclusion about ho
 * [_Accessibility at Microsoft_](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm){:rel="nofollow"}. Chong, C.;  Braille Monitor (2015).<br />
 Type: Product review  <br />
 Summary: A blind reviewer makes clear that the lack of accessibility in company products is at odds with their claims and how it impacts his opinion of the company overall.
+
+* [_Accessibility Culture_](https://www.lflegal.com/2018/05/accessibility-culture/) Feingold, Lainey.; Law Office of Lainey Feingold (May, 2018)<br />
+Type: Editorial post  <br />
+Summary: A bit of background on why culture matters with links to more in-depth articles.
 
 ## General Statistics/Research Methods/Other Business Case perspectives 
 
