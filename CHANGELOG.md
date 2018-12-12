@@ -20,6 +20,6 @@ layout: default
 
 First release of the new Business Case
 
-[Unreleased]: https://github.com/w3c/wai-bcase/compare/v2.0.0...HEAD
+[Unreleased]: https://github.com/w3c/wai-bcase/compare/v2.1.0...HEAD
 [2.1.0]: https://github.com/w3c/wai-bcase/releases/tag/v2.1.0
 [2.0.0]: https://github.com/w3c/wai-bcase/releases/tag/v2.0.0
