@@ -36,4 +36,4 @@ The <a href="{{ "/business-case/" | relative_url }}">Business Case for Accessibi
 
 ## Previous Versions
 
-<a href="{{ "/business-case/" | relative_url }}">Developing a Web Accessibility Business Case for Your Organization</a> was first published in August 2005. Updates in 2009-2010 were related to the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE</a> Project funded by the European Commission under the 6th Framework. <a href="@@">Contributions to the previous version are acknowledged in the archive.</a>
+<cite>Developing a Web Accessibility Business Case for Your Organization</cite> was first published in August 2005. Updates in 2009-2010 were related to the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE</a> Project funded by the European Commission under the 6th Framework. The <a href="https://www.w3.org/WAI/business-case/archive/">old archived resource</a> includes <a href="https://www.w3.org/WAI/business-case/archive/ack.html">acknowledgements for the previous versions</a>.
