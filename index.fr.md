@@ -2,6 +2,7 @@
 title: "The Business Case for Digital Accessibility"
 permalink: /teach-advocate/business-case/fr/
 lang: fr
+ref: /teach-advocate/business-case/
 layout: default
 doc-note-type: draft
 doc-note-message: >
