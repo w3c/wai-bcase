@@ -1,19 +1,20 @@
 ---
-title: "The Business Case for Digital Accessibility"
+title: "Bénéfices business de l’accessibilité numérique"
 permalink: /teach-advocate/business-case/fr/
 lang: fr
 ref: /teach-advocate/business-case/
 layout: default
 doc-note-type: draft
 doc-note-message: >
-  <p>This is an unapproved, in-progress draft and it should not be referenced or quoted.<br>We welcome your comments. <a href="#helpimprove">Links to e-mail and GitHub are below</a>.</p>
+  <p lang="en">This is an unapproved, in-progress draft and it should not be referenced or quoted.<br>We welcome your comments. <a href="#helpimprove">Links to e-mail and GitHub are below</a>.</p>
 github:
   repository: w3c/wai-bcase
   path: 'index.fr.md'
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> <strong>Draft in progress {{ site.time }} </strong></p>
-  <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen <a href="./acknowledgements/">Acknowledgements</a> lists additional contributors.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Date :</strong> @@</p>
+  <p><strong>Date de cette traduction :</strong> @@</p>
+  <p><strong>Rédactrice :</strong> Sharron Rush. Contributeurs : Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen <a href="./acknowledgements/" hreflang="en">Remerciements</a> (en anglais) liste les contributeurs additionnels.</p>
+  <p>Développé par le <i lang="en">Education and Outreach Working Group</i> (<a href="http://www.w3.org/WAI/EO/" lang="en">EOWG</a>, en anglais).</p>
 inline_css: |
   .hero {
     display: flex;
