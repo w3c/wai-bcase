@@ -1,13 +1,17 @@
 ---
-title: "The Business Case for Digital Accessibility: <br />Annotated Bibliography"
-permalink: /teach-advocate/business-case/bibliography/
+title: "The Business Case for Digital Accessibility: Annotated Bibliography"
+title_html: "The Business Case for Digital Accessibility: <br>Annotated Bibliography"
+permalink: /business-case/bibliography/
+description: Resources used to make the business case for digital accessibility.
+image: /content-images/wai-bcase/social.png
 layout: default
-doc-note-type: draft
-doc-note-message: >
-  <p>This is an unapproved, in-progress draft and it should not be referenced or quoted.<br>We welcome your comments. <a href="#helpimprove">Links to e-mail and GitHub are below</a>.</p>
 github:
   repository: w3c/wai-bcase
   path: 'bibliography.md'
+footer: > # Text in footer in HTML
+  <p><strong>Date:</strong> <strong>Published 9 Nov 2018.</strong></p>
+  <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. <a href="./acknowledgements/">Acknowledgements</a> lists additional contributors.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
 {::nomarkdown}
@@ -115,6 +119,14 @@ Summary: The launch of the UNDP-UNV Talent Programme for Young Professionals wit
 Type: Report  <br />
 Summary: American businesses claim they can’t find workers, and disabled Americans can’t find jobs. Here’s how tech can help.
 
+* [_Getting to Equal: The Disability Inclusion Advantage_](https://www.accenture.com/t20181029T185446Z__w__/us-en/_acnmedia/PDF-89/Accenture-Disability-Inclusion-Research-Report.pdf#zoom=50)  Accenture Research Report,  (2018) <br />
+Type: Research commissioned by Disability:In and the American Association of Peoplemwith Disabilities (AAPD) <br />
+Summary: Research demonstrates that companies that embrace best practices for employing and supporting more persons with disabilities in their workforce outperform their peers.</p>
+
+* [_The Accessible Workforce_](https://www.ibm.com/ibm/history/ibm100/us/en/icons/accessibleworkforce/) IBM 100 Icons of Progress, (2016) <br />
+Type: Article<br />
+Summary: How IBM successfully managed the return to work of an IBM engineer after injury resulted in disability.
+
 ## Global Standards and Best Practice
 
 * [_What Does Responsive Design Have To Do With Accessibility?_](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/){:rel="nofollow"}. Avila, J.; Level Access (2013).<br />
@@ -176,6 +188,10 @@ Summary: A referenced guide with case studies, examples, and conclusion about ho
 * [_Accessibility at Microsoft_](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm){:rel="nofollow"}. Chong, C.;  Braille Monitor (2015).<br />
 Type: Product review  <br />
 Summary: A blind reviewer makes clear that the lack of accessibility in company products is at odds with their claims and how it impacts his opinion of the company overall.
+
+* [_Accessibility Culture_](https://www.lflegal.com/2018/05/accessibility-culture/) Feingold, Lainey.; Law Office of Lainey Feingold (May, 2018)<br />
+Type: Editorial post  <br />
+Summary: A bit of background on why culture matters with links to more in-depth articles.
 
 ## General Statistics/Research Methods/Other Business Case perspectives 
 
