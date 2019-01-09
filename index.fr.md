@@ -4,15 +4,15 @@ permalink: /teach-advocate/business-case/fr/
 lang: fr
 ref: /teach-advocate/business-case/
 layout: default
-doc-note-type: draft
-doc-note-message: >
-  <p lang="en">This is an unapproved, in-progress draft and it should not be referenced or quoted.<br>We welcome your comments. <a href="#helpimprove">Links to e-mail and GitHub are below</a>.</p>
+description: Présente les raisons pour une organisation d’intégrer l’accessibilité. Inclut des bénéfices tangibles et intangibles, ainsi que les risques qu’on prend en ne traitant pas l’accessibilité de façon adéquate. 
+image: /content-images/wai-bcase/social.png
 github:
   repository: w3c/wai-bcase
   path: 'index.fr.md'
 footer: > # Text in footer in HTML
-  <p><strong>Date :</strong> @@</p>
+  <p><strong>Date :</strong> <strong>Publié le 9 novembre 2018.</strong></p>
   <p><strong>Date de cette traduction :</strong> @@</p>
+  <p><strong>Traducteur :</strong> Stéphane Deschamps</p>
   <p><strong>Rédactrice :</strong> Sharron Rush. Contributeurs : Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen <a href="./acknowledgements/" hreflang="en">Remerciements</a> (en anglais) liste les contributeurs additionnels.</p>
   <p>Développé par le <i lang="en">Education and Outreach Working Group</i> (<a href="http://www.w3.org/WAI/EO/" lang="en">EOWG</a>, en anglais).</p>
 inline_css: |
