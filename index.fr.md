@@ -63,28 +63,21 @@ Veuillez noter que les termes « accessibilité web » et « sites web » da
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Is there a Business Case for Accessibility? 
+## Faut-il expliquer les bénéfices business de l’accessibilité ? 
 
 <img src="{{ "/content-images/wai-bcase/business-case.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-A business case is a necessary tool for organizations when planning for various initiatives. Whether an organization is commercial, educational, non-profit, or governmental, most require justification for dedicating
-resources such as money or effort in support of a specific
-organizational policy or goal. "Business” in this article refers to
-all types of organizations with the understanding that different aspects
-will be relevant depending on the organizational focus and
-purpose. For example, government agencies may be strongly motivated by legal and equity aspects. Commercial businesses may be more persuaded by innovation and market expansion opportunities. Educational and nonprofit businesses may be especially drawn to brand enhancement. 
+Le « business case » est un outil nécessaire aux organisations pour prioriser leurs actions. Qu’une organisation soit commerciale, éducative, non lucrative ou gouvernementale, elle doit souvent pouvoir justifier de son investissement en argent ou en ressources pour défendre une démarche ou un but. « Business » dans cet article fait référence à tout type d’organisation, en comprenant bien que la pertinence de certains aspects traités sera différente selon le secteur d’activité et le but de l’organisation. Par exemple, une organisation gouvernementale peut être très motivée par des aspects légaux et d’équité. Des entreprises commerciales peuvent être persuadées quand on parle d’innovation et d’opportunités d’élargissement de la clientèle. Des organisations éducatives ou non lucratives peuvent être davantage attirées par l’amélioration de l’image de marque.
 
-To create a compelling business case, it is important to highlight the most relevant accessibility benefits within your specific  operational landscape. There are both tangible and intangible benefits to businesses that dedicate resources to digital accessibility. A frequent argument against the accessibility business case is that the direct return on investment (ROI) is too difficult to measure. ROI is important of course, but not by any means the only way to measure how an accessibility commitment benefits organizations of all kinds. A useful business case also presents the cost and risk of inaction. It is most likely your business will respond to a mix of motivating factors as you consider implementing an integrated accessibility program.  This article provides research and examples to inspire confidence among leaders and decision makers that continued investment in accessibility is good for your business.
+Pour écrire un « business case » qui fonctionne pour vous, il est important de souligner les bénéfices de l’accessibilité qui sont les plus pertinents dans votre environnement professionnel. Consacrer des ressources à l’accessibilité numérique induit des bénéfices tangibles et intangibles. Un argument fréquent pour ne pas adopter l’accessibilité est que le retour sur investissement (ROI) direct est trop difficile à mesurer. Le ROI est important, bien sûr, mais ce n’est en aucun cas le seul moyen de mesurer l’impact de l’accessibilité pour une organisation quelle qu’elle soit. Un « business case » efficace présente aussi le coût et les risques de l’inaction. Votre organisation réagira plus probablement à un ensemble d’arguments quand vous proposerez de mettre en place un programme d’accessibilité intégré. Cet article fournit des études et des exemples pour permettre à vos décideurs d’avoir confiance en l’idée que l’accessibilité est bonne pour l’organisation.
 
+**Les entreprises qui intègrent l’accessibilité ont plus de chances d’être innovantes, inclusives, et de toucher un plus grand nombre de gens avec un message plus proche des exigences légales qui émergent dans le monde entier.**
 
-**Businesses that integrate accessibility are more likely to be innovative, inclusive enterprises that reach more people with positive brand messaging that meets emerging global legal requirements.**
+Une étude des compagnies listées par Fortune 100 montre que l’inclusion du handicap, dans le cadre d’une stratégie générale de diversité, est fréquente dans les entreprises les plus performantes.[^1]
 
-A research study of Fortune 100 companies indicates that disability inclusion, as part of an overall diversity strategy, is common practice among high performing businesses.[^1]
+Quand l’accessibilité fait partie de la stratégie, les entreprises sont mieux équipées pour réussir dans notre monde connecté de commerce, d’éducation et d’implication civique.
 
-When accessibility is part of strategic planning, businesses are better equipped for success in our connected world of commerce, academia, and civic engagement.
-
-Let’s look at some examples and research outcomes that will help you
-make the business case that is most effective in your business environment.  
+Regardons maintenant quelques exemples et quelques études qui vous aideront à rédiger le « business case » qui est le plus efficace pour votre entreprise.
 
 ## Accessibility is good for business
 
