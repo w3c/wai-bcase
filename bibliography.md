@@ -110,6 +110,9 @@ Type: Academic study  <br />
 Summary: Introduces a holistic, managerial approach to identify business experiences with web accessibility implementation in three industry sectors. 
 
 ## Disability Employment
+* [_Hiring People with Disabilities is Good Business_](https://www.nytimes.com/2018/12/27/opinion/disability-rights-employment.html) {:rel="nofollow"} Kennedy, Ted Jr. _New York Times_. December 27, 2018.  <br />
+Type: Editorial/Opinion  <br />
+Summary: The editorial expresses Kennedy's view that when it comes to employment, the US has failed to live up to the promise of the Americans With Disabilities Act and that business is losing valuable human resources as a result. He encourages companies to be more incusive by highlighting ways that several major companies profit from their proactive employment practices. 
 
 * [_Leaving no one behind: UNDP/UNV Talent Programme for Young Professionals with Disabilities_](http://www.undp.org/content/undp/en/home/news-centre/news/2017/leaving-no-one-behind-undp-unv-talent-programme-young-professionals-disabilities.html){:rel="nofollow"}.  <br />
 Type: Report  <br />
