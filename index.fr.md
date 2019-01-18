@@ -158,34 +158,30 @@ Les compagnies doivent protéger et améliorer leur image de marque. Un engageme
 
 Employer des personnes atteintes de handicaps est essentiel dans la création d’une masse salariale diverse. Pour y parvenir, la technologie qu’utilisent les employés, y compris les sites web et les applications, doit être accessible.
 
-Barclays shared their approach to diversity and inclusion through the accessibility initiatives in their company and how that approach has made them a better company.
+Barclays partage son approche de la diversité et de l’inclusion à travers ses initiatives liées à l’accessibilité, et comment cette approche en a fait une meilleure compagnie.
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: Barclays" class="" %}
 {:/}
 
-Establishing an organisation-wide accessibility strategy for
-identifying, anticipating and addressing the additional needs of
-customers and colleagues with impairments contributes in several ways to
-our brand identity – through tailored services, fostering an inclusive
-culture, creating new ways to communicate and consult with existing and
-potential customers. 
+Fixer une stratégie d’accessibilité pour toute la compagne en identifiant, en anticipant et en traitant les besoins additionnels des clients et des collaborateurs handicapés contribue de plusieurs manières à notre identité de marque à travers des services sur mesure, créant une culture de l’inclusion et de nouvelles façons de communiquer et d’aider nos clients tant existants que potentiels. 
 
 <blockquote class="pull right">
-  <p>At Barclays, accessibility is about more than just disability. It's about helping everyone to work, bank and live their lives regardless of their age, situation, abilities or circumstances.</p><cite>Paul Smyth, Head of Digital Accessibility, Barclays</cite>
+  <p>Chez Barclays, l’accessibilité va au-delà du handicap. Il s’agit d’aider tout le monde à travailler, à gérer ses comptes et sa vie quels que soient son âge, sa situation, ses capacités ou ses circonstances.</p>
+  <cite>Paul Smyth, Directeur de l’Accessibilité Numérique, Barclays</cite>
 </blockquote>
 
-We want to leverage inclusive technology to enable and empower all people to bank, work and reach their full potential. The Barclays Accessibility team does this by supporting digital teams to embed accessibility into our services and culture through effective governance, partnering, training, and tools. Establishing an enterprise-wide accessibility strategy, standards and programmes coupled with senior sponsorship helps support our publicly stated ambition of becoming the most accessible and inclusive Financial Times Stock Exchange (FTSE) company.
+Nous voulons nous appuyer sur une technologie inclusive pour permettre à tout le monde de gérer ses comptes, de vivre sa vie et d’atteindre son plein potentiel. L’équipe Accessibilité de Barclays y parvient en assistant les équipes digitales, afin d’inclure l’accessibilité dans nos services et notre culture à travers une gouvernance efficace, des partenariats, des formations et des outils. En établissant dans toute la compagnie une stratégie des standards et des programmes consacrés à l’accessibilité, de pair avec un parrainage par l’encadrement, nous pouvons appuyer notre ambition publique de devenir la compagnie la plus accessible et inclusive de toute la Bourse du Financial Times (FTSE).
 
-When we shift our thinking away from the minimum legal compliance to focus instead on the commercial opportunity and the creative challenge of building better experiences for everyone, we create a more sustainable, customer orientated approach to digital information and services. 
+Quand nous passons d’une simple conformité légale minimale à une prise en compte de l’opportunité commerciale et du défi créatif de construire une meilleure expérience pour tous, nous créons une approche plus durable et plus orientée client pour nos services et notre information digitaux. 
 
-To help everyone understand Barclays accessibility-focused mindset, we've created a range of animations which help our colleagues understand what accessibility is all about, who benefits, and what the different types of impairments are. We've also shared these animations on our [Accessible Banking YouTube playlist {% include_cached external.html %}](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy).
+Pour permettre à tout le monde de mieux comprendre l’état d’esprit orienté accessibilité de Barclays, nous avons créé une série d’animations qui aide nos collègues à comprendre ce que veut dire accessibilité, qui en bénéficie, et quels sont les différents types de handicaps. Nous avons aussi partagé ces animations sur notre [liste de lecture Youtube <i lang="en">Accessible Banking</i> {% include_cached external.html %}](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy){: hreflang="en"} (en anglais).
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-Barclays demonstrates how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is perceived as open and fair. People are proud to work there and to do business with Barclays. Read the [full Barclays case study {% include_cached different.html %}](https://www.w3.org/community/wai-engage/wiki/Barclays_Bank_Case_Study) to learn more.
+Barclays montre qu’un engagement fort envers l’accessibilité induit une responsabilité distribuée et une compréhension partagée des enjeux. La sensibilité à l’accessibilité imprègne la culture d’entreprise. La compagnie est perçue comme ouverte et respectueuse. Les employés sont fiers d’y travailler et de collaborer avec Barclays. Lisez [l’étude de cas complète sur Barclays {% include_cached different.html %}](https://www.w3.org/community/wai-engage/wiki/Barclays_Bank_Case_Study){: hreflang="en"} (en anglais) pour en savoir plus.
 
 Another well-recognized example of how a brand can be affected is Microsoft. After long advocacy and some criticism by accessibility
 advocates [^11], Microsoft made a real and appreciable commitment to accessibility demonstrated by genuine engagement with stakeholders of all abilities.[^12] The resulting improvements to products and services have strengthened its overall brand image [^13], and accessibility efforts are now lauded in the community of people with disabilities.[^14]
