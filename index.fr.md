@@ -134,23 +134,17 @@ L’innovation dans les interfaces vocales chez Apple et ailleurs a contribué �
 {:/}
 
 <blockquote class="pull right alt-1">
-  <p>The accessibility problems of today are the mainstream breakthroughs of tomorrow.</p>
-  <cite>Eve Andersson, Director, Accessibility Engineering, Google</cite>
+  <p>Les problèmes d’accessibilité d’aujourd’hui sont les grands progrès de demain.</p>
+  <cite>Eve Andersson, Directrice, Ingénierie de l’Accessibilité, Google</cite>
 </blockquote>
 
-A 2016 article in the FastCompany online magazine[^8] highlights how Google’s investment in accessibility provides the company with an
-innovation edge in a broad array of products and services. Eve
-Andersson, the lead engineer, featured in the article, says “I’m passionate about accessibility, not just because I believe in
-a level playing field, but because (it) makes life more livable for
-everyone.” Among the innovations cited as examples are these:
+Un article de 2016 paru sur le magazine en ligne de FastCompany[^8] souligne comment l’investissement de Google dans l’accessibilité donne à la compagnie une avance dans l’innovation pour de nombreux produits et services. Eve Andersson, ingénieure en chef citée dans l’article, dit : « Je suis passionnée d’accessibilité, non seulement parce que je crois que tout le monde doit pouvoir être à armes égales, mais parce qu’elle rend la vie plus vivable pour tout le monde. » Parmi les innovation mentionnées :
 
--   contrast minimums, required for people with low vision, help all people see in bright light glare situations
--   auto-complete, initially provided for people with disabilities, is now widely used by all
--   voice control, implemented for users with physical impairments, has been more widely
-    adopted as a great convenience by millions of others
--   artificial intelligence advances are based on research originally
-    done to provide visual context to users with visual impairments
--   auto-captioning using machine learning has been problematic for the main target population of deaf users and many feel it is still inadequate to meet that need. However, work continues and machine learning itself is steadily improving and has found broader applications due to this effort.
+- Les minima de contraste, nécessaires pour les personnes malvoyantes, aident tout le monde à mieux voir en cas de luminosité ambiante forte.
+- L’auto-complétion, au départ conçue pour les personnes handicapées, est maintenant très largement utilisée par tous.
+- Le contrôle vocal, créé pour les utilisateurs atteints d’un handicap physique, est plus largemnt adopté maintenant pour sa praticité par des millions de gens.
+- Les progrès dans l’intelligence artificielle sont basés sur des recherches destinées à l’origine à donner du contexte visuel à des utilisateurs déficients visuels.
+- Le sous-titrage automatique utilisant le @@« machine learning » est encore problématique pour sa cible principale (les utilisateurs sourds) et nombreux pensent qu’il n’est pas au niveau. Cependant le travail continue et le @@ « machine learning » lui-même s’améliore régulièrement, et trouve de nouvelles applications grâce à cet effort.
 
 {::nomarkdown}
 {% include box.html type="end" %}
