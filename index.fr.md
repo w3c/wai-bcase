@@ -88,30 +88,24 @@ Regardons maintenant quelques exemples et quelques études qui vous aideront à 
 
 Les sections ci-dessous présentent les avantages clés de l’accessibilité web pour les entreprises de toutes tailles. Des exemples réels sont présentés afin de montrer comment un gain est produit à l’échelle d’un marché mondial.
 
-### Drive Innovation
+### Porter l’innovation
 
 <img src="{{ "/content-images/wai-bcase/innovation.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-Integrating accessibility removes architectural, digital, and social barriers that can get in the way of innovation[^2], for example:
+Intégrer l’accessibilité permet de faire tomber des barrières architecturales, digitales et sociales à l’innovation [^2], par exemple :
 
--   Accessible design thinking provides varied and flexible ways for users to interact with websites and applications, options that are useful for people with and without disabilities.
+- Une approche design orientée accessible rend plus souple l’interaction avec les sites web et les applications et fournit plusieurs moyens d’y parvenir, possibilités qui sont utiles aux personnes avec et sans handicap.
+- Quand l’accessibilité est un enjeu de conception, l’interaction utilisateur est envisagée comme ne dépendant pas seulement d’un écran. L’interaction qui en résulte est plus centrée sur l’humain, plus naturelle et contextuelle.
+- L’accessibilité est très liée à l’utilisabilité générale. Toutes les deux veulent définir et servir une expérience utilisateur plus intuitive.
+- Des innovations telles que la machine à écrire, le téléphone, les cartes perforées, la synthèse vocale, le mail et les contrôles vocaux étaient à l’origine destinées aux personnes déficientes, et ont toutes trouvé une application bien plus large[^4].
+- Les voitures sans chauffeur, tellement prometteuses pour l’autonomie des personnes aveugles, prévoient aussi de résoudre les embouteillages et de réduire les accidents mortels.
+- La recherche et le développement de la rétine artificielle, qui projette de redonner la vue à des personnes aveugles, est envisagée pour fournir aux robots un système de traitement d’images en temps réel, leur donnant ainsi effectivement la possibilité de « voir »[^3].
 
--   Design of user interaction considers experiences other than screens when accessibility is a consideration. The result is interaction that is more human-centered, natural, and contextual. 
+Le design accessible est par sa nature flexible, permettant au contenu d’être restitué fidèlement sur un grand nombre d’outils, de plate-formes, de technologies d’assistance et de systèmes d’exploitation. Dans les environnements physiques, tout le monde tire profit des bords de trottoirs abaissés, des portes automatiques, des plans inclinés et d’autres aspects de l’accessibilité au handicap. Sur le Web, les fonctionnalités d’accessibilité deviennent des options utilisées souvent plus largement.
 
--   Accessibility is closely related to general usability – both aim to define and deliver a more intuitive user experience.
+Un exemple frappant nous vient du début des années 2000, quand de plus en plus de gens ont utilisé  le Web sur des téléphones mobiles. Les sites accessibles et conformes aux standards étaient dans bien des cas déjà prêts pour les mobiles, parce qu’ils ne s’appuyaient pas que sur la souris. Imaginez le régal de ceux qui s’étaient déjà engagés dans une démarche accessible ! Cette révélation a mené au Responsive Design qui porte l’accessibilité en son cœur[^5]. 
 
--   Innovations like the typewriter, telephone, punch cards, text to speech, email, and voice controls were initially meant to include those with a disability, and all have found a much broader application.[^4]
-
--   Driverless cars, so promising for the independence of blind people, are projected to also
-    help solve traffic fatalities and congestion.
-
--   Research and development of the artificial retina project to help restore sight for participants who are blind may also help future robots with real-time image-processing systems, effectively enabling them to "see." [^3]
-
-Accessible design is by its nature flexible, allowing content to faithfully render across a broad spectrum of devices, platforms, assistive technologies, and operating systems. In physical environments, everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features become options that are also often used more widely.
-
-A compelling example comes from the early 2000’s, when people increasingly used mobile devices to browse the web. Accessible and standards-compliant websites were in many cases more mobile-ready as they did not rely on mouse input. Imagine the delight of those who were already committed to and had designed for accessibility! This revelation led to the responsive-design trend that has accessibility at its core.[^5] 
-
-The following case studies from two large technology companies provide useful examples for companies of all sizes.
+Les cas concrets qui suivent, bien que venant de grandes compagnies dans le secteur technologique, donnent des exemples utiles à toutes les compagnies, quelle que soit leur taille.
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: Apple " class="" %}
