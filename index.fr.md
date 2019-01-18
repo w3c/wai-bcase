@@ -150,13 +150,13 @@ Un article de 2016 paru sur le magazine en ligne de FastCompany[^8] souligne com
 {% include box.html type="end" %}
 {:/}
 
-### Enhance Your Brand
+### Améliorer votre image
 
 <img src="{{ "/content-images/wai-bcase/brand.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-Businesses need to protect and enhance their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR). As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^9] Further studies[^10] emphasize the benefits to the brand of companies that institute policies of broad diversity. 
+Les compagnies doivent protéger et améliorer leur image de marque. Un engagement clair en faveur de l’accessibilité peut montrer qu’une compagnie a un réel sens de la Responsabilité Sociale d’Entreprise (RSE). Quand les compagnies comprennent et agissent sur les différents besoins de leurs actionnaires, et s’engagent sur des pratiques de marketing et d’emploi durables et inclusives, elle peuvent espérer en tirer des bénéfices. Les résultats potentiels des programmes de RSE incluent une meilleure image de marque et une meilleure réputation, une augmentation des ventes et de la fidélité des clients, une diversité accrue des salariés et bien d’autres avantages[^9]. Des études plus poussées[^10] montrent le bénéfice sur la marque pour les compagnies qui ont institué une politique de diversité marquée. 
 
-Employing people with disabilities is an essential aspect of creating a diverse workforce. To be successful, the technology that employees use, including websites and applications, must be accessible.
+Employer des personnes atteintes de handicaps est essentiel dans la création d’une masse salariale diverse. Pour y parvenir, la technologie qu’utilisent les employés, y compris les sites web et les applications, doit être accessible.
 
 Barclays shared their approach to diversity and inclusion through the accessibility initiatives in their company and how that approach has made them a better company.
 
