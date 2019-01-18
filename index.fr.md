@@ -79,17 +79,16 @@ Quand l’accessibilité fait partie de la stratégie, les entreprises sont mieu
 
 Regardons maintenant quelques exemples et quelques études qui vous aideront à rédiger le « business case » qui est le plus efficace pour votre entreprise.
 
-## Accessibility is good for business
+## L’accessibilité est bonne pour les affaires
 
 <blockquote class="pull">
-  <p>Many organisations are waking up to the fact that embracing
-accessibility leads to multiple benefits – reducing legal risks,
-strengthening brand presence, improving customer experience and
-colleague productivity.</p>
-  <cite>Paul Smyth, Head of Digital Accessibility, Barclays</cite>
+  <p>
+    Bon nombre d’organisation réalisent qu’intégrer l’accessibilité amène de nombreux bienfaits en limitant les risques légaux, en renforçant la présence de la marque, en améliorant l’expérience utilisateur autant que la productivité interne.
+  </p>
+  <cite>Paul Smyth, Directeur de l’Accessibilité Numérique, Barclays</cite>
 </blockquote>
 
-The sections below explore key advantages of web accessibility to businesses of all types. Real world examples are presented to show how benefits are realized in the global marketplace.
+Les sections ci-dessous présentent les avantages clés de l’accessibilité web pour les entreprises de toutes tailles. Des exemples réels sont présentés afin de montrer comment un gain est produit à l’échelle d’un marché mondial.
 
 ### Drive Innovation
 
