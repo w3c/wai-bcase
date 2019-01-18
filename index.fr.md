@@ -82,9 +82,7 @@ Regardons maintenant quelques exemples et quelques études qui vous aideront à 
 ## L’accessibilité est bonne pour les affaires
 
 <blockquote class="pull">
-  <p>
-    Bon nombre d’organisation réalisent qu’intégrer l’accessibilité amène de nombreux bienfaits en limitant les risques légaux, en renforçant la présence de la marque, en améliorant l’expérience utilisateur autant que la productivité interne.
-  </p>
+  <p>Bon nombre d’organisation réalisent qu’intégrer l’accessibilité amène de nombreux bienfaits en limitant les risques légaux, en renforçant la présence de la marque, en améliorant l’expérience utilisateur autant que la productivité interne.</p>
   <cite>Paul Smyth, Directeur de l’Accessibilité Numérique, Barclays</cite>
 </blockquote>
 
