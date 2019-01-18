@@ -112,23 +112,22 @@ Les cas concrets qui suivent, bien que venant de grandes compagnies dans le sect
 {:/}
 
 <blockquote class="pull right alt-1">
-  <p>Accessibility is a core value at Apple and something we view as a basic human right.  </p>
-  <cite>Sarah Herrlinger, Director of Global Accessibility Policy and Initiatives, Apple</cite>
+  <p>L’accessibilité est une valeur phare chez Apple et que nous considérons comme un droit humain de base.</p>
+  <cite>Sarah Herrlinger, Directrice de la Politique et des Initiatives Accessibilité Groupe, Apple</cite>
 </blockquote>
 
-Apple engineers have been innovators in the accessibility space since the inception of the company, both willing to listen and work with outside constituents. [^6] The company also anticipates market direction by integrating disability needs into product development. Examples include:
+Les ingénieurs d’Apple ont été des innovateurs dans le champ de l’accessibilité depuis la création de la compagnie, voulant autant écouter que travailler avec des personnes extérieures[^6]. La compagnie anticipe aussi les évolutions du marché en intégrant les besoins liés au handicap dans le développement de produits. Par exemple :
 
--  <strong>iTunes U:</strong> In the early 2000’s, the 23-campus California State University system was unable to take advantage of Apple’s iTunes U educational program because the application was not fully accessible to blind students. Teachers within the CSU system were prohibited from using it. This was resolved by innovation, not litigation, as Apple listened to CSU’s concerns and worked to make iTunes accessible on both the Mac and Windows platforms. CSU System was soon able to use the program widely.
+- iTunes U : au début des années 2000, le système universitaire de Californie (CSU), fort de 23 campus, ne pouvait pas tirer profit du programme éducatif iTunes U d’Apple parce que l’application n’était pas vraiment accessible aux étudiants aveugles. Des enseignants dans le système de CSU ont reçu l’ordre de ne pas l’utiliser. Le problème a été résolu par l’innovation plutôt que par l’action en justice : Apple a écouté les besoins de CSU et a travaillé à rendre iTunes accessible aussi bien sur les plateformes Mac que Windows. Le système CSU a bientôt pu déployer le programme.
+- Voiceover sur l’iPhone : au début de l’évolution de l’iPhone, Apple a commencé à réfléchir aux conséquences d’un écran tactile pour leurs clients aveugles. La compagnie a investi dans un processus inconnu du grand public, étalé sur plusieurs années, pour développer la technologie vocale qui a mené à VoiceOvert, le premier lecteur d’écran basé sur des gestes. Quelques semaines après le lancement, Apple a reçu des félicitations de la NFB (Fédération Nationale des Personnes Aveugles) « pour avoir conçu la première interface tactile totalement accessible » [^7].
 
--  <strong>VoiceOver on iPhone:</strong> Early in the evolution of the iPhone, Apple began considering the implications that a touchscreen device would have on their blind customers. Iterating over several years behind the scenes, the company invested the resources to develop the voice technology that led to VoiceOver, the world’s first gesture-based screen reader. Within weeks of launch, Apple received a special commendation from the National Federation of the Blind "For designing the first fully accessible touchscreen interface.” [^7]
-
-Screen readers on other touch screen devices have now become more prevalent in the industry and Apple has shown important leadership in the effort to ensure inclusion for all. 
+Les lecteurs d’écran sont depuis présents sur un plus grand nombre d’interfaces tactiles dans l’industrie ; Apple a montré sa capacité à tracer le chemin pour assurer une inclusion pour tous. 
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-Innovation from voice interactions at Apple and elsewhere have contributed to the abundance of personal digital assistants now found in many homes and offices. Today millions of people use these devices, regardless of ability.  
+L’innovation dans les interfaces vocales chez Apple et ailleurs a contribué à l’abondance d’assistants numériques qu’on trouve maintenant dans de nombreux foyers et bureaux. Aujourd’hui des millions de personnes utilisent ces appareils, quelles que soient leurs capacités.  
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: Google " class="" %}
