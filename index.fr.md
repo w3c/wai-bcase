@@ -185,38 +185,31 @@ Barclays montre qu’un engagement fort envers l’accessibilité induit une res
 
 Microsoft est un autre bon exemple de la façon dont une marque peut être affectée. Après de longs débats et des critiques de défenseurs de l’accessibilité[^11], Microsoft s’est investi de façon réelle et appréciable dans l’accessibilité, par l’engagement de @@stakeholders de toutes capacités[^12]. L’amélioration des produits et des services qui en a résulté a consolidé son image de marque en général [^13], et ses efforts en faveur de l’accessibilité sont maintenant reconnus dans la communauté du handicap[^14].
 
-### Increase Market Reach
+### Améliorer vos parts de marché
 
 <img src="{{ "/content-images/wai-bcase/market-reach.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-The market of people with disabilities is large and growing as the
-global population ages. In the UK, where the large disability market is known as the Purple Pound, people with disabilities and their
-families spend at least £249 billion every year. In the US, the annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is nearly $7 trillion. Consider these facts when estimating market size:
+Le marché des personnes handicapées est très grand et grossit encore tandis que la population mondiale se séniorise. En Grande Bretagne, où le marché du handicap est connu en tant que <i lang="en">Purple Pound</i> (la « Livre pourpre »), les personnes handicapées et leurs familles dépensent au moins 249 milliards de Livres chaque année. Aux États-Unis, la dépense spécifique aux personnes handicapées est au-dessus de 200 milliards de Dollars. L’estimation globale du marché handicap est de l’ordre de 7 mille milliards de Dollars. Pour estimer la taille de ce marché, on peut noter :
 
--   At least one billion people – 15% of the world’s population – have a
-    recognized disability[^15]
--   As the population ages, many more acquire disability and yet do not
-    identify as a “person with a disability”[^16]
--   In countries with life expectancies of over 70 years of age, people
-    spend 11.5 percent of their lifespan living with a disability.[^17]
--   Globally, the extended market is estimated at 2.3 billion people who
-    control an incremental $6.9 trillion in annual disposable
-    income.[^18]
+- Au moins un milliard de personnes (15 % de la population mondiale) présente un handicap reconnu[^15].
+- Alors que la population vieillit, de plus en plus de personnes acquièrent des handicaps mais ne s’identifient pas pour autant comme « personnes handicapées »[^16].
+- Dans les pays où l’espérance de vie dépasse les 70 ans, les gens passent en moyenne 11,5 pour cent de leur vie avec un handicap[^17].
+- Globalement, le marché étendu est estimé à 2,3 milliards de personnes qui contrôlent un revenu annuel de 6,9 mille milliards de Dollars, en croissance[^18].
     
-A Forrester Research Economic Impact Study commissioned by Microsoft concluded that accessibility could contribute to cost savings when it is integrated into existing and ongoing development cycles. [^19] Technology updates and redesigns that include accessibility along with other best practices have demonstrated reduced costs for maintenance and service. Moreover, according to Microsoft, as accessibility features are included, overall customer satisfaction improves. 
+Une étude d’impact Forrester Research commissionnée par Microsoft a conclu que l’accessibilité pouvait contribuer à des économies de coûts si  on l’intégrait dans des cycles de développement existants[^19]. Les mises à jour technologiques et les redesigns qui incluent l’accessibilité parmi d’autres bonnes pratiques induisent des coûts de maintenance et de service amoindris. De plus, selon Microsoft, en incluant des fonctionnalités accessibles, la satisfaction générale des utilisateurs augmente.
 
 <blockquote class="pull">
-  <p>Designing inclusive software results in improved usability and customer satisfaction.</p>
-  <cite>Microsoft’s app developer guide</cite>
+  <p>Concevoir des logiciels inclusifs conduit à une meilleure utilisabilité et une meilleure satisfaction client.</p>
+  <cite>Guide de développement d’applications Microsoft</cite>
 </blockquote>
 
-Accessible design considerations often lead to improvements in general customer experience and loyalty. For customers with disabilities, such improvements are essential for equal access. However, accessibility provides options that are useful to all customers in various situations. For example, web accessibility also benefits:
+Les considérations de conception accessible amènent souvent à des améliorations de l’expérience utilisateur générale et de sa loyauté. Pour des clients handicapés, de telles améliorations sont essentielles pour un accès égalitaire. Cependant, l’accessibilité fournit des options qui sont utilise à tous les utilisateurs dans des circonstances variées. Par exemple, l’accessibilité web profite aussi :
 
-* people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.,
-* older people with changing abilities due to ageing,
-* people with “temporary disabilities” such as a broken arm or lost glasses,
-* challenging situations like bright, glaring sunlight or noisy environments where audio can't be heard, 
-* those with a slow internet connection, limited or expensive bandwidth, which is common in rural areas and some geographical regions.
+* aux personnes utilisant des téléphones mobiles, des montres connectées, des TV connectées, et autres appareils à petits écrans, dont les méthodes de saisie ne moins courantes, etc.,
+* aux personnes plus âgées dont les capacités s’altèrent,
+* aux personnes atteintes de « handicaps temporaires », tels qu’un bras cassé ou une paire de lunettes perdue,
+* aux situations pénibles comme un soleil éblouissant, ou un environnement bruyant où l’audio ne peut pas être entendu,
+* aux personnes dont la connexion internet est lente, dont la bande passante est limitée ou chère, ce qui est commun dans les zones rurales et dans certaines régions du monde.
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: NPR Weekly Broadcast " class="" %}
