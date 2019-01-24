@@ -212,27 +212,24 @@ Les considérations de conception accessible amènent souvent à des améliorati
 * aux personnes dont la connexion internet est lente, dont la bande passante est limitée ou chère, ce qui est commun dans les zones rurales et dans certaines régions du monde.
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Case Study: NPR Weekly Broadcast " class="" %}
+{% include box.html type="start" h="4" title="Étude de cas : émission hebdomadaire de la NPR" class="" %}
 {:/}
 
-This American Life is a broadcast heard on more than 500 National Public Radio (NPR) stations by about 2.1 million listeners each week in the United States. In 2011, in response to new regulations around broadcast media from the US Federal Communications Commission (FCC),  the broadcaster committed to creating transcripts for their entire archive of recorded programs. A study by their media partner, conducted over several months, concluded that the provision of transcripts not only met legal obligations but returned significant benefits including:
+<cite lang="en">This American Life</cite> est une émission écoutée sur plus de 500 stations de la NPR (Radio Publique Nationale) par environ 2,1 millions de personnes chaque semaine aux États-Unis. En 2011, en réaction aux nouvelles règles liées aux médias diffusés, émises par la FCC (Commission Fédérale aux Communications), la chaîne de radio s’est engagée à créer des transcriptions de toute l’archive de leurs émissions enregistrées. Une étude menée par leur partenaire média pendant plusieurs mois a conclu que fournir des transcriptions non seulement permettait d’être conforme aux obligations légales mais donnait aussi d’autres résultats significatifs, comme :
 
--   search traffic increased 6.86%,
--   better comprehension for visitors who use English as a second
-    language,
--   visitors were able to use transcripts in noisy or sound-sensitive
-    environments,
--   ability to more easily translate, and
--   ability to search text to reference a specific section of audio.
+- des accès dus aux moteurs de recherche en augmentation de 6,86 %,
+- une meilleure compréhension pour les visiteusr dont l’anglais n’est pas la première langue,
+- les visiteurs sont capables d’utiliser les transcriptions même dans des environnements bruyants ou feutrés,
+- une plus grande facilité à traduire, et
+- la possibilité de rechercher du texte pour pouvoir faire référence à une partie spécifique d’un flux audio.
 
-The study, conducted over more than one year, used Google Analytics to
-capture the following data:
+L’étude, menée pendant plus d’un an, a utilisé Google Analytics et donne les résultats suivants :
 
--   visitor engagement increased 7.23%,
--   unique visitors increased 4.18%, and
--   new inbound links to transcript accounted for an increase of 3.89%
+- @@[THIS SENTENCE IS BEING DISCUSSED WITH CHAIRS] visitor engagement increased 7.23%,
+- le nombre de visiteurs uniques a augmenté de 4,18 %, et
+- le nombre de liens entrants vers les transcriptions représente une augmentation totale de 3,89 % des liens entrants.
 
-Read more detail and the full report of the [This American Life Case Study {% include_cached external.html %}](https://www.3playmedia.com/customers/case-studies/this-american-life/) and how it was conducted.
+Vous pouvez lire plus de détails et le rapport complet dans [l’étude de cas de <cite lang="en">This American Life</cite> {% include_cached external.html %}](https://www.3playmedia.com/customers/case-studies/this-american-life/){: hreflang="en"} (en anglais), notamment la méthode pour obtenir ces résultats.
 
 {::nomarkdown}
 {% include box.html type="end" %}
