@@ -108,7 +108,7 @@ Un exemple frappant nous vient du début des années 2000, quand de plus en plus
 Les cas concrets qui suivent, bien que venant de grandes compagnies dans le secteur technologique, donnent des exemples utiles à toutes les compagnies, quelle que soit leur taille.
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Case Study: Apple " class="" %}
+{% include box.html type="start" h="4" title="Étude de cas : Apple" class="" %}
 {:/}
 
 <blockquote class="pull right alt-1">
@@ -130,7 +130,7 @@ Les lecteurs d’écran sont depuis présents sur un plus grand nombre d’inter
 L’innovation dans les interfaces vocales chez Apple et ailleurs a contribué à l’abondance d’assistants numériques qu’on trouve maintenant dans de nombreux foyers et bureaux. Aujourd’hui des millions de personnes utilisent ces appareils, quelles que soient leurs capacités.  
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Case Study: Google " class="" %}
+{% include box.html type="start" h="4" title="Étude de cas : Google" class="" %}
 {:/}
 
 <blockquote class="pull right alt-1">
@@ -161,7 +161,7 @@ Employer des personnes atteintes de handicaps est essentiel dans la création d�
 Barclays partage son approche de la diversité et de l’inclusion à travers ses initiatives liées à l’accessibilité, et comment cette approche en a fait une meilleure compagnie.
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Case Study: Barclays" class="" %}
+{% include box.html type="start" h="4" title="Étude de cas : Barclays" class="" %}
 {:/}
 
 Fixer une stratégie d’accessibilité pour toute la compagne en identifiant, en anticipant et en traitant les besoins additionnels des clients et des collaborateurs handicapés contribue de plusieurs manières à notre identité de marque à travers des services sur mesure, créant une culture de l’inclusion et de nouvelles façons de communiquer et d’aider nos clients tant existants que potentiels. 
