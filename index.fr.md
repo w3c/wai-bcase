@@ -183,8 +183,7 @@ Pour permettre à tout le monde de mieux comprendre l’état d’esprit orient�
 
 Barclays montre qu’un engagement fort envers l’accessibilité induit une responsabilité distribuée et une compréhension partagée des enjeux. La sensibilité à l’accessibilité imprègne la culture d’entreprise. La compagnie est perçue comme ouverte et respectueuse. Les employés sont fiers d’y travailler et de collaborer avec Barclays. Lisez [l’étude de cas complète sur Barclays {% include_cached different.html %}](https://www.w3.org/community/wai-engage/wiki/Barclays_Bank_Case_Study){: hreflang="en"} (en anglais) pour en savoir plus.
 
-Another well-recognized example of how a brand can be affected is Microsoft. After long advocacy and some criticism by accessibility
-advocates [^11], Microsoft made a real and appreciable commitment to accessibility demonstrated by genuine engagement with stakeholders of all abilities.[^12] The resulting improvements to products and services have strengthened its overall brand image [^13], and accessibility efforts are now lauded in the community of people with disabilities.[^14]
+Microsoft est un autre bon exemple de la façon dont une marque peut être affectée. Après de longs débats et des critiques de défenseurs de l’accessibilité[^11], Microsoft s’est investi de façon réelle et appréciable dans l’accessibilité, par l’engagement de @@stakeholders de toutes capacités[^12]. L’amélioration des produits et des services qui en a résulté a consolidé son image de marque en général [^13], et ses efforts en faveur de l’accessibilité sont maintenant reconnus dans la communauté du handicap[^14].
 
 ### Increase Market Reach
 
