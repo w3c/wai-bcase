@@ -235,7 +235,7 @@ Vous pouvez lire plus de détails et le rapport complet dans [l’étude de cas 
 {% include box.html type="end" %}
 {:/}
 
-### Minimize Legal Risk
+### Minimiser le risque légal
 
 <img src="{{ "/content-images/wai-bcase/minimize-risk.svg" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 30%; max-width: 220px">
 
@@ -243,35 +243,34 @@ Vous pouvez lire plus de détails et le rapport complet dans [l’étude de cas 
 {% include box.html type="start" class="simple right" %}
 {:/}
 
-A significant demonstration of the risk of ignoring accessibility requirements was the 2008 settlement by the National Federation of the Blind with Target retailers:[^20]
+Une démonstration claire du risque pris quand on ignore les exigences d’accessibilité peut se trouver dans le jugement de 2008 opposant la NFB (Fédération Nationale Américaine des Aveugles) et les magasins Target[^20] :
 
-- class damages of $6 million
-- plaintiff legal fees over $3 million
-- undisclosed defense legal fees
-- court oversight of website for several years
+- préjudices de 6 millions de Dollars
+- coûts juridiques de plus de 3 millions de Dollars pour le plaignant
+- coûts juridiques pour la défense non connus
+- supervision du site par la justice pendant plusieurs années
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-Consideration of the cost and risk of inaction is a critical aspect of
-any business case. As web use is woven into modern life all over the world, governments and regulators began to mandate laws and policies that strengthen the rights of people with disabilities to participate in online digital information and services. 
+Un aspect critique de toute étude business est la considération des coûts et des risques de l’inaction. L’usage du Web est permanent dans la vie moderne, dans le monde entier ; les gouvernements et les législateurs commencent donc à édicter des lois et des programmes pour renforcer les droits des personnes handicapées à profiter pleinement de l’information et des services en ligne.
 
-One of the earliest examples of legal consequences to web accessibility was a complaint put to the Human Rights and Equal Opportunities Commission (HREOC) in 2000 about the inaccessibility of the website of the Sydney Olympics. The plaintiff, who was blind, claimed the site was a violation of the Commonwealth Disability Discrimination Act 1992.[^21] The 2001 decision in the Sydney Olympics suit[^22] raised awareness of the need to address accessibility in the emerging practice of web communication. 
+Un des premiers exemples des conséquens légales de l’accessibilité web est la plainte déposée par la HREOC (Commission aux Droits Humains et à l’Égalité des Chances) en 2000 relative à l’inaccessibilité du site web des Jeux Olympiques de Sydney. Le plaignant, qui était aveugle, arguait que le site violait la <i lang="en">Commonwelath Disability Discrimination Act</i> de 1992[^21] (loi contre la discrimination envers le handicap). La décision de 2001 dans le procès contre les Jeux Olympiques de Sydney[^22] a augmenté la perception par le public de la nécessité de prendre en compte l’accessibilité web dans la pratique émergente de la communication web.
 
-Over time, the legal risk increased with the adoption of more specific laws and policies in countries throughout the world.
+Au fil du temps, le risque légal a augmenté, tandis que de plus en plus de lois et de réglements spécifiques sont adoptés dans le monde entier.
 
-- The Convention on the Rights of People with Disabilities (CRPD) is a comprehensive human rights document that includes a direct reference to the rights of all people to have equal access to communications technology. Passed by the General Assembly of the United Nations, more than 175 countries ratified it by 2018. 
+- la Convention pour les Droits des Personnes Handicapées (CRDP, <i lang="en">Convention on the Rights of People with Disabilities</i>) est un document complet sur les droits humains qui inclut une référence directe aux droits pour tous à un accès équitable aux technologies de communication. Votée par l’Assemblée Générale des Nations Unies, elle était ratifiée par plus de 175 pays en 2018.
 
-- The European Commission adopted the European Accessibility Act, requiring ATMs and banking services, PCs, telephones and TV equipment, telephony and audiovisual services, transport, e-books, and e-commerce meet accessibility requirements.
+- La Commission Européenne a adopté la Loi Européenne pour l’Accessibilité (<i lang="en">European Accessibility Law</i>) qui exige que les points de retrait d’argent, les services bancaires, les PC, les téléphones, les équipements TV, les services audiovisuels et de téléphonie, les transports, les e-books et le commerce électronique soient conformes à des exigences d’accessibilité.
 
-- In the US, the number of legal actions continues to rise and courts increasingly decide in favor of equal access[^23], often citing the Americans with Disabilities Act (ADA). Structured Negotiation is another way that legal pressure is effective, encouraging companies to meet accessibility requirements while avoiding litigation.[^24]
+- Aux États-Unis, le nombre d’actions en justice ne cesse d’augmenter et les jugements sont de plus en plus souvent en faveur d’un accès équitable[^23], souvent en référence à la Loi pour les Américains Handicapés (<i lang="en">ADA, Americans with Disabilities Act</i>. La Négociation Structurée est aussi une preuve de l’efficacité de la pression législative, en encourageant les compagnies à se conformer à des exigences d’accessibilité plutôt que de subir un procès[^24].
 
-In Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities, the government fines commercial companies that do not comply.[^25] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate.[^26] 
+En Norvège, où il est maintenant illégal pour un site commercial de ne pas proposer un accès équivalent à une personne handicapée, le gouvernement met des amendes aux compagnies commerciales qui n’obéissent pas[^25]. L’Autriche a mis en place depuis 2006 un règlement de protection du client qui exige que la plupart des sites web publics soient conformes à des standards d’accessibilité. Les clients qui pensent être victimes d’une discrimination peuvent porter l’affaire en justice. Les parties doivent d’abord tenter une médiation avant de passer devant un tribunal. Aux États-Unis, par contraste, la règle est moins claire mais le rythme des actions en justice continue de s’accélérer[^26].
 
-Between government oversight and regulation on the one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
+Entre la supervision govuernementale et la régulation d’une part, et les action en justice en augmentation d’autre part, le décor légal se transforme rapidement en faveur d’un accès équitable.
 
-**With legal risks increasing, smart businesses – particularly those with global activities – are creating accessibility policies and programs to mitigate risk to protect both their assets and their reputations.**
+**Avec l’augmentation du risque légal, les compagnies intelligentes (en particulier celles qui ont une activité mondiale) mettent en place une politique et des programmes dédiés à l’accessibilité pour limiter les risques afin de protéger tant leurs actifs que leur réputation.**
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: ADA and Website Accessibility " class="" %}
