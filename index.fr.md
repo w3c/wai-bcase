@@ -225,7 +225,7 @@ Les considérations de conception accessible amènent souvent à des améliorati
 
 L’étude, menée pendant plus d’un an, a utilisé Google Analytics et donne les résultats suivants :
 
-- @@[THIS SENTENCE IS BEING DISCUSSED WITH CHAIRS] visitor engagement increased 7.23%,
+- 7,23 % des visiteurs ont lu au moins une transcription,
 - le nombre de visiteurs uniques a augmenté de 4,18 %, et
 - le nombre de liens entrants vers les transcriptions représente une augmentation totale de 3,89 % des liens entrants.
 
