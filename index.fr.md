@@ -293,9 +293,9 @@ La cour a exigé de la chaîne de magasins qu’elle :
 {% include box.html type="end" %}
 {:/}
 
-## Share your experience
+## Partagez votre expérience
 
-User experience research and case studies confirm the many ways that accessible design supports an organization’s ability to innovate, enhance their brand, increase market reach, and minimize legal risk – among many other benefits. The WAI is a global community of practice, and we encourage you to share your examples. If you have a story of how your commitment to accessibility improved your online business model, please submit it via email to <wai-eo-editors@w3.org> or post it to the [WAI-Engage wiki {% include_cached different.html %}](https://www.w3.org/community/wai-engage/wiki/Case_studies).
+Les études en Expérience Utilisateur et les études de cas confirment que la conception accessible augmente la capacité d’une organisation à innover, renforcer son identité de marque, augmenter sa part de marché, et minimiser les risques légaux – parmi de nombreux autres bénéfices. La WAI met en commun des bonnes pratiques au niveau mondial, et nous vous encourageons à partager vos exemples. Si vous voulez raconter comment votre engagement envers l’accessibilité a amélioré votre <i lang="en">business model</i> en ligne, merci de nous contacter à <wai-eo-editors@w3.org> ou d’écrire sur le Wiki [WAI-Engage {% include_cached different.html %}](https://www.w3.org/community/wai-engage/wiki/Case_studies).
 
 ## Conclusion
 
