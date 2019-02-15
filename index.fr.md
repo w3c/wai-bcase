@@ -4,7 +4,7 @@ permalink: /teach-advocate/business-case/fr/
 lang: fr
 ref: /teach-advocate/business-case/
 layout: default
-description: Présente les raisons pour une organisation d’intégrer l’accessibilité. Inclut des bénéfices tangibles et intangibles, ainsi que les risques qu’on prend en ne traitant pas l’accessibilité de façon adéquate. 
+description: Présente les raisons pour une organisation d’intégrer l’accessibilité. Inclut des bénéfices tangibles et intangibles, ainsi que les risques qu’on prend en ne traitant pas l’accessibilité de façon adéquate.
 image: /content-images/wai-bcase/social.png
 github:
   repository: w3c/wai-bcase
@@ -63,7 +63,7 @@ Veuillez noter que les termes « accessibilité web » et « sites web » da
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Faut-il expliquer les bénéfices business de l’accessibilité ? 
+## Faut-il expliquer les bénéfices business de l’accessibilité ?
 
 <img src="{{ "/content-images/wai-bcase/business-case.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
@@ -103,7 +103,7 @@ Intégrer l’accessibilité permet de faire tomber des barrières architectural
 
 Le design accessible est par sa nature flexible, permettant au contenu d’être restitué fidèlement sur un grand nombre d’outils, de plate-formes, de technologies d’assistance et de systèmes d’exploitation. Dans les environnements physiques, tout le monde tire profit des bords de trottoirs abaissés, des portes automatiques, des plans inclinés et d’autres aspects de l’accessibilité au handicap. Sur le Web, les fonctionnalités d’accessibilité deviennent des options utilisées souvent plus largement.
 
-Un exemple frappant nous vient du début des années 2000, quand de plus en plus de gens ont utilisé  le Web sur des téléphones mobiles. Les sites accessibles et conformes aux standards étaient dans bien des cas déjà prêts pour les mobiles, parce qu’ils ne s’appuyaient pas que sur la souris. Imaginez le régal de ceux qui s’étaient déjà engagés dans une démarche accessible ! Cette révélation a mené au Responsive Design qui porte l’accessibilité en son cœur[^5]. 
+Un exemple frappant nous vient du début des années 2000, quand de plus en plus de gens ont utilisé  le Web sur des téléphones mobiles. Les sites accessibles et conformes aux standards étaient dans bien des cas déjà prêts pour les mobiles, parce qu’ils ne s’appuyaient pas que sur la souris. Imaginez le régal de ceux qui s’étaient déjà engagés dans une démarche accessible ! Cette révélation a mené au Responsive Design qui porte l’accessibilité en son cœur[^5].
 
 Les cas concrets qui suivent, bien que venant de grandes compagnies dans le secteur technologique, donnent des exemples utiles à toutes les compagnies, quelle que soit leur taille.
 
@@ -121,13 +121,13 @@ Les ingénieurs d’Apple ont été des innovateurs dans le champ de l’accessi
 - iTunes U : au début des années 2000, le système universitaire de Californie (CSU), fort de 23 campus, ne pouvait pas tirer profit du programme éducatif iTunes U d’Apple parce que l’application n’était pas vraiment accessible aux étudiants aveugles. Des enseignants dans le système de CSU ont reçu l’ordre de ne pas l’utiliser. Le problème a été résolu par l’innovation plutôt que par l’action en justice : Apple a écouté les besoins de CSU et a travaillé à rendre iTunes accessible aussi bien sur les plateformes Mac que Windows. Le système CSU a bientôt pu déployer le programme.
 - Voiceover sur l’iPhone : au début de l’évolution de l’iPhone, Apple a commencé à réfléchir aux conséquences d’un écran tactile pour leurs clients aveugles. La compagnie a investi dans un processus inconnu du grand public, étalé sur plusieurs années, pour développer la technologie vocale qui a mené à VoiceOvert, le premier lecteur d’écran basé sur des gestes. Quelques semaines après le lancement, Apple a reçu des félicitations de la NFB (Fédération Nationale des Personnes Aveugles) « pour avoir conçu la première interface tactile totalement accessible » [^7].
 
-Les lecteurs d’écran sont depuis présents sur un plus grand nombre d’interfaces tactiles dans l’industrie ; Apple a montré sa capacité à tracer le chemin pour assurer une inclusion pour tous. 
+Les lecteurs d’écran sont depuis présents sur un plus grand nombre d’interfaces tactiles dans l’industrie ; Apple a montré sa capacité à tracer le chemin pour assurer une inclusion pour tous.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-L’innovation dans les interfaces vocales chez Apple et ailleurs a contribué à l’abondance d’assistants numériques qu’on trouve maintenant dans de nombreux foyers et bureaux. Aujourd’hui des millions de personnes utilisent ces appareils, quelles que soient leurs capacités.  
+L’innovation dans les interfaces vocales chez Apple et ailleurs a contribué à l’abondance d’assistants numériques qu’on trouve maintenant dans de nombreux foyers et bureaux. Aujourd’hui des millions de personnes utilisent ces appareils, quelles que soient leurs capacités.
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Étude de cas : Google" class="" %}
@@ -154,7 +154,7 @@ Un article de 2016 paru sur le magazine en ligne de FastCompany[^8] souligne com
 
 <img src="{{ "/content-images/wai-bcase/brand.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-Les compagnies doivent protéger et améliorer leur image de marque. Un engagement clair en faveur de l’accessibilité peut montrer qu’une compagnie a un réel sens de la Responsabilité Sociale d’Entreprise (RSE). Quand les compagnies comprennent et agissent sur les différents besoins de leurs actionnaires, et s’engagent sur des pratiques de marketing et d’emploi durables et inclusives, elle peuvent espérer en tirer des bénéfices. Les résultats potentiels des programmes de RSE incluent une meilleure image de marque et une meilleure réputation, une augmentation des ventes et de la fidélité des clients, une diversité accrue des salariés et bien d’autres avantages[^9]. Des études plus poussées[^10] montrent le bénéfice sur la marque pour les compagnies qui ont institué une politique de diversité marquée. 
+Les compagnies doivent protéger et améliorer leur image de marque. Un engagement clair en faveur de l’accessibilité peut montrer qu’une compagnie a un réel sens de la Responsabilité Sociale d’Entreprise (RSE). Quand les compagnies comprennent et agissent sur les différents besoins de leurs actionnaires, et s’engagent sur des pratiques de marketing et d’emploi durables et inclusives, elle peuvent espérer en tirer des bénéfices. Les résultats potentiels des programmes de RSE incluent une meilleure image de marque et une meilleure réputation, une augmentation des ventes et de la fidélité des clients, une diversité accrue des salariés et bien d’autres avantages[^9]. Des études plus poussées[^10] montrent le bénéfice sur la marque pour les compagnies qui ont institué une politique de diversité marquée.
 
 Employer des personnes atteintes de handicaps est essentiel dans la création d’une masse salariale diverse. Pour y parvenir, la technologie qu’utilisent les employés, y compris les sites web et les applications, doit être accessible.
 
@@ -164,7 +164,7 @@ Barclays partage son approche de la diversité et de l’inclusion à travers se
 {% include box.html type="start" h="4" title="Étude de cas : Barclays" class="" %}
 {:/}
 
-Fixer une stratégie d’accessibilité pour toute la compagne en identifiant, en anticipant et en traitant les besoins additionnels des clients et des collaborateurs handicapés contribue de plusieurs manières à notre identité de marque à travers des services sur mesure, créant une culture de l’inclusion et de nouvelles façons de communiquer et d’aider nos clients tant existants que potentiels. 
+Fixer une stratégie d’accessibilité pour toute la compagne en identifiant, en anticipant et en traitant les besoins additionnels des clients et des collaborateurs handicapés contribue de plusieurs manières à notre identité de marque à travers des services sur mesure, créant une culture de l’inclusion et de nouvelles façons de communiquer et d’aider nos clients tant existants que potentiels.
 
 <blockquote class="pull right">
   <p>Chez Barclays, l’accessibilité va au-delà du handicap. Il s’agit d’aider tout le monde à travailler, à gérer ses comptes et sa vie quels que soient son âge, sa situation, ses capacités ou ses circonstances.</p>
@@ -173,7 +173,7 @@ Fixer une stratégie d’accessibilité pour toute la compagne en identifiant, e
 
 Nous voulons nous appuyer sur une technologie inclusive pour permettre à tout le monde de gérer ses comptes, de vivre sa vie et d’atteindre son plein potentiel. L’équipe Accessibilité de Barclays y parvient en assistant les équipes digitales, afin d’inclure l’accessibilité dans nos services et notre culture à travers une gouvernance efficace, des partenariats, des formations et des outils. En établissant dans toute la compagnie une stratégie des standards et des programmes consacrés à l’accessibilité, de pair avec un parrainage par l’encadrement, nous pouvons appuyer notre ambition publique de devenir la compagnie la plus accessible et inclusive de toute la Bourse du Financial Times (FTSE).
 
-Quand nous passons d’une simple conformité légale minimale à une prise en compte de l’opportunité commerciale et du défi créatif de construire une meilleure expérience pour tous, nous créons une approche plus durable et plus orientée client pour nos services et notre information digitaux. 
+Quand nous passons d’une simple conformité légale minimale à une prise en compte de l’opportunité commerciale et du défi créatif de construire une meilleure expérience pour tous, nous créons une approche plus durable et plus orientée client pour nos services et notre information digitaux.
 
 Pour permettre à tout le monde de mieux comprendre l’état d’esprit orienté accessibilité de Barclays, nous avons créé une série d’animations qui aide nos collègues à comprendre ce que veut dire accessibilité, qui en bénéficie, et quels sont les différents types de handicaps. Nous avons aussi partagé ces animations sur notre [liste de lecture Youtube <i lang="en">Accessible Banking</i> {% include_cached external.html %}](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy){: hreflang="en"} (en anglais).
 
@@ -195,7 +195,7 @@ Le marché des personnes handicapées est très grand et grossit encore tandis q
 - Alors que la population vieillit, de plus en plus de personnes acquièrent des handicaps mais ne s’identifient pas pour autant comme « personnes handicapées »[^16].
 - Dans les pays où l’espérance de vie dépasse les 70 ans, les gens passent en moyenne 11,5 pour cent de leur vie avec un handicap[^17].
 - Globalement, le marché étendu est estimé à 2,3 milliards de personnes qui contrôlent un revenu annuel de 6,9 mille milliards de Dollars, en croissance[^18].
-    
+
 Une étude d’impact Forrester Research commissionnée par Microsoft a conclu que l’accessibilité pouvait contribuer à des économies de coûts si  on l’intégrait dans des cycles de développement existants[^19]. Les mises à jour technologiques et les redesigns qui incluent l’accessibilité parmi d’autres bonnes pratiques induisent des coûts de maintenance et de service amoindris. De plus, selon Microsoft, en incluant des fonctionnalités accessibles, la satisfaction générale des utilisateurs augmente.
 
 <blockquote class="pull">
@@ -268,26 +268,26 @@ Au fil du temps, le risque légal a augmenté, tandis que de plus en plus de loi
 
 En Norvège, où il est maintenant illégal pour un site commercial de ne pas proposer un accès équivalent à une personne handicapée, le gouvernement met des amendes aux compagnies commerciales qui n’obéissent pas[^25]. L’Autriche a mis en place depuis 2006 un règlement de protection du client qui exige que la plupart des sites web publics soient conformes à des standards d’accessibilité. Les clients qui pensent être victimes d’une discrimination peuvent porter l’affaire en justice. Les parties doivent d’abord tenter une médiation avant de passer devant un tribunal. Aux États-Unis, par contraste, la règle est moins claire mais le rythme des actions en justice continue de s’accélérer[^26].
 
-Entre la supervision govuernementale et la régulation d’une part, et les action en justice en augmentation d’autre part, le décor légal se transforme rapidement en faveur d’un accès équitable.
+Entre la supervision gouvernementale et la régulation d’une part, et les action en justice en augmentation d’autre part, le décor légal se transforme rapidement en faveur d’un accès équitable.
 
 **Avec l’augmentation du risque légal, les compagnies intelligentes (en particulier celles qui ont une activité mondiale) mettent en place une politique et des programmes dédiés à l’accessibilité pour limiter les risques afin de protéger tant leurs actifs que leur réputation.**
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Case Study: ADA and Website Accessibility " class="" %}
+{% include box.html type="start" h="4" title="Étude de cas : ADA et l’accessibilité des sites web" class="" %}
 {:/}
 
-The blind plaintiff shopped at the local Winn-Dixie grocery store and pharmacy in person but was unable to access the website for information such as the store locator, coupons, store events, and specials. The historic suit was the first trial in the history of the ADA about the accessibility of a public accommodation’s website. 
+Le plaignant aveugle faisait ses courses au magasin local de Winn-Dixie en personne mais ne pouvait pas accéder à leur site web pour y trouver des informations comme l’emplacement des magasins, les bons de réductions, les événements, les offres spéciales. Ce procès historique est le premier dans l’histoire de l’ADA (Loi pour les Américains Handicapés) qui traite de l’accessibilité du site web d’un service destiné au public.
 
-Winn-Dixie asked the court to dismiss the suit based on their argument that a website is not a public accommodation covered by Title III of the ADA. The court decided otherwise, allowing the plaintiff to recover their attorney fees. The decision included the following conclusions by the court: 
+Winn-Dixie a demandé à la cour de ne pas donner suite, en se fondant sur le fait qu’un site web n’est pas un service destiné au public au sens couvert par le Titre III de l’ADA. La cour a tranché à l’opposé, permettant au plaignant de rembourser ses frais d’avocat. La décision inclut les conclusions suivantes :
 
--   The link between the website and Winn-Dixie Stores was a circumstance that made Title III of the ADA, applicable to “Public Accommodations,” relevant in this situation.
--   The website must be made accessible to *“individuals with disabilities who use computers, laptops, tablets, and smartphones.”*
+- Le lien entre le site web et les magasins Winn-Dixie est une circonstance qui rend le Titre III de l’ADA, qui s’applique aux « services à destination du public », applicable à cette situation.
+- Le site doit être accessible aux *« personnes en situation de handicap utilisant un ordinateur, une tablette ou un smartphone. »*
 
-The court required the chain of grocery stores to
+La cour a exigé de la chaîne de magasins qu’elle :
 
--   adopt and post an explicit Accessibility Policy *“to ensure the persons with disabilities have full and equal enjoyment of its website and shall accompany the public policy statement with an accessible means of submitting accessibility questions and problems.”*
--   conduct annual accessibility training for IT and web staff, so they learn to create and maintain content that meets WCAG criteria.
--   make sure that any third-party applications or content posted to the Winn-Dixie site must also meet WCAG requirements.
+- adopte et publie une Politique d’Accessibilité explicite *« pour s’assurer que les personnes en situation de handicap puissent profiter pleinement et équitablement du site web et devra accompagner cette déclaration publique de politique d’un moyen accessible de faire remonter des questions et des problèmes d’accessibilité. »* ;
+- pratique des formations annuelles à l’accessibilité pour ses équipes informatique et web, afin qu’elles apprennent à créer et maintenir des contenus qui sont conformes aux critères WCAG ;
+- s’assure que toute application ou contenu tiers publié sur le site de Winn-Dixie soit aussi conforme aux exigences WCAG.
 
 {::nomarkdown}
 {% include box.html type="end" %}
