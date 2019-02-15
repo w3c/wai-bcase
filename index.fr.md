@@ -301,65 +301,70 @@ Les études en Expérience Utilisateur et les études de cas confirment que la c
 
 L’appropriation du Web par le public a plus de 25 ans. Ce n’est plus une innovation mais un outil crucial, intégré dans la vie moderne. Tandis que les entreprises avisées intègrent la conception accessible dans leurs processus de développement et de sous-traitance, elles comprennent qu’il faut fournir un accès équitable à tous. Les risques légaux qu’on prend en ignorant l’accessibilité sont importants, et les bénéfices sont prouvés par des meneurs comme Apple, Barclays, NPR, IBM, Microsoft et des centaines d’autres. Les responsables d’entreprises et les personnes qui les influencent peuvent avoir un impact social phénoménal et provoquer un retour sur investissement important quand ils embarquent un plan d’action qui promeut un accès égal. Plus d’un milliard de personnes ont un handicap dans le monde et veulent interagir avec vous en tant que clients, partenaires, employés, participants à part entière de toutes les activités civiques et sociales. En vous engageant à long terme dans l’accessibilité, en vous appuyant sur les ressources de la WAI pour développer votre politique et mettre en place une stratégie pour concrétiser cet engagement, votre entreprise sera présente sur ce marché et pourra même se développer dans des directions inattendues.
 
-## Resources
-This article was written after reading and exploring many external resources that shaped our understanding of the current landscape. We have provided links and notes about our research in this [Annotated Bibliography]({{ "/business-case/bibliography/" | relative_url }}).
+## Ressources
 
-Also, the WAI website has an extensive library of useful support to help companies realize the benefits outlined in this article for integrating accessibility into their development, procurement, and general business practice. Listed below are a few of what we consider especially useful as you start your accessibility program.
+Cet article est la synthèse de nombreuses ressources qui nous ont permis de comprendre tous les enjeux. Nous fournissons des liens et des notes sur nos recherches dans cette [Bibliographie annotée]({{ "/business-case/bibliography/" | relative_url }}).
 
-* [Developing Organizational Accessibility Policies]({{ "/planning/org-policies/" | relative_url}}): Start with a clear policy.
-* [Planning and Managing Accessibility]({{ "/planning-and-managing/" | relative_url}}): A guide for implementation.
-* [Perspective Videos]({{ "/perspective-videos/" | relative_url}}): Watch how accessibility impacts users.
+De plus, le site de la WAI fournit un ensemble de documents utiles à l’intégration de l’accessibilité dans vos développements, vos contrats, et d’une façon générale dans vos pratiques professionnelles. Ci-dessous vous pouvez lire quelques-unes des plus utiles pour vous permettre d’enclencher la démarche.
 
-These are suggested merely as a way to get started. We hope you will explore throughout the WAI site as you dive deeper into accessibility and begin to realize the related benefits for you and your organization.
+* [Développer une Politique d’Accessibilité pour votre organisation]({{ "/planning/org-policies/" | relative_url}}) : démarrez avec une déclaration d’intentions claire.
+* [Planifier et gérer l’accessibilité]({{ "/planning-and-managing/" | relative_url}}) : un guide d’implémentation.
+* [Perspectives en vidéo]({{ "/perspective-videos/" | relative_url}}) : découvrez comment l’accessibilité impacte les utilisateurs.
 
-[^1]: [_Disability as diversity in fortune 100 companies_](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629){:rel="nofollow"}. Ball, P., Monaco, G., Schmeling, J., Schartz, H., and Blanck, P.; Law, Health Policy and Disability Center (2005).
+Ce ne sont que des suggestions de lecture pour démarrer. Nous espérons que vous parcourrez tous le site de la WAI tandis que vous plongerez plus avant dans l’accessibilité et que vous commencerez à mesurer concrètement ses bénéfices pour vous et votre organisation.
+
+<div lang="en">
+
+[^1]: [_Disability as diversity in fortune 100 companies_](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629){:rel="nofollow"}{: hreflang="en"}. Ball, P., Monaco, G., Schmeling, J., Schartz, H., and Blanck, P.; Law, Health Policy and Disability Center (2005).
 
 [^2]:  Pullin, Graham. _Design Meets Disability_. MIT Press, 2011.
 
-[^3]: [_Professor's Research Helps Restore Sight to the Blind_](https://medicalxpress.com/news/2012-01-professor-sight.html){:rel="nofollow"}. Brown, P.; University of Arizona (2012)
+[^3]: [_Professor's Research Helps Restore Sight to the Blind_](https://medicalxpress.com/news/2012-01-professor-sight.html){:rel="nofollow"}{: hreflang="en"}. Brown, P.; University of Arizona (2012)
 
-[^4]:  [_People with Disabilities Drive Innovation_](https://habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/){:rel="nofollow"}. Germa, H. (2017)
+[^4]:  [_People with Disabilities Drive Innovation_](https://habengirma.com/2017/09/13/people-with-disabilities-drive-innovation/){:rel="nofollow"}{: hreflang="en"}. Germa, H. (2017)
 
-[^5]: [_What Does Responsive Design Have To Do With Accessibility?_](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/){:rel="nofollow"} Avila, J.; Level Access (2013).
+[^5]: [_What Does Responsive Design Have To Do With Accessibility?_](https://www.levelaccess.com/what-does-responsive-web-design-have-to-do-with-accessibility/){:rel="nofollow"}{: hreflang="en"} Avila, J.; Level Access (2013).
 
-[^6]: [_When it comes to accessibility, Apple continues to lead in awareness and innovation_](https://techcrunch.com/2016/05/19/when-it-comes-to-accessibility-apple-continues-to-lead-in-awareness-and-innovation/){:rel="nofollow"}. Aquino, S. (2016)
+[^6]: [_When it comes to accessibility, Apple continues to lead in awareness and innovation_](https://techcrunch.com/2016/05/19/when-it-comes-to-accessibility-apple-continues-to-lead-in-awareness-and-innovation/){:rel="nofollow"}{: hreflang="en"}. Aquino, S. (2016)
 
-[^7]: [_National Federation of the Blind Commends Apple for Including VoiceOver on iPad_](https://nfb.org/node/1083){:rel="nofollow"}. Danielsen, C. NFB (2010)
+[^7]: [_National Federation of the Blind Commends Apple for Including VoiceOver on iPad_](https://nfb.org/node/1083){:rel="nofollow"}{: hreflang="en"}. Danielsen, C. NFB (2010)
 
-[^8]: [_How Designing For Disabled People Is Giving Google An Edge_](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge.){:rel="nofollow"}. Brownlee, J.; Fast Company (2018).
+[^8]: [_How Designing For Disabled People Is Giving Google An Edge_](https://www.fastcompany.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge.){:rel="nofollow"}{: hreflang="en"}. Brownlee, J.; Fast Company (2018).
 
-[^9]: [_Corporate Social Responsibility (CSR)_](https://www.iisd.org/business/issues/sr.aspx){:rel="nofollow"}. IISD's Business and Sustainable Development Guide (2013).
+[^9]: [_Corporate Social Responsibility (CSR)_](https://www.iisd.org/business/issues/sr.aspx){:rel="nofollow"}{: hreflang="en"}. IISD's Business and Sustainable Development Guide (2013).
 
-[^10]: [_Reaping The Benefits Of Diversity For Modern Business Innovation_](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f){:rel="nofollow"}. Walter, E.; Forbes Magazine (2014).
+[^10]: [_Reaping The Benefits Of Diversity For Modern Business Innovation_](https://www.forbes.com/sites/ekaterinawalter/2014/01/14/reaping-the-benefits-of-diversity-for-modern-business-innovation/#155c39652a8f){:rel="nofollow"}{: hreflang="en"}. Walter, E.; Forbes Magazine (2014).
 
-[^11]: [_Accessibility at Microsoft_](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm){:rel="nofollow"}. Chong, C.;  Braille Monitor (2015).
+[^11]: [_Accessibility at Microsoft_](https://nfb.org/images/nfb/publications/bm/bm15/bm1504/bm150403.htm){:rel="nofollow"}{: hreflang="en"}. Chong, C.;  Braille Monitor (2015).
 
-[^12]: [_The Moment That Forever Changed Our Lives_](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/){:rel="nofollow"}. Nadella, S.; PowerShell Team Blog, LinkedIn, (2017).
+[^12]: [_The Moment That Forever Changed Our Lives_](https://blogs.msdn.microsoft.com/accessibility/2017/10/21/satya-nadella-the-moment-that-forever-changed-our-lives/){:rel="nofollow"}{: hreflang="en"}. Nadella, S.; PowerShell Team Blog, LinkedIn, (2017).
 
-[^13]: [_How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company_](https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html){:rel="nofollow"}. Ward, J.; Windows Central (2017).
+[^13]: [_How Fathering a Son with Disabilities Helped Microsoft's CEO Transform the Company_](https://forums.windowscentral.com/windows-central-news-discussion/465496-how-fathering-son-disabilities-helped-microsofts-ceo-transform-company.html){:rel="nofollow"}{: hreflang="en"}. Ward, J.; Windows Central (2017).
 
-[^14]: [*Microsoft Adding New Accessibility Improvements in Windows 10*](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/){:rel="nofollow"}. Rego, N.;  Cool Blind Tech (2018).
+[^14]: [*Microsoft Adding New Accessibility Improvements in Windows 10*](https://coolblindtech.com/microsoft-adding-new-accessibility-improvements-in-windows-10/){:rel="nofollow"}{: hreflang="en"}. Rego, N.;  Cool Blind Tech (2018).
 
-[^15]: [*Disability Inclusion Overview*](http://www.worldbank.org/en/topic/disability){:rel="nofollow"}. The World Bank (2018).
+[^15]: [*Disability Inclusion Overview*](http://www.worldbank.org/en/topic/disability){:rel="nofollow"}{: hreflang="en"}. The World Bank (2018).
 
-[^16]: [*The Business Case for Accessibility and Inclusive Design*](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/){:rel="nofollow"}. Walker, M.; Digital Leaders (2018).
+[^16]: [*The Business Case for Accessibility and Inclusive Design*](https://digileaders.com/the-business-case-for-accessibility-and-inclusive-design/){:rel="nofollow"}{: hreflang="en"}. Walker, M.; Digital Leaders (2018).
 
-[^17]: [_World Population Chart for Countries and Continents_](https://www.disabled-world.com/calculators-charts/wpc.php){:rel="nofollow"}. Disabled World (2017).
+[^17]: [_World Population Chart for Countries and Continents_](https://www.disabled-world.com/calculators-charts/wpc.php){:rel="nofollow"}{: hreflang="en"}. Disabled World (2017).
 
-[^18]: [*Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e){:rel="nofollow"}. Gaudiano, P. and Hunt, E.; Forbes.com (2016).
+[^18]: [*Richard Branson Supports People With Disabilities -- Here Are Six Ways You Can Do It, Too*](https://www.forbes.com/sites/gaudianohunt/2016/10/31/richard-branson-supports-disabilities/#4da9aa36788e){:rel="nofollow"}{: hreflang="en"}. Gaudiano, P. and Hunt, E.; Forbes.com (2016).
 
-[^19]: [*Assessing the Value Of Accessible Technologies for Organizations*](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf){:rel="nofollow"}. Parks, S., and Sedov V.; Forrester Research, Inc. (2016)
+[^19]: [*Assessing the Value Of Accessible Technologies for Organizations*](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf){:rel="nofollow"}{: hreflang="en"}. Parks, S., and Sedov V.; Forrester Research, Inc. (2016)
 
-[^20]: [*National Federation of the Blind v. Target Corp.*](https://en.wikipedia.org/wiki/National_Federation_of_the_Blind_v._Target_Corp.){:rel="nofollow"} Wikipedia. (2008)
+[^20]: [*National Federation of the Blind v. Target Corp.*](https://en.wikipedia.org/wiki/National_Federation_of_the_Blind_v._Target_Corp.){:rel="nofollow"}{: hreflang="en"} Wikipedia. (2008)
 
-[^21]: [*Sydney Olympics 2000 Website Accessibility Decision*](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html){:rel="nofollow"}. Independent Living Institute (2000).
+[^21]: [*Sydney Olympics 2000 Website Accessibility Decision*](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html){:rel="nofollow"}{: hreflang="en"}. Independent Living Institute (2000).
 
-[^22]: [*Web Accessibility and the DDA*](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/){:rel="nofollow"}. Sloan, M.; Journal of Information Law & Technology, University of Warwick (2005).
+[^22]: [*Web Accessibility and the DDA*](https://warwick.ac.uk/fac/soc/law/elj/jilt/2001_2/sloan/){:rel="nofollow"}{: hreflang="en"}. Sloan, M.; Journal of Information Law & Technology, University of Warwick (2005).
 
-[^23]: [*List of Web Accessibility-Related Litigation and Settlements*](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/){:rel="nofollow"}. Groves, K. (2017).
+[^23]: [*List of Web Accessibility-Related Litigation and Settlements*](http://www.karlgroves.com/2011/11/15/list-of-web-accessibility-related-litigation-and-settlements/){:rel="nofollow"}{: hreflang="en"}. Groves, K. (2017).
 
-[^24]: [*Settlements in Structured Negotiation*](http://www.lflegal.com/negotiations/){:rel="nofollow"}. Feingold, L. (2018)
+[^24]: [*Settlements in Structured Negotiation*](http://www.lflegal.com/negotiations/){:rel="nofollow"}{: hreflang="en"}. Feingold, L. (2018)
 
-[^25]: [*It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us*](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54){:rel="nofollow"}. Aalen, I.; Confrere/Medium (2018).
+[^25]: [*It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us*](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54){:rel="nofollow"}{: hreflang="en"}. Aalen, I.; Confrere/Medium (2018).
 
-[^26]: [*“Absence of U.S. Regulation Leads to Web Accessibility Lawsuits”*](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits){:rel="nofollow"}. Roggio, A.; Practical Ecommerce (2015).
+[^26]: [*“Absence of U.S. Regulation Leads to Web Accessibility Lawsuits”*](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits){:rel="nofollow"}{: hreflang="en"}. Roggio, A.; Practical Ecommerce (2015).
+
+</div>
