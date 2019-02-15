@@ -259,7 +259,7 @@ This American Life is a broadcast heard on more than 500 National Public Radio (
 The study, conducted over more than one year, used Google Analytics to
 capture the following data:
 
--   visitor engagement increased 7.23%,
+-   7.23% of visitors viewed at least one transcript,
 -   unique visitors increased 4.18%, and
 -   new inbound links to transcript accounted for an increase of 3.89%
 
