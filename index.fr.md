@@ -4,7 +4,7 @@ permalink: /teach-advocate/business-case/fr/
 lang: fr
 ref: /teach-advocate/business-case/
 layout: default
-description: Présente les raisons pour une organisation d’intégrer l’accessibilité. Inclut des bénéfices tangibles et intangibles, ainsi que les risques qu’on prend en ne traitant pas l’accessibilité de façon adéquate.
+description: Présente les bonnes raisons qu'aura une organisation d’intégrer l’accessibilité. Inclut des bénéfices tangibles et intangibles, ainsi que les risques qu’on prend en ne traitant pas l’accessibilité de façon adéquate.
 image: /content-images/wai-bcase/social.png
 github:
   repository: w3c/wai-bcase
@@ -43,7 +43,7 @@ inline_css: |
 Cet article décrit les raisons pour une organisation d’intégrer l’accessibilité. Il inclut des bénéfices tangibles et intangibles, ainsi que les risques qu’on prend en ne traitant pas l’accessibilité de façon adéquate. Il montre comment l’accessibilité peut&#8239;:
 
 - <strong>Porter l’innovation&#8239;:</strong> des fonctionnalités pour l’accessibilité intégrées dans des produits et services résolvent des problèmes inattendus.
-- <strong>Améliorer la perception de votre marque&#8239;:</strong> les efforts de diversité et d’inclusion si nécessaires au succès de l’entreprise sont accélérés par un engagement clair et bien intégré pour l’accessibilité.
+- <strong>Améliorer la perception de votre marque&#8239;:</strong> les efforts de diversité et d’inclusion si nécessaires au succès de l’entreprise sont accélérés par un engagement clair et bien intégré en faveur de l’accessibilité.
 - <strong>Augmenter les parts de marché&#8239;:</strong> le marché global des personnes ayant un ou plusieurs handicaps est de plus d’un milliard de personnes, avec un pouvoir d’achat de plus de six mille milliards de dollars. L’accessibilité numérique augmente souvent l’expérience de tous les utilisateurs.
 - <strong>Minimiser le risque légal&#8239;:</strong> de nombreux pays ont mis en place des lois exigeant l’accessibilité numérique, et la question légale de l’accessibilité devient de plus en plus prégnante.
 
@@ -63,13 +63,13 @@ Veuillez noter que les termes «&#8239;accessibilité web&#8239;» et «&#8239;s
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Faut-il expliquer les bénéfices business de l’accessibilité&#8239;?
+## Faut-il expliquer les bénéfices <i lang="en">business</i> de l’accessibilité&#8239;?
 
 <img src="{{ "/content-images/wai-bcase/business-case.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-Le «&#8239;business case&#8239;» est un outil nécessaire aux organisations pour prioriser leurs actions. Qu’une organisation soit commerciale, éducative, non lucrative ou gouvernementale, elle doit souvent pouvoir justifier de son investissement en argent ou en ressources pour défendre une démarche ou un but. «&#8239;Business&#8239;» dans cet article fait référence à tout type d’organisation, en comprenant bien que la pertinence de certains aspects traités sera différente selon le secteur d’activité et le but de l’organisation. Par exemple, une organisation gouvernementale peut être très motivée par des aspects légaux et d’équité. Des entreprises commerciales peuvent être persuadées quand on parle d’innovation et d’opportunités d’élargissement de la clientèle. Des organisations éducatives ou non lucratives peuvent être davantage attirées par l’amélioration de l’image de marque.
+Le <i lang="en">«&#8239;business case&#8239;»</i> est un outil nécessaire aux organisations pour prioriser leurs actions. Qu’une organisation soit commerciale, éducative, non lucrative ou gouvernementale, elle doit souvent pouvoir justifier de son investissement en argent ou en ressources pour défendre une démarche ou un but. <i lang="en">«&#8239;Business&#8239;»</i> dans cet article fait référence à tout type d’organisation, en comprenant bien que la pertinence de certains aspects traités sera différente selon le secteur d’activité et le but de l’organisation. Par exemple, une organisation gouvernementale peut être très motivée par des aspects légaux et d’équité. Des entreprises commerciales peuvent être persuadées quand on parle d’innovation et d’opportunités d’élargissement de la clientèle. Des organisations éducatives ou non lucratives peuvent être davantage attirées par l’amélioration de l’image de marque.
 
-Pour écrire un «&#8239;business case&#8239;» qui fonctionne pour vous, il est important de souligner les bénéfices de l’accessibilité qui sont les plus pertinents dans votre environnement professionnel. Consacrer des ressources à l’accessibilité numérique induit des bénéfices tangibles et intangibles. Un argument fréquent pour ne pas adopter l’accessibilité est que le retour sur investissement (ROI) direct est trop difficile à mesurer. Le ROI est important, bien sûr, mais ce n’est en aucun cas le seul moyen de mesurer l’impact de l’accessibilité pour une organisation quelle qu’elle soit. Un «&#8239;business case&#8239;» efficace présente aussi le coût et les risques de l’inaction. Votre organisation réagira plus probablement à un ensemble d’arguments quand vous proposerez de mettre en place un programme d’accessibilité intégré. Cet article fournit des études et des exemples pour permettre à vos décideurs d’avoir confiance en l’idée que l’accessibilité est bonne pour l’organisation.
+Pour écrire un <i lang="en">«&#8239;business case&#8239;»</i> qui fonctionne pour vous, il est important de souligner les bénéfices de l’accessibilité qui sont les plus pertinents dans votre environnement professionnel. Consacrer des ressources à l’accessibilité numérique induit des bénéfices tangibles et intangibles. Un argument fréquent pour ne pas adopter l’accessibilité est que le retour sur investissement (<abbr>ROI</abbr>) direct est trop difficile à mesurer. Le <abbr>ROI</abbr> est important, bien sûr, mais ce n’est en aucun cas le seul moyen de mesurer l’impact de l’accessibilité pour une organisation quelle qu’elle soit. Un <i lang="en">«&#8239;business case&#8239;»</i> efficace présente aussi le coût et les risques de l’inaction. Votre organisation réagira plus probablement à un ensemble d’arguments quand vous proposerez de mettre en place un programme d’accessibilité intégré. Cet article fournit des études et des exemples pour permettre à vos décideurs d’avoir confiance en l’idée que l’accessibilité est bonne pour l’organisation.
 
 **Les entreprises qui intègrent l’accessibilité ont plus de chances d’être innovantes, inclusives, et de toucher un plus grand nombre de gens avec un message plus proche des exigences légales qui émergent dans le monde entier.**
 
@@ -77,7 +77,7 @@ Une étude des compagnies listées par Fortune 100 montre que l’inclusion du h
 
 Quand l’accessibilité fait partie de la stratégie, les entreprises sont mieux équipées pour réussir dans notre monde connecté de commerce, d’éducation et d’implication civique.
 
-Regardons maintenant quelques exemples et quelques études qui vous aideront à rédiger le «&#8239;business case&#8239;» qui est le plus efficace pour votre entreprise.
+Regardons maintenant quelques exemples et quelques études qui vous aideront à rédiger le <i lang="en">«&#8239;business case&#8239;»</i> qui sera le plus efficace pour votre entreprise.
 
 ## L’accessibilité est bonne pour les affaires
 
@@ -94,11 +94,11 @@ Les sections ci-dessous présentent les avantages clés de l’accessibilité we
 
 Intégrer l’accessibilité permet de faire tomber des barrières architecturales, digitales et sociales à l’innovation [^2], par exemple&#8239;:
 
-- Une approche design orientée accessible rend plus souple l’interaction avec les sites web et les applications et fournit plusieurs moyens d’y parvenir, possibilités qui sont utiles aux personnes avec et sans handicap.
+- Une conception orientée accessible rend plus souple l’interaction avec les sites web et les applications et fournit plusieurs moyens d’y parvenir, possibilités qui sont utiles aux personnes avec et sans handicap.
 - Quand l’accessibilité est un enjeu de conception, l’interaction utilisateur est envisagée comme ne dépendant pas seulement d’un écran. L’interaction qui en résulte est plus centrée sur l’humain, plus naturelle et contextuelle.
 - L’accessibilité est très liée à l’utilisabilité générale. Toutes les deux veulent définir et servir une expérience utilisateur plus intuitive.
-- Des innovations telles que la machine à écrire, le téléphone, les cartes perforées, la synthèse vocale, le mail et les contrôles vocaux étaient à l’origine destinées aux personnes déficientes, et ont toutes trouvé une application bien plus large[^4].
-- Les voitures sans chauffeur, tellement prometteuses pour l’autonomie des personnes aveugles, prévoient aussi de résoudre les embouteillages et de réduire les accidents mortels.
+- Des innovations telles que la machine à écrire, le téléphone, les cartes perforées, la synthèse vocale, le courrier électronique et les contrôles vocaux étaient à l’origine destinées aux personnes en situation de handicap, et ont toutes trouvé une application bien plus large[^4].
+- Les voitures sans chauffeur, tellement prometteuses pour l’autonomie des personnes aveugles, sont aussi considérées comme capables d’aider à résoudre les embouteillages et à réduire les accidents mortels.
 - La recherche et le développement de la rétine artificielle, qui projette de redonner la vue à des personnes aveugles, est envisagée pour fournir aux robots un système de traitement d’images en temps réel, leur donnant ainsi effectivement la possibilité de «&#8239;voir&#8239;»[^3].
 
 Le design accessible est par sa nature flexible, permettant au contenu d’être restitué fidèlement sur un grand nombre d’outils, de plate-formes, de technologies d’assistance et de systèmes d’exploitation. Dans les environnements physiques, tout le monde tire profit des bords de trottoirs abaissés, des portes automatiques, des plans inclinés et d’autres aspects de l’accessibilité au handicap. Sur le Web, les fonctionnalités d’accessibilité deviennent des options utilisées souvent plus largement.
@@ -112,16 +112,16 @@ Les cas concrets qui suivent, bien que venant de grandes compagnies dans le sect
 {:/}
 
 <blockquote class="pull right alt-1">
-  <p>L’accessibilité est une valeur phare chez Apple et que nous considérons comme un droit humain de base.</p>
+  <p>L’accessibilité est une valeur phare chez Apple et nous la considérons comme un droit humain de base.</p>
   <cite>Sarah Herrlinger, Directrice de la Politique et des Initiatives Accessibilité Groupe, Apple</cite>
 </blockquote>
 
 Les ingénieurs d’Apple ont été des innovateurs dans le champ de l’accessibilité depuis la création de la compagnie, voulant autant écouter que travailler avec des personnes extérieures[^6]. La compagnie anticipe aussi les évolutions du marché en intégrant les besoins liés au handicap dans le développement de produits. Par exemple&#8239;:
 
-- iTunes U&#8239;: au début des années 2000, le système universitaire de Californie (CSU), fort de 23 campus, ne pouvait pas tirer profit du programme éducatif iTunes U d’Apple parce que l’application n’était pas vraiment accessible aux étudiants aveugles. Des enseignants dans le système de CSU ont reçu l’ordre de ne pas l’utiliser. Le problème a été résolu par l’innovation plutôt que par l’action en justice&#8239;: Apple a écouté les besoins de CSU et a travaillé à rendre iTunes accessible aussi bien sur les plateformes Mac que Windows. Le système CSU a bientôt pu déployer le programme.
-- Voiceover sur l’iPhone&#8239;: au début de l’évolution de l’iPhone, Apple a commencé à réfléchir aux conséquences d’un écran tactile pour leurs clients aveugles. La compagnie a investi dans un processus inconnu du grand public, étalé sur plusieurs années, pour développer la technologie vocale qui a mené à VoiceOvert, le premier lecteur d’écran basé sur des gestes. Quelques semaines après le lancement, Apple a reçu des félicitations de la NFB (Fédération Nationale des Personnes Aveugles) «&#8239;pour avoir conçu la première interface tactile totalement accessible&#8239;» [^7].
+- iTunes U&#8239;: au début des années 2000, le système universitaire de Californie (<abbr>CSU</abbr>), fort de 23 campus, ne pouvait pas tirer profit du programme éducatif iTunes U d’Apple parce que l’application n’était pas vraiment accessible aux étudiants aveugles. Des enseignants dans le système de <abbr>CSU</abbr> ont reçu l’ordre de ne pas l’utiliser. Le problème a été résolu par l’innovation plutôt que par l’action en justice&#8239;: Apple a écouté les besoins de <abbr>CSU</abbr> et a travaillé à rendre iTunes accessible aussi bien sur les plateformes Mac que Windows. Le système <abbr>CSU</abbr> a bientôt pu déployer le programme.
+- VoiceOver sur l’iPhone&#8239;: au début de l’évolution de l’iPhone, Apple a commencé à réfléchir aux conséquences d’un écran tactile pour ses clients aveugles. La compagnie a investi dans un processus inconnu du grand public, étalé sur plusieurs années, pour développer la technologie vocale qui a mené à VoiceOver, le premier lecteur d’écran basé sur des gestes. Quelques semaines après le lancement, Apple a reçu des félicitations de la <abbr>NFB</abbr> (Fédération Nationale des Personnes Aveugles) «&#8239;pour avoir conçu la première interface tactile totalement accessible&#8239;» [^7].
 
-Les lecteurs d’écran sont depuis présents sur un plus grand nombre d’interfaces tactiles dans l’industrie&#8239;; Apple a montré sa capacité à tracer le chemin pour assurer une inclusion pour tous.
+Les lecteurs d’écran sont depuis lors présents sur un plus grand nombre d’interfaces tactiles dans l’industrie&#8239;; Apple a montré sa capacité à tracer le chemin pour assurer une inclusion pour tous.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -138,13 +138,13 @@ L’innovation dans les interfaces vocales chez Apple et ailleurs a contribué �
   <cite>Eve Andersson, Directrice, Ingénierie de l’Accessibilité, Google</cite>
 </blockquote>
 
-Un article de 2016 paru sur le magazine en ligne de FastCompany[^8] souligne comment l’investissement de Google dans l’accessibilité donne à la compagnie une avance dans l’innovation pour de nombreux produits et services. Eve Andersson, ingénieure en chef citée dans l’article, dit&#8239;: «&#8239;Je suis passionnée d’accessibilité, non seulement parce que je crois que tout le monde doit pouvoir être à armes égales, mais parce qu’elle rend la vie plus vivable pour tout le monde.&#8239;» Parmi les innovation mentionnées&#8239;:
+Un article de 2016 paru dans le magazine en ligne de FastCompany[^8] souligne comment l’investissement de Google dans l’accessibilité donne à la compagnie une avance dans l’innovation pour de nombreux produits et services. Eve Andersson, ingénieure en chef citée dans l’article, dit&#8239;: «&#8239;Je suis passionnée d’accessibilité, non seulement parce que je crois que tout le monde doit pouvoir être à armes égales, mais parce qu’elle rend la vie plus vivable pour tout le monde.&#8239;» Parmi les innovations mentionnées&#8239;:
 
-- Les minima de contraste, nécessaires pour les personnes malvoyantes, aident tout le monde à mieux voir en cas de luminosité ambiante forte.
+- Les minimas de contraste, nécessaires pour les personnes malvoyantes, aident tout le monde à mieux voir en cas de luminosité ambiante forte.
 - L’auto-complétion, au départ conçue pour les personnes handicapées, est maintenant très largement utilisée par tous.
-- Le contrôle vocal, créé pour les utilisateurs atteints d’un handicap physique, est plus largemnt adopté maintenant pour sa praticité par des millions de gens.
+- Le contrôle vocal, créé pour les utilisateurs atteints d’un handicap physique, est plus largement adopté maintenant pour sa praticité par des millions de gens.
 - Les progrès dans l’intelligence artificielle sont basés sur des recherches destinées à l’origine à donner du contexte visuel à des utilisateurs déficients visuels.
-- Le sous-titrage automatique utilisant le @@«&#8239;machine learning&#8239;» est encore problématique pour sa cible principale (les utilisateurs sourds) et nombreux pensent qu’il n’est pas au niveau. Cependant le travail continue et le @@ «&#8239;machine learning&#8239;» lui-même s’améliore régulièrement, et trouve de nouvelles applications grâce à cet effort.
+- Le sous-titrage automatique utilisant le <i lang="en">machine learning</i> (l’intelligence artificielle) est encore problématique pour sa cible principale (les utilisateurs sourds) et nombreux pensent qu’il n’est pas au niveau. Cependant le travail continue et le <i lang="en">machine learning</i> lui-même s’améliore régulièrement, et trouve de nouvelles applications grâce à cet effort.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -154,7 +154,7 @@ Un article de 2016 paru sur le magazine en ligne de FastCompany[^8] souligne com
 
 <img src="{{ "/content-images/wai-bcase/brand.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-Les compagnies doivent protéger et améliorer leur image de marque. Un engagement clair en faveur de l’accessibilité peut montrer qu’une compagnie a un réel sens de la Responsabilité Sociale d’Entreprise (RSE). Quand les compagnies comprennent et agissent sur les différents besoins de leurs actionnaires, et s’engagent sur des pratiques de marketing et d’emploi durables et inclusives, elle peuvent espérer en tirer des bénéfices. Les résultats potentiels des programmes de RSE incluent une meilleure image de marque et une meilleure réputation, une augmentation des ventes et de la fidélité des clients, une diversité accrue des salariés et bien d’autres avantages[^9]. Des études plus poussées[^10] montrent le bénéfice sur la marque pour les compagnies qui ont institué une politique de diversité marquée.
+Les compagnies doivent protéger et améliorer leur image de marque. Un engagement clair en faveur de l’accessibilité peut montrer qu’une compagnie a un réel sens de la Responsabilité Sociale d’Entreprise (<abbr>RSE</abbr>). Quand les compagnies comprennent et agissent sur les différents besoins de leurs actionnaires, et s’engagent sur des pratiques de marketing et d’emploi durables et inclusives, elle peuvent espérer en tirer des bénéfices. Les résultats potentiels des programmes de <abbr>RSE</abbr> incluent une meilleure image de marque et une meilleure réputation, une augmentation des ventes et de la fidélité des clients, une diversité accrue des salariés et bien d’autres avantages[^9]. Des études plus poussées[^10] montrent le bénéfice sur la marque pour les compagnies qui ont institué une politique de diversité marquée.
 
 Employer des personnes atteintes de handicaps est essentiel dans la création d’une masse salariale diverse. Pour y parvenir, la technologie qu’utilisent les employés, y compris les sites web et les applications, doit être accessible.
 
@@ -171,7 +171,7 @@ Fixer une stratégie d’accessibilité pour toute la compagne en identifiant, e
   <cite>Paul Smyth, Directeur de l’Accessibilité Numérique, Barclays</cite>
 </blockquote>
 
-Nous voulons nous appuyer sur une technologie inclusive pour permettre à tout le monde de gérer ses comptes, de vivre sa vie et d’atteindre son plein potentiel. L’équipe Accessibilité de Barclays y parvient en assistant les équipes digitales, afin d’inclure l’accessibilité dans nos services et notre culture à travers une gouvernance efficace, des partenariats, des formations et des outils. En établissant dans toute la compagnie une stratégie des standards et des programmes consacrés à l’accessibilité, de pair avec un parrainage par l’encadrement, nous pouvons appuyer notre ambition publique de devenir la compagnie la plus accessible et inclusive de toute la Bourse du Financial Times (FTSE).
+Nous voulons nous appuyer sur une technologie inclusive pour permettre à tout le monde de gérer ses comptes, de vivre sa vie et d’atteindre son plein potentiel. L’équipe Accessibilité de Barclays y parvient en assistant les équipes digitales, afin d’inclure l’accessibilité dans nos services et notre culture à travers une gouvernance efficace, des partenariats, des formations et des outils. En établissant dans toute la compagnie une stratégie des standards et des programmes consacrés à l’accessibilité, de pair avec un parrainage par l’encadrement, nous pouvons appuyer notre ambition publique de devenir la compagnie la plus accessible et inclusive de toute la Bourse du Financial Times (<abbr>FTSE</abbr>).
 
 Quand nous passons d’une simple conformité légale minimale à une prise en compte de l’opportunité commerciale et du défi créatif de construire une meilleure expérience pour tous, nous créons une approche plus durable et plus orientée client pour nos services et notre information digitaux.
 
@@ -183,7 +183,7 @@ Pour permettre à tout le monde de mieux comprendre l’état d’esprit orient�
 
 Barclays montre qu’un engagement fort envers l’accessibilité induit une responsabilité distribuée et une compréhension partagée des enjeux. La sensibilité à l’accessibilité imprègne la culture d’entreprise. La compagnie est perçue comme ouverte et respectueuse. Les employés sont fiers d’y travailler et de collaborer avec Barclays. Lisez [l’étude de cas complète sur Barclays {% include_cached different.html %}](https://www.w3.org/community/wai-engage/wiki/Barclays_Bank_Case_Study){: hreflang="en"} (en anglais) pour en savoir plus.
 
-Microsoft est un autre bon exemple de la façon dont une marque peut être affectée. Après de longs débats et des critiques de défenseurs de l’accessibilité[^11], Microsoft s’est investi de façon réelle et appréciable dans l’accessibilité, par l’engagement de @@stakeholders de toutes capacités[^12]. L’amélioration des produits et des services qui en a résulté a consolidé son image de marque en général [^13], et ses efforts en faveur de l’accessibilité sont maintenant reconnus dans la communauté du handicap[^14].
+Microsoft est un autre bon exemple de la façon dont une marque peut être affectée. Après de longs débats et des critiques de défenseurs de l’accessibilité[^11], Microsoft s’est investi de façon réelle et appréciable dans l’accessibilité, par l’engagement d’acteurs de toutes capacités[^12]. L’amélioration des produits et des services qui en a résulté a consolidé son image de marque en général [^13], et ses efforts en faveur de l’accessibilité sont maintenant reconnus dans la communauté du handicap[^14].
 
 ### Améliorer vos parts de marché
 
@@ -205,17 +205,17 @@ Une étude d’impact Forrester Research commissionnée par Microsoft a conclu q
 
 Les considérations de conception accessible amènent souvent à des améliorations de l’expérience utilisateur générale et de sa loyauté. Pour des clients handicapés, de telles améliorations sont essentielles pour un accès égalitaire. Cependant, l’accessibilité fournit des options qui sont utilise à tous les utilisateurs dans des circonstances variées. Par exemple, l’accessibilité web profite aussi&#8239;:
 
-* aux personnes utilisant des téléphones mobiles, des montres connectées, des TV connectées, et autres appareils à petits écrans, dont les méthodes de saisie ne moins courantes, etc.,
+* aux personnes utilisant des téléphones mobiles, des montres connectées, des <abbr>TV</abbr> connectées, et autres appareils à petits écrans, dont les méthodes de saisie sont moins courantes, etc.,
 * aux personnes plus âgées dont les capacités s’altèrent,
 * aux personnes atteintes de «&#8239;handicaps temporaires&#8239;», tels qu’un bras cassé ou une paire de lunettes perdue,
 * aux situations pénibles comme un soleil éblouissant, ou un environnement bruyant où l’audio ne peut pas être entendu,
 * aux personnes dont la connexion internet est lente, dont la bande passante est limitée ou chère, ce qui est commun dans les zones rurales et dans certaines régions du monde.
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Étude de cas&#8239;: émission hebdomadaire de la NPR" class="" %}
+{% include box.html type="start" h="4" title="Étude de cas&#8239;: émission hebdomadaire de la <abbr>NPR</abbr>" class="" %}
 {:/}
 
-<cite lang="en">This American Life</cite> est une émission écoutée sur plus de 500 stations de la NPR (Radio Publique Nationale) par environ 2,1 millions de personnes chaque semaine aux États-Unis. En 2011, en réaction aux nouvelles règles liées aux médias diffusés, émises par la FCC (Commission Fédérale aux Communications), la chaîne de radio s’est engagée à créer des transcriptions de toute l’archive de leurs émissions enregistrées. Une étude menée par leur partenaire média pendant plusieurs mois a conclu que fournir des transcriptions non seulement permettait d’être conforme aux obligations légales mais donnait aussi d’autres résultats significatifs, comme&#8239;:
+<cite lang="en">This American Life</cite> est une émission écoutée sur plus de 500 stations de la <abbr>NPR</abbr> (Radio Publique Nationale) par environ 2,1 millions de personnes chaque semaine aux États-Unis. En 2011, en réaction aux nouvelles règles liées aux médias diffusés, émises par la <abbr>FCC</abbr> (Commission Fédérale aux Communications), la chaîne de radio s’est engagée à créer des transcriptions de toute l’archive de leurs émissions enregistrées. Une étude menée par leur partenaire média pendant plusieurs mois a conclu que fournir des transcriptions non seulement permettait d’être conforme aux obligations légales mais donnait aussi d’autres résultats significatifs, comme&#8239;:
 
 - des accès dus aux moteurs de recherche en augmentation de 6,86&#8239;%,
 - une meilleure compréhension pour les visiteusr dont l’anglais n’est pas la première langue,
@@ -243,44 +243,44 @@ Vous pouvez lire plus de détails et le rapport complet dans [l’étude de cas 
 {% include box.html type="start" class="simple right" %}
 {:/}
 
-Une démonstration claire du risque pris quand on ignore les exigences d’accessibilité peut se trouver dans le jugement de 2008 opposant la NFB (Fédération Nationale Américaine des Aveugles) et les magasins Target[^20]&#8239;:
+Une démonstration claire du risque pris quand on ignore les exigences d’accessibilité peut se trouver dans le jugement de 2008 opposant la <abbr>NFB</abbr> (Fédération Nationale Américaine des Aveugles) et les magasins Target[^20]&#8239;:
 
-- préjudices de 6 millions de Dollars
-- coûts juridiques de plus de 3 millions de Dollars pour le plaignant
-- coûts juridiques pour la défense non connus
-- supervision du site par la justice pendant plusieurs années
+- préjudices de 6 millions de Dollars,
+- coûts juridiques de plus de 3 millions de Dollars pour le plaignant,
+- coûts juridiques pour la défense non connus,
+- supervision du site par la justice pendant plusieurs années.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-Un aspect critique de toute étude business est la considération des coûts et des risques de l’inaction. L’usage du Web est permanent dans la vie moderne, dans le monde entier&#8239;; les gouvernements et les législateurs commencent donc à édicter des lois et des programmes pour renforcer les droits des personnes handicapées à profiter pleinement de l’information et des services en ligne.
+Un aspect critique de toute étude <i lang="en">business</i> est la considération des coûts et des risques de l’inaction. L’usage du Web est permanent dans la vie moderne, dans le monde entier&#8239;; les gouvernements et les législateurs commencent donc à édicter des lois et des programmes pour renforcer les droits des personnes handicapées à profiter pleinement de l’information et des services en ligne.
 
-Un des premiers exemples des conséquens légales de l’accessibilité web est la plainte déposée par la HREOC (Commission aux Droits Humains et à l’Égalité des Chances) en 2000 relative à l’inaccessibilité du site web des Jeux Olympiques de Sydney. Le plaignant, qui était aveugle, arguait que le site violait la <i lang="en">Commonwelath Disability Discrimination Act</i> de 1992[^21] (loi contre la discrimination envers le handicap). La décision de 2001 dans le procès contre les Jeux Olympiques de Sydney[^22] a augmenté la perception par le public de la nécessité de prendre en compte l’accessibilité web dans la pratique émergente de la communication web.
+Un des premiers exemples des conséquens légales de l’accessibilité web est la plainte déposée par la <abbr>HREOC</abbr> (Commission aux Droits Humains et à l’Égalité des Chances) en 2000 relative à l’inaccessibilité du site web des Jeux Olympiques de Sydney. Le plaignant, qui était aveugle, arguait que le site violait la <i lang="en">Commonwelath Disability Discrimination Act</i> de 1992[^21] (loi contre la discrimination envers le handicap). La décision de 2001 dans le procès contre les Jeux Olympiques de Sydney[^22] a augmenté la perception par le public de la nécessité de prendre en compte l’accessibilité web dans la pratique émergente de la communication web.
 
 Au fil du temps, le risque légal a augmenté, tandis que de plus en plus de lois et de réglements spécifiques sont adoptés dans le monde entier.
 
-- la Convention pour les Droits des Personnes Handicapées (CRDP, <i lang="en">Convention on the Rights of People with Disabilities</i>) est un document complet sur les droits humains qui inclut une référence directe aux droits pour tous à un accès équitable aux technologies de communication. Votée par l’Assemblée Générale des Nations Unies, elle était ratifiée par plus de 175 pays en 2018.
+- la Convention pour les Droits des Personnes Handicapées (<abbr>CRDP</abbr>, <i lang="en">Convention on the Rights of People with Disabilities</i>) est un document complet sur les droits humains qui inclut une référence directe aux droits pour tous à un accès équitable aux technologies de communication. Votée par l’Assemblée Générale des Nations Unies, elle était ratifiée par plus de 175 pays en 2018.
 
-- La Commission Européenne a adopté la Loi Européenne pour l’Accessibilité (<i lang="en">European Accessibility Law</i>) qui exige que les points de retrait d’argent, les services bancaires, les PC, les téléphones, les équipements TV, les services audiovisuels et de téléphonie, les transports, les e-books et le commerce électronique soient conformes à des exigences d’accessibilité.
+- La Commission Européenne a adopté la Loi Européenne pour l’Accessibilité (<i lang="en">European Accessibility Law</i>) qui exige que les points de retrait d’argent, les services bancaires, les <abbr>PC</abbr>, les téléphones, les équipements <abbr>TV</abbr>, les services audiovisuels et de téléphonie, les transports, les <i lang="en">e-books</i> et le commerce électronique soient conformes à des exigences d’accessibilité.
 
-- Aux États-Unis, le nombre d’actions en justice ne cesse d’augmenter et les jugements sont de plus en plus souvent en faveur d’un accès équitable[^23], souvent en référence à la Loi pour les Américains Handicapés (<i lang="en">ADA, Americans with Disabilities Act</i>. La Négociation Structurée est aussi une preuve de l’efficacité de la pression législative, en encourageant les compagnies à se conformer à des exigences d’accessibilité plutôt que de subir un procès[^24].
+- Aux États-Unis, le nombre d’actions en justice ne cesse d’augmenter et les jugements sont de plus en plus souvent en faveur d’un accès équitable[^23], souvent en référence à la Loi pour les Américains Handicapés (<i lang="en"><abbr>ADA</abbr>, Americans with Disabilities Act</i>. La Négociation Structurée est aussi une preuve de l’efficacité de la pression législative, en encourageant les compagnies à se conformer à des exigences d’accessibilité plutôt que de subir un procès[^24].
 
 En Norvège, où il est maintenant illégal pour un site commercial de ne pas proposer un accès équivalent à une personne handicapée, le gouvernement met des amendes aux compagnies commerciales qui n’obéissent pas[^25]. L’Autriche a mis en place depuis 2006 un règlement de protection du client qui exige que la plupart des sites web publics soient conformes à des standards d’accessibilité. Les clients qui pensent être victimes d’une discrimination peuvent porter l’affaire en justice. Les parties doivent d’abord tenter une médiation avant de passer devant un tribunal. Aux États-Unis, par contraste, la règle est moins claire mais le rythme des actions en justice continue de s’accélérer[^26].
 
-Entre la supervision gouvernementale et la régulation d’une part, et les action en justice en augmentation d’autre part, le décor légal se transforme rapidement en faveur d’un accès équitable.
+Entre la supervision gouvernementale et la régulation d’une part, et les actions en justice en augmentation d’autre part, le décor légal se transforme rapidement en faveur d’un accès équitable.
 
 **Avec l’augmentation du risque légal, les compagnies intelligentes (en particulier celles qui ont une activité mondiale) mettent en place une politique et des programmes dédiés à l’accessibilité pour limiter les risques afin de protéger tant leurs actifs que leur réputation.**
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Étude de cas&#8239;: ADA et l’accessibilité des sites web" class="" %}
+{% include box.html type="start" h="4" title="Étude de cas&#8239;: <abbr>ADA</abbr> et l’accessibilité des sites web" class="" %}
 {:/}
 
-Le plaignant aveugle faisait ses courses au magasin local de Winn-Dixie en personne mais ne pouvait pas accéder à leur site web pour y trouver des informations comme l’emplacement des magasins, les bons de réductions, les événements, les offres spéciales. Ce procès historique est le premier dans l’histoire de l’ADA (Loi pour les Américains Handicapés) qui traite de l’accessibilité du site web d’un service destiné au public.
+Le plaignant aveugle faisait ses courses en personne au magasin local de Winn-Dixie mais ne pouvait pas accéder à leur site web pour y trouver des informations telles que l’emplacement des magasins, les bons de réduction, les événements, les offres spéciales. Ce procès historique est le premier dans l’histoire de l’<abbr>ADA</abbr> (Loi pour les Américains Handicapés) qui traite de l’accessibilité du site web d’un service destiné au public.
 
-Winn-Dixie a demandé à la cour de ne pas donner suite, en se fondant sur le fait qu’un site web n’est pas un service destiné au public au sens couvert par le Titre III de l’ADA. La cour a tranché à l’opposé, permettant au plaignant de rembourser ses frais d’avocat. La décision inclut les conclusions suivantes&#8239;:
+Winn-Dixie a demandé à la cour de ne pas donner suite, en se fondant sur le fait qu’un site web n’est pas un service destiné au public au sens couvert par le Titre III de l’<abbr>ADA</abbr>. La cour a tranché à l’opposée, permettant au plaignant de rembourser ses frais d’avocat. La décision inclut les conclusions suivantes&#8239;:
 
-- Le lien entre le site web et les magasins Winn-Dixie est une circonstance qui rend le Titre III de l’ADA, qui s’applique aux «&#8239;services à destination du public&#8239;», applicable à cette situation.
+- Le lien entre le site web et les magasins Winn-Dixie est une circonstance qui rend le Titre III de l’<abbr>ADA</abbr>, qui s’applique aux «&#8239;services à destination du public&#8239;», applicable à cette situation.
 - Le site doit être accessible aux *«&#8239;personnes en situation de handicap utilisant un ordinateur, une tablette ou un smartphone.&#8239;»*
 
 La cour a exigé de la chaîne de magasins qu’elle&#8239;:
@@ -295,23 +295,23 @@ La cour a exigé de la chaîne de magasins qu’elle&#8239;:
 
 ## Partagez votre expérience
 
-Les études en Expérience Utilisateur et les études de cas confirment que la conception accessible augmente la capacité d’une organisation à innover, renforcer son identité de marque, augmenter sa part de marché, et minimiser les risques légaux – parmi de nombreux autres bénéfices. La WAI met en commun des bonnes pratiques au niveau mondial, et nous vous encourageons à partager vos exemples. Si vous voulez raconter comment votre engagement envers l’accessibilité a amélioré votre <i lang="en">business model</i> en ligne, merci de nous contacter à <wai-eo-editors@w3.org> ou d’écrire sur le Wiki [WAI-Engage {% include_cached different.html %}](https://www.w3.org/community/wai-engage/wiki/Case_studies).
+Les études en Expérience Utilisateur et les études de cas confirment que la conception accessible augmente la capacité d’une organisation à innover, à renforcer son identité de marque, à augmenter sa part de marché, et à minimiser les risques légaux – parmi de nombreux autres bénéfices. La <abbr>WAI</abbr> met en commun des bonnes pratiques au niveau mondial, et nous vous encourageons à partager vos exemples. Si vous voulez raconter comment votre engagement envers l’accessibilité a amélioré votre <i lang="en">business model</i> en ligne, merci de nous contacter à <wai-eo-editors@w3.org> ou d’écrire sur le [Wiki WAI-Engage {% include_cached different.html %}](https://www.w3.org/community/wai-engage/wiki/Case_studies).
 
 ## Conclusion
 
-L’appropriation du Web par le public a plus de 25 ans. Ce n’est plus une innovation mais un outil crucial, intégré dans la vie moderne. Tandis que les entreprises avisées intègrent la conception accessible dans leurs processus de développement et de sous-traitance, elles comprennent qu’il faut fournir un accès équitable à tous. Les risques légaux qu’on prend en ignorant l’accessibilité sont importants, et les bénéfices sont prouvés par des meneurs comme Apple, Barclays, NPR, IBM, Microsoft et des centaines d’autres. Les responsables d’entreprises et les personnes qui les influencent peuvent avoir un impact social phénoménal et provoquer un retour sur investissement important quand ils embarquent un plan d’action qui promeut un accès égal. Plus d’un milliard de personnes ont un handicap dans le monde et veulent interagir avec vous en tant que clients, partenaires, employés, participants à part entière de toutes les activités civiques et sociales. En vous engageant à long terme dans l’accessibilité, en vous appuyant sur les ressources de la WAI pour développer votre politique et mettre en place une stratégie pour concrétiser cet engagement, votre entreprise sera présente sur ce marché et pourra même se développer dans des directions inattendues.
+L’appropriation du Web par le public a plus de 25 ans. Ce n’est plus une innovation mais un outil crucial, intégré dans la vie moderne. Tandis que les entreprises avisées intègrent la conception accessible dans leurs processus de développement et de sous-traitance, elles comprennent qu’il faut fournir un accès équitable à tous. Les risques légaux qu’on prend en ignorant l’accessibilité sont importants, et les bénéfices sont prouvés par des meneurs comme Apple, Barclays, <abbr>NPR</abbr>, <abbr>IBM</abbr>, Microsoft et des centaines d’autres. Les responsables d’entreprises et les personnes qui les influencent peuvent avoir un impact social phénoménal et provoquer un retour sur investissement important quand ils embarquent un plan d’action qui promeut un accès égal. Plus d’un milliard de personnes ont un handicap dans le monde et veulent interagir avec vous en tant que clients, partenaires, employés, participants à part entière de toutes les activités civiques et sociales. En vous engageant à long terme dans l’accessibilité, en vous appuyant sur les ressources de la <abbr>WAI</abbr> pour développer votre politique et mettre en place une stratégie pour concrétiser cet engagement, votre entreprise sera présente sur ce marché et pourra même se développer dans des directions inattendues.
 
 ## Ressources
 
 Cet article est la synthèse de nombreuses ressources qui nous ont permis de comprendre tous les enjeux. Nous fournissons des liens et des notes sur nos recherches dans cette [Bibliographie annotée]({{ "/business-case/bibliography/" | relative_url }}).
 
-De plus, le site de la WAI fournit un ensemble de documents utiles à l’intégration de l’accessibilité dans vos développements, vos contrats, et d’une façon générale dans vos pratiques professionnelles. Ci-dessous vous pouvez lire quelques-unes des plus utiles pour vous permettre d’enclencher la démarche.
+De plus, le site de la <abbr>WAI</abbr> fournit un ensemble de documents utiles à l’intégration de l’accessibilité dans vos développements, vos contrats, et d’une façon générale dans vos pratiques professionnelles. Ci-dessous vous pouvez lire quelques-unes des plus utiles pour vous permettre d’enclencher la démarche.
 
 * [Développer une Politique d’Accessibilité pour votre organisation]({{ "/planning/org-policies/" | relative_url}})&#8239;: démarrez avec une déclaration d’intentions claire.
 * [Planifier et gérer l’accessibilité]({{ "/planning-and-managing/" | relative_url}})&#8239;: un guide d’implémentation.
 * [Perspectives en vidéo]({{ "/perspective-videos/" | relative_url}})&#8239;: découvrez comment l’accessibilité impacte les utilisateurs.
 
-Ce ne sont que des suggestions de lecture pour démarrer. Nous espérons que vous parcourrez tous le site de la WAI tandis que vous plongerez plus avant dans l’accessibilité et que vous commencerez à mesurer concrètement ses bénéfices pour vous et votre organisation.
+Ce ne sont que des suggestions de lecture pour démarrer. Nous espérons que vous parcourrez tous le site de la <abbr>WAI</abbr> tandis que vous plongerez plus avant dans l’accessibilité et que vous commencerez à mesurer concrètement ses bénéfices pour vous et votre organisation.
 
 <div lang="en">
 
