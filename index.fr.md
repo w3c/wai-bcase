@@ -13,7 +13,7 @@ footer: > # Text in footer in HTML
   <p><strong>Date&#8239;:</strong> <strong>Publié le 9 novembre 2018.</strong></p>
   <p><strong>Date de cette traduction&#8239;:</strong> @@</p>
   <p><strong>Traducteur&#8239;:</strong> Stéphane Deschamps</p>
-  <p><strong>Rédactrice&#8239;:</strong> Sharron Rush. Contributeurs&#8239;: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen <a href="./acknowledgements/" hreflang="en">Remerciements</a> (en anglais) liste les contributeurs additionnels.</p>
+  <p><strong>Rédactrice&#8239;:</strong> Sharron Rush. Contributeurs&#8239;: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen <a href="./acknowledgements/fr/" hreflang="en">Remerciements</a> liste les contributeurs additionnels.</p>
   <p>Développé par le <i lang="en">Education and Outreach Working Group</i> (<a href="http://www.w3.org/WAI/EO/" lang="en">EOWG</a>, en anglais).</p>
 inline_css: |
   .hero {
