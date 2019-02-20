@@ -17,13 +17,13 @@ footer: > # Text in footer in HTML
 ---
 
 {::nomarkdown}
-{% include_cached box.html type="start" h="2" title="Summary" class="full" %}
+{% include_cached box.html type="start" h="2" title="Résumé" class="full" %}
 {:/}
-To create a Business Case that is relevant for the 21st century, we relied on formal research, grant funded studies, editorial comment, the historical record, anecdotal stories, and case studies provided by the businesses themselves. The bibliography here includes a brief description of the referenced resource.
+Pour préparer un « business case » pertinent pour le XXIème siècle, nous nous sommes appuyés sur des recherches universitaires, des études subventionnées, des contenus éditoriaux, l’histoire documentée, des anecdotes, et des études de cas fournis par les entreprises elles-mêmes. La bibliographie ci-dessous inclut une description courte de la ressource en référence.
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
-{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
+{% include_cached toc.html type="start" title="Plan de la page" class="simple" %}
 {:/}
 
 {::options toc_levels="2" /}
@@ -35,14 +35,14 @@ To create a Business Case that is relevant for the 21st century, we relied on fo
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Topic Categories
+## Catégories
 {:.no_toc}
 
-The sources below are categorized as much as possible according to their central topic relating to the several aspects of the Business Case for Accessibility. There is some overlap and some articles or papers were broad enough to be in a category designated simply as "general."  
+Les sources ci-dessous sont catégorisées autant que possible selon leur sujet principal en relation avec les différents aspect du business case. Il y a quelques recouvrements et certains articles sont suffisamment larges pour avoir été classés dans une catégorie simplement dénommée « Général ».
 
-### Something to share?
+### Vous voulez partager quelque chose ?
 
-We welcome your contributions to the Business Case for Accessibility. Share articles, case studies, employment success stories, and any related resources or topics. To submit, please write to the editors list of the Accessibility Education and Outreach Working Group at <wai-eo-editors@w3.org>. Thank you!
+Vous contributions au business case pour l’accessibilité sont les bienvenues. Partagez des articles, des études de cas, des expériences professionnelles réussies, et toute autre ressource ou sujet. Pour participer, merci d’envoyer un courrier électronique aux rédacteurs du Accessibility Education and Outreach Working Group à <wai-eo-editors@w3.org>. Merci !
 
 ## Legal Issues
 * [_Sydney Olympics 2000 Website Accessibility Decision_](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html){:rel="nofollow"}. Independent Living Institute (2000).<br />
