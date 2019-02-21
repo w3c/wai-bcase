@@ -42,7 +42,7 @@ Les sources ci-dessous sont catégorisées autant que possible selon leur sujet 
 
 ### Vous voulez partager quelque chose ?
 
-Vous contributions au business case pour l’accessibilité sont les bienvenues. Partagez des articles, des études de cas, des expériences professionnelles réussies, et toute autre ressource ou sujet. Pour participer, merci d’envoyer un courrier électronique aux rédacteurs du Accessibility Education and Outreach Working Group à <wai-eo-editors@w3.org>. Merci !
+Vos contributions au business case pour l’accessibilité sont les bienvenues. Partagez des articles, des études de cas, des expériences professionnelles réussies, et toute autre ressource ou sujet. Pour participer, merci d’envoyer un courrier électronique aux rédacteurs du Accessibility Education and Outreach Working Group à <wai-eo-editors@w3.org>. Merci !
 
 ## Legal Issues
 * [_Sydney Olympics 2000 Website Accessibility Decision_](https://www.independentliving.org/docs5/sydney-olympics-blind-accessibility-decision.html){:rel="nofollow"}. Independent Living Institute (2000).<br />
