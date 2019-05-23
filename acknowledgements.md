@@ -1,7 +1,9 @@
 ---
 title: "Acknowledgements for The Business Case for Accessibility"
+ref: /business-case/acknowledgements/
 permalink: /business-case/acknowledgements/
 parent: /business-case/
+lang: en
 layout: default
 github:
   repository: w3c/wai-bcase

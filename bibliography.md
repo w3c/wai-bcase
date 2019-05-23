@@ -1,7 +1,9 @@
 ---
 title: "The Business Case for Digital Accessibility: Annotated Bibliography"
 title_html: "The Business Case for Digital Accessibility: <br>Annotated Bibliography"
+ref: /business-case/bibliography/
 permalink: /business-case/bibliography/
+lang: en
 description: Resources used to make the business case for digital accessibility.
 image: /content-images/wai-bcase/social.png
 layout: default

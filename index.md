@@ -1,6 +1,8 @@
 ---
 title: "The Business Case for Digital Accessibility"
+ref: /business-case/
 permalink: /business-case/
+lang: en
 layout: default
 description: The rationale for organizations to address accessibility. It includes tangible and intangible benefits, and the risks of not addressing accessibility adequately.
 image: /content-images/wai-bcase/social.png
