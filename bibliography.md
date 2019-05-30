@@ -1,19 +1,26 @@
 ---
+# Translation info https://www.w3.org/wiki/WAI/Website/Translate
+
 title: "The Business Case for Digital Accessibility: Annotated Bibliography"
 title_html: "The Business Case for Digital Accessibility: <br>Annotated Bibliography"
-ref: /business-case/bibliography/
-permalink: /business-case/bibliography/
-lang: en
+nav_title: "Bibliography"
+
 description: Resources used to make the business case for digital accessibility.
-image: /content-images/wai-bcase/social.png
-layout: default
+
+lang: en
+last_updated: 2018-11-09
+permalink: /business-case/bibliography/
+
 github:
   repository: w3c/wai-bcase
   path: 'bibliography.md'
+
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> <strong>Published 9 Nov 2018.</strong></p>
   <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. <a href="./acknowledgements/">Acknowledgements</a> lists additional contributors.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+image: /content-images/wai-bcase/social.png
+ref: /business-case/bibliography/
 ---
 
 {::nomarkdown}
