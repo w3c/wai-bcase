@@ -31,6 +31,13 @@ kramwdown:
 highlighter: rouge
 repository: w3c/wai-bcase
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
 ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 
 remote_theme: w3c/wai-website-theme

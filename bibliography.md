@@ -1,17 +1,26 @@
 ---
+# Translation info https://www.w3.org/wiki/WAI/Website/Translate
+
 title: "The Business Case for Digital Accessibility: Annotated Bibliography"
 title_html: "The Business Case for Digital Accessibility: <br>Annotated Bibliography"
-permalink: /business-case/bibliography/
+nav_title: "Bibliography"
+
 description: Resources used to make the business case for digital accessibility.
-image: /content-images/wai-bcase/social.png
-layout: default
+
+lang: en
+last_updated: 2018-11-09
+permalink: /business-case/bibliography/
+
 github:
   repository: w3c/wai-bcase
   path: 'bibliography.md'
+
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> <strong>Published 9 Nov 2018.</strong></p>
   <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. <a href="./acknowledgements/">Acknowledgements</a> lists additional contributors.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+image: /content-images/wai-bcase/social.png
+ref: /business-case/bibliography/
 ---
 
 {::nomarkdown}
@@ -51,7 +60,7 @@ Summary: The article summarizes the proceedings of the lawsuit, the outcome, and
 Type: Peer-reviewed article in the online Law Journal of the Glasgow Graduate School of Law  <br />
 Summary: Academic exploration, based on global trends of whether and to what extent the disability rights legislation in the UK might apply to web accessibility. It also considers the effect of the recently passed Special Educational Needs and Disability Act 2001 on the previously excluded area of education.
 
-* [_UN Convention on the Rights of Persons with Disabillities_](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html){:rel="nofollow"}. United Nations Department of Economic and Social Affairs (2006) <br />
+* [_UN Convention on the Rights of Persons with Disabilities_](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html){:rel="nofollow"}. United Nations Department of Economic and Social Affairs (2006) <br />
 Type: Online portal page  <br />
 Summary: Brief description of the convention and its passage with links to the full text in many languages.
 
@@ -102,17 +111,17 @@ Type: Online article <br />
 Summary: Compilation of examples and links to other resources produced to celebrate Global Accessibility Awareness Day (GAAD) 2018 by illustrating how SEO and website accessibility are mutually supportive and have common outcomes.  
 
 * [_Assessing the Value 0f Accessible Technologies for Organizations_](https://web.archive.org/web/20170710171528/https://mscorpmedia.azureedge.net/mscorpmedia/2016/07/Microsoft-TEI-Accessibility-Study_Edited_FINAL-v2.pdf){:rel="nofollow"}. Parks, S. and Sedov V.; Forrester Research, Inc. (2017) <br />
-Type:Archived research study commisioned by Microsoft <br />
-Summary: Found that adoption of accessible technologies provides tangible economic and social value. Trends are quantified to help organizations understand the wide range of benefits that accrue when they make investments in accessiiblity. 
+Type:Archived research study commissioned by Microsoft <br />
+Summary: Found that adoption of accessible technologies provides tangible economic and social value. Trends are quantified to help organizations understand the wide range of benefits that accrue when they make investments in accessiblity. 
  
 * [_Organizational Motivations for Web Accessibility Implementation – A Case Study_](https://www.researchgate.net/publication/221009860_Organizational_Motivations_for_Web_Accessibility_Implementation_-_A_Case_Study){:rel="nofollow"}  November 2016, University of Vienna, by Marie-Luise Leitner and Christine Strauss. <br />
 Type: Academic study  <br />
 Summary: Introduces a holistic, managerial approach to identify business experiences with web accessibility implementation in three industry sectors. 
 
 ## Disability Employment
-* [_Hiring People with Disabilities is Good Business_](https://www.nytimes.com/2018/12/27/opinion/disability-rights-employment.html) {:rel="nofollow"} Kennedy, Ted Jr. _New York Times_. December 27, 2018.  <br />
+* [_Hiring People with Disabilities is Good Business_](https://www.nytimes.com/2018/12/27/opinion/disability-rights-employment.html){:rel="nofollow"} Kennedy, Ted Jr. _New York Times_. December 27, 2018.  <br />
 Type: Editorial/Opinion  <br />
-Summary: The editorial expresses Kennedy's view that when it comes to employment, the US has failed to live up to the promise of the Americans With Disabilities Act and that business is losing valuable human resources as a result. He encourages companies to be more incusive by highlighting ways that several major companies profit from their proactive employment practices. 
+Summary: The editorial expresses Kennedy's view that when it comes to employment, the US has failed to live up to the promise of the Americans With Disabilities Act and that business is losing valuable human resources as a result. He encourages companies to be more inclusive by highlighting ways that several major companies profit from their proactive employment practices. 
 
 * [_Leaving no one behind: UNDP/UNV Talent Programme for Young Professionals with Disabilities_](http://www.undp.org/content/undp/en/home/news-centre/news/2017/leaving-no-one-behind-undp-unv-talent-programme-young-professionals-disabilities.html){:rel="nofollow"}.  <br />
 Type: Report  <br />
@@ -123,7 +132,7 @@ Type: Report  <br />
 Summary: American businesses claim they can’t find workers, and disabled Americans can’t find jobs. Here’s how tech can help.
 
 * [_Getting to Equal: The Disability Inclusion Advantage_](https://www.accenture.com/t20181029T185446Z__w__/us-en/_acnmedia/PDF-89/Accenture-Disability-Inclusion-Research-Report.pdf#zoom=50)  Accenture Research Report,  (2018) <br />
-Type: Research commissioned by Disability:In and the American Association of Peoplemwith Disabilities (AAPD) <br />
+Type: Research commissioned by Disability:In and the American Association of People with Disabilities (AAPD) <br />
 Summary: Research demonstrates that companies that embrace best practices for employing and supporting more persons with disabilities in their workforce outperform their peers.</p>
 
 * [_The Accessible Workforce_](https://www.ibm.com/ibm/history/ibm100/us/en/icons/accessibleworkforce/) IBM 100 Icons of Progress, (2016) <br />
@@ -199,7 +208,7 @@ Summary: A bit of background on why culture matters with links to more in-depth 
 ## General Statistics/Research Methods/Other Business Case perspectives 
 
 * [_Disability Inclusion Overview_](http://www.worldbank.org/en/topic/disability){:rel="nofollow"}. The World Bank (2018).<br />
-Type: Statiscal summary with sources  <br />
+Type: Statistical summary with sources  <br />
 Summary: Report on the numbers of people through out the world with disabilities who experience barriers to full social and economic inclusion. Barriers include inaccessible physical environments and transportation, the unavailability of assistive devices and technologies, non-adapted means of communication, gaps in service delivery, and discriminatory prejudice and stigma in society.
 
 * [_World Population Chart for Countries and Continents_](https://www.disabled-world.com/calculators-charts/wpc.php){:rel="nofollow"}. Disabled World (2017).<br />

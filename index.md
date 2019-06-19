@@ -1,14 +1,21 @@
 ---
+# Translation info https://www.w3.org/wiki/WAI/Website/Translate
+
 title: "The Business Case for Digital Accessibility"
+nav_title: "Business Case"
+
+lang: en
+last_updated: 2018-11-09
 permalink: /business-case/
-layout: default
+
 description: The rationale for organizations to address accessibility. It includes tangible and intangible benefits, and the risks of not addressing accessibility adequately.
-image: /content-images/wai-bcase/social.png
+
 github:
   repository: w3c/wai-bcase
   path: 'index.md'
+
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> <strong>Published 9 Nov 2018.</strong></p>
+  <p><strong>Date:</strong> Published 9 Nov 2018.</p>
   <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. <a href="./acknowledgements/">Acknowledgements</a> lists additional contributors.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 inline_css: |
@@ -21,6 +28,11 @@ inline_css: |
     width: 15%;
     max-height: 120px;
   }
+image: /content-images/wai-bcase/social.png
+ref: /business-case/
+
+# Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
+# Read Translations Notes for this resource at https://github.com/w3c/wai-bcase/blob/master/README.md
 ---
 
 
@@ -204,7 +216,7 @@ To help everyone understand Barclays accessibility-focused mindset, we've create
 {% include box.html type="end" %}
 {:/}
 
-Barclays demonstrates how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is perceived as open and fair. People are proud to work there and to do business with Barclays. Read the [full Barclays case study {% include_cached different.html %}](https://www.w3.org/community/wai-engage/wiki/Barclays_Bank_Case_Study) to learn more.
+Barclays demonstrates how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is perceived as open and fair. People are proud to work there and to do business with Barclays. Read the [full Barclays case study](https://www.w3.org/community/wai-engage/wiki/Barclays_Bank_Case_Study) to learn more.
 
 Another well-recognized example of how a brand can be affected is Microsoft. After long advocacy and some criticism by accessibility
 advocates [^11], Microsoft made a real and appreciable commitment to accessibility demonstrated by genuine engagement with stakeholders of all abilities.[^12] The resulting improvements to products and services have strengthened its overall brand image [^13], and accessibility efforts are now lauded in the community of people with disabilities.[^14]
@@ -330,20 +342,20 @@ The court required the chain of grocery stores to
 
 ## Share your experience
 
-User experience research and case studies confirm the many ways that accessible design supports an organization’s ability to innovate, enhance their brand, increase market reach, and minimize legal risk – among many other benefits. The WAI is a global community of practice, and we encourage you to share your examples. If you have a story of how your commitment to accessibility improved your online business model, please submit it via email to <wai-eo-editors@w3.org> or post it to the [WAI-Engage wiki {% include_cached different.html %}](https://www.w3.org/community/wai-engage/wiki/Case_studies).
+User experience research and case studies confirm the many ways that accessible design supports an organization’s ability to innovate, enhance their brand, increase market reach, and minimize legal risk – among many other benefits. The WAI is a global community of practice, and we encourage you to share your examples. If you have a story of how your commitment to accessibility improved your online business model, please submit it via email to <wai-eo-editors@w3.org> or post it to the [WAI-Engage wiki](https://www.w3.org/community/wai-engage/wiki/Case_studies).
 
 ## Conclusion
 
 Public use of the web is more than 25 years old. It is no longer a novelty but an integrated, critical tool of modern life. As smart businesses integrate accessible design into their development and procurement processes, they understand the need for equal access by all people. The legal risks of ignoring accessibility are significant, and the benefits have also been demonstrated by leaders like Apple, Barclays, NPR, IBM, Microsoft and hundreds more. Business leaders and the advocates who influence them can have tremendous social impact and a healthy return on investment as they follow a roadmap that leads to equal access. More than one billion people with disabilities in the world are eager to engage with you as customers, clients, partners, employees, and equal participants in civic and social activities. By developing a long-term commitment to accessibility and by using WAI resources to develop policy and implement a strategy to bring that commitment to life, your business will reach this market and is likely to thrive in unexpected and self-sustaining ways.
 
 ## Resources
-This article was written after reading and exploring many external resources that shaped our understanding of the current landscape. We have provided links and notes about our research in this [Annotated Bibliography]({{ "/business-case/bibliography/" | relative_url }}).
+This article was written after reading and exploring many external resources that shaped our understanding of the current landscape. We have provided links and notes about our research in this [Annotated Bibliography](/business-case/bibliography/).
 
 Also, the WAI website has an extensive library of useful support to help companies realize the benefits outlined in this article for integrating accessibility into their development, procurement, and general business practice. Listed below are a few of what we consider especially useful as you start your accessibility program.
 
-* [Developing Organizational Accessibility Policies]({{ "/planning/org-policies/" | relative_url}}): Start with a clear policy.
-* [Planning and Managing Accessibility]({{ "/planning-and-managing/" | relative_url}}): A guide for implementation.
-* [Perspective Videos]({{ "/perspective-videos/" | relative_url}}): Watch how accessibility impacts users.
+* [[Developing Organizational Accessibility Policies]](/planning/org-policies/): Start with a clear policy.
+* [[Planning and Managing Accessibility]](/planning-and-managing/): A guide for implementation.
+* [[Perspective Videos]](/perspective-videos/): Watch how accessibility impacts users.
 
 These are suggested merely as a way to get started. We hope you will explore throughout the WAI site as you dive deeper into accessibility and begin to realize the related benefits for you and your organization.
 
