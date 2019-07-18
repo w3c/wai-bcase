@@ -87,17 +87,14 @@ Cuando la accesibilidad forma parte de la planificación estratégica, los negoc
 
 Echemos un vistazo a algunos ejemplos y resultados de investigaciones que le ayudarán a crear el caso de negocio más efectivo en su entorno.
 
-## Accessibility is good for business
+## La accesibilidad es buena para los negocios
 
 <blockquote class="pull">
-  <p>Many organisations are waking up to the fact that embracing
-accessibility leads to multiple benefits – reducing legal risks,
-strengthening brand presence, improving customer experience and
-colleague productivity.</p>
-  <cite>Paul Smyth, Head of Digital Accessibility, Barclays</cite>
+  <p>Muchas organizaciones están despertando al hecho de que abrazar la accesibilidad conlleva múltiples beneficios: reducir el riesgo legal, fortalecer la presencia de la marca, mejorar la experiencia del cliente y la productividad de los compañeros.</p>
+  <cite>Paul Smyth, Jefe de accesibilidad digital en Barclays</cite>
 </blockquote>
 
-The sections below explore key advantages of web accessibility to businesses of all types. Real world examples are presented to show how benefits are realized in the global marketplace.
+Las secciones de abajo exploran ventajas clave de la accesibilidad web para negocios de todo tipo. Se ofrecen ejemplos reales para mostrar cuáles son los beneficios en un mercado global.
 
 ### Drive Innovation
 
