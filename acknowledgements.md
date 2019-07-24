@@ -23,7 +23,7 @@ The <a href="{{ "/business-case/" | relative_url }}">Business Case for Accessibi
 * Eric Eggert, W3C WAI Fellow, Knowbility
 * Vicki Menezes Miller
 * Laura Keen, US Library of Congress
-* Amanda Mace. WebKeyIT
+* Amanda Mace, WebKeyIT
 * Kris Anne Kinney, Educational Testing Service
 * and <a href="https://www.w3.org/2000/09/dbwg/details?group=35532&public=1">EOWG participants<a/>
 
