@@ -9,9 +9,6 @@ github:
   repository: w3c/wai-bcase
   path: 'acknowledgements.md'
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> <strong>Published 9 Nov 2018.</strong></p>
-  <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. <a href="./acknowledgements/">Acknowledgements</a> lists additional contributors.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
 The <a href="{{ "/business-case/" | relative_url }}">Business Case for Accessibility</a> is developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>), with input from others.
@@ -26,7 +23,7 @@ The <a href="{{ "/business-case/" | relative_url }}">Business Case for Accessibi
 * Eric Eggert, W3C WAI Fellow, Knowbility
 * Vicki Menezes Miller
 * Laura Keen, US Library of Congress
-* Amanda Mace. WebKeyIT
+* Amanda Mace, WebKeyIT
 * Kris Anne Kinney, Educational Testing Service
 * and <a href="https://www.w3.org/2000/09/dbwg/details?group=35532&public=1">EOWG participants<a/>
 
@@ -34,7 +31,10 @@ The <a href="{{ "/business-case/" | relative_url }}">Business Case for Accessibi
 * Paul Smyth, Head of Digital Accessibility, Barclays
 * Sarah Herrlinger, Director of Global Accessibility Policy and Initiatives, Apple
 * Eve Andersson, Director, Accessibility Engineering, Google
-* Lily Bond, Director of Marketing, 3Play Media 
+* Lily Bond, Director of Marketing, 3Play Media
+
+### Graphic Artist
+* Ari Stiles
 
 ## Previous Versions
 
