@@ -96,30 +96,29 @@ Echemos un vistazo a algunos ejemplos y resultados de investigaciones que le ayu
 
 Las secciones de abajo exploran ventajas clave de la accesibilidad web para negocios de todo tipo. Se ofrecen ejemplos reales para mostrar cuáles son los beneficios en un mercado global.
 
-### Drive Innovation
+### Impulso a la innovación
 
 <img src="{{ "/content-images/wai-bcase/innovation.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-Integrating accessibility removes architectural, digital, and social barriers that can get in the way of innovation[^2], for example:
+La integración de la accesibilidad elimina barreras arquitectónicas, digitales y sociales que pueden ser un obstáculo para la innovación[^2]. Ejemplos:
 
--   Accessible design thinking provides varied and flexible ways for users to interact with websites and applications, options that are useful for people with and without disabilities.
+-   El diseño accesible, cuando es considerado, proporciona flexibilidad y variedad a los usuarios para interactuar con sitios y aplicaciones web, con opciones que son útiles para las personas con o sin discapacidad.
 
--   Design of user interaction considers experiences other than screens when accessibility is a consideration. The result is interaction that is more human-centered, natural, and contextual. 
+-   Cuando la accesibilidad se tiene en consideración, el diseño de la interacción del usuario se centra en las experiencias en lugar de en las pantallas. El resultado es una interacción más humana, natural y contextual. 
 
--   Accessibility is closely related to general usability – both aim to define and deliver a more intuitive user experience.
+-   La accesibilidad está estrechamente relacionada con la usabilidad en general. Ambas tratan de definir y proporcionar una experiencia de usuario más intuitiva.
 
--   Innovations like the typewriter, telephone, punch cards, text to speech, email, and voice controls were initially meant to include those with a disability, and all have found a much broader application.[^4]
+-   Innovaciones tales como la máquina de escribir, el teléfono, las tarjetas perforadas, el texto a voz, el correo electrónico y los controles por voz fueron inicialmente destinadas a incluir a personas con discapacidad, pero todas ellas han encontrado un uso más amplio.[^4]
 
--   Driverless cars, so promising for the independence of blind people, are projected to also
-    help solve traffic fatalities and congestion.
+-   Los coches sin conductor, tan prometedores para la independencia de las personas ciegas, también prometen resolver problemas con los accidentes de tráfico y los atascos.
 
--   Research and development of the artificial retina project to help restore sight for participants who are blind may also help future robots with real-time image-processing systems, effectively enabling them to "see." [^3]
+-   La investigación y el desarrollo llevados a cabo en el proyecto de una retina artificial destinada a restaurar la visión en personas ciegas también podría ayudar, en el futuro, a que los robots cuenten con sistemas de procesado de imagen en tiempo real, permitiéndoles “ver” de esta forma.[^3]
 
-Accessible design is by its nature flexible, allowing content to faithfully render across a broad spectrum of devices, platforms, assistive technologies, and operating systems. In physical environments, everyone takes advantage of lower curbs, automatic door openers, ramps, and other features provided for disability access. On the web, accessibility features become options that are also often used more widely.
+El diseño accesible es flexible por naturaleza, permitiendo que el contenido sea fielmente presentado a través de un espectro amplio de dispositivos, plataformas, tecnologías de apoyo y sistemas operativos. En el entorno físico, todo el mundo se beneficia con los bordillos bajos, puertas de apertura automática, rampas y otras características para dar acceso a la discapacidad. En la web, las características de accesibilidad se convierten en opciones que también, con frecuencia, se usan ampliamente.
 
-A compelling example comes from the early 2000’s, when people increasingly used mobile devices to browse the web. Accessible and standards-compliant websites were in many cases more mobile-ready as they did not rely on mouse input. Imagine the delight of those who were already committed to and had designed for accessibility! This revelation led to the responsive-design trend that has accessibility at its core.[^5] 
+Un ejemplo interesante se encuentra a principio de los años 2000, cuando cada vez más gente usaba dispositivos móviles para navegar por la web. Los sitios web accesibles y conforme a los estándares fueron, en muchas ocasiones, los que estuvieron mejor preparados para los móviles, pues no dependían del ratón. ¡Imagine cuál fue la alegría de quienes entonces ya se habían comprometido y diseñado teniendo en cuenta la accesibilidad! Esta revelación llevó a la tendencia del diseño web multidispositivo, el cual tiene la accesibilidad en su corazón.[^5] 
 
-The following case studies from two large technology companies provide useful examples for companies of all sizes.
+Los siguientes casos de estudio de dos grandes empresas tecnológicas ofrecen ejemplos útiles para empresas de todos los tamaños.
 
 {::nomarkdown}
 {% include box.html type="start" h="4" title="Case Study: Apple " class="" %}
