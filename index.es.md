@@ -121,21 +121,21 @@ Un ejemplo interesante se encuentra a principio de los años 2000, cuando cada v
 Los siguientes casos de estudio de dos grandes empresas tecnológicas ofrecen ejemplos útiles para empresas de todos los tamaños.
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Case Study: Apple " class="" %}
+{% include box.html type="start" h="4" title="Caso de estudio: Apple " class="" %}
 {:/}
 
 <blockquote class="pull right alt-1">
-  <p>Accessibility is a core value at Apple and something we view as a basic human right.  </p>
-  <cite>Sarah Herrlinger, Director of Global Accessibility Policy and Initiatives, Apple</cite>
+  <p>La accesibilidad es un valor fundamental en Apple y algo que vemos como un derecho humano básico.</p>
+  <cite>Sarah Herrlinger, Directora de Políticas e Iniciativas de Accesibilidad Global, Apple</cite>
 </blockquote>
 
-Apple engineers have been innovators in the accessibility space since the inception of the company, both willing to listen and work with outside constituents. [^6] The company also anticipates market direction by integrating disability needs into product development. Examples include:
+Los ingenieros de Apple han estado innovando en el espacio de la accesibilidad desde el inicio de la empresa, con voluntad tanto para escuchar como para trabajar con partes externas. [^6] La empresa también anticipa la dirección del mercado al integrar necesidades de la discapacidad en el desarrollo del producto. Algunos ejemplos:
 
--  <strong>iTunes U:</strong> In the early 2000’s, the 23-campus California State University system was unable to take advantage of Apple’s iTunes U educational program because the application was not fully accessible to blind students. Teachers within the CSU system were prohibited from using it. This was resolved by innovation, not litigation, as Apple listened to CSU’s concerns and worked to make iTunes accessible on both the Mac and Windows platforms. CSU System was soon able to use the program widely.
+-  <strong>iTunes U:</strong> Al principio de los años 2000, el sistema de 23 campus de la Universidad Estatal de California no era capaz de beneficiarse del programa educativo de Apple, iTunes U, porque la aplicación no era totalmente accesible para los estudiantes ciegos. A los profesores de la universidad se les prohibió usarla. Esto se resolvió con innovación y no con pleitos, pues Apple escuchó las demandas de la universidad y trabajó para hacer iTunes accesible tanto desde las plataformas Mac como Windows. El sistema de la universidad estuvo en condiciones de usar el programa extensivamente.
 
--  <strong>VoiceOver on iPhone:</strong> Early in the evolution of the iPhone, Apple began considering the implications that a touchscreen device would have on their blind customers. Iterating over several years behind the scenes, the company invested the resources to develop the voice technology that led to VoiceOver, the world’s first gesture-based screen reader. Within weeks of launch, Apple received a special commendation from the National Federation of the Blind "For designing the first fully accessible touchscreen interface.” [^7]
+-  <strong>VoiceOver en el iPhone:</strong> Al principio de la evolución del iPhone, Apple empezó a considerar cuáles serían las implicaciones que tendría un dispositivo táctil en sus clientes ciegos. Trabajando durante varios años entre bastidores, la empresa invirtió los recursos necesarios para desarrollar la tecnología de voz que desembocó en VoiceOver, el primer lector de pantallas basado en gestos del mundo. Pocas semanas después del lanzamiento, Apple recibió elogios especiales por parte de la Federación Nacional de Ciegos por “diseñar la primera interfaz táctil totalmente accesible”. [^7]
 
-Screen readers on other touch screen devices have now become more prevalent in the industry and Apple has shown important leadership in the effort to ensure inclusion for all. 
+Los lectores de pantalla en dispositivos táctiles son cada vez más prevalentes en la industria y Apple ha mostrado un liderazgo importante en el esfuerzo para asegurar la inclusión de todos. 
 
 {::nomarkdown}
 {% include box.html type="end" %}
