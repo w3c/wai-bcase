@@ -141,30 +141,23 @@ Los lectores de pantalla en dispositivos táctiles son cada vez más prevalentes
 {% include box.html type="end" %}
 {:/}
 
-Innovation from voice interactions at Apple and elsewhere have contributed to the abundance of personal digital assistants now found in many homes and offices. Today millions of people use these devices, regardless of ability.  
+Las innovaciones en las interacciones de voz por parte de Apple y otros han contribuido a la abundancia de asistentes digitales personales que hoy se encuentran en muchas casa y oficinas. Hoy en día, millones de personas usan esos dispositivos, independientemente de sus capacidades.  
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Case Study: Google " class="" %}
+{% include box.html type="start" h="4" title="Caso de estudio: Google " class="" %}
 {:/}
 
 <blockquote class="pull right alt-1">
-  <p>The accessibility problems of today are the mainstream breakthroughs of tomorrow.</p>
-  <cite>Eve Andersson, Director, Accessibility Engineering, Google</cite>
+  <p>Los problemas de accesibilidad de hoy son los avances principales de mañana.</p>
+  <cite>Eve Andersson, Directora, Ingeniera de Accesibilidad, Google</cite>
 </blockquote>
+Un artículo del año 2016 en la revista en línea FastCompany[^8] resalta cómo la inversión de Google en accesibilidad le proporciona a la empresa una ventaja innovadora en una gran gama de productos y servicios. Eve Andersson, la ingeniera principal y que aparece en el artículo, dice “estoy entusiasmada con la accesibilidad, no solo porque creo que hay que dar lo mejor, sino también porque hace la vida más amena para todos”. Entre las innovaciones citadas como ejemplos, se encuentran las siguientes:
 
-A 2016 article in the FastCompany online magazine[^8] highlights how Google’s investment in accessibility provides the company with an
-innovation edge in a broad array of products and services. Eve
-Andersson, the lead engineer, featured in the article, says “I’m passionate about accessibility, not just because I believe in
-a level playing field, but because (it) makes life more livable for
-everyone.” Among the innovations cited as examples are these:
-
--   contrast minimums, required for people with low vision, help all people see in bright light glare situations
--   auto-complete, initially provided for people with disabilities, is now widely used by all
--   voice control, implemented for users with physical impairments, has been more widely
-    adopted as a great convenience by millions of others
--   artificial intelligence advances are based on research originally
-    done to provide visual context to users with visual impairments
--   auto-captioning using machine learning has been problematic for the main target population of deaf users and many feel it is still inadequate to meet that need. However, work continues and machine learning itself is steadily improving and has found broader applications due to this effort.
+-   Los mínimos en contraste, necesarios para las personas con baja visión, ayuda a todas las personas en situaciones con reflejos brillantes.
+-   El autocompletado, en principio ofrecido para las personas con discapacidad, es ahora usado ampliamente por todos.
+-   El control por voz, implementado para los usuarios con discapacidad física, ha sido adoptado más ampliamente por millones de personas al ser una ventaja.
+-   Los avances en inteligencia artificial se basan en la investigación original que se hizo para proporcionar contexto visual a los usuarios con discapacidades visuales.
+-   Los subtítulos automáticos que hacen uso del aprendizaje automático han sido problemáticos para los usuarios sordos destinatarios y muchos piensan que no su cubre esta necesidad de forma adecuada. Sin embargo, continuamos trabajando y el aprendizaje automático está mejorando y ha encontrado otras aplicaciones más amplias gracias a este esfuerzo.
 
 {::nomarkdown}
 {% include box.html type="end" %}
