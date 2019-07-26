@@ -163,45 +163,39 @@ Un artículo del año 2016 en la revista en línea FastCompany[^8] resalta cómo
 {% include box.html type="end" %}
 {:/}
 
-### Enhance Your Brand
+### Mejora la marca
 
 <img src="{{ "/content-images/wai-bcase/brand.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-Businesses need to protect and enhance their brands. A clear commitment to accessibility can demonstrate that a business has a genuine sense of Corporate Social Responsibility (CSR). As businesses understand and act on the diverse needs of their stakeholders and make the commitment to sustainable, inclusive marketing and employment practices, they can achieve a range of benefits. Potential outcomes for CSR programs include enhanced brand image and reputation, increased sales and customer loyalty, improved workforce diversity and many other benefits.[^9] Further studies[^10] emphasize the benefits to the brand of companies that institute policies of broad diversity. 
+Las empresas tienen que proteger y mejorar sus marcas. Un compromiso claro con la accesibilidad puede demostrar que una empresa tiene un sentido de la Responsabilidad Social Corporativa (RSC) auténtico. Aquellas empresas que comprenden y actúan según las necesidades de las partes interesadas, y que además se comprometen con prácticas de empleo y de marketing sostenibles a la vez que inclusivas, pueden obtener una serie de beneficios. Los programas de RSC pueden resultar, potencialmente, en una mejora de la marca y de la reputación, un aumento en las ventas y en la lealtad de los consumidores, una mejora en la diversidad de la mano de obra y muchos otros beneficios.[^9] Estudios adicionales[^10] enfatizan los beneficios para la marca de aquellas empresas que instauran políticas para ampliar la diversidad. 
 
-Employing people with disabilities is an essential aspect of creating a diverse workforce. To be successful, the technology that employees use, including websites and applications, must be accessible.
+Contratar a personas con discapacidad es un aspecto esencial para crear una mano de obra diversa. Para que esto sea un éxito, es necesario que las tecnologías que usan los empleados, incluyendo los sitios y aplicaciones web, sean accesibles.
 
-Barclays shared their approach to diversity and inclusion through the accessibility initiatives in their company and how that approach has made them a better company.
+Barclays ha compartido su aproximación a la diversidad y a la inclusión a través de las iniciativas accesibles que han promovido y cómo esta aproximación les ha hecho una empresa mejor.
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Case Study: Barclays" class="" %}
+{% include box.html type="start" h="4" title="Caso de estudio: Barclays" class="" %}
 {:/}
 
-Establishing an organisation-wide accessibility strategy for
-identifying, anticipating and addressing the additional needs of
-customers and colleagues with impairments contributes in several ways to
-our brand identity – through tailored services, fostering an inclusive
-culture, creating new ways to communicate and consult with existing and
-potential customers. 
+Establecer una estrategia organizativa para identificar, anticipar y responder a las necesidades adicionales de aquellos clientes y compañeros con discapacidad nos ayuda a construir una identidad de marca de varias formas: a través de servicios personalizados, fomentando una cultura inclusiva, creando nuevos métodos para la comunicación y la consulta con clientes existentes y potenciales. 
 
 <blockquote class="pull right">
-  <p>At Barclays, accessibility is about more than just disability. It's about helping everyone to work, bank and live their lives regardless of their age, situation, abilities or circumstances.</p><cite>Paul Smyth, Head of Digital Accessibility, Barclays</cite>
+  <p>En Barclays, la accesibilidad va más allá de la discapacidad. Se trata de ayudar a todo el mundo a trabajar, tener una cuenta en un banco y vivir sus vidas independientemente de su edad, situación, capacidad o circunstancias.</p><cite>Paul Smyth, Responsable de Accesibilidad Digital, Barclays</cite>
 </blockquote>
 
-We want to leverage inclusive technology to enable and empower all people to bank, work and reach their full potential. The Barclays Accessibility team does this by supporting digital teams to embed accessibility into our services and culture through effective governance, partnering, training, and tools. Establishing an enterprise-wide accessibility strategy, standards and programmes coupled with senior sponsorship helps support our publicly stated ambition of becoming the most accessible and inclusive Financial Times Stock Exchange (FTSE) company.
+Queremos promover la tecnología inclusiva a fin de permitir y capacitar a todo el mundo para tener una cuenta en un banco, trabajar y alcanzar su potencial. El equipo de accesibilidad de Barclays consigue esto ayudando a los equipos digitales para incluir la accesibilidad en nuestros servicios y cultura a través de una dirección efectiva, apoyo, formación y herramientas. Establecer una estrategia de accesibilidad para toda la organización, estándares y programas junto con el respaldo de la experiencia nos permite apoyar nuestra ambición, públicamente anunciada, de convertirnos en la empresa más accesible e inclusiva del Financial Times Stock Exchange (FTSE).
 
-When we shift our thinking away from the minimum legal compliance to focus instead on the commercial opportunity and the creative challenge of building better experiences for everyone, we create a more sustainable, customer orientated approach to digital information and services. 
+Cuando dejamos de pensar en los requisitos legales mínimos para centrarlos en las oportunidades comerciales y el desafío creativo de construir mejores experiencias para todos, es cuando creamos una aproximación a la información y servicios digitales más sostenible y orientada al cliente. 
 
-To help everyone understand Barclays accessibility-focused mindset, we've created a range of animations which help our colleagues understand what accessibility is all about, who benefits, and what the different types of impairments are. We've also shared these animations on our [Accessible Banking YouTube playlist {% include_cached external.html %}](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy).
+Para que todo el mundo pueda entender la mentalidad accesible de Barclays, hemos creado una serie de animaciones que sirven para que nuestros compañeros sepan qué es la accesibilidad, a quién beneficia y cuáles son las diferentes discapacidades. Hemos compartido estas animaciones en nuestra [lista de YouTube Accessible Banking {% include_cached external.html %}](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy).
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-Barclays demonstrates how a strong commitment to accessibility results in distributed responsibility and shared understanding. Accessibility awareness permeates the company culture. The company is perceived as open and fair. People are proud to work there and to do business with Barclays. Read the [full Barclays case study](https://www.w3.org/community/wai-engage/wiki/Barclays_Bank_Case_Study) to learn more.
+Barclay demuestra cómo un compromiso fuerte con la accesibilidad resulta en responsabilidad distribuida y comprensión compartida. La sensibilización sobre la accesibilidad se infiltra en la cultura de la empresa. La empresa es percibida como justa y abierta. La gente está contenta de trabajar allí y de hacer negocios con Barclays. Lea el [caso de estudio de Barclays en toda su extensión](https://www.w3.org/community/wai-engage/wiki/Barclays_Bank_Case_Study) para conocerlo mejor.
 
-Another well-recognized example of how a brand can be affected is Microsoft. After long advocacy and some criticism by accessibility
-advocates [^11], Microsoft made a real and appreciable commitment to accessibility demonstrated by genuine engagement with stakeholders of all abilities.[^12] The resulting improvements to products and services have strengthened its overall brand image [^13], and accessibility efforts are now lauded in the community of people with disabilities.[^14]
+Otro ejemplo bien conocido de cómo afecta a la marca se encuentra en Microsoft. Después de mucha presión y críticas por parte de defensores de la accesibilidad [^11], Microsoft finalmente inició un compromiso con la accesibilidad real y apreciable, demostrado por su involucración genuina con partes interesadas con todo tipo de capacidades.[^12] Las mejoras resultantes en los productos y servicios han fortalecido su imagen de marca en general [^13], y sus esfuerzos de accesibilidad son alabados en la comunidad de personas con discapacidad.[^14]
 
 ### Increase Market Reach
 
