@@ -197,61 +197,51 @@ Barclay demuestra cómo un compromiso fuerte con la accesibilidad resulta en res
 
 Otro ejemplo bien conocido de cómo afecta a la marca se encuentra en Microsoft. Después de mucha presión y críticas por parte de defensores de la accesibilidad [^11], Microsoft finalmente inició un compromiso con la accesibilidad real y apreciable, demostrado por su involucración genuina con partes interesadas con todo tipo de capacidades.[^12] Las mejoras resultantes en los productos y servicios han fortalecido su imagen de marca en general [^13], y sus esfuerzos de accesibilidad son alabados en la comunidad de personas con discapacidad.[^14]
 
-### Increase Market Reach
+### Incrementar el alcance del mercado
 
 <img src="{{ "/content-images/wai-bcase/market-reach.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-The market of people with disabilities is large and growing as the
-global population ages. In the UK, where the large disability market is known as the Purple Pound, people with disabilities and their
-families spend at least £249 billion every year. In the US, the annual discretionary spending of people with disabilities is over $200 billion. The global estimate of the disability market is nearly $7 trillion. Consider these facts when estimating market size:
+El mercado de las personas con discapacidad es grande y está creciendo debido al envejecimiento global de la población. En el Reino Unido, donde el mercado de personas con discapacidad es conocido como la “Libra púrpura”, las personas con discapacidad y sus familias gastan al menos 249 billones de libras cada año. En los Estados Unidos, el gasto anual a discreción de las personas con discapacidad supera los 200 billones de dólares. La estimación global para el mercado de la discapacidad se acerca a los 7 trillones de dólares. Considere los siguientes hechos a la hora de estimar el tamaño del mercado:
 
--   At least one billion people – 15% of the world’s population – have a
-    recognized disability[^15]
--   As the population ages, many more acquire disability and yet do not
-    identify as a “person with a disability”[^16]
--   In countries with life expectancies of over 70 years of age, people
-    spend 11.5 percent of their lifespan living with a disability.[^17]
--   Globally, the extended market is estimated at 2.3 billion people who
-    control an incremental $6.9 trillion in annual disposable
-    income.[^18]
+-   Al menos un billón de personas – 15% de la población mundial – tiene una discapacidad reconocida. [^15]
+-   A medida que la población envejece, muchos más adquieren alguna discapacidad, pero no se reconocen como “persona con discapacidad.” [^16]
+-   En los países con esperanzas de vida superior a los 70 años, la gente pasa un 11,5% de su tiempo viviendo con una discapacidad. [^17]
+-   A nivel global, se estima que el mercado extendido abarca a 2,3 billones de personas que controlan alrededor de 6,9 trillones de dólares en ingresos anuales. [^18]
     
-A Forrester Research Economic Impact Study commissioned by Microsoft concluded that accessibility could contribute to cost savings when it is integrated into existing and ongoing development cycles. [^19] Technology updates and redesigns that include accessibility along with other best practices have demonstrated reduced costs for maintenance and service. Moreover, according to Microsoft, as accessibility features are included, overall customer satisfaction improves. 
+Una investigación de impacto económico de Forrester, encargada por Microsoft, concluyó que la accesibilidad podría ayudar a reducir costes cuando se integra en ciclos de desarrollo existentes. [^19] Las actualizaciones y los rediseños tecnológicos que incluyen la accesibilidad junto con otras buenas prácticas han demostrado reducir los costes de mantenimiento y servicio. Además, según Microsoft, a medida que se incluyen medidas de accesibilidad la satisfacción general del cliente mejora. 
 
 <blockquote class="pull">
-  <p>Designing inclusive software results in improved usability and customer satisfaction.</p>
-  <cite>Microsoft’s app developer guide</cite>
+  <p>El diseño de software inclusivo resulta en una usabilidad mejorada y satisfacción de cliente.</p>
+  <cite>Guía de desarrollo de aplicaciones de Microsoft</cite>
 </blockquote>
 
-Accessible design considerations often lead to improvements in general customer experience and loyalty. For customers with disabilities, such improvements are essential for equal access. However, accessibility provides options that are useful to all customers in various situations. For example, web accessibility also benefits:
+Las consideraciones de diseño accesible a menudo conducen a mejoras en la experiencia del cliente en general y su lealtad. Para los clientes con discapacidad, tales mejoras son esenciales a fin de obtener un acceso igualitario. Sin embargo, la accesibilidad proporciona opciones que son útiles para todos los clientes en situaciones diferentes. Por ejemplo, la accesibilidad web también beneficia a:
 
-* people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.,
-* older people with changing abilities due to ageing,
-* people with “temporary disabilities” such as a broken arm or lost glasses,
-* challenging situations like bright, glaring sunlight or noisy environments where audio can't be heard, 
-* those with a slow internet connection, limited or expensive bandwidth, which is common in rural areas and some geographical regions.
+* La gente que usa teléfonos móviles, relojes inteligentes, televisiones inteligentes y otros dispositivos con pantalla pequeña o métodos de entrada diferentes, etc.
+* Personas mayores con habilidades que cambian debido a la edad.
+* Personas con “discapacidades temporales”, como por ejemplo un brazo roto o debido a la pérdida de las gafas.
+* Situaciones difíciles como el brillo de la luz solar intenso o entornos ruidosos donde no se puede escuchar un audio. 
+* Quienes tienen una conexión lenta a internet, ancho de banda limitado o caro, lo cual es común en zonas rurales y algunas regiones geográficas.
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Case Study: NPR Weekly Broadcast " class="" %}
+{% include box.html type="start" h="4" title="Caso de estudio: Emisión semanal de NPR " class="" %}
 {:/}
 
-This American Life is a broadcast heard on more than 500 National Public Radio (NPR) stations by about 2.1 million listeners each week in the United States. In 2011, in response to new regulations around broadcast media from the US Federal Communications Commission (FCC),  the broadcaster committed to creating transcripts for their entire archive of recorded programs. A study by their media partner, conducted over several months, concluded that the provision of transcripts not only met legal obligations but returned significant benefits including:
+“This American Life” es una emisión que escuchan cerca de 2,1 oyentes cada semana en los Estados Unidos, en más de 500 estaciones de la Radio Pública Nacional (NPR). En el año 2011, en respuesta a nuevas normas sobre las emisiones de los medios por parte de la Comisión Federal de Comunicaciones (FCC) de Estados Unidos, la emisora se comprometió a crear transcripciones para su todo su archivo de programas grabados. Un estudio realizado por otro medio, llevado a cabo a lo largo de varios meses, concluyó que la provisión de transcripciones no solo cumplía con los requisitos legales, sino que también devolvía beneficios significantes como:
 
--   search traffic increased 6.86%,
--   better comprehension for visitors who use English as a second
-    language,
--   visitors were able to use transcripts in noisy or sound-sensitive
-    environments,
--   ability to more easily translate, and
--   ability to search text to reference a specific section of audio.
+-   El tráfico de búsquedas aumentó un 6,86%
+-   Mejor comprensión para los visitantes que usan el inglés como segunda lengua
+-   Los visitantes podían usar las transcripciones en ambientes ruidosos o sensibles al ruido
+-   Facilidad para realizar traducciones
+-   Posibilidad para buscar en el texto la referencia a una sección específica del audio
 
-The study, conducted over more than one year, used Google Analytics to
-capture the following data:
+El estudio, llevado a cabo durante más de un año, hizo uso de Google Analytics para obtener los siguientes datos:
 
--   7.23% of visitors viewed at least one transcript,
--   unique visitors increased 4.18%, and
--   new inbound links to transcript accounted for an increase of 3.89%
+-   7,23% de los visitantes vieron al menos una transcripción
+-   Los visitantes únicos crecieron un 4,18%
+-   Los enlaces entrantes a transcripciones supusieron un aumento del 3,89%
 
-Read more detail and the full report of the [This American Life Case Study {% include_cached external.html %}](https://www.3playmedia.com/customers/case-studies/this-american-life/) and how it was conducted.
+Lea más información sobre el [caso de estudio de “This American Life” {% include_cached external.html %}](https://www.3playmedia.com/customers/case-studies/this-american-life/), así como el texto del estudio completo y cómo fue realizado.
 
 {::nomarkdown}
 {% include box.html type="end" %}
