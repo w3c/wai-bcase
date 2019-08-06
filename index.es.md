@@ -247,7 +247,7 @@ Lea más información sobre el [caso de estudio de “This American Life” {% i
 {% include box.html type="end" %}
 {:/}
 
-### Minimize Legal Risk
+### Minimizar el riesgo legal
 
 <img src="{{ "/content-images/wai-bcase/minimize-risk.svg" | relative_url }}" alt="" style="float: left; margin-right: 2rem; width: 30%; max-width: 220px">
 
@@ -255,52 +255,51 @@ Lea más información sobre el [caso de estudio de “This American Life” {% i
 {% include box.html type="start" class="simple right" %}
 {:/}
 
-A significant demonstration of the risk of ignoring accessibility requirements was the 2008 settlement by the National Federation of the Blind with Target retailers:[^20]
+Un ejemplo significante de los riesgos de ignorar la accesibilidad se encuentra en el acuerdo entre la Federación Nacional del Ciego y los grandes almacenes Target:[^20]
 
-- class damages of $6 million
-- plaintiff legal fees over $3 million
-- undisclosed defense legal fees
-- court oversight of website for several years
+- Daños de 6 millones de dólares
+- Costes judiciales del demandante superiores a los 3 millones de dólares
+- Costes judiciales de la defensa no revelados
+- Vigilancia del sitio web por parte del tribunal durante varios años
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-Consideration of the cost and risk of inaction is a critical aspect of
-any business case. As web use is woven into modern life all over the world, governments and regulators began to mandate laws and policies that strengthen the rights of people with disabilities to participate in online digital information and services. 
+Considerar el coste y el riesgo de la inacción es un aspecto crucial en cualquier caso de negocios. Puesto que el uso de la web está intrincado con la vida moderna en todo el mundo, los gobiernos y jueces han empezado a promulgar leyes y políticas que refuerzan los derechos de las personas con discapacidad para participar en la información digital y los servicios en línea. 
 
-One of the earliest examples of legal consequences to web accessibility was a complaint put to the Human Rights and Equal Opportunities Commission (HREOC) in 2000 about the inaccessibility of the website of the Sydney Olympics. The plaintiff, who was blind, claimed the site was a violation of the Commonwealth Disability Discrimination Act 1992.[^21] The 2001 decision in the Sydney Olympics suit[^22] raised awareness of the need to address accessibility in the emerging practice of web communication. 
+Uno de los primeros ejemplos de las consecuencias legales en materia de accesibilidad web se encuentra en la denuncia interpuesta ante la Comisión de Derechos Humanos e Igualdad de Oportunidades (HREOC por sus siglas en inglés) debido a la inaccesibilidad del sitio web de los Juegos Olímpicos de Sídney. El demandante, que era una persona ciega, exponía que el sitio violaba la Ley de Discriminación contra la Discapacidad de la Mancomunidad de Naciones de 1992.[^21] La resolución del pleito de los Juegos Olímpicos, en el año 2001[^22], aumentó la sensibilización sobre la necesidad de cumplir con la accesibilidad en la emergente práctica de la comunicación web.
 
-Over time, the legal risk increased with the adoption of more specific laws and policies in countries throughout the world.
+Con el tiempo, el riesgo legal ha aumentado debido a la adopción de leyes y normas más específicas en países de todo el mundo.
 
-- The Convention on the Rights of People with Disabilities (CRPD) is a comprehensive human rights document that includes a direct reference to the rights of all people to have equal access to communications technology. Passed by the General Assembly of the United Nations, more than 175 countries ratified it by 2018. 
+- La Convención sobre los Derechos de las Personas con Discapacidad (CDPD) es un amplio documento de derechos humanos que incluye una referencia directa a los derechos de toda la gente para acceder en igualdad de condiciones a las tecnologías de la comunicación. Fue aprobada por la Asamblea General de las Naciones Unidas y ya ha sido ratificada por más de 175 países en el año 2018. 
 
-- The European Commission adopted the European Accessibility Act, requiring ATMs and banking services, PCs, telephones and TV equipment, telephony and audiovisual services, transport, e-books, and e-commerce meet accessibility requirements.
+- La Comisión Europea ha adoptado la Directiva de Accesibilidad Europea, la cual exige se cumplan los requisitos de accesibilidad en cajeros y servicios bancarios, ordenadores, teléfonos y televisores, servicios de telefonía y audiovisuales, transporte, libros electrónicos y comercio electrónico.
 
-- In the US, the number of legal actions continues to rise and courts increasingly decide in favor of equal access[^23], often citing the Americans with Disabilities Act (ADA). Structured Negotiation is another way that legal pressure is effective, encouraging companies to meet accessibility requirements while avoiding litigation.[^24]
+- En los Estados Unidos, las acciones legales van en aumento y la justicia decide cada vez más a favor del acceso igualitario[^23], con frecuencia citando la Ley de Estadounidenses con Discapacidades (ADA por sus siglas en inglés). La negociación estructurada es otro método efectivo de presión legal, la cual conmina a las empresas a cumplir con los requisitos de accesibilidad para evitar demandas.[^24]
 
-In Norway where it is now illegal for commercial websites to fail to provide equivalent access for people with disabilities, the government fines commercial companies that do not comply.[^25] Austria has had customer protection regulation in place since 2006 requiring most public websites to meet accessibility standards. Customers that believe they have been discriminated against can take legal action. Parties meet in mediation before they are permitted to go to court. In the United States, by contrast, the regulation is less clear but legal action continues to accelerate.[^26] 
+En Noruega es ahora ilegal que los sitios web comerciales no proporcionen acceso igualitario a las personas con discapacidad y el gobierno multa a aquellas empresas que no cumplan con esto.[^25] En Austria cuentan con leyes de protección al consumidor que desde el año 2006 exigen que la mayoría de los sitios web públicos cumplan con los estándares de accesibilidad. Los consumidores que se sienten discriminados pueden tomar acciones legales. Las partes se reúnen para llegar a un acuerdo antes de que puedan acudir a los tribunales. En los Estados Unidos, en contraste, la regulación es menos clara pero la acción legal sigue acelerándose.[^26] 
 
-Between government oversight and regulation on the one hand, and increased legal action on the other, the legal landscape is rapidly changing in favor of equal access.
+Entre la vigilancia gubernamental y las normas en una mano y cada vez mayor acción legal en la otra, el paisaje está cambiando rápidamente a favor del acceso igualitario.
 
-**With legal risks increasing, smart businesses – particularly those with global activities – are creating accessibility policies and programs to mitigate risk to protect both their assets and their reputations.**
+**Con los riesgos legales aumentando, las empresas inteligentes, especialmente aquellas con actividades globales, están creando políticas de accesibilidad para mitigar el riesgo y proteger tanto sus beneficios como su reputación.**
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Case Study: ADA and Website Accessibility " class="" %}
+{% include box.html type="start" h="4" title="Caso de estudio: ADA y la accesibilidad web " class="" %}
 {:/}
 
-The blind plaintiff shopped at the local Winn-Dixie grocery store and pharmacy in person but was unable to access the website for information such as the store locator, coupons, store events, and specials. The historic suit was the first trial in the history of the ADA about the accessibility of a public accommodation’s website. 
+El demandante ciego compró personalmente en el supermercado Winn-Dixie local y en la farmacia, pero no fue capaz de acceder al sitio web para obtener información sobre la dirección de la tienda, descuentos, eventos y ofertas especiales. La histórica demanda fue el primer juicio en la historia de la Ley de Estadounidenses con Discapacidades (ADA) relacionado con la accesibilidad de un sitio web perteneciente a un espacio público. 
 
-Winn-Dixie asked the court to dismiss the suit based on their argument that a website is not a public accommodation covered by Title III of the ADA. The court decided otherwise, allowing the plaintiff to recover their attorney fees. The decision included the following conclusions by the court: 
+Winn-Dixie solicitó al tribunal que desestimara la demanda basándose en su argumento de que un sitio web no es un espacio público cubierto en el Título III de la ADA. El tribunal decidió lo contrario, permitiendo que el demandante recuperara los costes judiciales. La decisión del tribunal incluía las siguientes conclusiones: 
 
--   The link between the website and Winn-Dixie Stores was a circumstance that made Title III of the ADA, applicable to “Public Accommodations,” relevant in this situation.
--   The website must be made accessible to *“individuals with disabilities who use computers, laptops, tablets, and smartphones.”*
+-   La relación entre el sitio web y las tiendas de Winn-Dixie era una circunstancia que hacía que el Título III de la ADA, relativo “espacios públicos”, fuera relevante en esta situación.
+-   El sitio web debe ser accesible “para aquellas personas que usan ordenadores de sobremesa, portátiles, tabletas y teléfonos inteligentes”*
 
-The court required the chain of grocery stores to
+El tribunal conmino a la cadena de supermercados a:
 
--   adopt and post an explicit Accessibility Policy *“to ensure the persons with disabilities have full and equal enjoyment of its website and shall accompany the public policy statement with an accessible means of submitting accessibility questions and problems.”*
--   conduct annual accessibility training for IT and web staff, so they learn to create and maintain content that meets WCAG criteria.
--   make sure that any third-party applications or content posted to the Winn-Dixie site must also meet WCAG requirements.
+-   Adoptar y publicar una política de accesibilidad explícita “para asegurar que las personas con discapacidad puedan disfrutar del sitio web totalmente y en igualdad y deben acompañar la declaración de la política de accesibilidad con medios accesibles para presentar preguntas y problemas relacionados con la accesibilidad.”*
+-   Llevar a cabo formación anual relacionada con la accesibilidad destinada al equipo técnico, para que estén en condiciones de crear y mantener contenido que cumpla con los criterios WCAG.
+-   Asegurar que cualquier aplicación o contenido de terceras partes publicado por Winn-Dixie también cumpla con los requisitos WCAG.
 
 {::nomarkdown}
 {% include box.html type="end" %}
