@@ -313,16 +313,16 @@ La investigación en la experiencia de usuario y los casos de estudio confirman 
 
 La web se lleva usando públicamente desde hace más de 25 años. Ya no es una novedad, sino una herramienta integrada y vital en la vida moderna. A medida que las empresas incorporan el diseño accesible a sus procesos de desarrollo y adquisición, se va entendiendo la necesidad del acceso equitativo para todo el mundo. Los riesgos legales de ignorar la accesibilidad son importantes y los beneficios han sido demostrados por líderes como Apple, Barclays, NPR, IBM, Microsoft y cientos más. Los líderes empresariales y sus apoyos de influencia pueden causar un impacto social tremendo y obtener un próspero retorno de la inversión si siguen el camino del acceso equitativo. Más de un billón de personas con discapacidad en el mundo están dispuestas a interactuar como clientes, socios, empleados y participantes iguales en actividades cívicas y sociales. Al desarrollar un compromiso con la accesibilidad a largo plazo y al usar los recursos de la WAI para desarrollar políticas e implementar una estrategia para hacer efectivo ese compromiso, su negocio llegará a este mercado y es probable que tenga éxito en formas inesperadas y autosostenibles.
 
-## Resources
-This article was written after reading and exploring many external resources that shaped our understanding of the current landscape. We have provided links and notes about our research in this [Annotated Bibliography](/business-case/bibliography/).
+## Recursos
+Este artículo fue escrito tras leer e investigar muchos recursos externos que dieron forma a nuestra forma de entender el panorama actual. Proporcionamos enlaces y notas sobre nuestra investigación en esta [bibliografía comentada](/business-case/bibliography/).
 
-Also, the WAI website has an extensive library of useful support to help companies realize the benefits outlined in this article for integrating accessibility into their development, procurement, and general business practice. Listed below are a few of what we consider especially useful as you start your accessibility program.
+Además, el sitio web de la WAI cuenta con una amplia librería de apoyo útil para ayudar a las empresas a percatarse de los beneficios descritos en este artículo que suceden al integrar la accesibilidad en su desarrollo, aprovisionamiento y práctica empresarial en general. Abajo enumeramos algunos que consideramos especialmente útiles para iniciar su programa de accesibilidad.
 
-* [[Developing Organizational Accessibility Policies]](/planning/org-policies/): Start with a clear policy.
-* [[Planning and Managing Accessibility]](/planning-and-managing/): A guide for implementation.
-* [[Perspective Videos]](/perspective-videos/): Watch how accessibility impacts users.
+* [[Desarrollando políticas organizativas de accesibilidad]](/planning/org-policies/): Para empezar con políticas bien definidas.
+* [[Planificación y gestión de la accesibilidad]](/planning-and-managing/): Una guía para la implementación.
+* [[Perspectivas de la accesibilidad web: explore el impacto y los beneficios para todos]](/perspective-videos/): Vea cómo la accesibilidad afecta a los usuarios.
 
-These are suggested merely as a way to get started. We hope you will explore throughout the WAI site as you dive deeper into accessibility and begin to realize the related benefits for you and your organization.
+Esto solo son sugerencias para iniciarse. Esperamos que explore el sitio web de la WAI a medida que se adentra en la accesibilidad y comienza a darse cuenta de los beneficios relacionados para usted y su organización.
 
 [^1]: [_Disability as diversity in fortune 100 companies_](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629){:rel="nofollow"}. Ball, P., Monaco, G., Schmeling, J., Schartz, H., and Blanck, P.; Law, Health Policy and Disability Center (2005).
 
