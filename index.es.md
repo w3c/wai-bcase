@@ -1,23 +1,26 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "The Business Case for Digital Accessibility"
-nav_title: "Business Case"
+title: "El caso de negocio de la accesibilidad digital"
+nav_title: "Caso de negocio"
 
-lang: en
-last_updated: 2018-11-09
-permalink: /business-case/
+lang: es
+last_updated: 2019-08-07
+permalink: /business-case/es
+translators: 
+- name: "Carlos Muncharaz"
+  link: "http://www.muncharaz.eu/"
 
-description: The rationale for organizations to address accessibility. It includes tangible and intangible benefits, and the risks of not addressing accessibility adequately.
+description: Razones que tienen las organizaciones para cumplir con la accesibilidad. Incluye beneficios tangibles e intangibles, así como los riesgos de no cumplir con la accesibilidad adecuadamente.
 
 github:
   repository: w3c/wai-bcase
-  path: 'index.md'
+  path: 'index.es.md'
 
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Published 9 Nov 2018.</p>
-  <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. <a href="./acknowledgements/">Acknowledgements</a> lists additional contributors.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Fecha:</strong> Publicado el 9 de noviembre del 2018.</p>
+  <p><strong>Editora:</strong> Sharron Rush. Colaboradores: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. Colaboraciones adicionales se encuentran en la lista de <a href="./acknowledgements/">reconocimientos</a>.</p>
+  <p>Desarrollado por el Grupo de Trabajo de Educación y Difusión (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 inline_css: |
   .hero {
     display: flex;
@@ -45,21 +48,21 @@ ref: /business-case/
 </div>
 
 {::nomarkdown}
-{% include_cached box.html type="start" h="2" title="Summary" class="full" %}
+{% include_cached box.html type="start" h="2" title="Resumen" class="full" %}
 {:/}
 
-This article examines the rationale for organizations to address accessibility. It includes tangible and intangible benefits, and the risks of not addressing accessibility adequately. It explores how accessibility can:
+Este artículo examina las razones que tienen las organizaciones para cumplir con la accesibilidad. Incluye beneficios tangibles e intangibles, así como los riesgos de no cumplir con la accesibilidad adecuadamente. Explora cómo la accesibilidad puede:
 
--   <strong>Drive Innovation:</strong> Accessibility features in products and services often solve unanticipated problems.
--   <strong>Enhance Your Brand:</strong> Diversity and inclusion efforts so important to business success are accelerated with a clear, well-integrated accessibility commitment.  
--   <strong>Extend Market Reach:</strong> The global market of people with disabilities is over 1 billion people with a spending power of more than $6 trillion. Accessibility often improves the online experience for all users.
--   <strong>Minimize Legal Risk:</strong> Many countries have laws requiring digital accessibility, and the issue is of increased legal concern.
+-   <strong>Impulsar la innovación:</strong> Las características accesibles de productos y servicios solucionan problemas imprevistos con frecuencia.
+-   <strong>Mejorar la marca:</strong> Los esfuerzos en diversidad e inclusión que tan importantes son para el éxito de la empresa se ven acelerados cuando existe un compromiso claro y bien integrado con la accesibilidad.  
+-   <strong>Ampliar el alcance del mercado:</strong> El mercado global de personas con discapacidad incluye a más de un billón de personas que tienen una capacidad de gasto de más de 6 trillones de dólares. La accesibilidad con frecuencia mejora la experiencia para todos los usuarios.
+-   <strong>Minimizar el riesgo legal:</strong> Muchos países cuentan con leyes que exigen la accesibilidad web y se trata de una preocupación legal creciente.
 
-Note that "web accessibility" and "websites" throughout this article include web and mobile applications and other digital technologies.
+Advierta que los términos “accesibilidad web” y “sitios web” de este artículo también hacen referencia a las aplicaciones móviles y otras tecnologías digitales.
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
-{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
+{% include_cached toc.html type="start" title="Contenidos de la página" class="simple" %}
 {:/}
 
 {::options toc_levels="2,3" /}
