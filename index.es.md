@@ -1,8 +1,8 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "El caso de negocio de la accesibilidad digital"
-nav_title: "Caso de negocio"
+title: "El caso de negocios de la accesibilidad digital"
+nav_title: "Caso de negocios"
 
 lang: es
 last_updated: 2019-08-07
@@ -74,13 +74,13 @@ Advierta que los términos “accesibilidad web” y “sitios web” de este ar
 {% include_cached toc.html type="end" %}
 {:/}
 
-## ¿Existe un caso de negocio para la accesibilidad? 
+## ¿Existe un caso de negocios para la accesibilidad? 
 
 <img src="{{ "/content-images/wai-bcase/business-case.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-Un caso de negocio es una herramienta necesaria para las organizaciones cuando tienen que planificar iniciativas. Ya sea una organización comercial, educativa, sin ánimo de lucro o gubernamental, lo cierto es que todas necesitan justificar los recursos, como dinero o esfuerzo, que se destinan a una política o meta empresarial específica. En este artículo, la palabra “negocio” hace referencia a todo tipo de organizaciones, comprendiendo que los aspectos relevantes serán diferentes dependiendo del objetivo y propósito de la organización. Por ejemplo, las agencias gubernamentales estarán principalmente motivadas por los aspectos legales y de equidad. Los negocios comerciales estarán más persuadidos por las oportunidades de innovación y de expansión del mercado. Los proyectos educativos y sin ánimo de lucro podrían estar atraídos por la mejora en la imagen de marca.
+Un caso de negocios es una herramienta necesaria para las organizaciones cuando tienen que planificar iniciativas. Ya sea una organización comercial, educativa, sin ánimo de lucro o gubernamental, lo cierto es que todas necesitan justificar los recursos, como dinero o esfuerzo, que se destinan a una política o meta empresarial específica. En este artículo, la palabra “negocio” hace referencia a todo tipo de organizaciones, comprendiendo que los aspectos relevantes serán diferentes dependiendo del objetivo y propósito de la organización. Por ejemplo, las agencias gubernamentales estarán principalmente motivadas por los aspectos legales y de equidad. Los negocios comerciales estarán más persuadidos por las oportunidades de innovación y de expansión del mercado. Los proyectos educativos y sin ánimo de lucro podrían estar atraídos por la mejora en la imagen de marca.
 
-Para crear un caso de negocio convincente, es importante resaltar los beneficios de la accesibilidad más relevantes en su entorno operativo específico. Existen beneficios tangibles e intangibles para aquellos negocios que dedican recursos a la accesibilidad digital. Un argumento frecuente en contra del caso de negocio de la accesibilidad es que el retorno de la inversión (ROI) directo es muy difícil de conmensurar. El retorno de la inversión es importante, por supuesto, pero de ninguna manera es el único método para medir cómo el compromiso con la accesibilidad beneficia a organizaciones de todo tipo. Un buen caso de negocio también presenta los costes y riesgos de la inacción. Lo más probable es que su negocio responda a una mezcla de factores motivantes al considerar la implementación de un programa de integración de la accesibilidad. Este artículo ofrece investigación y ejemplos para inspirar confianza entre líderes y responsables de tomar decisiones de que la inversión continua en accesibilidad es buena para su negocio.
+Para crear un caso de negocios convincente, es importante resaltar los beneficios de la accesibilidad más relevantes en su entorno operativo específico. Existen beneficios tangibles e intangibles para aquellos negocios que dedican recursos a la accesibilidad digital. Un argumento frecuente en contra del caso de negocios de la accesibilidad es que el retorno de la inversión (ROI) directo es muy difícil de conmensurar. El retorno de la inversión es importante, por supuesto, pero de ninguna manera es el único método para medir cómo el compromiso con la accesibilidad beneficia a organizaciones de todo tipo. Un buen caso de negocios también presenta los costes y riesgos de la inacción. Lo más probable es que su negocio responda a una mezcla de factores motivantes al considerar la implementación de un programa de integración de la accesibilidad. Este artículo ofrece investigación y ejemplos para inspirar confianza entre líderes y responsables de tomar decisiones de que la inversión continua en accesibilidad es buena para su negocio.
 
 **Los negocios que integran la accesibilidad tienen más probabilidades de ser empresas innovadoras e inclusivas que llegan a más gente con una imagen de marca positiva y que cumplen con los requisitos legales emergentes.**
 
@@ -88,7 +88,7 @@ Una investigación entre empresas del Fortune 100 indica que la inclusión de la
 
 Cuando la accesibilidad forma parte de la planificación estratégica, los negocios están mejor equipados para triunfar en nuestro mundo conectado de comercio, educación y compromiso civil.
 
-Echemos un vistazo a algunos ejemplos y resultados de investigaciones que le ayudarán a crear el caso de negocio más efectivo en su entorno.
+Echemos un vistazo a algunos ejemplos y resultados de investigaciones que le ayudarán a crear el caso de negocios más efectivo en su entorno.
 
 ## La accesibilidad es buena para los negocios
 
@@ -204,7 +204,7 @@ Otro ejemplo bien conocido de los efectos en la marca se encuentra en Microsoft.
 
 <img src="{{ "/content-images/wai-bcase/market-reach.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-El mercado de las personas con discapacidad es grande y está creciendo debido al envejecimiento global de la población. En el Reino Unido, donde el mercado de personas con discapacidad es conocido como la “Libra púrpura”, las personas con discapacidad y sus familias gastan al menos 249 billones de libras cada año. En los Estados Unidos, el gasto anual a discreción de las personas con discapacidad supera los 200 billones de dólares. La estimación global para el mercado de la discapacidad se acerca a los 7 trillones de dólares. Considere los siguientes hechos a la hora de estimar el tamaño del mercado:
+El mercado de las personas con discapacidad es grande y está creciendo debido al envejecimiento global de la población. En el Reino Unido, donde el mercado de personas con discapacidad es conocido como la “libra púrpura”, las personas con discapacidad y sus familias gastan al menos 249 billones de libras cada año. En los Estados Unidos, el gasto anual a discreción de las personas con discapacidad supera los 200 billones de dólares. La estimación global para el mercado de la discapacidad se acerca a los 7 trillones de dólares. Considere los siguientes hechos a la hora de estimar el tamaño del mercado:
 
 -   Al menos un billón de personas – 15% de la población mundial – tiene una discapacidad reconocida. [^15]
 -   A medida que la población envejece, muchos más adquieren alguna discapacidad, pero no se reconocen como “persona con discapacidad.” [^16]
