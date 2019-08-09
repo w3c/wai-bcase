@@ -51,11 +51,11 @@ ref: /business-case/
 {% include_cached box.html type="start" h="2" title="Resumen" class="full" %}
 {:/}
 
-Este artículo examina las razones que tienen las organizaciones para cumplir con la accesibilidad. Incluye beneficios tangibles e intangibles, así como los riesgos de no cumplir con la accesibilidad adecuadamente. Explora cómo la accesibilidad puede:
+Este artículo examina las razones que tienen las organizaciones para cumplir con la accesibilidad. Comprende beneficios tangibles e intangibles, así como los riesgos de no cumplir con la accesibilidad adecuadamente. Explora cómo la accesibilidad puede:
 
 -   <strong>Impulsar la innovación:</strong> Las características accesibles de productos y servicios solucionan problemas imprevistos con frecuencia.
--   <strong>Mejorar la marca:</strong> Los esfuerzos en diversidad e inclusión que tan importantes son para el éxito de la empresa se ven acelerados cuando existe un compromiso claro y bien integrado con la accesibilidad.  
--   <strong>Ampliar el alcance del mercado:</strong> El mercado global de personas con discapacidad incluye a más de un billón de personas que tienen una capacidad de gasto de más de 6 trillones de dólares. La accesibilidad con frecuencia mejora la experiencia para todos los usuarios.
+-   <strong>Mejorar la marca:</strong> Los esfuerzos en diversidad e inclusión que tan importantes son para el éxito de una empresa se ven impulsados cuando existe un compromiso claro y bien integrado con la accesibilidad.  
+-   <strong>Ampliar el alcance del mercado:</strong> El mercado global de personas con discapacidad incluye a más de un billón de personas que tienen un poder adquisitivo de más de 6 trillones de dólares. Además, la accesibilidad mejora la experiencia para todos los usuarios.
 -   <strong>Minimizar el riesgo legal:</strong> Muchos países cuentan con leyes que exigen la accesibilidad web y se trata de una preocupación legal creciente.
 
 Advierta que los términos “accesibilidad web” y “sitios web” de este artículo también hacen referencia a las aplicaciones móviles y otras tecnologías digitales.
@@ -78,9 +78,9 @@ Advierta que los términos “accesibilidad web” y “sitios web” de este ar
 
 <img src="{{ "/content-images/wai-bcase/business-case.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-Un caso de negocio es una herramienta necesaria para las organizaciones cuando tienen que planificar iniciativas. Ya sea una organización comercial, educativa, sin ánimo de lucro o gubernamental, lo cierto es que todas necesitan justificar recursos como dinero o esfuerzo destinados a una política o meta empresarial específica. En este artículo, la palabra “negocio” hace referencia a todo tipo de organizaciones, comprendiendo que los aspectos relevantes serán diferentes dependiendo del objetivo y propósito de la organización. Por ejemplo, las agencias gubernamentales estarán principalmente motivadas por los aspectos legales y de equidad. Los negocios comerciales estarán más persuadidos por las oportunidades de innovación y de expansión del mercado. Los proyectos educativos y sin ánimo de lucro podrían estar atraídos por la mejora en la imagen de marca.
+Un caso de negocio es una herramienta necesaria para las organizaciones cuando tienen que planificar iniciativas. Ya sea una organización comercial, educativa, sin ánimo de lucro o gubernamental, lo cierto es que todas necesitan justificar los recursos, como dinero o esfuerzo, que se destinan a una política o meta empresarial específica. En este artículo, la palabra “negocio” hace referencia a todo tipo de organizaciones, comprendiendo que los aspectos relevantes serán diferentes dependiendo del objetivo y propósito de la organización. Por ejemplo, las agencias gubernamentales estarán principalmente motivadas por los aspectos legales y de equidad. Los negocios comerciales estarán más persuadidos por las oportunidades de innovación y de expansión del mercado. Los proyectos educativos y sin ánimo de lucro podrían estar atraídos por la mejora en la imagen de marca.
 
-Para crear un caso de negocio convincente, es importante resaltar los beneficios de la accesibilidad más relevantes en su entorno operativo específico. Existen beneficios tangibles e intangibles para aquellos negocios que dedican recursos a la accesibilidad digital. Un argumento frecuente en contra del caso de negocio de la accesibilidad es que el retorno de la inversión (ROI) directo es muy difícil de conmensurar. El retorno de la inversión es importante, por supuesto, pero de ninguna manera es el único método para medir cómo el compromiso con la accesibilidad beneficia a organizaciones de todo tipo. Un buen caso de negocio también presenta los costes y riesgos de la inacción. Lo más probable es que su negocio responda a una mezcla de factores motivantes según se considera implementar un programa de accesibilidad integrado. Este artículo proporciona investigación y ejemplos para inspirar confianza entre líderes y responsables de tomar decisiones de que la inversión continua en accesibilidad es buena para su negocio.
+Para crear un caso de negocio convincente, es importante resaltar los beneficios de la accesibilidad más relevantes en su entorno operativo específico. Existen beneficios tangibles e intangibles para aquellos negocios que dedican recursos a la accesibilidad digital. Un argumento frecuente en contra del caso de negocio de la accesibilidad es que el retorno de la inversión (ROI) directo es muy difícil de conmensurar. El retorno de la inversión es importante, por supuesto, pero de ninguna manera es el único método para medir cómo el compromiso con la accesibilidad beneficia a organizaciones de todo tipo. Un buen caso de negocio también presenta los costes y riesgos de la inacción. Lo más probable es que su negocio responda a una mezcla de factores motivantes al considerar la implementación de un programa de integración de la accesibilidad. Este artículo ofrece investigación y ejemplos para inspirar confianza entre líderes y responsables de tomar decisiones de que la inversión continua en accesibilidad es buena para su negocio.
 
 **Los negocios que integran la accesibilidad tienen más probabilidades de ser empresas innovadoras e inclusivas que llegan a más gente con una imagen de marca positiva y que cumplen con los requisitos legales emergentes.**
 
@@ -97,15 +97,15 @@ Echemos un vistazo a algunos ejemplos y resultados de investigaciones que le ayu
   <cite>Paul Smyth, Jefe de accesibilidad digital en Barclays</cite>
 </blockquote>
 
-Las secciones de abajo exploran ventajas clave de la accesibilidad web para negocios de todo tipo. Se ofrecen ejemplos reales para mostrar cuáles son los beneficios en un mercado global.
+Las siguientes secciones exploran ventajas clave de la accesibilidad web para negocios de todo tipo. Se ofrecen ejemplos reales para mostrar cuáles son los beneficios en un mercado global.
 
-### Impulso a la innovación
+### Impulsar la innovación
 
 <img src="{{ "/content-images/wai-bcase/innovation.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
 La integración de la accesibilidad elimina barreras arquitectónicas, digitales y sociales que pueden ser un obstáculo para la innovación[^2]. Ejemplos:
 
--   El diseño accesible, cuando es considerado, proporciona flexibilidad y variedad a los usuarios para interactuar con sitios y aplicaciones web, con opciones que son útiles para las personas con o sin discapacidad.
+-   El diseño accesible, cuando se considera, proporciona flexibilidad y variedad a los usuarios para interactuar con sitios y aplicaciones web, con opciones que son útiles para las personas con o sin discapacidad.
 
 -   Cuando la accesibilidad se tiene en consideración, el diseño de la interacción del usuario se centra en las experiencias en lugar de en las pantallas. El resultado es una interacción más humana, natural y contextual. 
 
@@ -119,7 +119,7 @@ La integración de la accesibilidad elimina barreras arquitectónicas, digitales
 
 El diseño accesible es flexible por naturaleza, permitiendo que el contenido sea fielmente presentado a través de un espectro amplio de dispositivos, plataformas, tecnologías de apoyo y sistemas operativos. En el entorno físico, todo el mundo se beneficia con los bordillos bajos, puertas de apertura automática, rampas y otras características para dar acceso a la discapacidad. En la web, las características de accesibilidad se convierten en opciones que también, con frecuencia, se usan ampliamente.
 
-Un ejemplo interesante se encuentra a principio de los años 2000, cuando cada vez más gente usaba dispositivos móviles para navegar por la web. Los sitios web accesibles y conforme a los estándares fueron, en muchas ocasiones, los que estuvieron mejor preparados para los móviles, pues no dependían del ratón. ¡Imagine cuál fue la alegría de quienes entonces ya se habían comprometido y diseñado teniendo en cuenta la accesibilidad! Esta revelación llevó a la tendencia del diseño web multidispositivo, el cual tiene la accesibilidad en su corazón.[^5] 
+Un ejemplo interesante se encuentra a principio de los años 2000, cuando cada vez más gente usaba dispositivos móviles para navegar por la web. Los sitios web accesibles y conformados según los estándares fueron, en muchas ocasiones, los que estuvieron mejor preparados para los móviles, pues no dependían del ratón. ¡Imagine cuál fue la alegría de quienes entonces ya se habían comprometido y diseñado teniendo en cuenta la accesibilidad! Esta revelación llevó a la tendencia del diseño web multidispositivo, el cual tiene la accesibilidad en su corazón.[^5] 
 
 Los siguientes casos de estudio de dos grandes empresas tecnológicas ofrecen ejemplos útiles para empresas de todos los tamaños.
 
@@ -154,7 +154,7 @@ Las innovaciones en las interacciones de voz por parte de Apple y otros han cont
   <p>Los problemas de accesibilidad de hoy son los avances principales de mañana.</p>
   <cite>Eve Andersson, Directora, Ingeniera de Accesibilidad, Google</cite>
 </blockquote>
-Un artículo del año 2016 en la revista en línea FastCompany[^8] resalta cómo la inversión de Google en accesibilidad le proporciona a la empresa una ventaja innovadora en una gran gama de productos y servicios. Eve Andersson, la ingeniera principal y que aparece en el artículo, dice “estoy entusiasmada con la accesibilidad, no solo porque creo que hay que dar lo mejor, sino también porque hace la vida más amena para todos”. Entre las innovaciones citadas como ejemplos, se encuentran las siguientes:
+Un artículo del año 2016 en la revista en línea FastCompany[^8] destaca cómo la inversión de Google en accesibilidad le proporciona a la empresa una ventaja innovadora en una gran gama de productos y servicios. Eve Andersson, la ingeniera principal y que aparece en el artículo, dice “estoy entusiasmada con la accesibilidad, no solo porque creo que hay que dar lo mejor, sino también porque hace la vida más amena para todos”. Entre las innovaciones citadas como ejemplos, se encuentran las siguientes:
 
 -   Los mínimos en contraste, necesarios para las personas con baja visión, ayuda a todas las personas en situaciones con reflejos brillantes.
 -   El autocompletado, en principio ofrecido para las personas con discapacidad, es ahora usado ampliamente por todos.
@@ -166,7 +166,7 @@ Un artículo del año 2016 en la revista en línea FastCompany[^8] resalta cómo
 {% include box.html type="end" %}
 {:/}
 
-### Mejora la marca
+### Mejorar la marca
 
 <img src="{{ "/content-images/wai-bcase/brand.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
@@ -196,11 +196,11 @@ Para que todo el mundo pueda entender la mentalidad accesible de Barclays, hemos
 {% include box.html type="end" %}
 {:/}
 
-Barclay demuestra cómo un compromiso fuerte con la accesibilidad resulta en responsabilidad distribuida y comprensión compartida. La sensibilización sobre la accesibilidad se infiltra en la cultura de la empresa. La empresa es percibida como justa y abierta. La gente está contenta de trabajar allí y de hacer negocios con Barclays. Lea el [caso de estudio de Barclays en toda su extensión](https://www.w3.org/community/wai-engage/wiki/Barclays_Bank_Case_Study) para conocerlo mejor.
+Barclay demuestra cómo un compromiso sólido con la accesibilidad resulta en responsabilidad distribuida y comprensión compartida. La sensibilización sobre la accesibilidad se infiltra en la cultura de la empresa. La empresa es percibida como justa y abierta. La gente está contenta de trabajar allí y de hacer negocios con Barclays. Lea el [caso de estudio de Barclays en toda su extensión](https://www.w3.org/community/wai-engage/wiki/Barclays_Bank_Case_Study) para conocerlo mejor.
 
-Otro ejemplo bien conocido de cómo afecta a la marca se encuentra en Microsoft. Después de mucha presión y críticas por parte de defensores de la accesibilidad [^11], Microsoft finalmente inició un compromiso con la accesibilidad real y apreciable, demostrado por su involucración genuina con partes interesadas con todo tipo de capacidades.[^12] Las mejoras resultantes en los productos y servicios han fortalecido su imagen de marca en general [^13], y sus esfuerzos de accesibilidad son alabados en la comunidad de personas con discapacidad.[^14]
+Otro ejemplo bien conocido de los efectos en la marca se encuentra en Microsoft. Después de mucha presión y críticas por parte de defensores de la accesibilidad [^11], Microsoft finalmente inició un compromiso con la accesibilidad real y apreciable, demostrado por su involucración genuina con partes interesadas con todo tipo de capacidades.[^12] Las mejoras resultantes en los productos y servicios han fortalecido su imagen de marca en general [^13], y sus esfuerzos de accesibilidad son alabados en la comunidad de personas con discapacidad.[^14]
 
-### Incrementar el alcance del mercado
+### Ampliar el alcance del mercado
 
 <img src="{{ "/content-images/wai-bcase/market-reach.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
@@ -314,10 +314,10 @@ La investigación en la experiencia de usuario y los casos de estudio confirman 
 
 ## Conclusión
 
-La web se lleva usando públicamente desde hace más de 25 años. Ya no es una novedad, sino una herramienta integrada y vital en la vida moderna. A medida que las empresas incorporan el diseño accesible a sus procesos de desarrollo y adquisición, se va entendiendo la necesidad del acceso equitativo para todo el mundo. Los riesgos legales de ignorar la accesibilidad son importantes y los beneficios han sido demostrados por líderes como Apple, Barclays, NPR, IBM, Microsoft y cientos más. Los líderes empresariales y sus apoyos de influencia pueden causar un impacto social tremendo y obtener un próspero retorno de la inversión si siguen el camino del acceso equitativo. Más de un billón de personas con discapacidad en el mundo están dispuestas a interactuar como clientes, socios, empleados y participantes iguales en actividades cívicas y sociales. Al desarrollar un compromiso con la accesibilidad a largo plazo y al usar los recursos de la WAI para desarrollar políticas e implementar una estrategia para hacer efectivo ese compromiso, su negocio llegará a este mercado y es probable que tenga éxito en formas inesperadas y autosostenibles.
+La web se usa públicamente desde hace más de 25 años. Ya no es una novedad, sino una herramienta integrada y vital en la vida moderna. A medida que las empresas incorporan el diseño accesible en sus procesos de desarrollo y adquisición, se entiende la necesidad del acceso igualitario para todo el mundo. Los riesgos legales de ignorar la accesibilidad son importantes y los beneficios han sido demostrados por líderes como Apple, Barclays, NPR, IBM, Microsoft y cientos más. Los líderes empresariales y socios influyentes pueden causar un impacto social tremendo, a la vez que obtener un próspero retorno de la inversión, si siguen el camino del acceso igualitario. Más de un billón de personas con discapacidad en el mundo están dispuestas a interactuar como clientes, socios, empleados y participantes iguales en actividades cívicas y sociales. Al desarrollar un compromiso con la accesibilidad a largo plazo y al usar los recursos de la WAI para desarrollar políticas e implementar una estrategia para hacer efectivo ese compromiso, su negocio llegará a este mercado y es probable que tenga éxito en formas inesperadas y autosostenibles.
 
 ## Recursos
-Este artículo fue escrito tras leer e investigar muchos recursos externos que dieron forma a nuestra forma de entender el panorama actual. Proporcionamos enlaces y notas sobre nuestra investigación en esta [bibliografía comentada](/business-case/bibliography/).
+Este artículo fue escrito tras leer e investigar varios recursos externos que dieron forma a nuestra forma de entender el panorama actual. Proporcionamos enlaces y notas sobre nuestra investigación en esta [bibliografía comentada](/business-case/bibliography/).
 
 Además, el sitio web de la WAI cuenta con una amplia librería de apoyo útil para ayudar a las empresas a percatarse de los beneficios descritos en este artículo que suceden al integrar la accesibilidad en su desarrollo, aprovisionamiento y práctica empresarial en general. Abajo enumeramos algunos que consideramos especialmente útiles para iniciar su programa de accesibilidad.
 
