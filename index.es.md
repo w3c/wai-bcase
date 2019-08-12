@@ -190,7 +190,7 @@ Queremos promover la tecnología inclusiva a fin de permitir y capacitar a todo 
 
 Cuando dejamos de pensar en los requisitos legales mínimos para centrarlos en las oportunidades comerciales y el desafío creativo de construir mejores experiencias para todos, es cuando creamos una aproximación a la información y servicios digitales más sostenible y orientada al cliente. 
 
-Para que todo el mundo pueda entender la mentalidad accesible de Barclays, hemos creado una serie de animaciones que sirven para que nuestros compañeros sepan qué es la accesibilidad, a quién beneficia y cuáles son las diferentes discapacidades. Hemos compartido estas animaciones en nuestra [lista de YouTube Accessible Banking {% include_cached external.html %}](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy).
+Para que todo el mundo pueda entender la mentalidad accesible de Barclays, hemos creado una serie de animaciones que sirven para que nuestros compañeros sepan qué es la accesibilidad, a quién beneficia y cuáles son las diferentes discapacidades. Hemos compartido estas animaciones en nuestra [lista de YouTube Accessible Banking {% include_cached external.html %}](https://www.youtube.com/playlist?list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy).
 
 {::nomarkdown}
 {% include box.html type="end" %}
