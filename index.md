@@ -210,7 +210,7 @@ We want to leverage inclusive technology to enable and empower all people to ban
 
 When we shift our thinking away from the minimum legal compliance to focus instead on the commercial opportunity and the creative challenge of building better experiences for everyone, we create a more sustainable, customer orientated approach to digital information and services. 
 
-To help everyone understand Barclays accessibility-focused mindset, we've created a range of animations which help our colleagues understand what accessibility is all about, who benefits, and what the different types of impairments are. We've also shared these animations on our [Accessible Banking YouTube playlist {% include_cached external.html %}](https://www.youtube.com/watch?v=75qKCi59E1U&amp=&list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy).
+To help everyone understand Barclays accessibility-focused mindset, we've created a range of animations which help our colleagues understand what accessibility is all about, who benefits, and what the different types of impairments are. We've also shared these animations on our [Accessible Banking YouTube playlist {% include_cached external.html %}](https://www.youtube.com/playlist?list=PLecqH2uhOR0Zb31X7hh5BzWJv4KGLnuUy).
 
 {::nomarkdown}
 {% include box.html type="end" %}
