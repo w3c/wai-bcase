@@ -214,7 +214,7 @@ El mercado de las personas con discapacidad es grande y está creciendo debido a
 Una investigación de impacto económico de Forrester, encargada por Microsoft, concluyó que la accesibilidad podría ayudar a reducir costes cuando se integra en ciclos de desarrollo existentes. [^19] Las actualizaciones y los rediseños tecnológicos que incluyen la accesibilidad junto con otras buenas prácticas han demostrado reducir los costes de mantenimiento y servicio. Además, según Microsoft, a medida que se incluyen medidas de accesibilidad la satisfacción general del cliente mejora. 
 
 <blockquote class="pull">
-  <p>El diseño de software inclusivo resulta en una usabilidad mejorada y satisfacción de cliente.</p>
+  <p>El diseño de software inclusivo resulta en una usabilidad mejorada y satisfacción del cliente.</p>
   <cite>Guía de desarrollo de aplicaciones de Microsoft</cite>
 </blockquote>
 
@@ -317,7 +317,7 @@ La investigación en la experiencia de usuario y los casos de estudio confirman 
 La web se usa públicamente desde hace más de 25 años. Ya no es una novedad, sino una herramienta integrada y vital en la vida moderna. A medida que las empresas incorporan el diseño accesible en sus procesos de desarrollo y adquisición, se entiende la necesidad del acceso igualitario para todo el mundo. Los riesgos legales de ignorar la accesibilidad son importantes y los beneficios han sido demostrados por líderes como Apple, Barclays, NPR, IBM, Microsoft y cientos más. Los líderes empresariales y socios influyentes pueden causar un impacto social tremendo, a la vez que obtener un próspero retorno de la inversión, si siguen el camino del acceso igualitario. Más de un billón de personas con discapacidad en el mundo están dispuestas a interactuar como clientes, socios, empleados y participantes iguales en actividades cívicas y sociales. Al desarrollar un compromiso con la accesibilidad a largo plazo y al usar los recursos de la WAI para desarrollar políticas e implementar una estrategia para hacer efectivo ese compromiso, su negocio llegará a este mercado y es probable que tenga éxito en formas inesperadas y autosostenibles.
 
 ## Recursos
-Este artículo fue escrito tras leer e investigar varios recursos externos que dieron forma a nuestra forma de entender el panorama actual. Proporcionamos enlaces y notas sobre nuestra investigación en esta [bibliografía comentada](/business-case/bibliography/).
+Este artículo fue escrito tras leer e investigar muchos recursos externos que dieron forma a nuestra forma de entender el panorama actual. Proporcionamos enlaces y notas sobre nuestra investigación en esta [bibliografía comentada](/business-case/bibliography/).
 
 Además, el sitio web de la WAI cuenta con una amplia librería de apoyo útil para ayudar a las empresas a percatarse de los beneficios descritos en este artículo que suceden al integrar la accesibilidad en su desarrollo, aprovisionamiento y práctica empresarial en general. Abajo enumeramos algunos que consideramos especialmente útiles para iniciar su programa de accesibilidad.
 
