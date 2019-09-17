@@ -5,6 +5,7 @@ lang: fr
 ref: /business-case/
 description: Présente les bonnes raisons qu'aura une organisation d’intégrer l’accessibilité. Inclut des bénéfices tangibles et intangibles, ainsi que les risques qu’on prend en ne traitant pas l’accessibilité de façon adéquate.
 image: /content-images/wai-bcase/social.png
+last_updated: 2019-09-15
 github:
   repository: w3c/wai-bcase
   path: 'index.fr.md'
