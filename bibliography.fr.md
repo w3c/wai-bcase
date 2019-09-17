@@ -6,7 +6,7 @@ permalink: /business-case/bibliography/fr
 ref: /business-case/bibliography/
 description: Ressources utilisées pour rédiger « Bénéfices business de l’accessibilité numérique »
 image: /content-images/wai-bcase/social.png
-layout: default
+last_updated: 2019-09-15
 github:
   repository: w3c/wai-bcase
   path: 'bibliography.fr.md'
