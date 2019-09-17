@@ -3,6 +3,7 @@ title: "Bénéfices business de l’accessibilité numérique : bibliographie a
 title_html: "Bénéfices business de l’accessibilité numérique :<br>bibliographie annotée"
 lang: fr
 permalink: /business-case/bibliography/fr
+ref: /business-case/bibliography/
 description: Ressources utilisées pour rédiger « Bénéfices business de l’accessibilité numérique »
 image: /content-images/wai-bcase/social.png
 layout: default
