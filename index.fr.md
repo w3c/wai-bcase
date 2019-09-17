@@ -313,7 +313,9 @@ De plus, le site de la <abbr>WAI</abbr> fournit un ensemble de documents utiles 
 
 Ce ne sont que des suggestions de lecture pour démarrer. Nous espérons que vous parcourrez tous le site de la <abbr>WAI</abbr> tandis que vous plongerez plus avant dans l’accessibilité et que vous commencerez à mesurer concrètement ses bénéfices pour vous et votre organisation.
 
+{::nomarkdown}
 <div lang="en">
+{:/}
 
 [^1]: [_Disability as diversity in fortune 100 companies_](https://onlinelibrary.wiley.com/doi/abs/10.1002/bsl.629){:rel="nofollow"}{: hreflang="en"}. Ball, P., Monaco, G., Schmeling, J., Schartz, H., and Blanck, P.; Law, Health Policy and Disability Center (2005).
 
@@ -367,4 +369,6 @@ Ce ne sont que des suggestions de lecture pour démarrer. Nous espérons que vou
 
 [^26]: [*“Absence of U.S. Regulation Leads to Web Accessibility Lawsuits”*](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits){:rel="nofollow"}{: hreflang="en"}. Roggio, A.; Practical Ecommerce (2015).
 
+{::nomarkdown}
 </div>
+{:/}
