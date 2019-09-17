@@ -1,8 +1,8 @@
 ---
 title: "Bénéfices business de l’accessibilité numérique"
-permalink: /teach-advocate/business-case/fr
+permalink: /business-case/fr
 lang: fr
-ref: /teach-advocate/business-case/
+ref: /business-case/
 description: Présente les bonnes raisons qu'aura une organisation d’intégrer l’accessibilité. Inclut des bénéfices tangibles et intangibles, ainsi que les risques qu’on prend en ne traitant pas l’accessibilité de façon adéquate.
 image: /content-images/wai-bcase/social.png
 github:
