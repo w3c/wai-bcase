@@ -8,7 +8,7 @@ image: /content-images/wai-bcase/social.png
 last_updated: 2019-09-15
 github:
   repository: w3c/wai-bcase
-  path: 'index.fr.md'
+  path: 'content/index.fr.md'
 footer: > # Text in footer in HTML
   <p><strong>Date&#8239;:</strong> <strong>Publié le 9 novembre 2018.</strong></p>
   <p><strong>Date de cette traduction&#8239;:</strong> @@</p>

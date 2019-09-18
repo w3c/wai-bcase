@@ -15,7 +15,7 @@ description: Razones que tienen las organizaciones para cumplir con la accesibil
 
 github:
   repository: w3c/wai-bcase
-  path: 'index.es.md'
+  path: 'content/index.es.md'
 
 footer: > # Text in footer in HTML
   <p><strong>Fecha:</strong> Publicado el 9 de noviembre del 2018.</p>

@@ -12,7 +12,7 @@ description: The rationale for organizations to address accessibility. It includ
 
 github:
   repository: w3c/wai-bcase
-  path: 'index.md'
+  path: 'content/index.md'
 
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Published 9 Nov 2018.</p>

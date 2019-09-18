@@ -7,7 +7,7 @@ lang: en
 layout: default
 github:
   repository: w3c/wai-bcase
-  path: 'acknowledgements.md'
+  path: 'content/acknowledgements.md'
 footer: > # Text in footer in HTML
 ---
 
