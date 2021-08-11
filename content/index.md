@@ -412,3 +412,4 @@ These are suggested merely as a way to get started. We hope you will explore thr
 [^25]: [*It's Illegal to Have an Inaccessible Website in Norway - and That's Good News for All of Us*](https://medium.com/confrere/its-illegal-to-have-an-inaccessible-website-in-norway-and-that-s-good-news-for-all-of-us-b59a9e929d54){:rel="nofollow"}. Aalen, I.; Confrere/Medium (2018).
 
 [^26]: [*“Absence of U.S. Regulation Leads to Web Accessibility Lawsuits”*](https://www.practicalecommerce.com/Absence-of-U-S-Regulation-Leads-to-Web-Accessibility-Lawsuits){:rel="nofollow"}. Roggio, A.; Practical Ecommerce (2015).
+
