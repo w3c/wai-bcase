@@ -21,7 +21,7 @@ footer: > # Text in footer in HTML
 {::nomarkdown}
 {% include_cached box.html type="start" h="2" title="Résumé" class="full" %}
 {:/}
-Pour préparer un « business case » pertinent pour le XXIème siècle, nous nous sommes appuyés sur des recherches universitaires, des études subventionnées, des contenus éditoriaux, l’histoire documentée, des anecdotes, et des études de cas fournis par les entreprises elles-mêmes. La bibliographie ci-dessous inclut une description courte de la ressource en référence.
+Pour préparer un « business case » pertinent pour le XXI<sup>e</sup> siècle, nous nous sommes appuyés sur des recherches universitaires, des études subventionnées, des contenus éditoriaux, l’histoire documentée, des anecdotes, et des études de cas fournis par les entreprises elles-mêmes. La bibliographie ci-dessous inclut une description courte de la ressource en référence.
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
