@@ -144,7 +144,7 @@ Un article de 2016 paru dans le magazine en ligne de FastCompany[^8] souligne co
 - L’auto-complétion, au départ conçue pour les personnes handicapées, est maintenant très largement utilisée par tous.
 - Le contrôle vocal, créé pour les utilisateurs atteints d’un handicap physique, est plus largement adopté maintenant pour sa praticité par des millions de gens.
 - Les progrès dans l’intelligence artificielle sont basés sur des recherches destinées à l’origine à donner du contexte visuel à des utilisateurs déficients visuels.
-- Le sous-titrage automatique utilisant le <i lang="en">machine learning</i> (l’intelligence artificielle) est encore problématique pour sa cible principale (les utilisateurs sourds) et nombreux pensent qu’il n’est pas au niveau. Cependant le travail continue et le <i lang="en">machine learning</i> lui-même s’améliore régulièrement, et trouve de nouvelles applications grâce à cet effort.
+- Le sous-titrage automatique utilisant l’apprentissage automatique (l’intelligence artificielle) est encore problématique pour sa cible principale (les utilisateurs sourds) et nombreux pensent qu’il n’est pas au niveau. Cependant le travail continue et l’apprentissage automatique lui-même s’améliore régulièrement, et trouve de nouvelles applications grâce à cet effort.
 
 {::nomarkdown}
 {% include box.html type="end" %}
