@@ -311,7 +311,7 @@ Over time, the legal risk increased with the adoption of more specific laws and 
 
 - The Convention on the Rights of People with Disabilities (CRPD) is a comprehensive human rights document that includes a direct reference to the rights of all people to have equal access to communications technology. Passed by the General Assembly of the United Nations, more than 175 countries ratified it by 2018. 
 
-- The European Commission adopted the European Accessibility Act, requiring ATMs and banking services, PCs, telephones and TV equipment, telephony and audiovisual services, transport, e-books, and e-commerce meet accessibility requirements.
+- The European Parliament and the Council adopted the European Accessibility Act, requiring ATMs and banking services, PCs, telephones and TV equipment, telephony and audiovisual services, transport, e-books, and e-commerce meet accessibility requirements.
 
 - In the US, the number of legal actions continues to rise and courts increasingly decide in favor of equal access[^23], often citing the Americans with Disabilities Act (ADA). Structured Negotiation is another way that legal pressure is effective, encouraging companies to meet accessibility requirements while avoiding litigation.[^24]
 
