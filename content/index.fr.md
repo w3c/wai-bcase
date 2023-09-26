@@ -3,7 +3,7 @@ title: "Bénéfices business de l’accessibilité numérique"
 permalink: /business-case/fr
 lang: fr
 ref: /business-case/
-description: Présente les bonnes raisons qu'aura une organisation d’intégrer l’accessibilité. Inclut des bénéfices tangibles et intangibles, ainsi que les risques qu’on prend en ne traitant pas l’accessibilité de façon adéquate.
+description: Présente les bonnes raisons qu’aura une organisation d’intégrer l’accessibilité. Inclut des bénéfices tangibles et intangibles, ainsi que les risques qu’on prend en ne traitant pas l’accessibilité de façon adéquate.
 image: /content-images/wai-bcase/social.png
 last_updated: 2019-09-15
 github:
@@ -144,7 +144,7 @@ Un article de 2016 paru dans le magazine en ligne de FastCompany[^8] souligne co
 - L’auto-complétion, au départ conçue pour les personnes handicapées, est maintenant très largement utilisée par tous.
 - Le contrôle vocal, créé pour les utilisateurs atteints d’un handicap physique, est plus largement adopté maintenant pour sa praticité par des millions de gens.
 - Les progrès dans l’intelligence artificielle sont basés sur des recherches destinées à l’origine à donner du contexte visuel à des utilisateurs déficients visuels.
-- Le sous-titrage automatique utilisant le <i lang="en">machine learning</i> (l’intelligence artificielle) est encore problématique pour sa cible principale (les utilisateurs sourds) et nombreux pensent qu’il n’est pas au niveau. Cependant le travail continue et le <i lang="en">machine learning</i> lui-même s’améliore régulièrement, et trouve de nouvelles applications grâce à cet effort.
+- Le sous-titrage automatique utilisant l’apprentissage automatique (l’intelligence artificielle) est encore problématique pour sa cible principale (les utilisateurs sourds) et nombreux pensent qu’il n’est pas au niveau. Cependant le travail continue et l’apprentissage automatique lui-même s’améliore régulièrement, et trouve de nouvelles applications grâce à cet effort.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -154,7 +154,7 @@ Un article de 2016 paru dans le magazine en ligne de FastCompany[^8] souligne co
 
 <img src="{{ "/content-images/wai-bcase/brand.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-Les compagnies doivent protéger et améliorer leur image de marque. Un engagement clair en faveur de l’accessibilité peut montrer qu’une compagnie a un réel sens de la Responsabilité Sociale d’Entreprise (<abbr>RSE</abbr>). Quand les compagnies comprennent et agissent sur les différents besoins de leurs actionnaires, et s’engagent sur des pratiques de marketing et d’emploi durables et inclusives, elle peuvent espérer en tirer des bénéfices. Les résultats potentiels des programmes de <abbr>RSE</abbr> incluent une meilleure image de marque et une meilleure réputation, une augmentation des ventes et de la fidélité des clients, une diversité accrue des salariés et bien d’autres avantages[^9]. Des études plus poussées[^10] montrent le bénéfice sur la marque pour les compagnies qui ont institué une politique de diversité marquée.
+Les compagnies doivent protéger et améliorer leur image de marque. Un engagement clair en faveur de l’accessibilité peut montrer qu’une compagnie a un réel sens de la Responsabilité Sociale d’Entreprise (<abbr>RSE</abbr>). Quand les compagnies comprennent et agissent sur les différents besoins de leurs actionnaires, et s’engagent sur des pratiques de marketing et d’emploi durables et inclusives, elles peuvent espérer en tirer des bénéfices. Les résultats potentiels des programmes de <abbr>RSE</abbr> incluent une meilleure image de marque et une meilleure réputation, une augmentation des ventes et de la fidélité des clients, une diversité accrue des salariés et bien d’autres avantages[^9]. Des études plus poussées[^10] montrent le bénéfice sur la marque pour les compagnies qui ont institué une politique de diversité marquée.
 
 Employer des personnes atteintes de handicaps est essentiel dans la création d’une masse salariale diverse. Pour y parvenir, la technologie qu’utilisent les employés, y compris les sites web et les applications, doit être accessible.
 
@@ -189,7 +189,7 @@ Microsoft est un autre bon exemple de la façon dont une marque peut être affec
 
 <img src="{{ "/content-images/wai-bcase/market-reach.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; clear:right; width: 30%; max-width: 220px">
 
-Le marché des personnes handicapées est très grand et grossit encore tandis que la population mondiale se séniorise. En Grande Bretagne, où le marché du handicap est connu en tant que <i lang="en">Purple Pound</i> (la «&#8239;Livre pourpre&#8239;»), les personnes handicapées et leurs familles dépensent au moins 249 milliards de Livres chaque année. Aux États-Unis, la dépense spécifique aux personnes handicapées est au-dessus de 200 milliards de Dollars. L’estimation globale du marché handicap est de l’ordre de 7 mille milliards de Dollars. Pour estimer la taille de ce marché, on peut noter&#8239;:
+Le marché des personnes handicapées est très grand et grossit encore tandis que la population mondiale se séniorise. En Grande-Bretagne, où le marché du handicap est connu en tant que <i lang="en">Purple Pound</i> (la «&#8239;Livre pourpre&#8239;»), les personnes handicapées et leurs familles dépensent au moins 249 milliards de Livres chaque année. Aux États-Unis, la dépense spécifique aux personnes handicapées est au-dessus de 200 milliards de Dollars. L’estimation globale du marché handicap est de l’ordre de 7 mille milliards de Dollars. Pour estimer la taille de ce marché, on peut noter&#8239;:
 
 - Au moins un milliard de personnes (15&#8239;% de la population mondiale) présente un handicap reconnu[^15].
 - Alors que la population vieillit, de plus en plus de personnes acquièrent des handicaps mais ne s’identifient pas pour autant comme «&#8239;personnes handicapées&#8239;»[^16].
@@ -203,7 +203,7 @@ Une étude d’impact Forrester Research commissionnée par Microsoft a conclu q
   <cite>Guide de développement d’applications Microsoft</cite>
 </blockquote>
 
-Les considérations de conception accessible amènent souvent à des améliorations de l’expérience utilisateur générale et de sa loyauté. Pour des clients handicapés, de telles améliorations sont essentielles pour un accès égalitaire. Cependant, l’accessibilité fournit des options qui sont utilise à tous les utilisateurs dans des circonstances variées. Par exemple, l’accessibilité web profite aussi&#8239;:
+Les considérations de conception accessible amènent souvent à des améliorations de l’expérience utilisateur générale et de sa loyauté. Pour des clients handicapés, de telles améliorations sont essentielles pour un accès égalitaire. Cependant, l’accessibilité fournit des options qui sont utiles à tous les utilisateurs dans des circonstances variées. Par exemple, l’accessibilité web profite aussi&#8239;:
 
 * aux personnes utilisant des téléphones mobiles, des montres connectées, des <abbr>TV</abbr> connectées, et autres appareils à petits écrans, dont les méthodes de saisie sont moins courantes, etc.,
 * aux personnes plus âgées dont les capacités s’altèrent,
@@ -218,7 +218,7 @@ Les considérations de conception accessible amènent souvent à des améliorati
 <cite lang="en">This American Life</cite> est une émission écoutée sur plus de 500 stations de la <abbr>NPR</abbr> (Radio Publique Nationale) par environ 2,1 millions de personnes chaque semaine aux États-Unis. En 2011, en réaction aux nouvelles règles liées aux médias diffusés, émises par la <abbr>FCC</abbr> (Commission Fédérale aux Communications), la chaîne de radio s’est engagée à créer des transcriptions de toute l’archive de leurs émissions enregistrées. Une étude menée par leur partenaire média pendant plusieurs mois a conclu que fournir des transcriptions non seulement permettait d’être conforme aux obligations légales mais donnait aussi d’autres résultats significatifs, comme&#8239;:
 
 - des accès dus aux moteurs de recherche en augmentation de 6,86&#8239;%,
-- une meilleure compréhension pour les visiteusr dont l’anglais n’est pas la première langue,
+- une meilleure compréhension pour les visiteurs dont l’anglais n’est pas la première langue,
 - les visiteurs sont capables d’utiliser les transcriptions même dans des environnements bruyants ou feutrés,
 - une plus grande facilité à traduire, et
 - la possibilité de rechercher du texte pour pouvoir faire référence à une partie spécifique d’un flux audio.
@@ -256,11 +256,11 @@ Une démonstration claire du risque pris quand on ignore les exigences d’acces
 
 Un aspect critique de toute étude <i lang="en">business</i> est la considération des coûts et des risques de l’inaction. L’usage du Web est permanent dans la vie moderne, dans le monde entier&#8239;; les gouvernements et les législateurs commencent donc à édicter des lois et des programmes pour renforcer les droits des personnes handicapées à profiter pleinement de l’information et des services en ligne.
 
-Un des premiers exemples des conséquens légales de l’accessibilité web est la plainte déposée par la <abbr>HREOC</abbr> (Commission aux Droits Humains et à l’Égalité des Chances) en 2000 relative à l’inaccessibilité du site web des Jeux Olympiques de Sydney. Le plaignant, qui était aveugle, arguait que le site violait la <i lang="en">Commonwelath Disability Discrimination Act</i> de 1992[^21] (loi contre la discrimination envers le handicap). La décision de 2001 dans le procès contre les Jeux Olympiques de Sydney[^22] a augmenté la perception par le public de la nécessité de prendre en compte l’accessibilité web dans la pratique émergente de la communication web.
+Un des premiers exemples des conséquences légales de l’accessibilité web est la plainte déposée par la <abbr>HREOC</abbr> (Commission aux Droits Humains et à l’Égalité des Chances) en 2000 relative à l’inaccessibilité du site web des Jeux Olympiques de Sydney. Le plaignant, qui était aveugle, arguait que le site violait la <i lang="en">Commonwelath Disability Discrimination Act</i> de 1992[^21] (loi contre la discrimination envers le handicap). La décision de 2001 dans le procès contre les Jeux Olympiques de Sydney[^22] a augmenté la perception par le public de la nécessité de prendre en compte l’accessibilité web dans la pratique émergente de la communication web.
 
-Au fil du temps, le risque légal a augmenté, tandis que de plus en plus de lois et de réglements spécifiques sont adoptés dans le monde entier.
+Au fil du temps, le risque légal a augmenté, tandis que de plus en plus de lois et de règlements spécifiques sont adoptés dans le monde entier.
 
-- la Convention pour les Droits des Personnes Handicapées (<abbr>CRDP</abbr>, <i lang="en">Convention on the Rights of People with Disabilities</i>) est un document complet sur les droits humains qui inclut une référence directe aux droits pour tous à un accès équitable aux technologies de communication. Votée par l’Assemblée Générale des Nations Unies, elle était ratifiée par plus de 175 pays en 2018.
+- La Convention pour les Droits des Personnes Handicapées (<abbr>CRDP</abbr>, <i lang="en">Convention on the Rights of People with Disabilities</i>) est un document complet sur les droits humains qui inclut une référence directe aux droits pour tous à un accès équitable aux technologies de communication. Votée par l’Assemblée Générale des Nations Unies, elle était ratifiée par plus de 175 pays en 2018.
 
 - La Commission Européenne a adopté la Loi Européenne pour l’Accessibilité (<i lang="en">European Accessibility Law</i>) qui exige que les points de retrait d’argent, les services bancaires, les <abbr>PC</abbr>, les téléphones, les équipements <abbr>TV</abbr>, les services audiovisuels et de téléphonie, les transports, les <i lang="en">e-books</i> et le commerce électronique soient conformes à des exigences d’accessibilité.
 
