@@ -31,8 +31,7 @@ ref: /business-case/
 
 footnotestitle: Resources
 
-# Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
-# Read Translations Notes for this resource at https://github.com/w3c/wai-bcase/blob/master/README.md
+# Read Translations Notes for this resource at https://github.com/w3c/wai-bcase#readme
 ---
 
 
