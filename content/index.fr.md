@@ -25,6 +25,8 @@ inline_css: |
     width: 15%;
     max-height: 120px;
   }
+
+# Read Translations Notes for this resource at https://github.com/w3c/wai-bcase#readme
 ---
 
 
