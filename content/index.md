@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "The Business Case for Digital Accessibility"
 nav_title: "Business Case"
 
