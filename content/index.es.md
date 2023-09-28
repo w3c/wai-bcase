@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "El caso de negocios de la accesibilidad digital"
 nav_title: "Caso de negocios"
 
