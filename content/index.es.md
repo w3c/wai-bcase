@@ -15,9 +15,10 @@ github:
   repository: w3c/wai-bcase
   path: 'content/index.es.md'
 
+acknowledgements: /business-case/acknowledgements/
 footer: > # Text in footer in HTML
   <p><strong>Fecha:</strong> Publicado el 9 de noviembre del 2018.</p>
-  <p><strong>Editora:</strong> Sharron Rush. Colaboradores: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. Colaboraciones adicionales se encuentran en la lista de <a href="./acknowledgements/">reconocimientos</a>.</p>
+  <p><strong>Editora:</strong> Sharron Rush. Colaboradores: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. Colaboraciones adicionales se encuentran en la lista de ACKNOWLEDGEMENTS.</p>
   <p>Desarrollado por el Grupo de Trabajo de Educación y Difusión (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 inline_css: |
   .hero {
