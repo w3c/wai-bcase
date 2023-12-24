@@ -40,7 +40,7 @@ Pour préparer un « business case » pertinent pour le XXIème siècle, nous 
 ## Catégories
 {:.no_toc}
 
-Les sources ci-dessous sont catégorisées autant que possible selon leur sujet principal en relation avec les différents aspect du business case. Il y a quelques recouvrements et certains articles sont suffisamment larges pour avoir été classés dans une catégorie simplement dénommée « Général ».
+Les sources ci-dessous sont catégorisées autant que possible selon leur sujet principal en relation avec les différents aspects du business case. Il y a quelques recouvrements et certains articles sont suffisamment larges pour avoir été classés dans une catégorie simplement dénommée « Général ».
 
 ### Vous voulez partager quelque chose ?
 
