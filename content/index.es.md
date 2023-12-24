@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "El caso de negocios de la accesibilidad digital"
 nav_title: "Caso de negocios"
 
@@ -17,9 +15,10 @@ github:
   repository: w3c/wai-bcase
   path: 'content/index.es.md'
 
+acknowledgements: /business-case/acknowledgements/
 footer: > # Text in footer in HTML
   <p><strong>Fecha:</strong> Publicado el 9 de noviembre del 2018.</p>
-  <p><strong>Editora:</strong> Sharron Rush. Colaboradores: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. Colaboraciones adicionales se encuentran en la lista de <a href="./acknowledgements/">reconocimientos</a>.</p>
+  <p><strong>Editora:</strong> Sharron Rush. Colaboradores: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. Colaboraciones adicionales se encuentran en la lista de ACKNOWLEDGEMENTS.</p>
   <p>Desarrollado por el Grupo de Trabajo de Educación y Difusión (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 inline_css: |
   .hero {
@@ -34,8 +33,7 @@ inline_css: |
 image: /content-images/wai-bcase/social.png
 ref: /business-case/
 
-# Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
-# Read Translations Notes for this resource at https://github.com/w3c/wai-bcase/blob/master/README.md
+# Read Translations Notes for this resource at https://github.com/w3c/wai-bcase#readme
 ---
 
 

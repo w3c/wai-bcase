@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "The Business Case for Digital Accessibility"
 nav_title: "Business Case"
 
@@ -14,9 +12,10 @@ github:
   repository: w3c/wai-bcase
   path: 'content/index.md'
 
+acknowledgements: /business-case/acknowledgements/
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Published 9 Nov 2018.</p>
-  <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. <a href="./acknowledgements/">Acknowledgements</a> lists additional contributors.</p>
+  <p><strong>Editor:</strong> Sharron Rush. Contributors: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. ACKNOWLEDGEMENTS lists additional contributors.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 inline_css: |
   .hero {
@@ -33,8 +32,7 @@ ref: /business-case/
 
 footnotestitle: Resources
 
-# Read Important Translations Guidance at https://www.w3.org/WAI/about/translating/#important
-# Read Translations Notes for this resource at https://github.com/w3c/wai-bcase/blob/master/README.md
+# Read Translations Notes for this resource at https://github.com/w3c/wai-bcase#readme
 ---
 
 

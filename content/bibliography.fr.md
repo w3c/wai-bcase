@@ -7,21 +7,22 @@ ref: /business-case/bibliography/
 description: Ressources utilisées pour rédiger « Bénéfices business de l’accessibilité numérique »
 image: /content-images/wai-bcase/social.png
 last_updated: 2019-09-15
+translators:
+  - name: "Stéphane Deschamps"
 github:
   repository: w3c/wai-bcase
   path: 'content/bibliography.fr.md'
+acknowledgements: /business-case/acknowledgements/
 footer: > # Text in footer in HTML
-  <p><strong>Date&#8239;:</strong> <strong>Publié le 9 novembre 2018.</strong></p>
-  <p><strong>Date de cette traduction&#8239;:</strong> @@</p>
-  <p><strong>Traducteur&#8239;:</strong> Stéphane Deschamps</p>
-  <p><strong>Rédactrice&#8239;:</strong> Sharron Rush. Contributeurs&#8239;: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. <a href="./acknowledgements/fr/" hreflang="en">Remerciements</a> liste les contributeurs additionnels.</p>
+  <p><strong>Date&#8239;:</strong> Publié le 9 novembre 2018.</p>
+  <p><strong>Rédactrice&#8239;:</strong> Sharron Rush. Contributeurs&#8239;: Shawn Lawton Henry, Eric Eggert, Brent Bakken, Vicki Menezes Miller, Laura Keen. ACKNOWLEDGEMENTS liste les contributeurs additionnels.</p>
   <p>Développé par le <i lang="en">Education and Outreach Working Group</i> (<a href="http://www.w3.org/WAI/EO/" lang="en">EOWG</a>, en anglais).</p>
 ---
 
 {::nomarkdown}
 {% include_cached box.html type="start" h="2" title="Résumé" class="full" %}
 {:/}
-Pour préparer un « business case » pertinent pour le XXIème siècle, nous nous sommes appuyés sur des recherches universitaires, des études subventionnées, des contenus éditoriaux, l’histoire documentée, des anecdotes, et des études de cas fournis par les entreprises elles-mêmes. La bibliographie ci-dessous inclut une description courte de la ressource en référence.
+Pour préparer un « business case » pertinent pour le XXI<sup>e</sup> siècle, nous nous sommes appuyés sur des recherches universitaires, des études subventionnées, des contenus éditoriaux, l’histoire documentée, des anecdotes, et des études de cas fournis par les entreprises elles-mêmes. La bibliographie ci-dessous inclut une description courte de la ressource en référence.
 
 {::nomarkdown}
 {% include_cached box.html type="end" %}
