@@ -1,5 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/02f044c6-3c1c-48cb-b94f-e76a35ee0c0c/deploy-status)](https://app.netlify.com/sites/wai-bcase/deploys)
-
-## Translation Notes
-
-We will provide instructions for translating the text in the [brand image](https://www.w3.org/WAI/content-images/wai-bcase/brand.svg) soon...
+> [!IMPORTANT]
+> This repository will be archived soon.
+>
+> [The Business Case for Digital Accessibility](https://www.w3.org/WAI/business-case/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
